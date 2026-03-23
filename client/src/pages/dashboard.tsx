@@ -1,11 +1,32 @@
 import { useState, useMemo } from "react";
 import { Link } from "wouter";
 import companiesData from "@/data/enriched.json";
+import pricesData from "@/data/prices.json";
 import type { Company } from "@shared/schema";
-import { Search, ArrowUpDown, ExternalLink, TrendingUp, TrendingDown, Minus, Filter } from "lucide-react";
+import {
+  Search,
+  ArrowUpDown,
+  TrendingUp,
+  TrendingDown,
+  Minus,
+  Filter,
+  Quote as QuoteIcon,
+  GitCompareArrows,
+} from "lucide-react";
 import { PerplexityAttribution } from "@/components/PerplexityAttribution";
 
 const companies = companiesData as Company[];
+const prices = pricesData as Record<
+  string,
+  {
+    price: number;
+    change: number;
+    changePercent: number;
+    marketCap: number;
+    yearHigh: number;
+    yearLow: number;
+  }
+>;
 
 const STANCE_ORDER: Record<string, number> = {
   offensive: 0,
@@ -34,7 +55,7 @@ const STANCE_CLASSES: Record<string, string> = {
   silent: "stance-silent",
 };
 
-type SortField = "rank" | "ticker" | "marketCap" | "stance" | "quotes";
+type SortField = "rank" | "ticker" | "marketCap" | "stance" | "quotes" | "price" | "change";
 type SortDir = "asc" | "desc";
 
 export default function Dashboard() {
@@ -89,9 +110,12 @@ export default function Dashboard() {
         case "ticker":
           cmp = a.ticker.localeCompare(b.ticker);
           break;
-        case "marketCap":
-          cmp = parseFloat(b.marketCap || "0") - parseFloat(a.marketCap || "0");
+        case "marketCap": {
+          const aMcap = prices[a.ticker]?.marketCap ?? parseFloat(a.marketCap || "0");
+          const bMcap = prices[b.ticker]?.marketCap ?? parseFloat(b.marketCap || "0");
+          cmp = bMcap - aMcap;
           break;
+        }
         case "stance":
           cmp =
             (STANCE_ORDER[a.stance] ?? 99) - (STANCE_ORDER[b.stance] ?? 99);
@@ -99,6 +123,18 @@ export default function Dashboard() {
         case "quotes":
           cmp = b.quotes.length - a.quotes.length;
           break;
+        case "price": {
+          const aPrice = prices[a.ticker]?.price ?? 0;
+          const bPrice = prices[b.ticker]?.price ?? 0;
+          cmp = bPrice - aPrice;
+          break;
+        }
+        case "change": {
+          const aChg = prices[a.ticker]?.changePercent ?? 0;
+          const bChg = prices[b.ticker]?.changePercent ?? 0;
+          cmp = bChg - aChg;
+          break;
+        }
       }
       return sortDir === "asc" ? cmp : -cmp;
     });
@@ -129,17 +165,35 @@ export default function Dashboard() {
             </p>
           </div>
         </div>
-        <div className="flex items-center gap-4 text-[10px] text-muted-foreground tracking-wider">
-          <span>
-            {companies.length} COMPANIES · {totalQuotes} QUOTES
-          </span>
-          <span className="text-primary tabular-nums">
-            {new Date().toLocaleDateString("en-US", {
-              month: "short",
-              day: "numeric",
-              year: "numeric",
-            })}
-          </span>
+        <div className="flex items-center gap-3">
+          <Link
+            href="/search"
+            className="flex items-center gap-1.5 px-2.5 py-1 text-[10px] text-muted-foreground hover:text-primary border border-border rounded hover:border-primary/30 transition-colors tracking-wider"
+            data-testid="nav-quote-search"
+          >
+            <QuoteIcon className="w-3 h-3" />
+            QUOTE SEARCH
+          </Link>
+          <Link
+            href="/compare"
+            className="flex items-center gap-1.5 px-2.5 py-1 text-[10px] text-muted-foreground hover:text-primary border border-border rounded hover:border-primary/30 transition-colors tracking-wider"
+            data-testid="nav-compare"
+          >
+            <GitCompareArrows className="w-3 h-3" />
+            COMPARE
+          </Link>
+          <div className="flex items-center gap-4 text-[10px] text-muted-foreground tracking-wider ml-2">
+            <span>
+              {companies.length} COMPANIES · {totalQuotes} QUOTES
+            </span>
+            <span className="text-primary tabular-nums">
+              {new Date().toLocaleDateString("en-US", {
+                month: "short",
+                day: "numeric",
+                year: "numeric",
+              })}
+            </span>
+          </div>
         </div>
       </header>
 
@@ -235,9 +289,25 @@ export default function Dashboard() {
               <th className="px-3 py-2 text-left text-muted-foreground font-medium tracking-wider">
                 COMPANY
               </th>
-              <th className="px-3 py-2 text-left text-muted-foreground font-medium tracking-wider">
+              <th className="px-3 py-2 text-left text-muted-foreground font-medium tracking-wider hidden xl:table-cell">
                 CATEGORY
               </th>
+              <SortHeader
+                label="PRICE"
+                field="price"
+                current={sortField}
+                dir={sortDir}
+                onSort={toggleSort}
+                className="text-right w-20"
+              />
+              <SortHeader
+                label="CHG%"
+                field="change"
+                current={sortField}
+                dir={sortDir}
+                onSort={toggleSort}
+                className="text-right w-16"
+              />
               <SortHeader
                 label="MKT CAP"
                 field="marketCap"
@@ -246,26 +316,26 @@ export default function Dashboard() {
                 onSort={toggleSort}
                 className="text-right w-24"
               />
+              <th className="px-2 py-2 text-center text-muted-foreground font-medium tracking-wider w-24 hidden lg:table-cell">
+                52W RANGE
+              </th>
               <SortHeader
                 label="STANCE"
                 field="stance"
                 current={sortField}
                 dir={sortDir}
                 onSort={toggleSort}
-                className="text-center w-28"
+                className="text-center w-24"
               />
               <SortHeader
-                label="QUOTES"
+                label="QTS"
                 field="quotes"
                 current={sortField}
                 dir={sortDir}
                 onSort={toggleSort}
-                className="text-center w-16"
+                className="text-center w-12"
               />
-              <th className="px-3 py-2 text-left text-muted-foreground font-medium tracking-wider">
-                QUARTER
-              </th>
-              <th className="px-3 py-2 text-left text-muted-foreground font-medium tracking-wider max-w-md">
+              <th className="px-3 py-2 text-left text-muted-foreground font-medium tracking-wider max-w-xs hidden 2xl:table-cell">
                 KEY QUOTE
               </th>
             </tr>
@@ -305,10 +375,16 @@ export default function Dashboard() {
 function CompanyRow({ company }: { company: Company }) {
   const bestQuote = company.quotes[0];
   const truncatedQuote = bestQuote
-    ? bestQuote.text.length > 120
-      ? bestQuote.text.slice(0, 120) + "..."
+    ? bestQuote.text.length > 100
+      ? bestQuote.text.slice(0, 100) + "..."
       : bestQuote.text
     : company.notes || "—";
+
+  const price = prices[company.ticker];
+  const yearRange =
+    price && price.yearHigh > price.yearLow
+      ? ((price.price - price.yearLow) / (price.yearHigh - price.yearLow)) * 100
+      : 0;
 
   return (
     <tr
@@ -328,11 +404,46 @@ function CompanyRow({ company }: { company: Company }) {
         </Link>
       </td>
       <td className="px-3 py-2.5 text-foreground">{company.name}</td>
-      <td className="px-3 py-2.5 text-muted-foreground text-[10px] tracking-wider uppercase">
+      <td className="px-3 py-2.5 text-muted-foreground text-[10px] tracking-wider uppercase hidden xl:table-cell">
         {company.category}
       </td>
       <td className="px-3 py-2.5 text-right tabular-nums font-medium">
-        ${company.marketCap}B
+        {price ? `$${price.price.toFixed(2)}` : "—"}
+      </td>
+      <td className="px-3 py-2.5 text-right tabular-nums text-[10px]">
+        {price ? (
+          <span
+            className={
+              price.changePercent > 0
+                ? "text-[#00ff41]"
+                : price.changePercent < 0
+                ? "text-[#ff3b30]"
+                : "text-muted-foreground"
+            }
+          >
+            {price.changePercent > 0 ? "+" : ""}
+            {price.changePercent.toFixed(2)}%
+          </span>
+        ) : (
+          "—"
+        )}
+      </td>
+      <td className="px-3 py-2.5 text-right tabular-nums font-medium">
+        ${price ? `${price.marketCap}B` : `${company.marketCap}B`}
+      </td>
+      <td className="px-2 py-2.5 hidden lg:table-cell">
+        {price ? (
+          <div className="w-full px-1">
+            <div className="relative h-1 bg-muted rounded-full overflow-hidden">
+              <div
+                className="absolute top-0 left-0 h-full bg-primary/60 rounded-full"
+                style={{ width: `${Math.min(100, Math.max(0, yearRange))}%` }}
+              />
+            </div>
+          </div>
+        ) : (
+          <span className="text-center block text-muted-foreground text-[10px]">—</span>
+        )}
       </td>
       <td className="px-3 py-2.5 text-center">
         <span
@@ -346,10 +457,7 @@ function CompanyRow({ company }: { company: Company }) {
       <td className="px-3 py-2.5 text-center tabular-nums">
         {company.quotes.length || "—"}
       </td>
-      <td className="px-3 py-2.5 text-muted-foreground text-[10px] tracking-wider">
-        {company.quarter}
-      </td>
-      <td className="px-3 py-2.5 text-muted-foreground text-[11px] max-w-md">
+      <td className="px-3 py-2.5 text-muted-foreground text-[11px] max-w-xs hidden 2xl:table-cell">
         <span className="line-clamp-2 italic opacity-80">
           "{truncatedQuote}"
         </span>

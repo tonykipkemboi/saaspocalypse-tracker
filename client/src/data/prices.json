@@ -1,0 +1,298 @@
+{
+  "MSFT": {
+    "price": 385.31,
+    "change": 3.44,
+    "changePercent": 0.9,
+    "marketCap": 2861.1,
+    "yearHigh": 555.45,
+    "yearLow": 344.79
+  },
+  "ORCL": {
+    "price": 153.6,
+    "change": 3.92,
+    "changePercent": 2.62,
+    "marketCap": 441.8,
+    "yearHigh": 345.72,
+    "yearLow": 118.86
+  },
+  "SAP": {
+    "price": 179.64,
+    "change": 3.84,
+    "changePercent": 2.18,
+    "marketCap": 209.3,
+    "yearHigh": 313.28,
+    "yearLow": 174.5
+  },
+  "CRM": {
+    "price": 196.56,
+    "change": 1.19,
+    "changePercent": 0.61,
+    "marketCap": 184.2,
+    "yearHigh": 296.05,
+    "yearLow": 174.57
+  },
+  "INTU": {
+    "price": 459.91,
+    "change": 4.35,
+    "changePercent": 0.95,
+    "marketCap": 128.0,
+    "yearHigh": 813.7,
+    "yearLow": 349.0
+  },
+  "SHOP": {
+    "price": 121.6,
+    "change": 4.82,
+    "changePercent": 4.13,
+    "marketCap": 158.7,
+    "yearHigh": 182.19,
+    "yearLow": 69.84
+  },
+  "ADP": {
+    "price": 209.17,
+    "change": 0.48,
+    "changePercent": 0.23,
+    "marketCap": 84.6,
+    "yearHigh": 329.93,
+    "yearLow": 203.26
+  },
+  "NOW": {
+    "price": 112.33,
+    "change": 1.95,
+    "changePercent": 1.76,
+    "marketCap": 117.5,
+    "yearHigh": 211.48,
+    "yearLow": 98.0
+  },
+  "TEAM": {
+    "price": 74.43,
+    "change": 0.7,
+    "changePercent": 0.95,
+    "marketCap": 19.6,
+    "yearHigh": 242.0,
+    "yearLow": 67.85
+  },
+  "WDAY": {
+    "price": 136.29,
+    "change": 0.33,
+    "changePercent": 0.24,
+    "marketCap": 36.1,
+    "yearHigh": 276.0,
+    "yearLow": 117.76
+  },
+  "PAYX": {
+    "price": 93.49,
+    "change": 0.94,
+    "changePercent": 1.02,
+    "marketCap": 33.6,
+    "yearHigh": 161.24,
+    "yearLow": 86.89
+  },
+  "HUBS": {
+    "price": 265.17,
+    "change": 6.36,
+    "changePercent": 2.46,
+    "marketCap": 14.0,
+    "yearHigh": 682.57,
+    "yearLow": 207.2
+  },
+  "VEEV": {
+    "price": 185.29,
+    "change": 1.22,
+    "changePercent": 0.66,
+    "marketCap": 30.5,
+    "yearHigh": 310.5,
+    "yearLow": 168.14
+  },
+  "ROP": {
+    "price": 353.63,
+    "change": -0.05,
+    "changePercent": -0.01,
+    "marketCap": 38.1,
+    "yearHigh": 594.25,
+    "yearLow": 313.07
+  },
+  "TYL": {
+    "price": 351.81,
+    "change": 1.61,
+    "changePercent": 0.46,
+    "marketCap": 15.1,
+    "yearHigh": 621.34,
+    "yearLow": 283.72
+  },
+  "TOST": {
+    "price": 27.68,
+    "change": 0.22,
+    "changePercent": 0.8,
+    "marketCap": 16.3,
+    "yearHigh": 49.66,
+    "yearLow": 24.35
+  },
+  "DOCU": {
+    "price": 47.97,
+    "change": 0.74,
+    "changePercent": 1.57,
+    "marketCap": 9.3,
+    "yearHigh": 94.67,
+    "yearLow": 40.16
+  },
+  "GWRE": {
+    "price": 158.9,
+    "change": 3.29,
+    "changePercent": 2.11,
+    "marketCap": 13.5,
+    "yearHigh": 272.6,
+    "yearLow": 120.37
+  },
+  "OKTA": {
+    "price": 80.3,
+    "change": 1.89,
+    "changePercent": 2.41,
+    "marketCap": 13.6,
+    "yearHigh": 127.57,
+    "yearLow": 68.77
+  },
+  "JKHY": {
+    "price": 166.09,
+    "change": 0.71,
+    "changePercent": 0.43,
+    "marketCap": 12.0,
+    "yearHigh": 193.39,
+    "yearLow": 144.12
+  },
+  "PAYC": {
+    "price": 125.51,
+    "change": 0.69,
+    "changePercent": 0.55,
+    "marketCap": 6.9,
+    "yearHigh": 267.76,
+    "yearLow": 104.9
+  },
+  "PCTY": {
+    "price": 114.25,
+    "change": 1.73,
+    "changePercent": 1.54,
+    "marketCap": 6.2,
+    "yearHigh": 201.97,
+    "yearLow": 100.5
+  },
+  "PCOR": {
+    "price": 59.02,
+    "change": 0.9,
+    "changePercent": 1.54,
+    "marketCap": 9.2,
+    "yearHigh": 82.31,
+    "yearLow": 46.08
+  },
+  "DAY": {
+    "price": 69.86,
+    "change": 0.94,
+    "changePercent": 1.36,
+    "marketCap": 11.2,
+    "yearHigh": 69.86,
+    "yearLow": 48.01
+  },
+  "APPF": {
+    "price": 166.88,
+    "change": 0.78,
+    "changePercent": 0.47,
+    "marketCap": 6.0,
+    "yearHigh": 326.04,
+    "yearLow": 161.13
+  },
+  "DSGX": {
+    "price": 74.48,
+    "change": 1.92,
+    "changePercent": 2.65,
+    "marketCap": 6.4,
+    "yearHigh": 117.35,
+    "yearLow": 62.56
+  },
+  "TTAN": {
+    "price": 69.18,
+    "change": 1.44,
+    "changePercent": 2.12,
+    "marketCap": 6.5,
+    "yearHigh": 131.33,
+    "yearLow": 58.01
+  },
+  "VERX": {
+    "price": 13.25,
+    "change": 0.39,
+    "changePercent": 3.04,
+    "marketCap": 2.1,
+    "yearHigh": 42.44,
+    "yearLow": 11.87
+  },
+  "BILL": {
+    "price": 40.8,
+    "change": 0.95,
+    "changePercent": 2.4,
+    "marketCap": 4.1,
+    "yearHigh": 57.21,
+    "yearLow": 35.46
+  },
+  "MANH": {
+    "price": 140.63,
+    "change": 3.31,
+    "changePercent": 2.41,
+    "marketCap": 8.5,
+    "yearHigh": 247.22,
+    "yearLow": 127.86
+  },
+  "WAY": {
+    "price": 24.3,
+    "change": 0.23,
+    "changePercent": 0.96,
+    "marketCap": 4.7,
+    "yearHigh": 42.55,
+    "yearLow": 21.13
+  },
+  "CWAN": {
+    "price": 23.48,
+    "change": 0.04,
+    "changePercent": 0.15,
+    "marketCap": 6.9,
+    "yearHigh": 27.76,
+    "yearLow": 15.73
+  },
+  "QTWO": {
+    "price": 48.67,
+    "change": 0.48,
+    "changePercent": 1.0,
+    "marketCap": 3.0,
+    "yearHigh": 96.68,
+    "yearLow": 46.16
+  },
+  "INTA": {
+    "price": 26.06,
+    "change": 0.33,
+    "changePercent": 1.28,
+    "marketCap": 2.1,
+    "yearHigh": 64.31,
+    "yearLow": 19.24
+  },
+  "NCNO": {
+    "price": 15.55,
+    "change": 0.35,
+    "changePercent": 2.28,
+    "marketCap": 1.8,
+    "yearHigh": 33.92,
+    "yearLow": 13.8
+  },
+  "BL": {
+    "price": 39.3,
+    "change": 0.19,
+    "changePercent": 0.49,
+    "marketCap": 2.3,
+    "yearHigh": 59.57,
+    "yearLow": 31.75
+  },
+  "BLKB": {
+    "price": 44.55,
+    "change": 0.41,
+    "changePercent": 0.93,
+    "marketCap": 2.1,
+    "yearHigh": 74.88,
+    "yearLow": 43.16
+  }
+}

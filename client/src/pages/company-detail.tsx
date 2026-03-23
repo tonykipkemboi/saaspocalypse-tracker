@@ -1,5 +1,6 @@
 import { useParams, Link } from "wouter";
 import companiesData from "@/data/enriched.json";
+import pricesData from "@/data/prices.json";
 import type { Company, Quote } from "@shared/schema";
 import {
   ArrowLeft,
@@ -10,11 +11,25 @@ import {
   Tag,
   FileText,
   Clock,
-  ChevronRight,
+  TrendingUp,
+  TrendingDown,
+  Minus,
+  Share2,
 } from "lucide-react";
 import { PerplexityAttribution } from "@/components/PerplexityAttribution";
 
 const companies = companiesData as Company[];
+const prices = pricesData as Record<
+  string,
+  {
+    price: number;
+    change: number;
+    changePercent: number;
+    marketCap: number;
+    yearHigh: number;
+    yearLow: number;
+  }
+>;
 
 const STANCE_LABELS: Record<string, string> = {
   offensive: "OFFENSIVE",
@@ -33,6 +48,12 @@ const STANCE_CLASSES: Record<string, string> = {
   neutral: "stance-neutral",
   silent: "stance-silent",
 };
+
+function shareToX(quote: Quote, company: Company) {
+  const text = `"${quote.text.length > 200 ? quote.text.slice(0, 200) + "..." : quote.text}"\n\n— ${quote.speaker}, ${company.name} (${company.ticker}) ${company.quarter}\n\n🔥 SaaSpocalypse Tracker`;
+  const url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}`;
+  window.open(url, "_blank", "noopener,noreferrer,width=550,height=420");
+}
 
 export default function CompanyDetail() {
   const { ticker } = useParams<{ ticker: string }>();
@@ -61,10 +82,17 @@ export default function CompanyDetail() {
     );
   }
 
+  const price = prices[company.ticker];
+
   // Find adjacent companies for navigation
   const idx = companies.findIndex((c) => c.ticker === company.ticker);
   const prev = idx > 0 ? companies[idx - 1] : null;
   const next = idx < companies.length - 1 ? companies[idx + 1] : null;
+
+  const yearRange =
+    price && price.yearHigh > price.yearLow
+      ? ((price.price - price.yearLow) / (price.yearHigh - price.yearLow)) * 100
+      : 0;
 
   return (
     <div className="min-h-screen bg-background flex flex-col">
@@ -141,13 +169,67 @@ export default function CompanyDetail() {
                   </span>
                 </div>
               </div>
+              {/* Price card */}
               <div className="text-right">
-                <div className="text-lg font-bold tabular-nums">
-                  ${company.marketCap}B
-                </div>
-                <div className="text-[10px] text-muted-foreground tracking-wider">
-                  MKT CAP
-                </div>
+                {price ? (
+                  <div>
+                    <div className="text-lg font-bold tabular-nums">
+                      ${price.price.toFixed(2)}
+                    </div>
+                    <div className="flex items-center gap-2 justify-end">
+                      <span
+                        className={`text-xs tabular-nums font-medium flex items-center gap-0.5 ${
+                          price.changePercent > 0
+                            ? "text-[#00ff41]"
+                            : price.changePercent < 0
+                            ? "text-[#ff3b30]"
+                            : "text-muted-foreground"
+                        }`}
+                      >
+                        {price.changePercent > 0 ? (
+                          <TrendingUp className="w-3 h-3" />
+                        ) : price.changePercent < 0 ? (
+                          <TrendingDown className="w-3 h-3" />
+                        ) : (
+                          <Minus className="w-3 h-3" />
+                        )}
+                        {price.changePercent > 0 ? "+" : ""}
+                        {price.changePercent.toFixed(2)}%
+                      </span>
+                      <span className="text-[10px] text-muted-foreground">
+                        (${price.change > 0 ? "+" : ""}{price.change.toFixed(2)})
+                      </span>
+                    </div>
+                    <div className="text-[10px] text-muted-foreground tracking-wider mt-1">
+                      MKT CAP ${price.marketCap}B
+                    </div>
+                    {/* 52-week range bar */}
+                    <div className="mt-2 w-40 ml-auto">
+                      <div className="relative h-1.5 bg-muted rounded-full overflow-hidden">
+                        <div
+                          className="absolute top-0 left-0 h-full bg-primary rounded-full"
+                          style={{
+                            width: `${Math.min(100, Math.max(0, yearRange))}%`,
+                          }}
+                        />
+                      </div>
+                      <div className="flex justify-between text-[9px] text-muted-foreground mt-0.5 tabular-nums">
+                        <span>${price.yearLow.toFixed(0)}</span>
+                        <span className="text-[8px]">52W</span>
+                        <span>${price.yearHigh.toFixed(0)}</span>
+                      </div>
+                    </div>
+                  </div>
+                ) : (
+                  <div>
+                    <div className="text-lg font-bold tabular-nums">
+                      ${company.marketCap}B
+                    </div>
+                    <div className="text-[10px] text-muted-foreground tracking-wider">
+                      MKT CAP
+                    </div>
+                  </div>
+                )}
               </div>
             </div>
 
@@ -231,7 +313,12 @@ export default function CompanyDetail() {
             {company.quotes.length > 0 ? (
               <div className="space-y-4">
                 {company.quotes.map((quote, i) => (
-                  <QuoteCard key={i} quote={quote} index={i} />
+                  <QuoteCard
+                    key={i}
+                    quote={quote}
+                    index={i}
+                    company={company}
+                  />
                 ))}
               </div>
             ) : (
@@ -262,7 +349,15 @@ export default function CompanyDetail() {
   );
 }
 
-function QuoteCard({ quote, index }: { quote: Quote; index: number }) {
+function QuoteCard({
+  quote,
+  index,
+  company,
+}: {
+  quote: Quote;
+  index: number;
+  company: Company;
+}) {
   return (
     <div
       className="border-l-2 border-primary/40 pl-4 py-1 group"
@@ -279,7 +374,29 @@ function QuoteCard({ quote, index }: { quote: Quote; index: number }) {
             {quote.timestamp}
           </span>
         )}
+        <button
+          onClick={() => shareToX(quote, company)}
+          className="ml-auto flex items-center gap-1 px-2 py-0.5 rounded text-[10px] text-muted-foreground hover:text-primary border border-transparent hover:border-primary/30 opacity-0 group-hover:opacity-100 transition-all"
+          data-testid={`share-quote-${index}`}
+          title="Share on X"
+        >
+          <XLogo className="w-3 h-3" />
+          <span>Share</span>
+        </button>
       </div>
     </div>
+  );
+}
+
+function XLogo({ className }: { className?: string }) {
+  return (
+    <svg
+      viewBox="0 0 24 24"
+      fill="currentColor"
+      className={className}
+      aria-label="X (formerly Twitter)"
+    >
+      <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
+    </svg>
   );
 }
