@@ -1,0 +1,235 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* BLOOMBERG TERMINAL — DARK-FIRST PALETTE */
+:root {
+  --button-outline: rgba(255,255,255, .10);
+  --badge-outline: rgba(255,255,255, .05);
+  --opaque-button-border-intensity: 9;
+  --elevate-1: rgba(255,255,255, .04);
+  --elevate-2: rgba(255,255,255, .09);
+
+  /* Dark terminal surfaces */
+  --background: 220 20% 4%;
+  --foreground: 60 5% 90%;
+  --border: 220 10% 15%;
+  --card: 220 18% 7%;
+  --card-foreground: 60 5% 90%;
+  --card-border: 220 12% 12%;
+
+  /* Sidebar */
+  --sidebar: 220 20% 5%;
+  --sidebar-foreground: 60 5% 90%;
+  --sidebar-border: 220 12% 12%;
+  --sidebar-primary: 35 100% 50%;
+  --sidebar-primary-foreground: 220 20% 4%;
+  --sidebar-accent: 220 15% 12%;
+  --sidebar-accent-foreground: 60 5% 90%;
+  --sidebar-ring: 35 100% 50%;
+
+  /* Popover */
+  --popover: 220 18% 8%;
+  --popover-foreground: 60 5% 90%;
+  --popover-border: 220 12% 15%;
+
+  /* Terminal amber primary */
+  --primary: 35 100% 50%;
+  --primary-foreground: 220 20% 4%;
+
+  --secondary: 220 15% 12%;
+  --secondary-foreground: 60 5% 90%;
+  --muted: 220 12% 14%;
+  --muted-foreground: 220 8% 55%;
+  --accent: 220 15% 12%;
+  --accent-foreground: 60 5% 90%;
+  --destructive: 0 72% 51%;
+  --destructive-foreground: 0 0% 98%;
+  --input: 220 12% 20%;
+  --ring: 35 100% 50%;
+
+  /* Chart colors — terminal palette */
+  --chart-1: 35 100% 50%;
+  --chart-2: 120 60% 45%;
+  --chart-3: 0 72% 51%;
+  --chart-4: 200 80% 55%;
+  --chart-5: 280 60% 55%;
+
+  /* Fonts */
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-serif: Georgia, serif;
+  --font-mono: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace;
+
+  --radius: 0.25rem;
+
+  --shadow-2xs: none;
+  --shadow-xs: none;
+  --shadow-sm: 0 1px 2px rgba(0,0,0,0.3);
+  --shadow: 0 1px 3px rgba(0,0,0,0.4);
+  --shadow-md: 0 2px 8px rgba(0,0,0,0.4);
+  --shadow-lg: 0 4px 16px rgba(0,0,0,0.5);
+  --shadow-xl: 0 8px 24px rgba(0,0,0,0.5);
+  --shadow-2xl: 0 12px 40px rgba(0,0,0,0.6);
+  --tracking-normal: 0em;
+  --spacing: 0.25rem;
+
+  /* Terminal-specific colors */
+  --terminal-green: #00ff41;
+  --terminal-amber: #ff9500;
+  --terminal-red: #ff3b30;
+  --terminal-cyan: #5ac8fa;
+  --terminal-dim: #3a3f4b;
+
+  /* Fallback borders */
+  --sidebar-primary-border: hsl(var(--sidebar-primary));
+  --sidebar-accent-border: hsl(var(--sidebar-accent));
+  --primary-border: hsl(var(--primary));
+  --secondary-border: hsl(var(--secondary));
+  --muted-border: hsl(var(--muted));
+  --accent-border: hsl(var(--accent));
+  --destructive-border: hsl(var(--destructive));
+}
+
+/* Light mode override — keep it minimal, terminal is dark-first */
+.light {
+  --background: 220 15% 96%;
+  --foreground: 220 20% 10%;
+  --border: 220 10% 85%;
+  --card: 220 15% 98%;
+  --card-foreground: 220 20% 10%;
+  --card-border: 220 10% 88%;
+  --sidebar: 220 15% 94%;
+  --sidebar-foreground: 220 20% 10%;
+  --sidebar-border: 220 10% 85%;
+  --sidebar-primary: 35 100% 45%;
+  --sidebar-primary-foreground: 0 0% 100%;
+  --sidebar-accent: 220 15% 90%;
+  --sidebar-accent-foreground: 220 20% 10%;
+  --popover: 220 15% 97%;
+  --popover-foreground: 220 20% 10%;
+  --popover-border: 220 10% 88%;
+  --primary: 35 100% 45%;
+  --primary-foreground: 0 0% 100%;
+  --secondary: 220 10% 88%;
+  --secondary-foreground: 220 20% 10%;
+  --muted: 220 10% 90%;
+  --muted-foreground: 220 8% 45%;
+  --accent: 220 10% 90%;
+  --accent-foreground: 220 20% 10%;
+  --input: 220 10% 80%;
+
+  --button-outline: rgba(0,0,0, .10);
+  --badge-outline: rgba(0,0,0, .05);
+  --opaque-button-border-intensity: -8;
+  --elevate-1: rgba(0,0,0, .03);
+  --elevate-2: rgba(0,0,0, .08);
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply font-mono antialiased bg-background text-foreground;
+  }
+}
+
+/* Terminal-style scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: hsl(var(--background));
+}
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--border));
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--muted-foreground));
+}
+
+/* Tabular numbers for data */
+.tabular-nums {
+  font-variant-numeric: tabular-nums lining-nums;
+}
+
+/* Terminal cursor blink */
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+.cursor-blink::after {
+  content: '█';
+  animation: blink 1s step-end infinite;
+  color: var(--terminal-amber);
+}
+
+/* Scanline effect */
+.scanlines {
+  position: relative;
+}
+.scanlines::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 1px,
+    rgba(0,0,0,0.03) 1px,
+    rgba(0,0,0,0.03) 2px
+  );
+  pointer-events: none;
+  z-index: 10;
+}
+
+/* Stance badge colors */
+.stance-offensive {
+  color: #00ff41;
+  background: rgba(0, 255, 65, 0.1);
+  border: 1px solid rgba(0, 255, 65, 0.3);
+}
+.stance-defensive {
+  color: #ff3b30;
+  background: rgba(255, 59, 48, 0.1);
+  border: 1px solid rgba(255, 59, 48, 0.3);
+}
+.stance-offensive-defensive {
+  color: #ff9500;
+  background: rgba(255, 149, 0, 0.1);
+  border: 1px solid rgba(255, 149, 0, 0.3);
+}
+.stance-defensive-offensive {
+  color: #ffcc00;
+  background: rgba(255, 204, 0, 0.1);
+  border: 1px solid rgba(255, 204, 0, 0.3);
+}
+.stance-neutral {
+  color: #8e8e93;
+  background: rgba(142, 142, 147, 0.1);
+  border: 1px solid rgba(142, 142, 147, 0.3);
+}
+.stance-silent {
+  color: #636366;
+  background: rgba(99, 99, 102, 0.1);
+  border: 1px solid rgba(99, 99, 102, 0.3);
+}
+
+/* Glow effects */
+.glow-amber {
+  text-shadow: 0 0 10px rgba(255, 149, 0, 0.5), 0 0 20px rgba(255, 149, 0, 0.2);
+}
+.glow-green {
+  text-shadow: 0 0 10px rgba(0, 255, 65, 0.5), 0 0 20px rgba(0, 255, 65, 0.2);
+}
+
+@layer utilities {
+  input[type="search"]::-webkit-search-cancel-button {
+    @apply hidden;
+  }
+}
