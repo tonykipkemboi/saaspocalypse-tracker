@@ -60,7 +60,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2025-10-29"
   },
   {
     "ticker": "ORCL",
@@ -137,7 +138,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2025-09-09"
   },
   {
     "ticker": "SAP",
@@ -213,7 +215,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2026-01-29"
   },
   {
     "ticker": "CRM",
@@ -283,7 +286,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2025-05-28"
   },
   {
     "ticker": "INTU",
@@ -359,7 +363,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2025-11-20"
   },
   {
     "ticker": "SHOP",
@@ -428,7 +433,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2026-02-11"
   },
   {
     "ticker": "ADP",
@@ -503,7 +509,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2025-10-29"
   },
   {
     "ticker": "NOW",
@@ -593,7 +600,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2026-01-28"
   },
   {
     "ticker": "TEAM",
@@ -677,7 +685,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2025-10-30"
   },
   {
     "ticker": "WDAY",
@@ -755,7 +764,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2025-05-22"
   },
   {
     "ticker": "PAYX",
@@ -833,7 +843,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2025-09-30"
   },
   {
     "ticker": "HUBS",
@@ -923,7 +934,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2026-02-11"
   },
   {
     "ticker": "VEEV",
@@ -1001,7 +1013,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2025-05-28"
   },
   {
     "ticker": "ROP",
@@ -1073,7 +1086,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2026-01-27"
   },
   {
     "ticker": "TYL",
@@ -1149,7 +1163,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2026-02-12"
   },
   {
     "ticker": "TOST",
@@ -1219,7 +1234,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2026-02-12"
   },
   {
     "ticker": "XRO",
@@ -1289,7 +1305,8 @@
     ],
     "notes": "Xero (XRO) is listed on the ASX. The OTC ticker XROLF was used to retrieve the transcript. H1 FY2026 covers the six months ended September 30, 2025.",
     "status": "international",
-    "delistReason": "ASX-listed (Australia), no US transcript data"
+    "delistReason": "ASX-listed (Australia), no US transcript data",
+    "earningsDate": ""
   },
   {
     "ticker": "DOCU",
@@ -1366,7 +1383,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2025-06-05"
   },
   {
     "ticker": "GWRE",
@@ -1448,7 +1466,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2025-12-03"
   },
   {
     "ticker": "OKTA",
@@ -1531,7 +1550,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2025-05-27"
   },
   {
     "ticker": "SGELY",
@@ -1608,7 +1628,8 @@
     ],
     "notes": "Sage Group (SGELY/SGGEF) is a UK-listed company (LSE: SGE). The OTC ticker SGGEF was used successfully to retrieve the transcript. SGELY returned empty output errors; SGGEF is the correct OTC identifier. Q1 FY2026 covers the three months ended December 31, 2025.",
     "status": "international",
-    "delistReason": "LSE-listed (UK), OTC in US, no US transcript data"
+    "delistReason": "LSE-listed (UK), OTC in US, no US transcript data",
+    "earningsDate": ""
   },
   {
     "ticker": "JKHY",
@@ -1678,7 +1699,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2025-11-05"
   },
   {
     "ticker": "PAYC",
@@ -1755,7 +1777,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2026-02-11"
   },
   {
     "ticker": "PCTY",
@@ -1837,7 +1860,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2025-11-04"
   },
   {
     "ticker": "PCOR",
@@ -1926,7 +1950,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2026-02-12"
   },
   {
     "ticker": "DAY",
@@ -2002,7 +2027,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2025-05-07"
   },
   {
     "ticker": "APPF",
@@ -2067,7 +2093,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2026-01-29"
   },
   {
     "ticker": "DSGX",
@@ -2150,7 +2177,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2025-06-04"
   },
   {
     "ticker": "TTAN",
@@ -2233,7 +2261,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2025-06-05"
   },
   {
     "ticker": "VERX",
@@ -2310,7 +2339,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2026-02-11"
   },
   {
     "ticker": "BILL",
@@ -2400,7 +2430,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2025-11-06"
   },
   {
     "ticker": "MANH",
@@ -2489,7 +2520,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2026-01-27"
   },
   {
     "ticker": "WAY",
@@ -2580,7 +2612,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2026-02-17"
   },
   {
     "ticker": "CWAN",
@@ -2658,7 +2691,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": ""
   },
   {
     "ticker": "QTWO",
@@ -2742,7 +2776,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2026-02-11"
   },
   {
     "ticker": "INTA",
@@ -2826,7 +2861,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2025-08-12"
   },
   {
     "ticker": "PWSC",
@@ -2845,7 +2881,8 @@
     "quotes": [],
     "notes": "",
     "status": "delisted",
-    "delistReason": "Taken private by Bain Capital (2024)"
+    "delistReason": "Taken private by Bain Capital (2024)",
+    "earningsDate": ""
   },
   {
     "ticker": "PYCR",
@@ -2901,7 +2938,8 @@
     ],
     "notes": "Paycor HCM was acquired by Paychex (PAYX) and delisted on April 14, 2025. Q1 FY2025 (ended Sep 30, 2024) is the most recent available public transcript.",
     "status": "delisted",
-    "delistReason": "Acquired by Paychex (PAYX), delisted April 2025"
+    "delistReason": "Acquired by Paychex (PAYX), delisted April 2025",
+    "earningsDate": "2024-08-14"
   },
   {
     "ticker": "NCNO",
@@ -2978,7 +3016,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2025-04-01"
   },
   {
     "ticker": "BL",
@@ -3055,7 +3094,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2026-02-10"
   },
   {
     "ticker": "BLKB",
@@ -3126,7 +3166,8 @@
     ],
     "notes": "",
     "status": "active",
-    "delistReason": ""
+    "delistReason": "",
+    "earningsDate": "2026-02-10"
   },
   {
     "ticker": "ZUO",
@@ -3190,6 +3231,7 @@
     ],
     "notes": "Zuora (ZUO) was taken private by Silver Lake and GIC on February 14, 2025. Q2 FY2025 (ended July 31, 2024) is the most recent available public transcript.",
     "status": "delisted",
-    "delistReason": "Taken private by Silver Lake & GIC, February 2025"
+    "delistReason": "Taken private by Silver Lake & GIC, February 2025",
+    "earningsDate": "2024-02-28"
   }
 ]

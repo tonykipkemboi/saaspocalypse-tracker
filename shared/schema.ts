@@ -15,6 +15,7 @@ export type Company = {
   summary: string;
   quotes: Quote[];
   notes: string;
+  earningsDate: string;
   status: "active" | "delisted" | "international";
   delistReason: string;
 };

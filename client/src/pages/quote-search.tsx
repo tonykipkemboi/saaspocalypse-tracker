@@ -4,6 +4,7 @@ import companiesData from "@/data/enriched.json";
 import type { Company, Quote } from "@shared/schema";
 import { Search, ArrowLeft, Quote as QuoteIcon, Filter } from "lucide-react";
 import { PerplexityAttribution } from "@/components/PerplexityAttribution";
+import { formatEarningsDate } from "@/lib/dates";
 
 const companies = companiesData as Company[];
 
@@ -217,8 +218,13 @@ export default function QuoteSearch() {
                   >
                     {STANCE_LABELS[result.company.stance] || result.company.stance.toUpperCase()}
                   </span>
-                  <span className="text-[10px] text-muted-foreground ml-auto">
+                  <span className="text-[10px] text-muted-foreground ml-auto tabular-nums">
                     {result.company.quarter}
+                    {result.company.earningsDate && (
+                      <span className="ml-1 opacity-60">
+                        · {formatEarningsDate(result.company.earningsDate)}
+                      </span>
+                    )}
                   </span>
                 </div>
                 <p className="text-xs text-foreground/90 leading-relaxed italic">
