@@ -58,7 +58,9 @@
         "url": "https://www.perplexity.ai/finance/MSFT/earnings?eventId=405185&tab=transcript&t=573.24"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "ORCL",
@@ -133,7 +135,9 @@
         "url": "https://www.perplexity.ai/finance/ORCL/earnings?eventId=529436&tab=transcript&t=1812.81"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "SAP",
@@ -207,7 +211,9 @@
         "url": "https://www.perplexity.ai/finance/SAP/earnings?eventId=380647&tab=transcript&t=279.2"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "CRM",
@@ -275,7 +281,9 @@
         "url": "https://www.perplexity.ai/finance/CRM/earnings?eventId=412606&tab=transcript&t=4057.42"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "INTU",
@@ -349,7 +357,9 @@
         "url": "https://www.perplexity.ai/finance/INTU/earnings?eventId=421828&tab=transcript&t=2737.02"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "SHOP",
@@ -416,7 +426,9 @@
         "url": "https://www.perplexity.ai/finance/SHOP/earnings?eventId=398721&tab=transcript&t=2320.58"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "ADP",
@@ -489,7 +501,9 @@
         "url": "https://www.perplexity.ai/finance/ADP/earnings?eventId=404873&tab=transcript&t=2847.17"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "NOW",
@@ -577,7 +591,9 @@
         "url": "https://www.perplexity.ai/finance/NOW/earnings?eventId=396493&tab=transcript&t=576.06"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "TEAM",
@@ -659,7 +675,9 @@
         "url": "https://www.perplexity.ai/finance/TEAM/earnings?eventId=406177&tab=transcript&t=1689.02"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "WDAY",
@@ -735,7 +753,9 @@
         "url": "https://www.perplexity.ai/finance/WDAY/earnings?eventId=411056&tab=transcript&t=3340.98"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "PAYX",
@@ -811,7 +831,9 @@
         "url": "https://www.perplexity.ai/finance/PAYX/earnings?eventId=391753&tab=transcript&t=2966.94"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "HUBS",
@@ -899,7 +921,9 @@
         "url": "https://www.perplexity.ai/finance/HUBS/earnings?eventId=402399&tab=transcript&t=2522.82"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "VEEV",
@@ -975,7 +999,9 @@
         "url": "https://www.perplexity.ai/finance/VEEV/earnings?eventId=421850&tab=transcript&t=3543.5"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "ROP",
@@ -1045,7 +1071,9 @@
         "url": "https://www.perplexity.ai/finance/ROP/earnings?eventId=402254&tab=transcript&t=3881.52"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "TYL",
@@ -1119,7 +1147,9 @@
         "url": "https://www.perplexity.ai/finance/TYL/earnings?eventId=400047&tab=transcript&t=2698.33"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "TOST",
@@ -1187,7 +1217,9 @@
         "url": "https://www.perplexity.ai/finance/TOST/earnings?eventId=401882&tab=transcript&t=2336.72"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "XRO",
@@ -1255,7 +1287,9 @@
         "url": "https://www.perplexity.ai/finance/XROLF/earnings?eventId=346705&tab=transcript&t=3673.62"
       }
     ],
-    "notes": "Xero (XRO) is listed on the ASX. The OTC ticker XROLF was used to retrieve the transcript. H1 FY2026 covers the six months ended September 30, 2025."
+    "notes": "Xero (XRO) is listed on the ASX. The OTC ticker XROLF was used to retrieve the transcript. H1 FY2026 covers the six months ended September 30, 2025.",
+    "status": "international",
+    "delistReason": "ASX-listed (Australia), no US transcript data"
   },
   {
     "ticker": "DOCU",
@@ -1330,7 +1364,9 @@
         "url": "https://www.perplexity.ai/finance/DOCU/earnings?eventId=484320&tab=transcript&t=738.54"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "GWRE",
@@ -1410,7 +1446,9 @@
         "url": "https://www.perplexity.ai/finance/GWRE/earnings?eventId=483790&tab=transcript&t=3381.32"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "OKTA",
@@ -1491,7 +1529,9 @@
         "url": "https://www.perplexity.ai/finance/OKTA/earnings?eventId=409956&tab=transcript&t=2478.48"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "SGELY",
@@ -1566,7 +1606,9 @@
         "url": "https://www.perplexity.ai/finance/SGGEF/earnings?eventId=418736&tab=transcript&t=1289.93"
       }
     ],
-    "notes": "Sage Group (SGELY/SGGEF) is a UK-listed company (LSE: SGE). The OTC ticker SGGEF was used successfully to retrieve the transcript. SGELY returned empty output errors; SGGEF is the correct OTC identifier. Q1 FY2026 covers the three months ended December 31, 2025."
+    "notes": "Sage Group (SGELY/SGGEF) is a UK-listed company (LSE: SGE). The OTC ticker SGGEF was used successfully to retrieve the transcript. SGELY returned empty output errors; SGGEF is the correct OTC identifier. Q1 FY2026 covers the three months ended December 31, 2025.",
+    "status": "international",
+    "delistReason": "LSE-listed (UK), OTC in US, no US transcript data"
   },
   {
     "ticker": "JKHY",
@@ -1634,7 +1676,9 @@
         "url": "https://www.perplexity.ai/finance/JKHY/earnings?eventId=411026&tab=transcript&t=2512.87"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "PAYC",
@@ -1709,7 +1753,9 @@
         "url": "https://www.perplexity.ai/finance/PAYC/earnings?eventId=411158&tab=transcript&t=1354.76"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "PCTY",
@@ -1789,7 +1835,9 @@
         "url": "https://www.perplexity.ai/finance/PCTY/earnings?eventId=410043&tab=transcript&t=1628.34"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "PCOR",
@@ -1876,7 +1924,9 @@
         "url": "https://www.perplexity.ai/finance/PCOR/earnings?eventId=400172&tab=transcript&t=2837.93"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "DAY",
@@ -1950,7 +2000,9 @@
         "url": "https://www.perplexity.ai/finance/DAY/earnings?eventId=343323&tab=transcript&t=1966.62"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "APPF",
@@ -2013,7 +2065,9 @@
         "url": "https://www.perplexity.ai/finance/APPF/earnings?eventId=400215&tab=transcript&t=864.24"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "DSGX",
@@ -2094,7 +2148,9 @@
         "url": "https://www.perplexity.ai/finance/DSGX/earnings?eventId=409778&tab=transcript&t=3730.24"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "TTAN",
@@ -2175,7 +2231,9 @@
         "url": "https://www.perplexity.ai/finance/TTAN/earnings?eventId=484314&tab=transcript&t=3487.18"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "VERX",
@@ -2250,7 +2308,9 @@
         "url": "https://www.perplexity.ai/finance/VERX/earnings?eventId=394949&tab=transcript&t=285.06"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "BILL",
@@ -2338,7 +2398,9 @@
         "url": "https://www.perplexity.ai/finance/BILL/earnings?eventId=412568&tab=transcript&t=2287.18"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "MANH",
@@ -2425,7 +2487,9 @@
         "url": "https://www.perplexity.ai/finance/MANH/earnings?eventId=401274&tab=transcript&t=665.34"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "WAY",
@@ -2514,7 +2578,9 @@
         "url": "https://www.perplexity.ai/finance/WAY/earnings?eventId=398969&tab=transcript&t=3038.27"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "CWAN",
@@ -2590,7 +2656,9 @@
         "url": "https://www.perplexity.ai/finance/CWAN/earnings"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "QTWO",
@@ -2672,7 +2740,9 @@
         "url": "https://www.perplexity.ai/finance/QTWO/earnings?eventId=402395&tab=transcript&t=3167.58"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "INTA",
@@ -2754,7 +2824,9 @@
         "url": "https://www.perplexity.ai/finance/INTA/earnings?eventId=410055&tab=transcript&t=2929.26"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "PWSC",
@@ -2771,7 +2843,9 @@
     "themes": [],
     "summary": "PowerSchool (PWSC) was acquired by Bain Capital Private Equity on October 1, 2024 for $22.80 per share ($5.6 billion total enterprise value) and delisted from the NYSE. As a private company, PowerSchool no longer publishes earnings call transcripts or quarterly investor materials. No public SaaSpocalypse-relevant management commentary is available post-delisting. Prior to going private, PowerSchool was actively developing PowerBuddy, its generative AI platform for K-12 education, which was a stated driver of the Bain Capital investment thesis.",
     "quotes": [],
-    "notes": ""
+    "notes": "",
+    "status": "delisted",
+    "delistReason": "Taken private by Bain Capital (2024)"
   },
   {
     "ticker": "PYCR",
@@ -2825,7 +2899,9 @@
         "url": "https://www.perplexity.ai/finance/PYCR/earnings?eventId=221940&tab=transcript&t=1432.74"
       }
     ],
-    "notes": "Paycor HCM was acquired by Paychex (PAYX) and delisted on April 14, 2025. Q1 FY2025 (ended Sep 30, 2024) is the most recent available public transcript."
+    "notes": "Paycor HCM was acquired by Paychex (PAYX) and delisted on April 14, 2025. Q1 FY2025 (ended Sep 30, 2024) is the most recent available public transcript.",
+    "status": "delisted",
+    "delistReason": "Acquired by Paychex (PAYX), delisted April 2025"
   },
   {
     "ticker": "NCNO",
@@ -2900,7 +2976,9 @@
         "url": "https://www.perplexity.ai/finance/NCNO/earnings?eventId=378907&tab=transcript&t=3572.4"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "BL",
@@ -2975,7 +3053,9 @@
         "url": "https://www.perplexity.ai/finance/BL/earnings?eventId=412575&tab=transcript&t=3488.51"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "BLKB",
@@ -3044,7 +3124,9 @@
         "url": "https://www.perplexity.ai/finance/BLKB/earnings?eventId=399507&tab=transcript&t=766.5"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "status": "active",
+    "delistReason": ""
   },
   {
     "ticker": "ZUO",
@@ -3106,6 +3188,8 @@
         "url": "https://www.perplexity.ai/finance/ZUO/earnings?eventId=196818&tab=transcript&t=2552.69"
       }
     ],
-    "notes": "Zuora (ZUO) was taken private by Silver Lake and GIC on February 14, 2025. Q2 FY2025 (ended July 31, 2024) is the most recent available public transcript."
+    "notes": "Zuora (ZUO) was taken private by Silver Lake and GIC on February 14, 2025. Q2 FY2025 (ended July 31, 2024) is the most recent available public transcript.",
+    "status": "delisted",
+    "delistReason": "Taken private by Silver Lake & GIC, February 2025"
   }
 ]

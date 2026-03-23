@@ -241,7 +241,7 @@ export default function QuoteSearch() {
       {/* Footer */}
       <footer className="border-t border-border px-4 py-2 text-[10px] text-muted-foreground flex items-center justify-between flex-shrink-0">
         <span>
-          Full-text search across all SoR earnings transcripts via{" "}
+          Search across all SoR earnings transcripts via{" "}
           <a
             href="https://perplexity.ai/finance"
             target="_blank"

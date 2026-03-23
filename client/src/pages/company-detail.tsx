@@ -17,6 +17,7 @@ import {
   Share2,
 } from "lucide-react";
 import { PerplexityAttribution } from "@/components/PerplexityAttribution";
+import { TranscriptViewer } from "@/components/TranscriptViewer";
 
 const companies = companiesData as Company[];
 const prices = pricesData as Record<
@@ -50,7 +51,7 @@ const STANCE_CLASSES: Record<string, string> = {
 };
 
 function shareToX(quote: Quote, company: Company) {
-  const text = `"${quote.text.length > 200 ? quote.text.slice(0, 200) + "..." : quote.text}"\n\n— ${quote.speaker}, ${company.name} (${company.ticker}) ${company.quarter}\n\n🔥 SaaSpocalypse Tracker`;
+  const text = `"${quote.text.length > 200 ? quote.text.slice(0, 200) + "..." : quote.text}"\n\n— ${quote.speaker}, ${company.name} (${company.ticker}) ${company.quarter}\n\nvia SaaSpocalypse?`;
   const url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}`;
   window.open(url, "_blank", "noopener,noreferrer,width=550,height=420");
 }
@@ -69,7 +70,7 @@ export default function CompanyDetail() {
             TICKER NOT FOUND
           </p>
           <p className="text-muted-foreground text-sm mb-4">
-            {ticker} is not in the SoR tracker
+            {ticker} is not tracked
           </p>
           <Link
             href="/"
@@ -137,6 +138,18 @@ export default function CompanyDetail() {
       {/* Main content */}
       <div className="flex-1 overflow-auto">
         <div className="max-w-5xl mx-auto px-4 py-6 space-y-6">
+          {/* Delisted banner */}
+          {(company.status === "delisted" || company.status === "international") && (
+            <div className="border border-destructive/30 rounded bg-destructive/5 px-4 py-3 flex items-center gap-3">
+              <span className="px-2 py-0.5 rounded bg-destructive/20 text-destructive text-[10px] font-bold tracking-wider">
+                {company.status === "delisted" ? "DELISTED" : "NON-US"}
+              </span>
+              <span className="text-xs text-destructive/80">
+                {company.delistReason}
+              </span>
+            </div>
+          )}
+
           {/* Company header card */}
           <div className="border border-border rounded bg-card p-5">
             <div className="flex items-start justify-between mb-4">
@@ -272,7 +285,7 @@ export default function CompanyDetail() {
           <div className="border border-border rounded bg-card p-5">
             <h2 className="text-xs font-bold tracking-wider text-primary mb-3 flex items-center gap-2">
               <FileText className="w-3.5 h-3.5" />
-              SAASPOCALYPSE ANALYSIS — {company.quarter}
+              AI DISRUPTION ANALYSIS — {company.quarter}
             </h2>
             <p className="text-xs text-foreground/85 leading-relaxed">
               {company.summary}
@@ -308,7 +321,7 @@ export default function CompanyDetail() {
           <div className="border border-border rounded bg-card p-5">
             <h2 className="text-xs font-bold tracking-wider text-primary mb-4 flex items-center gap-2">
               <QuoteIcon className="w-3.5 h-3.5" />
-              TRANSCRIPT QUOTES ({company.quotes.length})
+              KEY QUOTES ({company.quotes.length})
             </h2>
             {company.quotes.length > 0 ? (
               <div className="space-y-4">
@@ -327,6 +340,9 @@ export default function CompanyDetail() {
               </p>
             )}
           </div>
+
+          {/* Full Transcript Viewer */}
+          <TranscriptViewer ticker={company.ticker} companyName={company.name} />
         </div>
       </div>
 

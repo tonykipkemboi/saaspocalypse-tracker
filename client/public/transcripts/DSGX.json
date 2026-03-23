@@ -1,0 +1,514 @@
+{
+  "ticker": "DSGX",
+  "period": "Q1 2026",
+  "eventDate": "2025-06-04",
+  "preparedRemarks": [
+    {
+      "speaker": "Operator",
+      "text": "Good afternoon, ladies and gentlemen, and welcome to the Descartes Systems Group Quarterly Results Conference Call. At this time, all lines are in listen-only mode. Following the presentation, we will conduct a Q&A session. If at any time during this call you require immediate assistance, please press star zero for the operator. This call is being recorded on Wednesday, June 4th, 2025. I would now like to turn the conference over to Mr. Scott Pagan. Please go ahead."
+    },
+    {
+      "speaker": "Scott Pagan",
+      "text": "Thank you, and good afternoon, everyone. Joining me on the call today are Ed Ryan, CEO, and Allan Brett, CFO. I trust that everyone has received a copy of our financial results press release that was issued earlier today. Portions of today's call, other than historical performance, include statements of forward-looking information within the meaning of applicable securities laws. These statements are made under the safe harbor provisions of those laws."
+    },
+    {
+      "speaker": "Scott Pagan",
+      "text": "These forward-looking statements include statements related to our assessment of the current and future impact of geopolitical, trade, tariff, and economic uncertainty on our business and financial condition, Descartes operating performance, financial results and condition, cash flow and use of cash, business outlook, baseline revenues, baseline operating expenses, and baseline calibration, anticipated and potential revenue losses and gains, anticipated recognition and expensing of specific revenues and expenses, potential acquisitions and acquisition strategy, cost reduction and integration initiatives, and other matters that may constitute forward-looking statements. These forward-looking statements involve known and unknown risks, uncertainties, assumptions, and other factors that may cause the actual results, performance, or achievements of Descartes to differ materially from the anticipated results, performance, or achievements implied by such forward-looking statements."
+    },
+    {
+      "speaker": "Scott Pagan",
+      "text": "These factors are outlined in the press release and in the section entitled \"Certain Factors That May Affect Future Results\" in documents filed and furnished with the SEC, the OSC, and other securities commissions across Canada, including our management's discussion and analysis filed today. We provide forward-looking statements solely for the purpose of providing information about management's current expectations and plans relating to the future. We are cautioned that such information may not be appropriate for other purposes. We don't undertake or accept any obligation or undertaking to release publicly any updates or revisions to any forward-looking statements to reflect any change in our expectations or any change in events, conditions, assumptions, or circumstances on which any such statement is based, except as required by law. With that, let me turn the call over to Ed."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Hey, thanks, Scott, and welcome everyone to the call. Today we're reporting strong first quarter revenues and annual adjusted EBITDA growth consistent with our plans in very challenging and uncertain market conditions for our customers. We're excited to go over these results with you and give you some of our perspective on the current business environment, but first, let me give you a roadmap for the call. I'll start by hitting some highlights of last quarter and some aspects of how our business performed. I'll then hand it over to Allan, who will go over the Q1 financial results in more detail. After that, I'll come back and provide an update on how we see the current business environment and how our business was calibrated for Q2, and we'll then open it up to the operator to coordinate the Q&A portion of the call."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Let's start with the first quarter that ended April 30th. Key metrics we monitor include revenues, profits, cash flow from operations, operating margins, and returns on our investments. For this past quarter, we again had very good performance in each of these areas. Total revenues were up 12% from a year ago, with services revenues up 14% from a year ago. Income from operations was up 9% from a year ago, with adjusted EBITDA up 12%. Our adjusted EBITDA margin was up one percentage point from a year ago to 45%. We paid $115 million plus some restructuring costs to acquire 3GTMS, an acquisition I'll speak to later. We also generated almost $54 million in cash from operations in Q1 in a quarter where we also had payments to restructure 3GTMS immediately at closing."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "At the end of the quarter, we had more than $175 million in cash, and we were debt-free with an undrawn $350 million line of credit. We remained well-capitalized, cash-generating, growing, and ready to continue to invest in our business. We had a few things that were the primary drivers of growth in our business, and I'll talk about each of these now. The first was in our transportation management area. The first area of strength was in our transportation management pillar, in particular with our MacroPoint real-time visibility business. With so many challenges with goods that are moving across borders, solutions that help companies with more efficient domestic transportation moves have seen strong demand."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "We believe that we have the highest quality tracking service in the market, with a very high percentage of loads able to be tracked through our network due to our consistent focus on interacting with carriers and other transportation management systems to get status updates. We're even leveraging AI technologies to help our customers track an even greater percentage of their loads. As we ended the quarter, we were seeing some of our strongest months ever in the MacroPoint business against a backdrop of declining domestic truck moves in the United States. The recent MyCarrierPortal acquisition also has been a great addition to the transportation management solution stack. There's been a lot of media and market attention on cargo theft and fraud, with criminal networks exploiting systems by creating fake carriers and accepting delivery loads to steal cargo and/or get payment."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "MyCarrierPortal helps identify this type of fraud by helping customers evaluate the legitimacy of carriers they're doing business with. We recently held a webinar with the California Highway Patrol to talk about the cargo fraud, and it was one of our highest attended events ever. MyCarrierPortal has been a great addition to the portfolio, allowing us to further distinguish ourselves in the transportation market. We also made another addition to our transportation management portfolio where we combined with 3GTMS in the latter part of this quarter. 3GTMS has a traditional domestic transportation management system on a modern cloud architecture. With so many challenges in international trade, making an investment in domestic transportation was logical for us. 3GTMS also has strength in partial shipping, which is an excellent complement to our existing shipping solutions."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Overall, the acquisition provides some great functionality to our existing customers and allows 3GTMS customers with access to our real-time visibility and fraud prevention solutions. 3GTMS did require some restructuring to put it on a path to the margins that Descartes prefers to operate at, which used some of our cash from operations in the quarter to get the business better positioned. In particular, with the acquisition happening near the end of the quarter, it meant that 3GTMS did not contribute much to our Q1 adjusted EBITDA and will require some operating history before it is fully integrated into our normal calibration. Overall, transportation management grew well in a challenging environment. In the U.S., in particular, there is still a declining number of freight brokers and domestic truck moves."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "However, with our ability to become more efficient at tracking shipments and further distinguishing ourselves in the market, we've been able to grow with more tracked loads and more customers. The second area of strength was our Global Trade Intelligence business. Tariff changes have been coming fast and furious: increases, decreases, pauses, commodity-specific tariffs. It's been a very busy time for our tariff group. Our customers are adjusting almost daily to a new tariff environment, and they need to know that they've got a timely and accurate information source to make their decisions with. In addition, our customers are researching how other companies are handling the changes, so our data-mined research tools are in high demand so that no customer gets left behind. Our best marketing tool is every mention of tariffs in news headlines, so it's an area of strength in the quarter."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "The third area was customs and regulatory compliance. These are primarily customs and security fines related to shipments crossing borders. A couple of things contributed to growth here. First, there were some newer import control system requirements in the European Union that have driven demand for solutions to comply. Second, we saw some lumpy filing blips in the market as people rushed imports to get ahead of the pending tariffs or, alternatively, to take advantage of temporary tariff reprieves. This part of our business is strong as long as shipments are moving. However, one area of the business that has seen a bunch of change is the import of small packages in the United States, otherwise known as de minimis shipments. The U.S. had a filing mechanism called Type 86 that allowed low-value shipments under $800 to come into the United States on a tariff-free basis."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "That exemption and filing mechanism was used most often by Chinese e-commerce retailers who were selling into the United States. The U.S. has stopped the availability of that exemption for China, meaning there are tariff duties that now need to be paid on those shipments. In that business, we saw an influx of activity in Type 86 before the tariff exemption disappeared on May 2nd after the quarter. Since then, there seemed to be a temporary pause from some larger foreign e-commerce vendors as they determined how to best import goods to the United States under the new procedures, and then a resumption of imports under a more traditional import measure, Type 11 or Type 1 filings, with tariffs being paid in those cases."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "We can handle those traditional import processes in high volumes, so we saw good demand from e-commerce vendors to move to our alternative filing solutions, including some large competitive wins from other vendors. Those were the areas that had the largest impact on our growth in the quarter. However, the broader macro environment was very challenging for our customers. At its heart, the global trade environment has caused uncertainty for customers, often paralyzing their decision-making. We saw shipment volumes down in various modes of transportation, particularly in the U.S. to China trade and West Coast ports. We saw e-commerce vendors who import from China struggling with sourcing and/or whether to pass tariff changes onto their own customers. We saw the broader market struggling with the potential broader inflationary impact of tariffs on the U.S. economy. We saw several domestic economies looking at recessionary economic statistics."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "With that uncertainty in the global trade market and the economy in general, we took steps in May to reduce our costs by completing a restructuring that impacted about 7% of our workforce. We did this to put ourselves in the best position to grow during this challenging environment. Those who followed our business over past years will know that we take our commitment to continue adjusted EBITDA growth very seriously. These cost reductions were to prepare our business for any further challenges our customers may face in this uncertain market. We restructured our business from a position of strength, and our company is now in a position to grow consistent with our plans and to be flexible enough to address challenges with our customers that they may face from global trade and/or economic conditions. We did it because a similar approach has helped us weather past challenging business environments."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "We did it because it's what our stakeholders would expect us to do. We restructured our business to be even stronger in the future. We are doing what you'd expect Descartes to do. In Q1, we posted strong double-digit annual growth in revenues and adjusted EBITDA consistent with our 10%-15% annual adjusted EBITDA growth plan and consistent with the ramp-up we previously communicated that we expected to see over the year. We grew by acquisition by expanding our transportation management portfolio. We reduced our cost base to mitigate against potential future economic risks. We did exactly what you'd expect Descartes to do. I'm excited about where our business is. Q1 shows that we're on the right track for our plans for the year. My thanks to all the Descartes team members for everything they've done to contribute to a great quarter and a great business."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "With that, I'll turn the call over to Allan to go through our Q1 financial results in more detail. Allan."
+    },
+    {
+      "speaker": "Allan Brett",
+      "text": "Okay, thanks, Ed. As indicated, I'm going to walk you through our financial highlights of our first quarter, which ended on April 30th. Revenues came in at $168.7 million in the quarter, an increase of approximately 11.5% from revenues of $151.3 million in Q1 of last year. Revenue from the acquisitions completed in the back half of last year, as well as the acquisition of 3GTMS completed earlier in the first quarter, contributed nicely to our revenue this quarter, while growth from new and existing customers also contributed, including revenue growth in our Global Trade Intelligence solutions and our MacroPoint free visibility solution. Consistent with past quarters, our revenue mix in the quarter continued to be very strong, with services revenue increasing 13.6% to $156.6 million and coming in at 93% of revenue in the first quarter."
+    },
+    {
+      "speaker": "Allan Brett",
+      "text": "License revenues were again minor at less than 1% of revenue in the quarter, while professional services and other revenue came in at $11.8 million, or 7% of revenue, down 9% from $13.0 million in the same period last year, mainly due to a decline in safety training activity in our GroundCloud business. In Q1 last year, we had a sharp increase in this safety training revenue. This is because most of our GroundCloud FedEx carriers need to recertify their training every 24 months. This revenue stream tends to be quite lumpy, with increases every other year, and this being an off-year for our safety training services. Outside of GroundCloud, professional services revenues were generally flat with the first quarter of last year."
+    },
+    {
+      "speaker": "Allan Brett",
+      "text": "In addition, there was also a slight decrease of just over $500,000 in revenue this quarter from foreign exchange changes, as despite its more recent weakness, the US dollar was stronger against the Euro, the Canadian dollar, and the British pound in Q1 compared to the same quarter last year. We estimate that our growth in services revenue, without the impact of recent acquisition or foreign exchange changes, would have been approximately 4% in the first quarter. Gross margin for the first quarter came in at 76.4% of revenue this year, down very slightly from gross margin of 76.6% realized in the first quarter last year."
+    },
+    {
+      "speaker": "Allan Brett",
+      "text": "With continued operating leverage, our operating expenses increased less than the increase of sales, growing by approximately 10.4% in Q1 over the same period last year, primarily related to the impact of acquisitions that were completed in the back half of last year. As a result of the higher revenues and our continued operating leverage on expenses, we saw adjusted EBITDA grow by 12.1% to $75.1 million, or 44.5% of revenue in the quarter, which was up from $67.0 million, or 44.3% of revenue in the first quarter last year. From a GAAP earnings perspective, net income came in at $36.2 million, up 4% from net income of $34.7 million in the first quarter last year, and this is despite higher amortization costs and other financial charges related to our recent acquisitions."
+    },
+    {
+      "speaker": "Allan Brett",
+      "text": "Cash flow generated from operations came in at $53.6 million, or approximately 71% of adjusted EBITDA in the first quarter, down from operating cash flow of $63.7 million, or 95% of adjusted EBITDA in Q1 last year. Cash flow from operations was negatively impacted this quarter, as we saw a slight increase in our days sales and receivable from an incredible 29 days of sales at the end of the fourth quarter to back to 32 days sales and receivable at the end of Q1. Cash flow from operations was also impacted by some one-time acquisition-related charges related to the 3GTMS acquisition, as well as the payment of prior year annual bonuses."
+    },
+    {
+      "speaker": "Allan Brett",
+      "text": "As we had indicated on our conference call at the end of the fourth quarter, and as Ed mentioned earlier on the call, there is a lot of uncertainty out there in the global trade market, especially for our customers as they try to navigate these challenges. We remain very pleased with these operating results against this uncertain freight market environment. If we look at the balance sheet, our cash balances totaled $176 million at the end of April, down from cash balances of $236 million at the end of January, as we used approximately $112 million of our cash balances to complete the 3GTMS acquisition while we continue to generate additional positive cash flow from operations. As a result, we still have the $176 million of cash, as well as $350 million available for us to draw under our credit facility for future acquisitions."
+    },
+    {
+      "speaker": "Allan Brett",
+      "text": "We continue to be very well capitalized to allow us to consider all acquisition opportunities in our market, consistent with our business plan. As we look towards the balance of our fiscal 2026, we should note the following. After spending approximately $1.9 million in capital additions in the first quarter, we expect to incur approximately $4 million-$5 million in additional capital expenditures for the balance of this year, as our business will continue to be non-capital intensive. After incurring amortization costs of $19.1 million in Q1, we expect amortization expense will be approximately $60 million for the balance of the year, with this figure being subject to adjustment for foreign exchange changes and future acquisitions."
+    },
+    {
+      "speaker": "Allan Brett",
+      "text": "Our tax rate in Q1 came in at 24.4% of pre-tax income, slightly lower than our expected range of 25%-30%, and this was mainly a result of a few smaller tax benefits and recoveries realized in the first quarter. Looking at the balance of the year, we currently expect our tax rate will trend much closer to our expected range in the next few quarters, meaning that our tax rate for the year is likely to end up in a range of between 24%-28% of pre-tax income. Somewhere either side of our blended statutory tax rate of 26.5%. However, as always, we should add that our tax rate may fluctuate from quarter to quarter from one-time tax items that may arise as we operate internationally across multiple countries."
+    },
+    {
+      "speaker": "Allan Brett",
+      "text": "After incurring stock-based compensation expense of $4.4 million in the past quarter, we currently expect stock compensation to be approximately $20 million for the remainder of fiscal 2026, subject to any forfeitures of stock options or share units. As we have mentioned in the past few quarters, we have estimated that the payments of contingent consideration for our earn-out arrangements for the balance of this year will be approximately $2.3 million, subject to any necessary adjustments resulting from the final earn-out calculation. Going forward, subject to unusual events or quarterly fluctuations, we expect to continue to see solid cash flow conversion and expect our cash flow from operations to be between 80%-90% of our adjusted EBITDA in the quarters ahead."
+    },
+    {
+      "speaker": "Allan Brett",
+      "text": "As Ed indicated earlier in the call, given the economic and global trade uncertainty that many of our customers are facing, we have taken the steps to reduce our cost structure by reducing our global workforce by approximately 7% and eliminating various other operating expenses. As a result, we will be recording a restructuring charge of approximately $4 million in Q2 this year and would highlight that once completed, we would anticipate annual cost savings of approximately $15 million from our Q1 operating expense run rate. Quite simply, we remain committed to managing our business to grow our adjusted EBITDA by 10%-15%. That remains our objective for the current fiscal year, despite the unique and tougher global trade environment we operate in. With that, I'll turn it back to Ed to provide our baseline calibration for Q2."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Yeah, great. Thanks, Allan. As I said earlier, in last quarter, these are challenging business conditions for our customers. Just some of the most recent changes include tariffs between the U.S. and China at record high levels, even with a temporary agreement to reduce those tariffs during the negotiation period. Allegations of violations of that temporary U.S.-China agreement, putting the temporary reduced tariff structure at risk. Increased U.S. tariffs on imports of steel. Imposition and suspension of tariffs on the European Union. Challenges and appeals relating to the legality of U.S. tariffs. Warnings to countries that temporary tariff relief measures will expire if new trade agreements with the U.S. aren't reached by early July. Heightened tensions in the war in Ukraine and corresponding sanctions. A new Postmaster General at the U.S. Postal Service with potential changes in policies and services. That's a lot. Our customers can deal with change."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Businesses and supply chains are adaptable. However, what's more challenging than change is uncertainty. It's very difficult for our customers to make decisions, especially long-term ones, when there's no certainty on how or when the landscape will change. Just the belief that it will. When our customers have difficulty predicting how their businesses will perform or be impacted, it becomes more challenging for us. I think we're starting to see some of that uncertainty impacting volumes in what feels like a pretty volatile shipping market. Domestic U.S. truck volumes remain depressed. Air shipments had been trending with modest growth but look to be under pressure. Ocean traffic has seen massive shifts in trade lanes and port activity, with the pullback from China negatively impacting some ports and other ports benefiting from alternative sourcing."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Each month, we prepare a global shipping report that monitors ocean imports into the U.S. with data obtained from U.S. Customs and Border Protection. Our report for May will be coming out in the next few days, and it highlights that in the month of May, U.S. container imports declined following several months of growth, falling 10% from April and 7% year over year. As part of that, imports from China dropped sharply, down 21% from April and down 7% compared to May 2024. For Descartes, we've grown during challenging business conditions in the past. Our plan is to continue to do so again now. Some of those things that we believe put us in a good position to do that include we're diversified in domestic logistics and international logistics. Many of the changes right now impact international supply chains."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "However, we have great strength in domestic transportation moves in our routing and scheduling businesses, transportation management, and e-commerce and last-mile businesses. We're particularly strong in the Global Trade Intelligence business. We believe we can provide a ton of help to our customers in an environment where people are looking for information or help managing tariffs and duties. Continually updating sanctioned party lists, thirsting for competitive intelligence, and dealing with increased export license complexity. We're diversified globally. We've got domestic transportation solutions that can be used around the world, and where there's shifting international trade relations, we have an established global logistics network that can be leveraged by our customers. We've proactively taken steps to reduce our cost base to address potential revenue uncertainty. We have a total growth model. We have an extensive track record of acquisition activity to complement organic growth."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Changing market conditions often provide us with even more opportunities to add solutions for our customers and grow by acquisition. We're well capitalized. We have more than $175 million in cash and a $350 million underwriting line of credit, and we are a cash-generating business. Ultimately, regardless of how well Descartes is positioned, our success is determined by our ability to help our customers. Our customers remain uncertain about how these market conditions will impact their businesses. We're mindful of this and the impact of the changing global trade and foreign exchange environments in setting our calibration and considering what our final quarterly financial results may be. In our quarterly report, we provided a comprehensive description of baseline revenues, baseline calibration, and their limitations."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "As of May 26th, the day we commence our cost reduction activities, using foreign exchange rates of $0.73 to the Canadian dollar, $1.14 to the euro, and $1.36 to the pound, we've estimated that our baseline revenues for the second quarter of fiscal 2026 were approximately $150.5 million, and our baseline operating expenses were approximately $92.5 million. We consider this to be our baseline adjusted EBITDA calibration of approximately $58 million for the second quarter of fiscal 2026, or approximately 39% of our baseline revenues as at May 26, 2025. We continue to expect that we'll operate in an adjusted EBITDA operating range of 40%-45%. Our margin can vary in that range, given such things as revenue mix, foreign exchange movements, and the impact of acquisitions as we integrate them into our business. These are uncertain times for our customers."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "It's a challenge for them to know what they can rely on in this global trade environment. Our goal is to continue to show our customers and other stakeholders that one thing they can rely on is Descartes. Thank you to everyone for joining us on the call today. As always, we're available to talk to you about our business in whatever manner is most convenient for you. With that, Operator, I'll turn it over to you for the Q&A portion of the call."
+    }
+  ],
+  "qAndA": [
+    {
+      "speaker": "Operator",
+      "text": "Thank you very much. Ladies and gentlemen, we will now begin the question and answer session. Should you have a question, please press star followed by the number one on your touch-tone phone. You will hear a prompt that your hand has been raised. Should you wish to decline from the polling process, please press star followed by the number two. If you are using a speakerphone, please make sure to lift your handset before pressing any keys. Your first question comes from the line of Dylan Becker from William Blair. Please go ahead."
+    },
+    {
+      "speaker": "Jackson Bogli",
+      "text": "Hey, guys. It's Jackson Bogli on for Dylan Becker. I was just curious about the workforce reduction and if there was any additional color that you would give on maybe what areas that was cut out of and how you're thinking about going forward, those levers that you'll see in the business. Thanks."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Thanks, Jackson. Yeah, it was generally across the board and across the board, not only for functional areas, but geographically. It was about a little under 200 people in our business, unfortunately. We did it to make ourselves a healthier business going forward and put ourselves in a position where we can continue to make the kind of margins that the street has come to expect from us in running our business on a daily basis. Things like AI have helped us maybe make some of these cuts a little easier, but at the end of the day, we thought it was the right thing to do and to prepare for the uncertainty that I just talked about."
+    },
+    {
+      "speaker": "Jackson Bogli",
+      "text": "Great. Thank you."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Thank you, Jackson."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Your next question comes from the line of Paul Treiber from RBC Capital Markets. Please go ahead."
+    },
+    {
+      "speaker": "Paul Treiber",
+      "text": "Oh, thanks very much. Just a question on organic services growth. You mentioned it was 4% this quarter, and I think last quarter it was 6%. You did a good job calling out some of the stronger growing areas of the business, but what did you see that were headwinds or what segments were softer that were a drag on organic services growth this quarter?"
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "As you might expect, it was a lot of the uncertainty that was going on led to big movements in transaction volumes. We did all right in some of the areas. I mentioned some of the customs filing and security filing areas that we did okay in, but certainly ocean was down. Truck continues in a bit of a depressed state. We did all right on MacroPoint, but maybe some of the other areas within truck messaging, not as well. I think that's a result of the tariffs that people aren't sure what to do, and they freeze. 31% of our business or so is that transaction revenue. Of course, we have underlying minimums that are a backstop against that, but the customers weren't getting down to their minimums. They were just doing a little less than they used to."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Overall, we're pretty happy with how we performed, given if you heard our last call. There was probably even more uncertainty coming into that call. A lot of stuff changed since then. We thought the company performed pretty well during that time and made up for some areas that were getting hit with some areas that were doing pretty well, like the MacroPoint and the content businesses that I talked about at the beginning of the call."
+    },
+    {
+      "speaker": "Paul Treiber",
+      "text": "That's helpful to understand. Have you seen a change in either renewal rates or, I guess, conversion of sales pipeline as a result as well?"
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Not much, actually, although we might anticipate that could happen if this keeps up. We've continued to have good sales momentum with the subscription deals that we have always done pretty well at. That continued to keep up. I think we haven't seen customer defections or people spending significantly less money with us or trying to change the terms of their contract. We got to see what happens in the economy. Those things happen when the economy turns down. Haven't seen yet where the economy's going. Probably a lot of it has to do with how quickly does this end? Does the U.S. negotiate an end to a lot of these tariff situations with the countries where they just delayed them 90 days? Do they delay another 90 days or something like that? What happens with the China negotiation?"
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Things like that are the balls that are up in the air that have us say, \"We're not sure what's going to happen next.\" In the meantime, you know us as conservative operators. We said, \"All right, we got to weather the storm and cut our costs and try to run our business as efficiently as we can under the circumstances."
+    },
+    {
+      "speaker": "Paul Treiber",
+      "text": "Just lastly, just on 3GTMS, the contributor, I think it's $2.4 million in the quarter. Is that a normal runway rate to assume going forward? Can you just confirm that it's not reflected in the baseline?"
+    },
+    {
+      "speaker": "Allan Brett",
+      "text": "No, from a baseline perspective, Paul, I mean, typical with us with acquisitions, I mean, we're getting to know that business. We're getting to know the renewal rates and the renewal times, etc. So we've conservatively incorporated that into the baseline right now. It is reflected in the baseline. Again, pretty typical as we get to know businesses more. We've owned that business for two months now, so we'll perfect that. I think we said that in the prepared remarks that it is, for the most part, reflected in baseline calibration."
+    },
+    {
+      "speaker": "Paul Treiber",
+      "text": "Okay. Thanks for taking the questions."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "All right. Thanks, Paul."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Your next question comes from the line of Raimo Lenschow from Barclays. Please go ahead."
+    },
+    {
+      "speaker": "Raimo Lenschow",
+      "text": "Perfect. Thank you. Ed, you've seen downturns before. How do you compare what you're seeing at the moment with other ones like 2022-2023, earlier?"
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Yeah. I mean, at the moment, it doesn't feel as bad, but what's interesting is I think there's a lot more uncertainty right now. People don't know what's going to happen. I think in the pandemic, they may not have known what's going to happen right away, but they were preparing for the worst in the pandemic for everything to shut down. It turns out it got better pretty quickly. In 2008, I think people really prepared for the worst, and there really was a bad situation for about a year until government stepped in and started pumping more money into the economy. We were not only in a recession, but a depression. Right now, I think it's hard to identify what we're in, right? Are we in a recession right now? Are we close to one?"
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Does all this go away if the tariffs get renegotiated or if the final analysis that you're not allowed to change all these tariffs? I just have to see. There's a lot of balls in the air, and our customers, I think, don't know what to do. They're still shipping stuff, and certainly not everything ships to and from the United States. There is lots of other stuff shipping around the world, other locations that we benefit from as well. The U.S. is obviously a big portion of the world's container volume and shipment volume. We're kind of behaving as you might expect us to do. We're trying to be conservative and manage our business to keep making money. We mentioned on the call, we're a total growth model."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "We see this as if things get worse, we see this as an opportunity to keep making money and use that money to buy up competitors that might not be in as good a position as us. We are just watching what is going on like everybody else and trying to run our company the best through it. It does not seem like dire circumstances, not yet at least. If I had to guess, I would say probably will not get as bad as some of the other downturns we have had, but I do not know either for sure."
+    },
+    {
+      "speaker": "Raimo Lenschow",
+      "text": "This time, you reacted relatively quickly with the changes on the cost base, and it's always sad to see something. Talk a little bit about what drove that to do it now rather than wait. Thank you."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Hey, thanks, Raimo. Yeah, that's just our with the way we operate, right? You saw us do that in the beginning of the pandemic, right? I think it was in May of the pandemic, we had a 5% reduction in force because our revenue went down 5%. This is a reaction similar to that, right? We see a lot of uncertainty in the market and say, \"Hey, we need to react to that.\" If we can't control the revenue right now, we can at least control the cost. It's important to us to keep making money and to keep trying to make 10-15% growth in EBITDA every year. That's really the main promise that we make to our shareholders."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "We want to be able to live up to that promise and put ourselves in a position to live to fight another day and get through this a little better than other companies do so that when they get themselves in trouble, we have the money to buy up some of the better assets just like we did in the 2008 crisis and maybe to a lesser extent in the COVID crisis."
+    },
+    {
+      "speaker": "Raimo Lenschow",
+      "text": "Okay. Makes sense. Good luck."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Hey, thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Your next question comes from the line of Stephanie Price from CIBC. Please ask a question."
+    },
+    {
+      "speaker": "Stephanie Price",
+      "text": "Hi, thank you. Ed, I was hoping you could talk a little about the appointment of the new Chief Commercial Officer and just curious if you're expected to make additional changes within the sales organization."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "No, I mean, we've built work here five, six years now. We're very comfortable with him. He was being groomed for this move anyway. Timing may have been a bit of a surprise to us, but I think there's a lot of faith in our company that he's the right guy for the job and happy for him that he's getting to step up. For the most part, he was running a large part of the Salesforce leading into this anyway, and now he's taking over the whole Salesforce. I think for the most part, you're not going to see a whole lot of change in our sales effectiveness."
+    },
+    {
+      "speaker": "Stephanie Price",
+      "text": "Great. Just on the consolidation that we're seeing within the space, obviously, WiseTech announced the acquisition of E2Open. Just curious what your thoughts are around the competitive environment here and how you see it evolving over time."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Yeah, I mean, it's probably a sign of the times, right? I've been saying for a while, prices are coming down. People are more willing to come into a price range that we think is an appropriate amount to pay for a company. The WiseTech E2Open deal is probably a sign of that. We looked at that deal a long time ago and decided it probably wasn't a great fit for us. Wish Wise Tech the best in that. We're not really competitive with either of those two companies in the market per se. We do think we're in a very good position just with a lot of cash that we're sitting on and a lot of debt capacity that we have to make additional acquisitions in the future as prices come more into line."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "We are in a healthier position than most to take advantage of that. When we see stuff that's a closer fit to what we like, we'd like to be able to jump on it and make sure that we make it part of our global logistics network."
+    },
+    {
+      "speaker": "Stephanie Price",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Thank you, Stephanie."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Your next question comes from the line of John Shao from the National Bank. Please go ahead."
+    },
+    {
+      "speaker": "John Shao",
+      "text": "Yes. Thanks for taking my question. I understand there's a bit of noise around international freight volume at this point because that one could be potentially volatile. How should we think about the domestic freight volume, especially the correlation between domestic and international? Any trends or any considerations you may share with us given that it sounds like you're doubling down investment domestic?"
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Yeah. I mean, we're exposed to both. The tariff changes in the international space are between the U.S. and the rest of the world, but not other parts of the world, other parts of the world. There's still two-thirds of our international business that's in normal shape at the moment. We've been in a fortunate position to do very well in domestic despite maybe that market being a weaker market for the last year and a half to two years. I hope to continue that. Also, as we expand overseas and the domestic markets overseas, I think we have a real opportunity to take the dominance that we've enjoyed here in North America over the last couple of years."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Kind of growing in the face of decreasing transaction volumes in domestic transportation, we have continued to grow that business because we have been able to pick up business from our competitors because we think we have a stronger offering. We are looking forward to bringing some of that overseas in the coming years."
+    },
+    {
+      "speaker": "John Shao",
+      "text": "Yeah, got it. Thanks for the colors. In terms of the organic growth, considering some of the tariffs pauses after Q1, how should we think about organic growth profile for Q2 and maybe going forward? Do you think it's going to be similar to the current level?"
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "The short answer is I don't know. We'll have to see what happens. I'm probably saying I don't know more than I normally have to say right now in the last couple of months. We'll just have to see. I mean, we plan on running our business to perform well either way. We're very focused on making money, and we plan to make the kind of money that we've always promised people that we would make despite whatever happens to the revenue. If you remember back 10-12 years ago, we were growing 10%-15% every year with 1, 2, and 3% organic growth. Even at 4, which is not as well as we were doing a year and a half ago, and I think everyone might be able to see why. We're hoping that that turns up."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "We're hoping that these tariff situations get settled and people can eliminate some of the uncertainty in their business and start to move forward and make decisions. That will help our revenue growth there. In the meantime, we're planning on running our business so that we can still keep making money at the clip that we've always promised people that we would."
+    },
+    {
+      "speaker": "John Shao",
+      "text": "Thanks. Maybe one last question. Just try to reconcile your cost reduction with your goal to grow EBITDA by 10%-15% on an annual basis. My question is, is the expected cost savings already included in that target or just purely incremental to the target?"
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "No, it was an effort to make sure that we are in a position to hit those targets."
+    },
+    {
+      "speaker": "John Shao",
+      "text": "Got it. Thanks."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Maybe come incremental if the growth rates go up. If some of these tariffs just get settled and people get back to shipping stuff like they normally did, we may end up doing better because of it. We made these decisions to make sure we're in a safe position to continue to do 10%-15% growth in EBITDA like we've always said we would."
+    },
+    {
+      "speaker": "John Shao",
+      "text": "Okay. Thanks again."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Next question comes from the line of Scott Pagan from Wolfe Research. Please go ahead."
+    },
+    {
+      "speaker": "Cole Couzens",
+      "text": "Hey, guys. This is Cole Couzens for Scott Group. Just a quick question on de minimis. Is there any way that you guys can frame up how much of your transactional business is air freight? And do you have a sense for how much of that is tied to de minimis? I know you hit on it a little in the prepared comments, but can you expand more on the activity you're seeing now that de minimis has gone away?"
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "I mean, I don't think we've separately broken that out. What I can tell you is we've done quite well under the circumstances. If you think about what's happened here, everyone was basically told that there's no more de minimis filing with China where most of it was coming from. You can imagine that if there's no more Type 86 filings, and it's a relatively small part of a quarter's revenue, but it's not nothing either. We were doing very well in it. It all went away one day, May 2nd. I think what we're doing about it, and we've benefited quite a bit from it. We also are the global leader in Type 1 filings, Type 2 filings, and Type 11 filings, which is what everyone switched to."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "I think a lot of these companies, they paused for a week or two and just said, \"I don't know what I'm going to do here.\" It's just like the Sheins and the Temus and a lot of other people like them. They started shipping again. I think we were ready for that. Some of our competitors were not. We were able to pick up business from them as a result of that because they could not handle the volume in these new types of transactions that we had had a lot of experience with already, but were kind of new to some of our competitors. We picked up a bunch of business as a result of that. Oddly enough, it's working out pretty well for us."
+    },
+    {
+      "speaker": "Cole Couzens",
+      "text": "Okay, great. Maybe just more broadly with the rest of the transactional air and ocean business, can you describe what you saw following the 90-day pause? Maybe is there any indication from shippers at this point as to what's to be expected after the pause, or is it just way too uncertain at this point?"
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "No one's\u2014I mean, anyone will speculate about what's going to happen after the pause. No one seems to know for sure, including us. Prior to all this, as you might expect, there was some pull-through where people were trying to get stuff in before tariffs hit. Then we saw a shift from the West Coast ports to the East Coast ports where West Coast volume was down significantly, but East Coast volume was up. That seems to have subsided now as well. I told you the stats for May. They were lower across the board in ocean. Air has held up pretty well. Domestics continues, I think, to be in a freight recession. We've kind of done pretty well on that. Then we've picked up a lot of business from our competitors during that time."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "We think we offer a great service in that area with MacroPoint. We by far have the most connections out there. We have been able to get people to switch to us in the process from some of our competitors. That has been pretty good news for us."
+    },
+    {
+      "speaker": "Cole Couzens",
+      "text": "Okay. Thanks, guys. I'll turn it back."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Thanks, Cole."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Next question comes from the line of Lachlan Brown from Redburn Atlantic. Please go ahead."
+    },
+    {
+      "speaker": "Lachlan Brown",
+      "text": "Hi, Ed, Allan. Thanks for the question. JTR Solutions being a growth driver for the business at the moment. Are you able to provide any detail on the growth that you're seeing with\u2014sorry if I'm not clear. Are you able to provide any detail that you're seeing within the tariff and duties database? Also, any commentary on the performance of the other side of the Global Trade Intelligence solutions like sanctioned parties and bills of lading?"
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "The sanctioned parties is largely business as usual. We've been doing very well there. Really, the strength in that business has been on the tariffs and duties portions where the rates are changing all the time. We're seeing very good growth rates there year over year. I think we're somewhere almost approaching 20% right now. I expect that's going to continue as long as tariffs are in the news every day. People are going to be looking for more access to that database. A little bit to our surprise and pleasant surprise is the data mine business that's also in that content area has done very well as people have started to look in that database a lot more aggressively to try and figure out what to do next. That's been a pleasant surprise for us."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "When these transaction volumes have gone down and you'd say, \"Jeez, it's all bad news for Descartes,\" I'd go, \"Well, some of the areas are actually doing all right based on what's going on because we've got a broad solution set that helps people in a lot of areas even when some of the shipment volume's down.\" That's why you see us put up what I'd say is decent results in the face of a very uncertain environment where people are frozen and not shipping as much as they did just a few months ago."
+    },
+    {
+      "speaker": "Lachlan Brown",
+      "text": "That's very clear. Thanks. On the 3GTMS acquisition, appreciate its early days. Could you talk to the integration process and how you're thinking about the cross-sell upsell opportunity? Also, could you provide any detail on the pricing structure, if it's volume-based or recurring subscription, and if there are plans to unify it with the pricing model for your other TMS systems?"
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "It's largely a subscription business. It's early days on the integration there. We thought that we\u2014and I mentioned this in the prepared comments\u2014we needed to get their cost structures in line with ours. We had a bit of a restructuring right away. Day one, we bought the company. You've seen us do this a few times now. MacroPoint, we did this. Visual Compliance, we did this. Just in an effort to get them to run the way that we run. We had to take a cash charge for that, which is just a timing issue. In the long run, I think that's going to allow us to operate that business more profitably and get it integrated into Descartes more quickly. If you've heard us talk about how we do integrations, we go fast."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "We move everyone into their component parts of our business, and that has already happened. Try and make them part of the same team. I know already that they are selling 3GTMS with MacroPoint and MyCarrierPortal all bundled together a number of times already. That is a little bit of a sign to me that the acquisition is going to work well. We are excited about that."
+    },
+    {
+      "speaker": "Lachlan Brown",
+      "text": "Thanks, Ed. I appreciate the questions."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Hey, thank you, Lachlan."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Your next question is from the line of Richard Chu from Scotiabank. Please go ahead."
+    },
+    {
+      "speaker": "Richard Chu",
+      "text": "Hi, this is Richard in for Kevin today. I was wondering if you could talk a bit more about the acquisition pipeline. If you look across roughly your half dozen or so areas of logistics/supply chain industry that you cover, are there any areas that are standing out as a particular area of focus or interest? Can you talk about valuations and competition with peers or private equity, which might also be looking to make some acquisitions?"
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "The acquisition market for us is looking very good at the moment. You've seen us do a lot in the last year and a half. I think you're probably likely to see that continue. Prices are coming down. Contrary to what you said a second ago, we are not seeing private equity firms show up nearly as much as they used to. We're seeing them back out of deals all over the place or be selling companies instead of buying companies. A good friend of mine in private equity once told me, \"We're either buying or we're selling. We're not doing both.\" I think in large part, they are selling right now. They have investors that are saying, \"Where's my money? I'd like to get some money back out of this thing.\" They're feeling that pressure."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "When they do show up in deals, they're not showing up nearly as aggressively as they have in the past. That has created an opportunity for us. High interest rates harm them a lot more than they harm us. We're making money and using our cash flow to buy companies. They were levering up to buy companies and doing so four, five, six, seven times, which in our world would be very dangerous. We probably wouldn't go past three. Three would be too low for them. They would think that was not using their cash well enough. All of a sudden, when interest rates are up in the high single digits, that changes the game. It does not change it for us, really, because we're making profits. We're putting that cash in the bank and using it to fund future acquisitions."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "We are kind of playing a different game than they are. We want to be around if prices keep coming down, if the economy does take a turn for the worse here. We want to be able to keep making the same kind of margins we were making and growing the same amount every year, even with lower revenue growth. That is why you see us take a lot of the actions that we have described here on the call. I could argue this is when we are at our best historically, as times get tough and the decisions get very difficult. We have been through a lot of that before. It is a long-tenured management team that has been working together for a long time. We have done well in a lot of difficult situations together."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "If I could describe it, when trouble like this starts, a lot of teams start fighting with each other about having to cut costs and, \"Why are you cutting costs and I'm not?\" and blah, blah, blah, all these things. That is not what is going on here. You have a bunch of people that have been through this before, and they are almost going, \"Hey, no one likes doing this, but we are good at it. And we are going to do a good job here so that we come out in a better position than we went into it and come out in a better position than our competitors,\" which puts us in a very good position to grow handsomely as things start to improve. You saw that happen in 2008. You saw that happen in 2020. We are certainly gearing up to make sure that happens here."
+    },
+    {
+      "speaker": "Richard Chu",
+      "text": "Got it. Thank you. Also, I was wondering, is there any way to give us a view of the breakdown of your customers or revenue base by SMB versus enterprise? Are you seeing any changes, positive or negative, in this current macro on the SMB portion of the business?"
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "No. I don't know if I\u2014I don't know enough to break it down. I could tell you we're seeing things haven't gotten that bad. We're seeing customers still sign contracts, pay their bills. Certainly, our larger customers have been paying. Even our small and medium-sized ones, remember, most of our smaller ones are on credit card payments. They kind of have to pay their bills. Medium ones, maybe it's the area where you'd see that kind of change if things got bad. We haven't seen it yet."
+    },
+    {
+      "speaker": "Richard Chu",
+      "text": "Okay, great. Thanks for taking in my questions."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "text": "The next question comes from the line of Robert Young from Canaccord. Please go ahead."
+    },
+    {
+      "speaker": "Robert Young",
+      "text": "Hi, good evening. The comment you made about MacroPoint, the real-time visibility driving some share gains, just given your coverage and the demand you're seeing there. I think last quarter you suggested that that was particularly a function of the shipper market and you're moving into their big retailers and manufacturers. I was curious if you could expand on that, maybe dig into that a little bit if that's what's going on."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "There's a little of that going on. I think the biggest thing is picking up more 3PLs and freight brokers and picking up more business from them as they consolidate. We tend to do business with almost all the big 3PLs and freight brokers in the country. As some of the smaller and medium-sized guys close their doors, they're getting picked up by some of our bigger customers, the Robinsons and Convoys, etc., of the world\u2014Convoys, excuse me. That's been good for us. They go back to us because we have better data. We have track rates almost at 90%. Our competitors have track rates in the 50s. If you want to track all your shipments and you send them in and you only get to track half of them as your visibility solution provider, all that good."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "If you send it in to us and you track in 90% of them, I think you're pretty happy. You say, \"Hey, that's a good guy to be with.\" When you buy up another small company, you tend to switch them over to us. When you have a contract with multiple players in the visibility space and you go to renegotiate those contracts, you tend to send most of the business to the guy that does the best. That's us."
+    },
+    {
+      "speaker": "Robert Young",
+      "text": "All right. In the call earlier, you said that you're not seeing any of the customers tripping their minimums on the transaction revenue. Was that a Q1 comment, or is that as of today? Is there any pricing pressure at all that you're seeing? I would assume, given that comment, that there's not a lot of pricing pressure or pressure to renegotiate minimums. Maybe just expand on that, and then I'll pass the line."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "No, we're not seeing any of that. I don't think I haven't heard anyone say we're in a recession yet, although we measure three months from now that we are in one now. I am not seeing our customers in any kind of dire straits. I don't think I've seen anyone hit the bottom of their minimum. Their minimums are usually set at 85% or 90% of their normal volume. I haven't seen anyone of note hit that."
+    },
+    {
+      "speaker": "Robert Young",
+      "text": "Great. Thanks for the call. I'll pass the line."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Hey, thank you, Rob."
+    },
+    {
+      "speaker": "Operator",
+      "text": "The last question comes from the line of Mark Shappel from Loop Capital Markets. Please ask your question."
+    },
+    {
+      "speaker": "Mark Schappel",
+      "text": "Hi, thank you for taking my question. I was wondering if you could just comment on the sentiment you're seeing from CIOs with respect to moving forward with large TMS upgrades or expansions. Are you seeing TMS upgrades actually being crowded out by other IT initiatives?"
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "No, we continue to see\u2014and we've seen this for the last several years\u2014let's say the logistics and supply chain initiatives are rising to the top of the organizations because their importance has increased in the last 10 years, really, maybe even more specifically the last five since the pandemic. I haven't seen a real change in that yet. I think if the economy turned and it got worse, you might start to see that even in our space. We haven't seen it yet in our space. Our subscription sales continue to go well. I don't think we had a record quarter this quarter in subscription sales, but we were close to the high end of subscription sales over the last two years. I'm happy that's the case. Now, look, if we go into a recession, that could change."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "In the last year, we've had a lot of customers say stuff to us like, \"We've canceled a number of IT projects here. We're not canceling yours because it's important.\" That always catches my attention because I think if things got a little worse, it might catch us too. That has not happened yet."
+    },
+    {
+      "speaker": "Mark Schappel",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Thank you, Mark."
+    },
+    {
+      "speaker": "Operator",
+      "text": "There are no further questions at this time. I'd like to turn the call over to Mr. Ed Ryan for closing comments. Sir, please go ahead."
+    },
+    {
+      "speaker": "Ed Ryan",
+      "text": "Hey, great, guys. Thanks for your time. I'll be out of the street in the coming weeks. We look forward to seeing a lot of you. We look forward to reporting back to you on our Q2 here in September this year. Thanks, guys."
+    },
+    {
+      "speaker": "Operator",
+      "text": "This concludes today's conference call. Thank you very much for your participation. You may now disconnect."
+    }
+  ],
+  "totalTurns": 126
+}

@@ -15,6 +15,8 @@ export type Company = {
   summary: string;
   quotes: Quote[];
   notes: string;
+  status: "active" | "delisted" | "international";
+  delistReason: string;
 };
 
 export type Quote = {
@@ -22,4 +24,18 @@ export type Quote = {
   timestamp: string;
   text: string;
   url: string;
+};
+
+export type TranscriptTurn = {
+  speaker: string;
+  text: string;
+};
+
+export type Transcript = {
+  ticker: string;
+  period: string;
+  eventDate: string;
+  preparedRemarks: TranscriptTurn[];
+  qAndA: TranscriptTurn[];
+  totalTurns: number;
 };
