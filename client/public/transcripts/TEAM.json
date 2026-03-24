@@ -1,0 +1,302 @@
+{
+  "ticker": "TEAM",
+  "period": "Q1 2026",
+  "eventDate": "2025-10-30",
+  "preparedRemarks": [
+    {
+      "speaker": "Operator",
+      "text": "Good afternoon, and thank you for joining Atlassian's earnings conference call for the first quarter of fiscal year 2026. As a reminder, this conference call is being recorded and will be available for replay on the investor relations section of Atlassian's website following this call. I will now hand the call over to Martin Lam, Atlassian's Head of Investor Relations."
+    },
+    {
+      "speaker": "Martin Lam",
+      "text": "Welcome to Atlassian's first quarter fiscal year 2026 earnings call. Thank you for joining us today. On the call with me today, we have Atlassian's CEO and co-founder, Mike Cannon-Brookes, and Chief Financial Officer, Joe Binz. Earlier today, we published a shareholder letter and press release with our financial results and commentary for our first quarter of fiscal year 2026. The shareholder letter is available on the investor relations section of our website, where you will also find other earnings-related materials, including the earnings press release and supplemental investor data sheet. As always, our shareholder letter contains management's insight and commentary for the quarter, so during the call today, we'll have brief opening remarks and then focus our time on Q&A. This call will include forward-looking statements. Forward-looking statements involve known and unknown risks, uncertainties, and assumptions."
+    },
+    {
+      "speaker": "Martin Lam",
+      "text": "If any such risks or uncertainties materialize, or if any of the assumptions prove incorrect, our results could differ materially from the results expressed or implied by the forward-looking statements we make. You should not rely upon forward-looking statements as predictions of future events. Forward-looking statements represent our management's beliefs and assumptions only as of the date such statements are made, and we undertake no obligation to update or revise such statements should they change or cease to be current. Further information on these and other factors that could affect our business performance and financial results is included in filings we make with the Securities and Exchange Commission from time to time, including the section titled Risk Factors in our most recent filed annual and quarterly reports. During the call today, we will also discuss non-GAAP financial measures."
+    },
+    {
+      "speaker": "Martin Lam",
+      "text": "These non-GAAP financial measures are in addition to and are not a substitute for or superior to measures of financial performance prepared in accordance with GAAP. Reconciliation between GAAP and non-GAAP financial measures is available in our shareholder letter, earnings release, and investor data sheet on the investor relations section of our website. We'd like to allow as many of you to participate in Q&A as possible. Out of respect for others on the call, we'll take one question at a time. With that, I'll turn the call over to Mike for opening remarks."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "Thank you all for joining us today. As you've already read in our shareholder letter, we're off to an incredible start to FY 2026, with total revenue in Q1 growing 21% year-over-year to $1.4 billion. Our strong execution fueled cloud revenue growth of 26% year-over-year to $998 million and accelerated growth in RPO to 42% year-over-year to $3.3 billion. We continue to make great strides across our strategic priorities of enterprise, AI, and the system of work. Not only do our results reflect this, but our customers are taking notice. All up, over 300,000 customers, including Databricks, Expedia, Ford, and Wells Fargo, rely on Atlassian's AI-enabled cloud platform to power their business processes and mission-critical workflows. We're proud of our ability to continue to deliver AI into the hands of those customers to use today."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "We've amassed over 3.5 million monthly active users of our AI capabilities across the platform, once again up over 50% since last quarter. This usage is widespread across both business teams as well as technical teams. I'll repeat what you've heard me say in the past: AI is one of the best things that's ever happened to Atlassian. The need to track, plan, and manage work while harnessing your organizational knowledge are things that don't change in this era. I'd argue those things become even more important as more software is created and more people have the ability to create amazing technology that changes our lives. AI is also directly driving demand for our cloud offerings. Customers are choosing to migrate to the cloud, and they're upgrading to the Teamwork Collection to take advantage of our AI-powered cloud platform."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "In fact, in less than two quarters since we launched the Teamwork Collection, we've seen it drive a double-digit % increase in users, as well as upgrades to higher-value additions and the consolidation of competitor tools as our customers standardize on Atlassian. We're putting world-class AI at the center of our platform and throughout our entire set of collections and apps. We've showcased our relentless pace of innovation just a few weeks back at our sold-out Team 25 Europe event in Barcelona, with AI stealing the show. Of course, you can read more about all these announcements in our shareholder letter. I want to take a moment to thank Atlassian for their tremendous execution and dedication this quarter. Without them, none of these exciting opportunities would be possible. I've talked to hundreds of customers this past quarter from all over the world, small to the biggest enterprises on the planet."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "What I'm most proud of is how they're turning to us as a strategic partner to help them transform how work gets done during a time when AI is changing their world. Collaboration becomes even more important as more creation is enabled, as work evolves, and as new opportunities are created for their businesses. Our customers are looking for our help. I feel incredibly bullish about how we're partnering with them and helping their businesses thrive. With that, I'll pass the call to the operator for Q&A."
+    }
+  ],
+  "qAndA": [
+    {
+      "speaker": "Operator",
+      "text": "We will now begin the question and answer session. If you have a question, please press star followed by the one on your phone. If you'd like to withdraw from the queue, please press star followed by the two. Your first question comes from Keith Weiss from Morgan Stanley. Please go ahead."
+    },
+    {
+      "speaker": "Keith Weiss",
+      "text": "Excellent. Thank you, guys, for taking the question, and congratulations on a really strong start to Q1. A lot of really impressive product innovation, a lot of impressive numbers. I was hoping we could drill into the total revenue guide for the full year just to better understand the moving parts in this. I'm looking at the chart that you guys put forward in terms of total revenue guide going from 18%-20.8%, but 3.2% of that coming from data center end-of-life, which means you're effectively lowering the non-sort of end-of-life impact by 50 basis points. Given all of the strength that you're talking about in the letter, the product momentum, why is the full year absent the data center end-of-life coming down by 50?"
+    },
+    {
+      "speaker": "Joe Binz",
+      "text": "Hey, Keith, this is Joe. I'll go first, and Mike will follow on with additional context. I'd say the key development that we saw in Q1 was that we had significantly stronger-than-expected cloud migrations from data center, which is a great thing for our business. As you know, this has been a big area of investment for us. It's a key strategic priority. It allows us the opportunity to provide more value to customers in ways that we simply can't on data center, and we can offer capabilities such as automation, analytics, and AI. Basically, it's simply the most valuable and secure experience we can offer to our customers. It's a great thing for the business. Cloud migrations also, however, have an impact on the timing of revenue recognition because cloud revenue is recognized ratably, and data center has a combination of upfront recognition and some ratable."
+    },
+    {
+      "speaker": "Joe Binz",
+      "text": "Lastly, the move to cloud also impacts marketplace revenue because we have a lower take rate on cloud app sales than we do on data center apps. All other organic growth drivers in our business in Q1 were either slightly better or in line with our expectations. We've maintained that same guidance approach on those factors that we held three months ago. We continue to hold a very conservative and risk-adjusted outlook for all the other variables in the growth equation outside of migrations. With that Q1 performance and momentum, we've adjusted our full-year outlook for a greater cloud migration forecast, and we've left all other organic driver assumptions in place. Because of those revenue recognition timing differences between cloud and data center and the impact to marketplace, this drives the half-point decline in our organic revenue growth outlook for the rest of the year. That's the math underneath the guidance that we're giving for the full year on the organic part of the business. Mike."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "Yeah, hi, Keith. I just wanted to follow on. Joe's laid out the math for you and how it pencils out. I just want to reiterate this is a really good thing. Increased migrations is good for Atlassian, and it's great for our customers. You can see that coming through in our results: 26% cloud growth rate this quarter, 42% RPO growth rate, and a significant increase in cloud guidance, right? All while reiterating our long-term 20% CAGR growth rate that we gave out at the end of FY 2024. We feel just incredible confidence in our ability to deliver against that. I think all of the movements that Joe laid out are incredibly positive for Atlassian as a business."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Your next question comes from Kash Rangan from Goldman Sachs. Please go ahead."
+    },
+    {
+      "speaker": "Kash Rangan",
+      "text": "Hello. Thank you very much. I have to applaud you on your decision to do a data center end-of-life. I think this is likely to accelerate the cloud transition, something that personally I've been waiting for for a few years now. Kudos on that, on pulling the plug there. The strategic question is, given that we've got lineups set into cloud migration, we're not fighting multiple good battles. I wonder if Mike, you can talk about the playbook, the clean playbook for cloud migration in the years ahead. What are the things that you've learned from the last quarter or so in terms of tactics, especially with the new CRO coming on board? How are you tackling the field engagements and partnerships with the systems integrators to take this full on? I do think it's pretty exciting what you're on to."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "Thanks, Kash. I always appreciate the applause, I guess. Let me say a few things about Ascend and cloud migrations. Firstly, the partner and customer reaction has been fantastic. I think that's because we have well telegraphed to our customers, our partners, the entire community, that cloud is the future. It's the best experience for our customers, so we had very little surprise. We're very thoughtful and long-term about how we've managed the transition, I think, and the reaction has been very positive as a result. The removal of technical barriers and the delivery of innovation in the cloud has been a combination of effects that's really bringing that through. You see that in the number of customers that mentioned to me, for example, AI is one of the big reasons that they are moving to the cloud."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "We've learned an awful lot about how to help those customers manage that upgrade through the FastShift program, through our amazing partner network, through a lot of different things over the last five-plus years. You see that in our doubling the number of migrations, seats that were upgraded in the last quarter that doubled year on year. That's a huge achievement for us, and it is thanks to those partners that you talked about and everybody else. You see it in us raising the cloud revenue outlook. I think cloud is ready for our customers. You see that in federal and moderate, in government cloud, isolated cloud, our multi-cloud strategy. We feel incredibly bullish that we have the experience to do this. We feel that it's the right experience for our customers, and we are thoughtfully managing that migration, as you pointed out."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "I don't think the playbook has necessarily changed as much as every year and every quarter that goes by, we get better at it. We did lots and lots of large migrations last quarter across different geographies, different industries. Pretty much any country that I go to, any city, I can point to a large customer in that geography, in their industry that has already moved. That's what gives us a lot of that confidence going forward and allows us to reiterate those long-term targets that we've laid out."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Your next question comes from Arjun Bhatia from William Blair. Please go ahead."
+    },
+    {
+      "speaker": "Arjun Bhatia",
+      "text": "Yep, perfect. Thank you. I'll add my congrats on a great quarter here. Mike, maybe I'm curious, just obviously, we kind of knew the end-of-life on data center was coming at some point. I'm curious, what made you decide to do that now? Is it just the technical advancements in cloud that you've talked about, more comfortable customers with cloud? You're seeing the migration impact already, but I'm curious how you think it impacts cloud migrations for the rest of this year and through 2027. When do you think we start to see the next step of acceleration in data center to cloud migrations? Is it still going to take some time, or is that more immediate? Thank you."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "Look, thanks. Mike, I would say that it's a continuum. We've been investing in building an enterprise-grade cloud platform with AI and all the compliance and governance and scalability and data residency and government cloud. All of the amazing technical achievements that we've invested in over the last five-plus years are a continuum. We will continue to invest in those, but we feel good about the ability we have right now to accommodate the vast majority of remaining data center customers in the cloud that we have today. We feel great about our execution of the cloud roadmap that we've laid out in front of us and things like isolated cloud. We fundamentally spend a lot of time with our customers. We feel like now is the right time for that, that we have prepared, that they are ready, that our partners are ready. We've said many times on calls, we no longer get the if we're moving to cloud."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "It's a when conversation with every single customer that I deal with. I would say we just feel very good about the delivery we've had, and now is a good time for that. In terms of the expectation of migration, I would say that's all. Obviously, open company no bullshit is a core customer value. We've laid out what we see in front of us for those customers, the multi-year period of that EOL, giving them time to migrate, giving them the partnerships and everything else that we need. We have included that into our guidance and into our results. That confidence that we feel is included in the guidance that we've given out."
+    },
+    {
+      "speaker": "Joe Binz",
+      "text": "Arjun, I'd add one other point that while we expect more momentum on migrations in the short term, there is going to be variability in the pace of these migrations quarter to quarter, and they will take time to move. We expect most customers will migrate as we get closer to the data center end-of-life date in March 2029. We expect migrations to accelerate in the 2028-2029 timeframe."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Your next question comes from Ryan [McWilliams] from MoffettNathanson. Please go ahead."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thanks for taking the question. Mike, this is kind of like a high-level question, but there's been a lot of conversation around a super app world where AI interacts with multiple different parts of your software stack from one pane of glass. Atlassian has always made it easy to integrate Jira with some of their other software solutions. I thought the Browser Company acquisition was interesting, that it also makes it easier to use Atlassian with some of the other tools. How do you think about a future where you try to use AI across a bunch of different software solutions and how Atlassian fits in that world? Thanks."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "Thanks, Ryan. Great question. Firstly, I would say we are making amazing progress in our AI capabilities in delivery to customers. I think the company broadly should be incredibly proud of shipping AI to our customers."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "It turns up as one of the reasons that they are migrating to the cloud when you talk to them. It shows up as one of the reasons that they're moving to the Teamwork Collection. It shows up as one of the reasons they are deepening their relationship as a strategic partner with Atlassian, which is our core investment in AI, which is world-class. We are doing an incredibly good job at delivering AI to customers to give them the benefits today and giving them confidence that we will continue to deliver that into the future. Jira has always been an incredibly integrated tool. We're very proud of that. The Atlassian platform is incredibly integrated."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "You can see that in the number of partnerships that we've signed up in the last quarter, a lot of which are listed in the letter, to integrate our platform with other offerings that customers have. It's a core part of our customer value proposition. We believe that your best technology world, your best software world, is a deeply integrated and deeply connected world. You can see that in the ability to use Atlassian's AI off Atlassian from within other tools and vice versa, to use other tools from within the Atlassian world. I think that will depend on where the customer workflows are and where they are working. Most prominently recently, you can see that in Jira's ability to assign work items to agents, whether those are technical agents from GitHub or Cursor, or whether those are non-technical agents from Canva or Box or someone else."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "This is about taking your Jira workflows and business processes, assigning parts of them off to AI or agents as that world evolves, and then bringing it back in for collaboration with further users. I think we will continue to be integrated. I think that's the best outcome for our customers. I think that everything from the teamwork graph to the design expertise that we're putting into our AI offerings to just a world-class set of capabilities that come with Rovo is showing up in our customers, and it is a reason that they are more deeply partnering with us. Incredibly proud of the delivery we've had there, and a lot of work to do every single quarter as we go forward. We're rolling."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Your next question comes from Alex Zukin from Wolfe Research. Please go ahead."
+    },
+    {
+      "speaker": "Alex Zukin",
+      "text": "Hey, guys. Can you hear me?"
+    },
+    {
+      "speaker": "Operator",
+      "text": "Yes, please go ahead, Alex."
+    },
+    {
+      "speaker": "Alex Zukin",
+      "text": "Hey, sorry about that. I was just having some voice issues. Maybe, guys, just some of the most interesting commentary from the letter, I think, was your commentary about looking at your cohort of customers that are also using some of these AI coding tools and how they're up. Those customers are adding seats to the tune of 5%. What other anecdotes do you have to share in terms of other product attainment and adoption trends that you're seeing from that kind of super user cohort? And then maybe just a quick one on DX. Specifically, how you maybe see that accelerating some of the uptake in expansion with respect to the cloud portfolio?"
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "Thanks, Alex. Look, I'm well on record at this point as saying I firmly believe there'll be more developers in five years' time. There'll be far more people creating software and a far greater amount of technology in the world, which is great for all of us. That significantly expands Atlassian's opportunities. Why do I have such conviction? Maybe important to note, we have the best data. We have amazing visibility right now. 300,000 customers, 80% of the Fortune 500, 60% of the Forbes AI 50 Atlassian customers, right? We're mission-critical and central to their business processes. We have tens of millions of developers, engineers, product managers, designers that use our applications across millions of teams. We have some pretty phenomenal insights into how customers get work done, how they build software, and how they build technology. As we said in the shareholder letter, we continue to see really healthy user growth."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "The statistic you gave, we looked at a cohort of our customers that were using code generation tools, GitHub Copilot, Broadcode, Cursor. We excluded Rovo Dev on purpose so as to remove bias of our own sort of customer base. Those customers using those code generation tools were expanding their paid seats on Jira at a rate 5% faster than those who didn't. They were managing more than 20% more projects than those that didn't. Importantly, all of those three and others are working with us in partnership to bring their agents into Jira, into the business processes and workflows that they are using because that's where customers are doing work. Other anecdotes that we might have, look, we've given a lot of statistics here, right? The teamwork graph is phenomenal. It's up over 100 billion objects and connections and continuing to grow at a really incredible clip."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "Our AI interactions are up, I think it's almost 150% in the last six months. We've tripled the number of tokens we process quarter on quarter. Millions of workflows which involve automation and agents. We are doing a really good job in AI. AI is a fantastic thing for Atlassian's business and for our customers. It creates lots of great opportunities for us. You mentioned DX. I think as customers are changing the way they build technology and software, they want to make sure that they are getting the right amount of productivity. Where are their investments going, and where are they getting back from this increasing engineering force that they have? Every business is becoming a software company at some point. Hence, DX doing a fantastic job at explaining to customers their developer productivity, where they can improve and how they can take actions on that."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "Especially when it comes to bringing in all of the AI coding tools we have today and the ones that are coming tomorrow, and to show those customers how that is working, I think it'll be a really great part of our portfolio. It's a fantastic team. We're incredibly bullish about that when the deal closes and we can move forward."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Your next question comes from Gregg Moskowitz from Mizuho. Please go ahead."
+    },
+    {
+      "speaker": "Gregg Moskowitz",
+      "text": "Thank you very much for taking the question and congratulations on a really good performance. Mike, I also, like Alex, was pretty fascinated by the data you provided that you just spoke to a moment ago. I'm wondering if it's possible to give us a rough sense of the size of this cohort that might shed some light on if these data would, in fact, be a fair representation of what your customers may be doing, particularly the ones who are utilizing AI-enabled cloud platform coding. Secondly, for Joe, just to clarify, because the guidance puts and takes are a bit confusing, is your fundamental growth outlook stronger, weaker, or unchanged as compared with 90 days ago? Thank you."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "Thanks, Gregg. Look, we wouldn't give out any statistics that we didn't feel were statistically relevant. In terms of the size of the cohort that we are going through, we are very invested in making sure that this is the case. I think it's a fair representation of what the best companies in the world are doing. We believe there will be many more companies that follow in those paths over the years ahead, as we believe that AI will continue to improve those abilities and processes. We saw that in our Rovo Dev going GA this quarter, which is doing a fantastic job at a lot of different things, right? I believe over half of the security incidents that occur at Atlassian, the findings are coming from Rovo Dev, right?"
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "There are a lot of abilities for AI to continue to improve technical business processes in building software, but also in the service collection and in AI ops and in the ability to run and operate software. There is a lot of work to be done, a lot of amazing things to be built. We do think it's going to be great for Atlassian's business. We think that human-AI collaboration, whether that's in a software team, whether it's in a business team, whether it's in a service team, is right at the heart of what we do for customers. At the same time, I will point out there's a lot of enterprise concerns when I talk to customers around governance, controls, auditability, traceability, permissions. There are a lot of new issues coming up with a lot of this AI technology."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "We're right at the forefront of giving enterprises, as we've shown in Rovo and in our AI-enabled cloud platform, the ability to have the right level of controls and governance that they need and the right level of that change and movement. Incredibly bullish from my point of view on what AI is doing for Atlassian's business, as I've said, and how our three big transformations: AI, enterprise, and the system of work are delivering today in the cloud growth rates that you see in our RPO growth rates and in our commitment to our long-term targets. I'll let Joe answer on the financial question."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "Yeah, thanks, Mike, and thanks, Greg. Greg, we fundamentally believe our business in FY 2026 will be stronger today than we did 90 days ago. That will show up in better bookings, that will show up in better CRPO, and it's driven by the Q1 outperformance and the fact we expect greater volume of cloud migrations through the rest of the year. Hope that helps."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Your next question comes from Fatima Boolani from Citi. Please go ahead."
+    },
+    {
+      "speaker": "Fatima Boolani",
+      "text": "Good afternoon. Thank you for taking my questions. Mike, you have A/B tested effectively this concept of consumption pricing. There was some of that introduced last year under the confines of JSM. I'm wondering if you can share an update on how pervasive that modality is in terms of monetizing some of your innovation that's come down the pike in the last 12-18 months. Maybe more specifically, how does Vibe Coding and Coding Assistant, and Coding Assistant-related code generation that is poised to absolutely explode software code generation, how do you get to capitalize on that as all of that gets a shift inside a Jira environment and is held captive and worked out of a Jira environment? I'd love to get your perspective on how you can capitalize on that trend by way of consumption pricing and, again, how pervasive that is generally within the base today. Thank you."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "Thanks, Fatima. Look, we have a series of different consumption-based pricing offerings, as we have announced and shown from the Rovo and AI credits world to the service collection world of agents and assets, to Bitbucket and pipelines, to Rovo Dev, to Forge, CDP. That is certainly something that we have as an option set for our customers. It's one of our elements of monetization. I think it is certainly something customers are interested in. It's certainly something that they're also cautious about. I think the most important thing for us when it comes to your question about AI monetization, I would say we are already seeing it. Our three strategic priorities, right? We reiterate them because they are so important to us: delivering a world-class AI platform, continuing to grow our enterprise capabilities and the system of work across our customers' teams and enterprise."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "We're making amazing progress in all three. I will say that it's directly driving the results we see in Q1. It's directly driving the cloud growth rate of 26%. It's behind accelerating our RPO to over 40%. We are already seeing that in everything from cloud migrations to the AI stats we have to the addition upgrades. This question of monetization, Teamwork Collection, right? Customers that move there talk about AI. Every customer I talk to mentions AI as one of the reasons that they're moving to the Teamwork Collection, to the cloud, etc. We have a huge number of customers that presented at Team 25 a couple of weeks ago in Barcelona, from Mercedes-Benz, to Sonos, to FanDuel, to 24 Hour Fitness, all giving amazing feedback on our AI capabilities across business teams and technical teams."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "Our ability to connect both of these is at the core of the system of work. I think this question of code gen and capitalizing, we have a lot of stats on how it improves Jira. The fundamentals there are about human and AI collaboration. You will still need, and you will have, work items that are assigned to various AI agents that come from probably a lot of different platforms, ours and others. We solve human problems. We always have. At the core of those human problems is collaboration, and that's why we're putting that at the core of our AI platform and making sure we deliver world-class capabilities in all of these ways. I think we're already seeing that float around our monetization. Our bullishness as we head into the future on our ability to continue to build the R&D to do the world-class work and hence have greater customer partnership is very strong right now."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Your next question comes from Raimo Lenschow from Barclays. Please go ahead."
+    },
+    {
+      "speaker": "Raimo Lenschow",
+      "text": "Perfect. Thank you. Congrats for me as well. Mike, one question. As we kind of evolve in this new AI world, how do you think about M&A or build versus buy? In this for you, I'm thinking about the Browser Company. I got a lot of questions of people how that would fit into the new world, etc. Can you just speak to that, please? Thank you."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "Hey, Raimo. Sure, I can talk to that question. Firstly, I would say that there's no change in our M&A philosophy when it comes to AI or anything else. That's a really important point. We've had the same philosophy for well over a decade now. We look for companies with a great strategic fit to Atlassian. We look for great teams that feel like they belong in our tribe, an opportunity that fits both sides, we have to have the capital to execute, and the timing has to be right. That philosophy hasn't changed. We don't believe all the innovations are outside Atlassian. We don't believe all the innovations are inside Atlassian. We take a very pragmatic and long-term view."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "I think you can see in some of the stats we gave in the shareholder letter from the Loom acquisition, it's just lapsed two years, and it's built a fantastic business north of $100 million ARR already. That's standalone, that's with no contribution from Teamwork Collection, driven by AI and the AI SKU, right, which is growing over 100% year-on-year. Why is that? If you go back two years ago and have a look at what we said at the time of that acquisition, younger people joining the workforce, video becoming a bigger part of how they want to communicate and collaborate, remote work, distributed companies, and AI changing the nature of how video collaboration can work for both consumption and creation."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "I think we've done a pretty good job of paying out all of those trends and movements as we've navigated through the last couple of years, and Loom is a fantastic part. It's a huge reason why customers are also talking about moving to the Teamwork Collection in terms of meeting recordings, and the team's done an amazing job to continue to deliver on innovation. We continue to think about that when it comes to acquisitions. The Browser Company and DX looked like two very different acquisitions for different strategic rationales as we've tried to communicate. On the Browser Company specifically that you mentioned, I think our belief is that AI is going to continue to reshape how and where knowledge workers get their work done. Technical disruptions and changes, if you look back at history, have tended to change and shift the interface layers, the points of interaction."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "Today's browsers were built before we had this explosion of SaaS apps and well before we had any of this AI era, and they weren't really built for knowledge workers. We think that by optimizing for knowledge workers and the SaaS apps they use and building an amazing product that fits into today's world and the enterprise world, packing it with AI skills and agents and the teamwork graph and all the things that we have, as well as enterprise-grade security, compliance, governance, especially when it comes to AI, there is a fantastic opportunity for us. The Browser Company fits all of those criteria I gave earlier in terms of M&A. They're doing an amazing job, and we think between the two companies, we can really make an impact here. We just closed, we'll get cracking on doing some amazing work and hope to have some similar results to report to you in two years' time."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Your next question comes from Rob Oliver from Baird. Please go ahead."
+    },
+    {
+      "speaker": "Rob Oliver",
+      "text": "Great. Thanks for taking my question. Mike, you guys have done a lot of preparation for this cloud move, and it seems like projects like Ascend are working really well, FastShift team. When you think about your extended partner network, how well developed is the cloud motion with them currently? From March X, a lot of them have been out kind of early on that. As you guys really accelerate end-of-life on data center, how prepared is your extended partner network to help you guys manage this transition? Thank you."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "Thanks, Rob. Yeah. Look, I would say we continue to be a long-term thinking company that makes these changes over the multi-year period. I think we've seen that play out over the last five years in this cloud migration, and I expect it to play out over the next five years. The partner program and our channel broadly play a critical role in that transition. I spend a lot of time with lots of different partners all over the world. We have continued to communicate openly with that partner network. It's been well telegraphed to them, and they have continued to evolve their businesses to understand both how to help customers migrate to the cloud. FastShift is an additive element to those partners and how to explain to customers the benefits of AI, for example, in their business, which is a positivity of moving to the cloud."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "One of the areas where our partners can really excel and are starting to hit some real wins is in terms of delivering those workflow improvements to customers on our cloud platform, which further incentivizes other parts of those large customers to move to the cloud. Very thoughtful and measured approach, long-term thinking from Atlassian at the same time with execution. I think the channel, touching about 50% of our revenues, you can look at it that way, are mature in how to handle this over the last few years. I believe that, as you said, we are at the right point for the Ascend program to help continue that momentum in the channel."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Your next question comes from Brent Thill from Jefferies. Please go ahead."
+    },
+    {
+      "speaker": "Brent Thill",
+      "text": "Thanks. I know Brian Duffy's about 10 months in, but I think everyone's curious just to get an update on the go-to-market, some of the changes he's making, what's starting to resonate well, and what's ahead. Joe, if I can sneak one in for you, it's been a great couple of decades working with you. Just maybe the question of why now? Thank you."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "Hey, Brent. Sure. Let me talk a few things about maybe go-to-market and the movement we have there. Brian, it's amazing to think he only arrived nine months ago. I have to remind myself of that quite often. He obviously brings vast experience, and to say he's hit the ground running is an understatement. Huge impact in continuing to evolve our go-to-market motions. It's not revolutionary, as I said. We've been on an enterprise journey for a decade. We continue to strive to be a better and better strategic partner to the largest organizations on the planet. This is a part of our continued evolution. We obviously have a massive serviceable, addressable market, as we've talked to, right? A $14 billion opportunity in our existing customer base alone with our existing products. 80% of the Fortune 500 representing just sort of 10% of our business."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "Between data center to cloud migrations with Ascend and the Teamwork Collection, Service Collection, Software Collection, we have a lot of opportunities in our base. I think Brian has done a fantastic job along with all of the sales and marketing teams and go-to-market motions on continuing to execute this quarter, right? We've made great progress with large enterprises. We have signed some of our largest deals in the quarter in almost every sector, industry vertical, and geography, right? Some of the world's largest technology companies, huge global financial institutions, large telecommunications companies have all come on board this quarter, multiples in each category, moving to the cloud, moving to the Atlassian platform, consolidating on multiple tools into the Atlassian world, and at the same time, excited by our AI opportunities."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "That's up to Brian and team to continue to explain to our customers and help them on that journey over a multi-year period. I'd say the entire go-to-market team is executing extremely well this quarter, and we should be incredibly happy. Our customers are the beneficiaries of that. I'll pass to Joe for the second half."
+    },
+    {
+      "speaker": "Joe Binz",
+      "text": "Great. Thanks, Mike. And thanks, Brent. It's been great working with you as well. I would make one clarification, as Mike reminds me, it's announced now, but transition later. I wouldn't say the timing is now. In terms of why the announcement now and the transition timing, I've got a lot of big life events coming up, and I really want to be fully present for those. This is something my wife and I have been discussing pretty intensely over the last year. From a work perspective, I feel like the finance team is in good shape. I'm a big believer in new energy and new ideas and those being a good thing. I think that applies to me as it applies to just about anybody else. That's sort of the logic behind it."
+    },
+    {
+      "speaker": "Joe Binz",
+      "text": "Right now, I'm really focused on making sure there's a clean transition and a lot of work to do around that. I'll be able to update you on what's going to happen next after that when we get down the road and I get a little bit closer to the transition date."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Your next question comes from DJ Hynes from Canaccord. Please go ahead."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Hey, thank you, guys. Congrats on the next quarter. Joe, one of the questions I've been getting is whether you're raising the cloud revenue guide only on the back of better than forecast data center to cloud migration. Can you just talk about what you're seeing with the non-migration cloud business, how you're feeling there, and what's actually contributing to the increased cloud outlook?"
+    },
+    {
+      "speaker": "Joe Binz",
+      "text": "Great question. Thanks. I'll try and clarify. We are raising our cloud revenue outlook by 1.5 points to 22.5% year-over-year. That is only to reflect the stronger migrations performance and the outperformance in Q1. We now expect migrations to make a mid to high single-digit contribution to cloud revenue growth in FY 2026. For that migration's upside to land in the back half of the year just given the data center expiration base. To your question directly, it's important to note we haven't made any changes to our other organic drivers of cloud revenue growth in our guidance. We continue to maintain a conservative and risk-adjusted approach on all those other variables in the cloud and from a cloud revenue growth driver perspective for the rest of the year."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "I can probably jump on, DJ, just to say one or two things, if I might. Firstly, it's worth reiterating that our expansion rates, 120% NER, etc., aren't changing. When Joe says we are continuing with our cloud guidance in other areas, I think those are really strong numbers, and we should reiterate that. We feel great strength in the cloud, right? Teamwork Collection going very, very well, only two quarters in. Our AI delivering, our enterprise platform, all of these things lead to a very strong cloud business in and of itself that continues to grow. The Ascend program and migrations are additive to that, which is really great. When I talk to our customers that are already in the cloud at scale, they are bullish about their continued adoption of more apps and collections of more areas that they will move to Atlassian."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "You can see that showing up in both our paid seat expansion rates, our cloud growth rate in and of itself, our RPO growth rate, and our recommitment to our three-year 20% CAGR that we gave out. Incredibly bullish about the cloud business as a whole as a result of AI, enterprise, and the system of work. All the things that we've been saying for a while now continue to come due with our customers. I'll tell you, having spent a lot of time with them, they're all incredibly excited about what we are delivering to them every single day. It's a credit to the entire Atlassian team."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. That's all the questions we have time for today. I will now turn the call over to Mike for closing remarks."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "text": "Thanks, everyone, for joining the call today. As always, thank you to all of the Atlassian team for an amazing quarter. To all of those on the call, we appreciate your thoughtful questions and continuing to support. Have a kick-ass day and let's go."
+    }
+  ],
+  "totalTurns": 73
+}

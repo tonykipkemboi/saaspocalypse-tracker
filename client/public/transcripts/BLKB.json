@@ -1,0 +1,286 @@
+{
+  "ticker": "BLKB",
+  "period": "Q4 2025",
+  "eventDate": "2026-02-10",
+  "preparedRemarks": [
+    {
+      "speaker": "Operator",
+      "text": "Good day and welcome to the Blackbaud Inc. fourth quarter and full year 2025 earnings call. Today's conference is being recorded. I'll now turn the conference over to Tom Barth, Head of Investor Relations. Please go ahead, sir."
+    },
+    {
+      "speaker": "Tom Barth",
+      "text": "Good morning, everyone. Thank you for joining us on Blackbaud's fourth quarter and full year 2025 earnings call. Joining me on the call today are Michael Gianoni, Blackbaud's CEO, President, and Vice Chairman, and Anthony Boor, Blackbaud's Executive Vice President and Chief Financial Officer. Mike and Anthony will make our customary prepared remarks with additional commentary this morning on our longer-term aspirations, and then we will open up the phone line for your questions. Please note that our comments today contain forward-looking statements subject to risk and uncertainties that could cause actual results to differ materially from those projected. Please refer to our most recent Form 10-K and other SEC filings for more information on those risks. The discussion today will focus on non-GAAP results. Please refer to our press release and the investor materials posted to our website for full details on our financial performance."
+    },
+    {
+      "speaker": "Tom Barth",
+      "text": "These include GAAP results as well as full-year guidance and long-term aspirational goals. We believe that a combination of both GAAP and non-GAAP measures are more representative of how we internally measure our business. Unless otherwise specified, we will refer only to non-GAAP financial measures on this call. Please note that non-GAAP financial measures should not be considered in isolation from or as a substitute for GAAP measures. We have also provided a slide presentation that contains supplemental data for our fourth quarter and fiscal year and provides additional highlights and financial metrics regarding the aspirational goals we discussed today. The earnings release, supplemental tables, and presentation are available on the investor relations section of our website on blackbaud.com. With that, let me turn the call over to you, Mike."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "Thank you, Tom. Good morning, everyone. On our call today, in addition to talking through our normal highlights, I'm also very excited to outline our strategy and aspirational financial goals for the next several years. Let me start with a significant achievement in 2025 where we reached a major milestone. We accomplished our goal of becoming a Rule of 40 company two years ahead of plan. Our financial success is a result of a proven operating plan focused on company efficiencies and continuous product innovation, particularly in regard to AI enablement, improved effectiveness of our go-to-market programs, and a steadfast dedication to powering social impact centered in all we do with both our customers and employees. Blackbaud's multi-year trajectory moving forward will continue to be built on these tenets."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "We continue to invest aggressively in innovation to produce meaningful product enhancements throughout our portfolio, including generative and agentic AI capabilities. Our products enable our customers to raise more money while increasing operational efficiency, ultimately allowing them to spend more time executing on their charitable missions and less time on administrative tasks. Blackbaud brings nearly 45 years of specialized domain expertise. We serve as a system of record for our customers with deeply embedded workflows that are purpose-built for the social impact sector. Further, we have invested heavily in cybersecurity and AI governance to ensure that our customers' data remain secure and our AI solutions utilize this data in an ethical manner. Users in our vertical markets tend to be less tech-savvy than other industries, and nonprofits consistently deal with high turnover and staffing shortages."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "We win because our solutions are intuitive for the average nonprofit employee and don't require complex customizations or integrations. Our customers rely on us to interpret how new technological advancements such as AI can benefit them, and Blackbaud remains well-positioned to do that now and in the future. Our customers' confidence in our commitment to them is translating into longer renewal contracts. While our contract renewal program was designed for three-year contracts, more than 20% have asked to move to four-year or longer contracts. I now want to address head-on the big question our industry is facing: Will AI be beneficial to system-of-record vertical software firms like Blackbaud or detrimental? We are all in on AI. Every employee in the company has been required to get AI training. Every department, every employee."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "With that in mind, I'm going to first discuss how AI improves our ability to offer unique solutions to drive future growth. While new AI products are not meaningfully represented in our current financial guidance, they offer potential upside to our current expectations. I'll address how our internal use of AI is propelling our operations forward. Regarding our unique solutions, we have our entire engineering team using leading AI generative assistants such as Microsoft GitHub Copilot and Anthropic Claude in areas like code generation, software bug remediation, and new product development. We've introduced generative AI features across multiple products, and at the end of 2025, we released Blackbaud AI Chat, which provides contextual responses to questions and drives actions."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "Blackbaud AI Chat is an industry-leading innovation that only we could deliver because it's embedded within our systems of record that leverage customer and Blackbaud's unique data, as well as years of social goods-centric benchmark data. Blackbaud's competitive differentiation is very clear. We have a data moat. We have the most robust philanthropic data processed and gleaned in real time, combined with decades of domain experience. This cannot be commoditized. Our product synergies and native integrations across systems of engagement, systems of record, systems of financial accounting, and systems of intelligence add to our differentiation. From a customer adoption perspective, these AI features continue to see significant success."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "Our average daily AI chat usage grew five times since October, and now more than half of our Raiser's Edge NXT customers have machine learning-enabled donor prospecting that generates nearly 30 billion predictions annually, which generates tens of petabytes of data across our base. These AI capabilities are embedded as a seamless workflow within our products and utilize the internal data within our system of record solutions. Our solutions are powered by an extensive and diverse set of data sources. These include proprietary survey and benchmarking data from the Blackbaud Institute, combined with licensed datasets from leading providers, identity resolution capabilities, and specialized philanthropic datasets such as Blackbaud Giving Search. Our applied intelligence layer aggregates de-identified behavioral data across its ecosystem, which feeds advanced AI models and predictive analytics."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "Additional layers of insight come from usage patterns, feedback signals, and decision outcomes, all of which help to surface actionable intelligence for social good organizations. Our corporate action engine further utilizes external sources combined with the Blackbaud Verified Network to enhance eligibility verification, program measurement, and nonprofit profiling. What sets Blackbaud apart is not just the volume or variety of data, but how it's managed and applied. Our data foundation is built on principles of integrity, responsible governance, and outcome orientation, offering a unified and trustworthy platform for the social impact sector. Leveraging the four V's framework: volume, variety, velocity, and diligence, Blackbaud ensures high-quality, real-time, and secure data that supports billions of AI-driven insights annually. This robust ecosystem enables organizations to make informed decisions, optimizing fundraising, and maximizing impact. This data is not publicly available on the internet where LLMs can access it."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "We are now embedding new agentic AI solutions in our products that have full access to this data. We first introduced Blackbaud Agents for Good at our bbcon conference in October. Blackbaud Agents for Good are agentic virtual team members who can proactively take on complex tasks, workflows, and initiatives while operating within the governance oversight of power users. We plan on releasing many fully agentic products embedded within our system of record solutions near term and in the future. Our first Agent for Good, a fundraising development agent natively embedded within the trusted Blackbaud environment, enables teams to identify and steward donors that they do not have the capacity to reach today, unlocking new revenue streams for them at a fraction of the cost possible in the past. Here's an example of a university we're working with."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "They have 190,000 alumni, but their fundraising team only has the bandwidth to focus on the top 10,000. Our development agent is an additional staff member assigned to cultivate relationships and raise funds from the other unaddressed 180,000 alumni. This agent self-learns using the data, intelligence, workflows, and personas within our systems, then builds a relationship with alumni through email, text, and a full conversational avatar. This combination of our customer staff, AI agents, and Blackbaud fundraising solutions dramatically improves a customer's potential to raise funds in a secure and easy-to-use system of record. It's clear that our customers can distinctly benefit from this solution with a clearly defined ROI, but it also benefits us. This fundraising development agent is a new revenue line for Blackbaud. To frame this a bit, the pricing model is an annual subscription fee with multi-year contracts like the majority of our products."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "It's a bit early, but we expect the price will be in the tens of thousands per year, and we have thousands of existing customers. We will be cross-selling this too, in addition to new logo sales. Additionally, applicable donations raised by the development agent would be processed through the Blackbaud integrated payments, driving additional transactional revenue. This new development agent is already producing results for a number of early adopter customers, and we expect it will be fully commercially available later this year. This is the first of many agents we plan to introduce across our product portfolio as part of our Agents for Good initiative. To reiterate, we believe that new agentic AI solutions embedded within our systems of record provide a competitive advantage to Blackbaud. Our agents leverage our proprietary and customer-specific data within existing workflows, underpinned by a strong AI governance and cybersecurity framework."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "Additionally, we offer our solutions through a multi-year subscription model and do not utilize seat-based pricing. Now, moving to how we continue to leverage AI to transform the way we work, we continue to identify, experiment, and scale a range of successful solutions across marketing, customer success, and engineering to be an active innovator to apply AI and drive operational efficiency. Several examples of how we utilize AI internally include a sales development agent driving increased sales development representative conversations, book meetings, and ultimately sales pipeline, a contract renewal agent to streamline communications and improve engagement with our customers through automation of certain administrative tasks, a quality assurance agent that will be launched soon to automate and scale our QA process for customer support interactions, and as a general use application around personal productivity. All employees have access to Microsoft Copilot."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "Just in the last four weeks of 2025, we witnessed over 19,000 hours of AI-assisted outcomes with more than 196,000 actions completed. AI is making a significant impact on internal productivity. As I said, we're all in on AI, both with product innovation and internal operations. So when our customers or our employees ask me if AI can help them, my answer is absolutely. Before I turn the call over to Tony and then come back to outline the specifics of our long-term aspirational plan, I want to say how proud I am of Blackbaud's multi-year trajectory of extending our market leadership. We are providing our customers with the most intelligent solutions powered by AI and purpose-built for specific nonprofit use cases to help them pursue their world-changing missions."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "When combined with our role in their future opportunities across the social impact sector in our operational discipline, we see a clear path for achieving our long-term aspirational goals. For now, let me turn the call over to Tony to walk through our specific 2025 highlights in our '26 guide."
+    },
+    {
+      "speaker": "Anthony Boor",
+      "text": "Thanks, Mike. Our strong 2025 results closed out another successful year for Blackbaud, and as such, I continue to be excited about our ability to execute on our opportunities in the near, mid, and long term. Our results in 2025 add to our strong record of improved top-line organic revenue growth and dramatically improved profitability and cash flow. To reiterate, full year 2025 organic revenues were up 5.5% to $1,128,000,000. Adjusted EBITDA of $405,000,000 was up approximately 8% after adjusting for the estimated impact of the EVERFI divestiture."
+    },
+    {
+      "speaker": "Anthony Boor",
+      "text": "This represented an Adjusted EBITDA margin of 35.9%, up 220 basis points from 2024. Our ability to grow revenue and EBITDA speaks to the power of our operating plan, which continues to positively impact earnings per share and free cash flows. Non-GAAP EPS increased to $4.45, up approximately 12% year-over-year after adjusting for the estimated impact of the EVERFI divestiture. Adjusted free cash flow for the year was stronger than expected at $208,000,000, exceeding the high end of our upwardly revised guidance range despite a couple of significant one-time investments we made primarily in the first quarter of 2025. Our historical anticipated robust free cash flows provide us confidence to continue investment in a number of critical areas like product innovation and stock repurchases. We continued to aggressively repurchase our shares. We bought back approximately 8% of our common stock outstanding in 2025."
+    },
+    {
+      "speaker": "Anthony Boor",
+      "text": "This follows the 11% repurchased in 2024. We also reduced our debt leverage from 2.9 times in Q1 to 2.5 times at the end of the year. I'll provide more color on our 2026 capital allocation plans in a minute. Before I provide 2026 guidance, I want to provide color on several other factors to help you set expectations and align your models appropriately. In 2026, we're anticipating the following. Our 2026 financial guidance assumes no material changes, good or bad, in the current macroeconomic landscape or foreign exchange rates. The guidance assumes no viral event-based giving and no meaningful impact to 2026 revenue from AI products, which present potential revenue upside. Additionally, the guidance assumes no significant productivity gains from internal use of AI solutions."
+    },
+    {
+      "speaker": "Anthony Boor",
+      "text": "As you will have seen in the press release guidance, we expect full year 2026 organic revenue growth to be 4%-4.5%, while the GAAP revenue growth rate improved significantly at the midpoint of guidance. We expect full year 2026 non-GAAP revenue growth to be slightly lower than non-GAAP 2025 revenue growth for two main reasons. Transactional recurring revenue grew nearly 9% in 2025, which is slightly elevated compared to our historical CAGR of 8% between 2020 and 2024. Our guidance assumes transactional revenue growth more in line with historical norm, with no viral events included. Our 2026 contractual revenue renewal cohort is approximately 40% larger than last year. We expect this to have a negative impact of half a point to three-quarters of a point on total revenue growth for 2026. You can find more detail on slide 15 of our investor deck."
+    },
+    {
+      "speaker": "Anthony Boor",
+      "text": "Regarding quarterly revenue, due to strong transactional revenue performance in the first two quarters of 2025 and the fact that we do not include viral giving in our guide for 2026, we expect a slightly tougher compare in Q1 and Q2 of 2026. Additionally, we expect our revenue growth performance to be more heavily weighted into the back half of 2026. We have several growth initiatives expected to come online later in Q3 and largely in Q4, including some pricing optimization in our transactional products and modest contribution from AI initiatives Mike spoke to earlier. Turning to profitability, Q1 tends to be our lowest quarter from a profitability standpoint due to the timing of expenses related to employee benefits and employee stock award vesting. Additionally, our annual employee merit increases go into effect on July 1st. So Q3 and Q4 tend to have higher compensation-related costs to Q1 and Q2."
+    },
+    {
+      "speaker": "Anthony Boor",
+      "text": "Lastly, we're entering a new phase of our workforce strategy, including the expansion into India. This is a multi-year program to expand operations in the Global Capability Center or GCC. Starting in Q1 2026, we anticipate introducing a new adjustment to our non-GAAP financial measures to exclude the impact of the costs associated with this strategic initiative that we expect to provide long-term benefit to the company. We estimate these items to total approximately $6 million-$8 million in 2026, and the impact to free cash flow and the impact to free cash flow is included in the guide. Now moving on to guidance. For the year, we're projecting revenue in the range of $1,173,000,000-$1,179,000,000, representing organic growth of 4%-4.5% as reported."
+    },
+    {
+      "speaker": "Anthony Boor",
+      "text": "Shifting to profitability, we'll continue to focus on margin expansion opportunities while at the same time making investments in innovation, artificial intelligence, product roadmaps, cybersecurity, and global workforce strategy. Therefore, we anticipate non-GAAP Adjusted EBITDA of $430 million-$438 million, which implies Adjusted EBITDA dollar growth of 6%-8% year-over-year. With the overall revenue and spend configuration I just outlined in combination with our ongoing stock repurchase program, we expect 2026 non-GAAP EPS in the range of $5.15-$5.25 or growth of 16%-18% year-over-year. This is a big improvement in EPS, crossing $5 for the first time with strong growth in 2026. We continue to have sharp focus on driving free cash flow and returning capital to our shareholders."
+    },
+    {
+      "speaker": "Anthony Boor",
+      "text": "For the year, we're guiding to significantly increased free cash flow of $280 million-$290 million as we move past the approximately $60 million of one-time items and working capital fluctuations that negatively impacted our 2025 free cash flow. Our 2026 guidance range assumes a net positive impact of approximately $10 million-$15 million in cash tax savings related to the Omnibus Appropriations Act and partially offset by expenses associated with the expansion of our global workforce strategy. Underlying these guidance ranges, we have made the following assumptions. Non-GAAP annualized effective tax rate is expected to be 24.5% unchanged from last year. Interest expense for the year is expected to be approximately $62 million-$66 million compared to $68 million last year. Fully diluted shares for the year are expected to be approximately 45 million-46 million compared to 48.5 million last year."
+    },
+    {
+      "speaker": "Anthony Boor",
+      "text": "Capital expenditures for the year are expected to be approximately $60 million-$70 million, including $52 million-$62 million of capitalized software development costs. Looking to 2026 and beyond, we believe free cash flow will grow significantly, and we anticipate utilizing at least 50% of our cumulative free cash flow from 2026 to 2030 for stock repurchases. Beyond that, the company has tremendous optionality for dynamically allocating capital to its highest and best use based on market conditions, including additional stock repurchases, repayment of debt, or synergistic tuck-in M&A. We have a lot to be proud of. Along with our customers, we've done well through recessions, financial crises, COVID, and the shift to the cloud through commitment to providing meaningful solutions to our customers, strong execution of our operating plan."
+    },
+    {
+      "speaker": "Anthony Boor",
+      "text": "We remain committed to providing investors with an attractive financial model balanced between growth of revenues, earnings, and cash flows, along with a prudent and purposeful capital allocation strategy. As always, we remain focused on providing enhanced value to our customers and our shareholders. I'll now turn the call back over to Mike to talk more about our aspirational goals for the next five years."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "Thank you, Tony. I note that today's call is a unique format for us, but it's a unique time in software. As such, I'd like to spend the next several minutes providing a bit more color on our aspirational goals for the next five years and why we're an ideal platform for sustained profitable growth. While our record of past performance is compelling, we're just getting started."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "In addition to improving our operations, go-to-market capabilities, and increased pace of innovation, we have successfully addressed and closed the book on many of the challenges the company faced over the past few years, allowing us to focus on the value creation opportunities ahead in the near, mid-, and long term. So let's get down to more specifics on our aspirational goals. From 2026 through 2030, we are targeting organic total revenue growth 4%-6% with potential upside based on viral events and new product launches such as our Agents for Good catalog and new development agent I discussed earlier. Our revenues are driven by two primary revenue streams: our contractual software and our transactional solutions. Moving to profitability, we are targeting Adjusted EBITDA growth at 6%-8% CAGR between 2026 and 2030 while expanding our Adjusted EBITDA margin to 40%+."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "Margin and expenses are highly controllable and our success over the past several years should give you confidence in our discipline to continue improving our earnings. Slide 24 in our investor materials provides more detail on the planned initiatives to drive continued margin expansion, most of which are already underway. We expect this improvement in EBITDA will translate to strong free cash flow growth. The $285 million midpoint of our 2026 guidance range represents a 25% CAGR since 2020. These strong cash flows drive a purposeful capital allocation strategy with consistent stock repurchases as a core tenet. We expect to deploy 50% plus of our cumulative free cash flow generated between 2026 and 2030 to stock repurchase and continue to reduce our common stock outstanding."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "This is a continuation of our significant stock repurchase program of the last couple of years in which we've reduced common stock outstanding by approximately 13% since Q4 2023. Based upon the planned growth across revenue, EBITDA, and cash flow, as well as our aggressive repurchase of our shares, our goal is non-GAAP EPS CAGR of 13%+ between 2026 and 2030. We are off to a good start in that regard with expected non-GAAP EPS growth of 17% at the midpoint of 2026 guide, and we're confident in our ability to deliver double-digit EPS growth in 2027 and beyond. To conclude, we believe Blackbaud is a compelling investment with multiple opportunities for strong shareholder returns. From an operating financial and strategic perspective, we are thrilled to be carrying momentum into the years ahead."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "We look forward to our continued journey and would like to congratulate the entire Blackbaud team for a very strong year in fiscal 2025. And as always, thank them for the job well done. Thank you, and operator, we're happy to take questions now."
+    }
+  ],
+  "qAndA": [
+    {
+      "speaker": "Operator",
+      "text": "Thank you. If you'd like to ask a question, please signal by pressing star one on your telephone keypad. If you're using a speakerphone, please make sure your mute function is turned off to allow your signal to reach our equipment. Again, as a reminder, please press star one to ask a question, and please limit yourself to one question plus a follow-up to allow us to facilitate as many questions as possible. Our first question comes from the line of Brian Peterson with Raymond James. Please proceed with your question."
+    },
+    {
+      "speaker": "Brian Peterson",
+      "text": "Thanks, guys, and congrats on the strong quarter."
+    },
+    {
+      "speaker": "Brian Peterson",
+      "text": "So, Mike, I wanted to double-click on some of your comments as it relates to AI. You gave some details as it relates to pricing. I'm curious, is that kind of a fully deployed agentic pricing comment across multiple categories? Because I can see how agentics or Agents for Good can work in fundraising, but I can also see back office. How do they get grants? So it seems like there could be more there. So I'm just trying to think about what that opportunity could look like on a customer level with economics. And do you kind of envision them starting small and building over time, or have you seen customers really lean into this? We'd love to understand some of the early data points you have."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "Yeah, sure, Brian."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "So my comments, specifically when I was talking about pricing and the cross-sell opportunity, were just related to that first product, the development agent. We will have many products coming out in this catalog that we talked about at our customer conference. But product number one, that's a new revenue line for us, is this development agent. And so the pricing model and the opportunity for cross-sell that I mentioned in, and I think, new logos that it'll bring is just the first product."
+    },
+    {
+      "speaker": "Brian Peterson",
+      "text": "Got it. So it sounds like still more to come there. And I know you mentioned on some of the contract renewals that some customers were pushing for maybe the three-year to four years. Anything else that you can share on retention or pricing or cross-sell?"
+    },
+    {
+      "speaker": "Brian Peterson",
+      "text": "I know we have a bigger cohort coming up for renewal in 2026, so we'd love to kind of understand some of the moving parts and what you're seeing from customers as they come up for renewal. Thanks, guys."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "Yeah. Our renewals are remaining strong at our planned numbers. We have a bigger cohort this year, like you mentioned. Yeah, over 20% of our customers are on four-year or longer contracts. We've started this program years ago. Essentially, everyone's on a three-year or longer contract, and more than 20% are on four years and longer. There's no big difference between the success we've had in the past, except this year we just have a bit of a higher cohort than regular."
+    },
+    {
+      "speaker": "Brian Peterson",
+      "text": "Thanks, Mike."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "Yep, you bet."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Our next question comes from the line of Rob Oliver with Baird. Please proceed with your question."
+    },
+    {
+      "speaker": "Rob Oliver",
+      "text": "Great."
+    },
+    {
+      "speaker": "Rob Oliver",
+      "text": "Thanks, guys. Good morning. I have two questions, Mike. First one for you. Appreciate all the color and the targets. I wanted to ask about what you've seen a bunch of markets for nonprofits, and we're reading currently about some of the stress that nonprofits are seeing. There's a bunch of survey work out there about the impact of federal funding and local funding on some of these nonprofits. And I was wondering if you could just share with us some color from your discussions with customers about the current environment and what you're seeing there under stress, whether that creates risk or how you guys are addressing that, and whether you're seeing customers perhaps lean more towards providers with whom they've had a long-term relationship. And then I had a quick follow-up for Tony."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "Yeah, sure, Rob."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "So the ultimate stress in our market was COVID because customers closed their doors for a while, performing arts centers, museums, and others. And we saw them all open, so the resiliency test for our market was COVID. We do have customers that are getting either less or no government grants. It's not all of our customers. It's just a handful because many of them don't. But when that happens, they rely on us even more because we're the platform for donations. Our software solutions are not in the money flow of grants from state, local, or federal government. So if part of their revenue line is under pressure, they put more emphasis on the other part of their revenue line, which is a Blackbaud platform. We haven't seen any customers go out of business."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "We've seen them having to tighten their belts a little bit, but it's actually beneficial for us when the requirement and need of our platform is a higher percentage of their revenue. So we haven't seen this as an issue for our customers."
+    },
+    {
+      "speaker": "Rob Oliver",
+      "text": "Great. Okay. Thanks, Mike. I appreciate that. And then, Tony, one for you and a little bit of a follow-up on Brian's question earlier. So I appreciate the long-term targets. Very, very, very helpful. As you look at that top-line CAGR, I was wondering if you could provide us any color around the contribution to that, perhaps from, say, new logos versus pricing versus cross-sell. Any color that kind of rolls up into that core CAGR number on that would be extremely helpful. Thank you, guys."
+    },
+    {
+      "speaker": "Anthony Boor",
+      "text": "Yeah, thanks, Rob. I could start off there."
+    },
+    {
+      "speaker": "Anthony Boor",
+      "text": "So I think the big piece of information here is we do not have, in those long-term numbers, our new AI products represented. It's just too early. And so that product that I described, the development agent, and I gave some color around pricing and opportunity, is not included in the 2026 guide or the long-term aspirational. So we give the guide and the aspirational, and we always say plus the word plus. Well, that's where the plus comes from. So we think there's some interesting opportunities there, but we don't include that. And we've got a pretty good balance in those numbers, the long-term numbers, of some price increase, which is just part of the system now, which is part of the engine, some price increase with our multi-year contracts."
+    },
+    {
+      "speaker": "Anthony Boor",
+      "text": "As I mentioned, we've got a big part of our customers on four-year or longer, some new logos, and some cross-selling. And then also in there, about a third of our revenue was transaction revenue, and that's pretty healthy. It's kind of the high single digits organically. So that's built into those numbers as well."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Our next question comes from the line of Parker Lane with Stifel. Please proceed with your question."
+    },
+    {
+      "speaker": "Matthew Kikkert",
+      "text": "This is Matthew Kikkert for Parker. Thank you for taking our questions. Congratulations on the quarter. I'm curious, you mentioned the 50% of free cash flow that would go to repurchases through 2030. I'm curious, how much are you going to focus on maybe strategic M&A in the AI landscape out of that free cash flow as well?"
+    },
+    {
+      "speaker": "Matthew Kikkert",
+      "text": "And then secondly, leverage down to 2.5x, do you have a new leverage target in mind that you would like to see that at through 2030?"
+    },
+    {
+      "speaker": "Anthony Boor",
+      "text": "Yeah, I'll take the M&A part. So share repurchase is our top priority from a capital strategy standpoint. I think we've proven that in the last couple of years and stated that for the aspirational goals. As far as tuck-in M&A, still very much on the table, if you will. We're a natural buyer in this space. We've done really well in that area the last 10 years. And so there's always some interesting things that are typically small, founder-led, innovative solutions that might accelerate growth for us or expand our current footprint from a near-adjacency standpoint. So those are not off the table. It's just stock repurchase is the highest priority. And we've got capacity to do both quite well."
+    },
+    {
+      "speaker": "Anthony Boor",
+      "text": "What was the other part of this question?"
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "The second part, Matt, was related to the delevering, right? And thank you for the question. Obviously, the share repurchases remain a high priority, but at the same time, we're continuing to focus on the balance sheet, right? So from a modeling perspective, whenever you look at our 2026 diluted share count, the assumption of 45 million-46 million, right, our expectations based on the current share price and interest rate environment, we'll be able to not only continue to repurchase shares, but I would expect us to continue to delever as well, Matt. So we don't necessarily share that target, but at this point, I'd consider by the time we get to the end of the year, that'll be below that 2.5 point where we concluded 2025."
+    },
+    {
+      "speaker": "Matthew Kikkert",
+      "text": "Okay. That's all from me. Thank you."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Ladies and gentlemen, as a reminder, if you'd like to join the question queue, please press star one on your telephone keypad. Our next question comes from the line of Bill McNamara with Evercore ISI. Please proceed with your question."
+    },
+    {
+      "speaker": "Kirk Materne",
+      "text": "Hi. This is Bill on for Kirk, and thanks for taking my question. Looking at your long-term guidance, can you outline the key margin expansion catalysts and any high-level timing you can share, such as the data center closures, AI-driven efficiency gains, and your global workforce strategy?"
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "Yeah, sure. So those are the three key tenets. The internal use of AI is a significant opportunity for us. I talked a little bit about that in my prepared remarks. And it's a combination of driving future productivity and innovation from a product standpoint. We have AI usage across every department in the company."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "We're using AI in sales development and pipeline building to contract renewals. We have a quality assurance agent we're using. I talked about the use of Copilot across the entire employee base. There's a lot of use cases in engineering using tools like Microsoft Copilot and Anthropic Claude for lots of things, software bug remediation to QA to code generation. So there's a lot of opportunity there from a workforce standpoint. We established a pretty big footprint over the last 12-13 months in our Blackbaud India office. That continues to grow. That will grow substantially in the next 12-18 months go forward. Just a fantastic opportunity to get access to really highly talented direct employees. So we've moved away from third-party relationships. So moving away from third-party relationships, there's just a natural labor arbitrage there for us."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "So really great opportunities in workforce strategy, closing a couple of small data centers that are sort of the last two that we have. That was a multi-year effort. And then internal use of AI for productivity and innovation. So we see lots of really exciting, interesting opportunities across all three of those."
+    },
+    {
+      "speaker": "Kirk Materne",
+      "text": "Great. Thanks."
+    },
+    {
+      "speaker": "Michael Gianoni",
+      "text": "You're welcome."
+    },
+    {
+      "speaker": "Tom Barth",
+      "text": "Well, all right. Well, thank you, Melissa. And thank you, everyone, for joining us today. We will be attending a number of investor events in February and March to include several conferences, which are listed on our Investor Relations site. We hope to see you then and/or speak with you very soon. So we wish you continued success and have a wonderful day."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. This concludes today's teleconference. You may disconnect your lines at this time. Thank you for your participation."
+    }
+  ],
+  "totalTurns": 69
+}

@@ -1,0 +1,630 @@
+{
+  "ticker": "PCTY",
+  "period": "Q1 2026",
+  "eventDate": "2025-11-04",
+  "preparedRemarks": [
+    {
+      "speaker": "Operator",
+      "text": "day and thank you for standing by. Welcome to the Paylocity Holding Corporation first quarter 2026 fiscal results conference call. At this time, all participants are in a listen-only mode. After the speaker's presentation, there will be a question-and-answer session. To ask a question during the session, you will need to press star one one on your telephone. You will then hear an automated message advising your hand is raised. To withdraw your question, please press star one one again. Please be advised that today's conference is being recorded. I would now like to hand the conference over to your speaker today, Ryan Glenn, Chief Financial Officer. Please go ahead."
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "Good afternoon and welcome to Paylocity's earnings results call for the first quarter of fiscal 2026, which ended on September 30th, 2025. I'm Ryan Glenn, Chief Financial Officer, and joining me on the call today are Steve Beauchamp, Executive Chairman, and Toby Williams, President and CEO of Paylocity. Today, we will be discussing the results announced in our press release issued after the market closed. A webcast replay of this call will be available for the next 45 days on our website under the Investor Relations tab. During the call, we will use certain non-GAAP financial measures as defined in Regulation G. You can find the related reconciliations to GAAP in our press release, which is located on our website at paylocity.com under the Investor Relations tab. We will also make forward-looking statements. Actual events or results could differ materially from those projected in our forward-looking statements."
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "Please refer to our press release and SEC filings, including our most recent 10-K, which contains important factors that could cause actual results to differ materially from the forward-looking statements. We do not undertake any duty to update any forward-looking statements. In regard to our upcoming conference schedule, we will be attending the annual Needham Tech Week, the Cowen Virtual Human Capital Management Summit, the Barclays Global Tech Conference, the Raymond James Tech Conference, and the Needham Growth Conference. Please let me know if you'd like to schedule time with us at any of these events. With that, let me turn the call over to Steve."
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "Thank you, Ryan, and thanks to all of you for joining us on our first quarter fiscal 2026 earnings call."
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "We started off fiscal 2026 with strong financial results, with Q1 recurring and other revenue growth of 14%, as our differentiated value proposition of providing the most modern software in the industry continues to see success in the marketplace. Total revenue was $408.2 million, or 12% growth over Q1 of last year. Our growth continues to be led by our ongoing commitment to driving innovation and providing the most modern AI-driven platform for business, highlighted by the recent launch of Paylocity for Finance, which expanded our market-leading workforce platform for HCM into the office of the CFO, which we have further expanded across IT."
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "We are very pleased with the early response from both existing clients and prospects to the value proposition of managing all spend and key business workflows in a single AI-driven platform across critical company functions: HR, finance, and IT, all driven by employee data, which contributed to our strong results in the quarter and the increased confidence reflected in our updated fiscal 2026 guidance. Our AI strategy is also setting us apart in the market and contributing to our strong financial results and increased guidance as we expand and deepen AI capabilities throughout our platform to deliver the next level of business impact and user experience. For example, at HR Tech in September, we announced the next generation of our AI assistant, which now turns everyday questions into instant action by providing users the answer, data, or the workflow needed across both desktop and mobile."
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "With our AI assistant, users can now ask, \"How many vacation days do I have left this year?\" and immediately see their up-to-the-minute vacation balance with a direct link to submit a new request. Or a manager may say, \"Show me open headcount for my department,\" and the AI assistant will show real-time openings for their specific teams or department and provide direct links for planning new hires, backfills, or role transfers. We believe these enhancements will help to further increase the value proposition of our platform and is beginning to drive wider product adoption across our client base by enabling an even more simplified user experience with direct access to answers and actions. To this point, in the past year, usage of our AI-powered features has more than doubled, including over 1.2 million questions answered by our AI assistant."
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "Our innovation also continues to be recognized by third parties, as Paylocity was recently named as an overall leader across 10 HCM product categories in the latest G2 Fall 2025 grid reports. I would now like to pass the call to Toby to provide further color on the quarter."
+    },
+    {
+      "speaker": "Toby Williams",
+      "text": "Thanks, Steve. As Steve noted, we continue to see strong demand for our platform across our target market, and we're pleased with the momentum of our sales team as we enter the heart of selling season, as evidenced by our strong Q1 recurring revenue performance. We also continue to be pleased with the consistency of our referral channel, which once again delivered more than 25% of our new business in Q1. The sustained success of our broker channel continues to be driven by our modern platform, third-party integration, and API capabilities, and because we do not compete against our broker partners by selling insurance products. We remain committed to investing in and supporting the broker channel with a goal of continuing to deliver real value and true partnership and support to our referring brokers and their clients."
+    },
+    {
+      "speaker": "Toby Williams",
+      "text": "We also saw strong client retention in the quarter, which contributed to our strong financial performance and reflects our commitment to world-class client service and client partnership. As Steve noted, our AI strategy has continued to progress, delivering predictive and actionable insights, generative AI functionality, the Paylocity AI Assistant, and a growing number of autonomous agents across the platform to drive productivity through task and workflow automation that goes beyond the basic search capabilities that are considered table stakes in today's evolving AI landscape. Our continued investment in AI across our platform is driving increased adoption of our broader product suite, with these new features resulting in simplified and connected user experience across HCM, finance, and IT use cases, driving higher utilization and increased business value for our clients."
+    },
+    {
+      "speaker": "Toby Williams",
+      "text": "While still in the early days, we are seeing this translate to stronger product penetration, higher average revenue per client, and improving client satisfaction and retention. In addition to embedding AI capabilities within our product suite, we are also investing in AI and broader automation efforts internally to help drive greater efficiency and productivity across our business. For example, our engineering teams are now using AI coding assistants on a daily basis for code generation, testing, and design mockups, and are realizing increased productivity and code quality through these investments. Similarly, our operations teams have seen a reduction in client case volumes, and our sales teams are investing in AI tools to drive efficiencies in our go-to-market motion to automate rep day-to-day activities."
+    },
+    {
+      "speaker": "Toby Williams",
+      "text": "We will continue to invest in AI and broader automation and believe these investments will drive further efficiencies and provide for more time to focus on strategic and value-added work for all of our teams, while also driving continued leverage in our business over time. Next week, we will hold our annual Elevate Client Conference, where we will host thousands of business leaders representing HR, finance, IT, and operations across dozens of sessions over the course of two days. At Elevate, we will highlight the continued investments in our differentiated AI strategy and our expanding platform capabilities, delivering automated workflows and seamless user experiences across the platform enabled by AI. In addition to our market-leading financial performance, our strong culture at Paylocity continues to be recognized externally as we were recently named to TIME's America's Growth Leaders 2026 list."
+    },
+    {
+      "speaker": "Toby Williams",
+      "text": "I will now like to pass the call to Ryan to review the financial results in detail and provide updated fiscal 2026 guidance."
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "Thanks, Toby. Total revenue for the first quarter was $408.2 million, an increase of 12%, with recurring and other revenues up 14% from the same period last year. Our sales team had a solid start to the year across both our HCM and finance suites, and we were pleased to come in $5.7 million above the top end of our revenue guidance, with the majority of our revenue beat once again coming from recurring and other revenue, allowing us to raise our fiscal year guidance by more than our beat in Q1. Our adjusted gross margin was 75.1% for Q1 versus 74% in Q1 of last year, representing 110 basis points of leverage as we continue to focus on scaling our operational costs while maintaining industry-leading service levels."
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "We continue to make significant investments in research and development, and to understand our overall investment in R&D is important to combine both what we expense and what we capitalize. On a dollar basis, our year-over-year investment in total R&D increased by 16.4% when compared to the first quarter of 2025, and we remain focused on making investments in R&D throughout fiscal 2026 as we continue to build out the Paylocity platform to serve the needs of the modern workforce. In regards to our go-to-market activities, on a non-GAAP basis, sales and marketing expenses were 21.3% of revenue in the first quarter, and we remain focused on making investments in this area of the business in fiscal 2026 to drive continued growth. On a non-GAAP basis, G&A costs were 8.8% of revenue in the first quarter versus 9.5% in the same period last year, representing 70 basis points of leverage."
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "Briefly covering our GAAP results, for Q1, gross profit was $279.8 million, operating income was $74.2 million, and net income was $48 million. Our Adjusted EBITDA for the first quarter was $146.4 million, or 35.9% margin, and exceeded the top end of our guidance by $11.4 million, resulting in increased margin guidance for fiscal 2026. Excluding the impact of interest income on funds held for clients, Adjusted EBITDA margin for Q1 was up 110 basis points over Q1 of fiscal 2025, and we continue to be pleased with our ability to drive both durable recurring revenue growth and expanded profitability."
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "To this end, we remain focused on driving leverage by improving operational scale and through improved efficiencies resulting from our ongoing investments in automation and AI across our business, which are helping us scale our teams and providing the ability to focus on more strategic work, which is ultimately helping to drive increased adjusted gross margin, Adjusted EBITDA, and free cash flow. Additionally, given the confidence we have in our business and our strong cash flows, in Q1, we repurchased nearly 1.2 million shares of common stock at an average price of $173.30 per share for $200 million in aggregate repurchases. Since May of 2024, we have repurchased approximately $500 million, or 3 million shares, and with $500 million remaining under the current repurchase program, we anticipate continuing to be active going forward."
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "In addition to our expectations for continued growth in Adjusted EBITDA and free cash flow, the combination of increased profitability and reduced diluted shares outstanding will drive continued expansion of earnings per share on an annual basis. In regard to cash flows, we expect the impact of the recent tax legislation changes to benefit fiscal 2026 free cash flow by approximately $65 million as a result of a reduction in our fiscal 2026 cash tax payments, primarily driven by changes to tax deductibility rules for domestic R&D costs, and we continue to be pleased by our ability to drive the best combination of recurring revenue growth and free cash flow margin in the industry."
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "Looking at the balance sheet, we ended the quarter with $165.2 million in cash, cash equivalents, and invested corporate cash, and $81.3 million outstanding on our credit facility related to the Airbase acquisition, with approximately $81.3 million repaid on our outstanding balance in Q1. In regard to client held funds and interest income, our average daily balance of client funds was approximately $2.9 billion in Q1. We're estimating the average daily balance will be approximately $3 billion in Q2, with an average annual yield of approximately 360 basis points, representing approximately $27 million of interest income in Q2. On a full-year basis, we're estimating the average daily balance will be approximately $3.25 billion, with an average annual yield of approximately 340 basis points, representing approximately $110 million of interest income."
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "In regard to interest rates, our guidance reflects the recent 25 basis point rate cuts in each of September and October, with additional 25 basis point rate cuts in each of December, March, and April. Note, our guidance reflects an additional 25 basis point rate cut during fiscal 2026 versus our initial expectations for the year we provided on our August earnings call. Before I provide our updated financial guidance, as a result of the confidence we have in our ability to drive durable growth, the significant profitability increases we've realized over the last several years, the long-term opportunity we see in AI and automation benefits, and natural scale in our business, we are increasing our long-term financial targets as follows. Our revenue target increases from $2 billion to $3 billion. Our adjusted gross margin target increases from 75% to 80%-80%+."
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "Our non-GAAP total R&D target remains at 10%-15% of revenue. Our sales and marketing spend target decreases from 20%-25% to 15%-20% of revenue. Our G&A spend target decreases from 5%-10% to 5%-7% of revenue. Our Adjusted EBITDA margin target increases from 35%-40% to 40%-45%. Our free cash flow margin target increases from 20%-25% to 25%-30%. Our stock-based comp target decreases from less than 10% of revenue to 5% of revenue, and we expect to make progress against these updated financial targets on a go-forward basis. There is a table in our earnings press release that provides our prior and updated financial targets for reference. In regards to our financial guidance for Q2 and full fiscal 2026, for the second quarter of fiscal 2026, recurring and other revenue is expected to be in the range of $378.5 million-$383.5 million, or approximately 10% growth over second quarter of fiscal 2025 recurring revenue."
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "Total revenue is expected to be in the range of $405.5 million-$410.5 million, or approximately 8% growth over second quarter of fiscal 2025 total revenue. Adjusted EBITDA is expected to be in the range of $131.5 million-$135.5 million, and Adjusted EBITDA, excluding interest income on funds held for clients, is expected to be in the range of $104.5 million-$108.5 million. For fiscal 2026, as a result of the strong results we are seeing across our HCM, finance, and IT solutions, and our confidence in our ability to continue to drive competitive differentiation in our AI strategy, we are increasing all aspects of our guidance as follows. Recurring and other revenue is expected to be in the range of $1.605 billion-$1.620 billion, or approximately 10% growth over fiscal 2025 recurring and other revenue."
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "Total revenue is expected to be in the range of $1.715 billion-$1.730 billion, or approximately 8% growth over fiscal 2025 total revenue. Adjusted EBITDA is expected to be in the range of $615 million-$625 million, and Adjusted EBITDA, excluding interest income on funds held for clients, is expected to be in the range of $505 million-$515 million, which represents approximately 40 basis points of leverage at the midpoint. In conclusion, we are pleased with our Q1 results, the early success of Paylocity for Finance, and the continued momentum we have across our sales and operations teams as we enter the busiest time of the year. Operator, we're now ready for questions."
+    }
+  ],
+  "qAndA": [
+    {
+      "speaker": "Operator",
+      "text": "Thank you. As a reminder, to ask a question, please press star one one on your telephone and wait for your name to be announced. To withdraw your question, please press star one one again. In the interest of time, we ask that you please limit your questions to one question and one follow-up. Please stand by while we compile the Q&A roster. And our first question comes from Brad Reback of Stifel. Your line is open."
+    },
+    {
+      "speaker": "Brad Reback",
+      "text": "Great. Thanks very much. Can you all give us an update on the macro, maybe how things were trending over the course of the quarter into October, and your headcount assumptions in the updated guide?"
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "Yeah. Hey, Brad. It's Ryan. I think what we saw in the quarter was continued stability, so workforce levels at our clients were up a touch year over year, very consistent with what we saw in Q4, a little bit better than expectations, and, from a guidance standpoint, continue to have the same philosophy, so we've assumed flat workforce levels over the balance of the fiscal year. That was our experience, as I said, not only in the quarter but through October as well, and continue to run the same playbook relative to guidance, so I feel like if we continue to see strong execution, we have the ability to beat raise and continue to feel like we've got a level of prudence embedded in guidance as well."
+    },
+    {
+      "speaker": "Brad Reback",
+      "text": "That's great. Thanks. And then switching to the updated long-term guidance, and I appreciate that I may not be able to perfectly parse the answer on this, but if you think about the natural scale of the business driving the upside versus AI benefit helping to drive the upside, does it skew more one way than the other?"
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "Yeah. I think still early days from AI and automation, but I think where we sit today, that gives us certainly incremental confidence on a multi-year basis to be able to continue to drive leverage. We've always had confidence that this business will continue to scale. That continues to be the case. You heard in the prepared remarks, Toby, reference reduced case volume we're seeing in our operational teams, all of our engineers using coding assistance. My teams are using it from a back office standpoint as well. So not sure I'd parse out how to break out the leverage we'll see on a go-forward basis, but certainly seeing the early benefits both from a margin expansion standpoint as well as the ability for the teams to really focus on the most important elements of the business."
+    },
+    {
+      "speaker": "Brad Reback",
+      "text": "Great. Thanks very much."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. And our next question comes from Mark Marcon of Robert W. Baird. Your line is open."
+    },
+    {
+      "speaker": "Mark Marcon",
+      "text": "Hey, good afternoon, and thanks for taking my questions. Really nice quarter. I'm wondering if you can talk a little bit about the Office of the CFO and the Airbase acquisition. Can you give us a little bit more dimensions with regards to number of clients approached, what the go-to-market motion is? I know it's early, but still any sort of reading on the sales trajectory, who is it appealing to the most, etc.? We demoed it at HR Tech, and we thought it was really slick, and it sounds like it's got a really good ROI for users to take it up. So I'm just trying to get a little bit more color in there."
+    },
+    {
+      "speaker": "Toby Williams",
+      "text": "Hey, Mark. It's Toby. Thanks for your question. I'm glad you got the chance to actually check the product out at HR Tech. We're pretty proud of what we've been able to launch so far. I mean, I think I would start with just a few comments on the quarter. I think, to your beginning part of your question, I think it was a strong quarter really across the board for the business. And we had mentioned in the prepared remarks that the launch, which we did in July of v1 of the Finance product, I think, has really been well received in the market."
+    },
+    {
+      "speaker": "Toby Williams",
+      "text": "I think we are starting to see early days still, of course, just with the launch in July, but I think starting to see traction in the market both from a new client perspective and back into the client base, which is an important part of the motion. And to the part of your question on the go-to-market piece, those are both avenues for us, both with new clients coming onto the Paylocity platform and then being able to add that value through our platform back into the client base. So I think early days, but I think we're pleased with the momentum and the trajectory that we're seeing. I think the thesis has very much been validated in terms of the value of having that product set and that category on the platform and the value that that can add to clients."
+    },
+    {
+      "speaker": "Toby Williams",
+      "text": "So I think overall, we're pretty happy in the early days."
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "Yeah. The one additional comment I would make, Mark, is the feedback we get from our field, who we've got fully trained on the product, they're identifying prospects. They're really telling the broader story upfront. It's certainly helping from an overall differentiation perspective. And then we've got an inside sales team that can take those spend management opportunities and take them over the finish line. And so we're seeing really good partnership across our organization, and we're getting really good feedback that this is really resonating with prospects in our overall platform differentiation."
+    },
+    {
+      "speaker": "Mark Marcon",
+      "text": "That's great. And then, really nice performance for the quarter. The EBITDA ended up beating roughly by $13.4 million. But you raised the guide by less than the beat. What would be the driver for that in terms of what you ended up doing in terms of the full-year guide for Adjusted EBITDA?"
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "Yeah, Mark. I think similar thoughts relative to a level of prudence and guidance. I think really happy with Q1, as you said, strong performance versus our expectations. We're certainly seeing some of the benefits of the investments we've made to continue to scale the business. There's always some timing elements, certainly one quarter into the year, want to maintain a level of flexibility to make the investments that we've talked about to drive continued growth. But to the same point, we are expecting increased profitability for fiscal 2026. We're guiding to leverage again in Q2 as well. So probably some timing elements of that. And I think, as you've seen historically, to the extent we continue to see overperformance, then that would accrue to increased margin as we go over the balance of the fiscal year."
+    },
+    {
+      "speaker": "Mark Marcon",
+      "text": "I appreciate that. Thanks a lot."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. And our next question comes from Daniel Jester of BMO Capital Markets. Your line is open."
+    },
+    {
+      "speaker": "Daniel Jester",
+      "text": "Great. Thanks for taking my question. Maybe Steve or Toby. You've been talking about the opportunity in the IT department of your customers a little bit more recently. So I'd love if you could maybe expand on sort of the opportunity you see there. And how should we view that relative to Paylocity for Finance?"
+    },
+    {
+      "speaker": "Toby Williams",
+      "text": "Yeah. I think just from a product perspective. We have the opportunity to really leverage the employee record data that we have to be more comprehensive in terms of the tasks we can help our customers accomplish when they onboard and offboard employees. We know who they work for. We know the department they need. And now, in our product, we can store the equipment that they need. We can track all of the devices. Through partnership and API, we can really help them get the equipment delivered right on site."
+    },
+    {
+      "speaker": "Toby Williams",
+      "text": "So it's both asset management. As well as identity management, really leveraging the employee record data. So that's also kind of in the early inning, so similar comments to Paylocity for Finance. But I would make the same comment I made earlier, which is it's really helping from an overall platform differentiation. We're seeing great feedback from clients that are on the service already. And so when you combine leading HCM, modern platform with the ability to scale across finance and IT, we think we have a more unique value proposition. Than we had a year ago prior to the launch of those two categories."
+    },
+    {
+      "speaker": "Daniel Jester",
+      "text": "Great. Thank you. And then on the updated financial target that you provided today, I guess. Why was this the right time to update them? If I remember correctly, I think you just updated the $2 billion revenue target not even two years ago. So."
+    },
+    {
+      "speaker": "Daniel Jester",
+      "text": "Maybe a little bit more context would be helpful in terms of why you decided to make these adjustments to the long-term model today. Thank you so much."
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "Yeah. Hey, Dan. It's Ryan. I think we've obviously been really pleased with the progress we've made across those prior targets, which we did set in August of 2023. Since that time, we've driven several hundred basis points of EBITDA leverage, free cash flow leverage as well. We've reduced stock-based comp. So I think these updated targets are really just an acknowledgment of what we see as continued confidence in the ability to scale the business. Having made a lot of progress against those prior targets, it felt like the right time to acknowledge the fact that we continue to have a lot of confidence in driving durable revenue growth across the business, being able to scale from a profitability standpoint."
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "And I think this is that natural extension. When you start to layer on the early benefits we're seeing, automation and broader AI, I think that is another element that, as we looked at where we are from a financial standpoint, gave us incremental confidence. As you think about that $3 billion target, 25%-30% free cash flow, this is a very attractive opportunity for us and one that we think when you look at $3 billion of revenue, 30% free cash flow margin, we're really excited about what that can be on a multi-year basis."
+    },
+    {
+      "speaker": "Daniel Jester",
+      "text": "Great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Our next question comes from Terry Tillman of Truist Securities. Your line is open."
+    },
+    {
+      "speaker": "Connor Passarella",
+      "text": "Oh, great. Good evening, team. This is Connor Passarella on for Terry. Appreciate you taking the question. I just wanted to follow up on the previous one, looking at the long-term targets, specifically around the updated $3 billion of total revenue. So I guess just as you look at FY 2026 here, maybe what are the one or two execution milestones, whether it's cross-penetration of Paylocity for Finance, attach rates on newer modules, or even partner productivity that you kind of view as the highest confidence drivers toward driving towards that $3 billion long-term target?"
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "Yeah, sure. So I'll start. So first of all, I think I would like to mention that we've got a huge TAM. And so we're still relatively low penetration in terms of the total addressable opportunity in front of us. And so we think there's a ton of runway just in the HCM category. So by no means extending into the other categories does that mean we don't think we're excited about what we can do in HCM. And then I think you add on top of that the ability for us to expand that HCM TAM by moving into the office of the CFO as well as IT. It gives us even greater confidence in being able to scale this business from under $2 billion today to that $3 billion target, and then, to Ryan's point, hitting all of those other profitability metrics at the same time."
+    },
+    {
+      "speaker": "Toby Williams",
+      "text": "The only thing I'd add is I think there's all of the above elements to your question in terms of continuing to drive the unit growth consistently that we have been able to drive and also increasing the overall ARPU on a go-forward basis. And I think part of what Steve said is what gives us the opportunity to do that on the ARPU element. But I think as we look at 2026 in particular, I think we're taking, again, same as we did last year, a pretty balanced view of the ability to continue to drive new client acquisition, drive unit growth, while also expanding the ARPU, which has been, I think, a key part of the growth algorithm for years. And I think we see that same opportunity as we look forward to that $3 billion mark."
+    },
+    {
+      "speaker": "Connor Passarella",
+      "text": "Yeah, that's great. It's really helpful. Maybe just as a follow-up, so as you continue to take Paylocity for Finance to market, how are you kind of thinking about the pricing? Are you kind of thinking about this more of testing on a standalone versus bundle approach? Or what do you guess, what I guess, are you learning about the willingness to pay from the early adoption of clients? Thank you, guys."
+    },
+    {
+      "speaker": "Toby Williams",
+      "text": "Most of the way that we price across the suite really ends up being on a bundled basis, and that's not anything new for us. So that's a consistent approach that we have taken with whether it's things in the office of the CFO from a finance and spend management perspective or from an IT perspective. So pretty consistent strategies we have looked to extend into those areas and the bundled approach that we've taken, whether that's from a new client perspective or otherwise."
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "I think the only thing I would add is we have the flexibility with some of these newer product offerings. If we think that a per-user model is more attractive to the market, we can easily pivot to that. To Toby's point, we kind of sell it as a bundle, and here's what your whole overall annual spend would be."
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "Here's the ROI you're going to get on that investment. So no real change in the sales motion, but we definitely see some of our products being priced on a per-user basis, obviously a higher price point, lower number of users, whereas the HCM products are largely on a per-employee basis."
+    },
+    {
+      "speaker": "Toby Williams",
+      "text": "I think the interesting thing about what we've seen so far as we've gone to market still in the early days is the fact that there is a willingness to pay based on the value that's being delivered. So I think that's certainly a part of the traction that we've seen is clients and prospects are finding value in it. They're willing to invest in it, and that has not been a challenge from a value perceived and price perspective."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you, and our next question comes from Siti Panigrahi of Mizuho. Your line is open."
+    },
+    {
+      "speaker": "Siti Panigrahi",
+      "text": "Thank you. Thanks for taking my question. I just want to drill into the comment, strong demand environment. Can you talk about the demand you are seeing in a different employee segment? And specifically, now that your platform, you offer finance, HR, and IT, what kind of feedback you are hearing from different employee segment-based about the value you offer versus your competitors?"
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "Yeah. I think through the course of Q1, we've seen a very stable demand environment. I think really pleased with the results overall in Q1. And I think that's part of what's reflected in that is the strength of the execution in our go-to-market teams. And that was really well balanced across the entirety of the target market that we're focused on. So I wouldn't call out any specific difference, whether it's in HCM or the finance area, in any segment that we have. I think it's pretty broad-based, and I think the demand environment was stable throughout the course of the quarter. And I think our teams did a really good job from an execution perspective and go-to-market across the segments that we're in."
+    },
+    {
+      "speaker": "Siti Panigrahi",
+      "text": "Okay. And as you talk about efficiency gain from all the AI users in engineering, sales, marketing, and operation. It's early stage at this point, but as you gain efficiency, are you planning to invest back that more into your go-to-market and sales to drive growth, or are you going to offer more efficient margin?"
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "Yeah. So I think we've had a pretty consistent approach of driving margin expansion across most of the line items. We also see a big opportunity to continue to invest in products so that we can fuel that growth. And so you can see R&D spend was up nicely. While at the same time, we were able to get margin across the board everywhere else, more than make up for that. And so we're always making that balance of decisions. We're confident in the long-term prospects of the business. We think there's great opportunities to continue to invest in R&D while at the same time getting leverage in all the other parts of the business. And so I think you see that kind of reflected in the long-term guidance that we, the new long-term guidance that we just launched today."
+    },
+    {
+      "speaker": "Siti Panigrahi",
+      "text": "Perfect. Thank you so much."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. And our next question comes from Raimo Lenschow of Barclays. Your line is open."
+    },
+    {
+      "speaker": "Sheldon McMeans",
+      "text": "Hi, this is Sheldon McMeans on for Raimo Thanks for taking our question. I would love to ask, you have your upcoming Elevate conference. Is there any insight from sign-ups for the event or broadly from your top of funnel metrics that you're seeing? And can you speak to how that plays into your thinking entering the large end of your selling season?"
+    },
+    {
+      "speaker": "Toby Williams",
+      "text": "Well, I think so far, I mean, you can see what I think we believe were pretty strong results in Q1, so I think we're pretty happy with how our go-to-market motion has progressed through the course of the fiscal year. You're right. We're definitely in the heart of selling season, and I think would just give you that same commentary. I think we've been really pleased with our go-to-market initiatives and efforts throughout the course of the year so far to date, and I think we're certainly excited about Elevate."
+    },
+    {
+      "speaker": "Toby Williams",
+      "text": "That's always a great opportunity for us to spend time with our existing clients, and really excited about the registration levels that we've seen so far, so I feel like we have had year-to-year positive momentum with Elevate, and I think we do again this year, and I think we are, again, just excited to be able to spend time with clients. It's always, I think, a valuable set of days for us."
+    },
+    {
+      "speaker": "Sheldon McMeans",
+      "text": "Got it. Understood. Thank you. And so I would love to ask on the new generation of the AI assistant, just any color on. Sometimes it's great when your salespeople have a new, nice product to sell. I know you're not explicitly monetizing it, but is there an opportunity to go back to your customer base, show off that new product, and potentially drive more platform expansion? Because from my understanding, you need to have all of the underlying modules to extract the most value from the AI solution."
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "Yeah. I think you heard us say in the prepared remarks that some of our investments in AI are driving broader product adoption and kind of sale back to the client base. And so I think you're absolutely correct. The more products you use, the more value you can get out of these integrated AI experiences, where something that might be more difficult to use, I might have to take three or four different steps to figure that out. It's pretty seamless, certainly from an employee and manager perspective. I can use natural language. I can interact with the software. It really simplifies the user experience, and it really makes that value proposition much easier for a customer to implement and use. I think we're still in the early innings of that, but we are definitely seeing that trend early on."
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "And I think if you really talk to the customers, that's where they're getting a ton of value. My employees are going to be asking me less questions because it's super easy for them to get things done. I myself, as an administrator, you've reduced the number of steps that it takes for me to accomplish the task. You're automating from an agentic experience things that I used to have to do manually. And so that's the concept really where we see the differentiation opportunity. And the simpler we can make that user experience, the more product adoption. And I think that it's also true as you start to extend beyond HCM and think about the integrated experience across IT and finance."
+    },
+    {
+      "speaker": "Sheldon McMeans",
+      "text": "Great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. And our next question comes from Jared Levine of TD Cowen, and your line is open."
+    },
+    {
+      "speaker": "Jared Levine",
+      "text": "Thank you. I first want to start on your IT offering. So with the Airbase acquisition, you called out an ARPU comparable to HCM, somewhere in the neighborhood of like $25,000-$30,000. Can you talk about the ARPU opportunity your IT offerings present?"
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "Yeah. I would say it's a little bit smaller. We're a little bit earlier in the launch of that cycle. We certainly have clients on it. We are actively selling it in the market, but. We're probably just from a timing perspective, a couple of quarters behind where we were with the Airbase offering. I don't think we're prepared to give you kind of the exact number. What I would say is it's larger than most of our HCM modules. And so I think we're excited about that. So it's a good-sized revenue opportunity. And again, some of this is a little bit of pricing mix. Some of you had a price on a per-user basis versus per employee. So there's a mix there. But think about it as somewhere between one of our larger HCM modules and that Airbase number."
+    },
+    {
+      "speaker": "Jared Levine",
+      "text": "Got it. And then, Ryan, in terms of, I heard you in terms of the $65 million of expected tax benefit this year from OBBA, but any headwinds to be mindful of as we think about FY27?"
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "I think we're calling that out as a one-time benefit in fiscal 2026. So you'd have to adjust the model as that benefit would not be recurring. I think there are likely some other tailwinds from the new tax legislation that will help in 2027, but that big element, that $65 million, is one-time. So I would adjust that out in 2027. Outside of that, there's nothing at this time that I would call it on free cash flow, other than the fact that we would expect to continue to drive leverage, certainly in 2026, but on a go-forward basis as well."
+    },
+    {
+      "speaker": "Jared Levine",
+      "text": "Got it. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. And our next question comes from Jake Roberge of William Blair. Your line is open."
+    },
+    {
+      "speaker": "Jake Roberge",
+      "text": "Yeah. Thanks for taking the questions. Just wanted to follow up on the demand environment. Can you talk more about how the start to the end of the year selling season has gone thus far and just how the pipeline you're seeing this year may compare to some of those prior year periods?"
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "Yeah. I think it's been good so far. I mean, we've described the demand environment as being stable. I think from a quarter-to-quarter perspective, throughout the course of last year, we would have called out stability in the demand environment and then strong execution from our go-to-market teams, which is really what gave us, I think, a great performance in the course of fiscal 2025. And I think that has really carried through into Q1. And as we've really gotten into the heart of selling season, I think the demand environment has continued to be stable, and our teams have executed really well. So I think we have. We're pleased with the momentum that we've seen so far from both the pipeline and a conversion standpoint."
+    },
+    {
+      "speaker": "Jake Roberge",
+      "text": "Okay. That's helpful, and then just on the sale side, now that you're selling a bigger platform into a few different departments, are you seeing any changes to the time it takes you to close a deal, just given you may need more signatures, or have those remained fairly consistent since the launch of Paylocity for Finance?"
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "Yeah. I would say no, we have not. We've been very conscious of that fact, and I think our go-to-market strategy really mitigates the potential to have elongated sales cycles, so we're very comfortable getting them up and running on any of the products first and foremost, and it typically happens with HCM since that's obviously the bigger part of our suite today, and then they may take a little bit longer to implement any of the additional modules. That's a motion we're very used to. That happens sometimes even within the HCM products, and so we try to get them up and running, deal with the decision-makers that are ready to move. I think it's important that they understand the breadth of the platform, and then sometimes they implement at the same time."
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "Sometimes they implement a little bit later, and sometimes we got to go back and sell them the additional products, which is a very consistent motion with finance IT just as it was with the additional HCM module, so no elongated sales cycles. I would also say that it is the usual occurrence that in the context of selling HCM, you are also talking to someone from one of the other areas, so the idea that this is a totally new motion with a totally new buyer is just not right. I mean, it is usually the case that we are talking to the head of HR, someone from the finance area, and someone from the IT area, which could be the CIO, the CFO, and the head of HR."
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "It could be someone on their teams, but it is usually the case that we're dealing with someone in all three of those areas."
+    },
+    {
+      "speaker": "Jake Roberge",
+      "text": "That's helpful. Thanks for taking the questions."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. And our next question comes from Scott Berg of Needham & Company. Your line is open."
+    },
+    {
+      "speaker": "Ian Black",
+      "text": "Hi, this is Ian Black on for Scott Berg. Does the Paylocity for Finance solution impact your long-term financial targets at all? Is there an impact on gross margins specifically?"
+    },
+    {
+      "speaker": "Toby Williams",
+      "text": "Yeah. We've had that question in the past. We were pretty comfortable that over time, we can get the Paylocity for Finance solution to be similar margins to the rest of our portfolio. And I think you see that kind of reflected in our confidence in increasing the target for long-term gross margin. So we don't necessarily see that as being a headwind at all."
+    },
+    {
+      "speaker": "Ian Black",
+      "text": "Great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. And our next question comes from Samad Samana of Jefferies. Your line is open."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Hey, this is [Jordan Barrett] on for Samad. Congrats on the strong results. I wanted to touch on the competitive front for a second. You called out product differentiation in your own platform driving kind of key strength. I'm curious, with some noise of consolidation in the market, both at the high end and the lower end, obviously with Dayforce and Paycor, are you seeing any notable changes in win rates against those competitors, more so in the lower end of the market, as that company segment kind of navigates the changing landscape there?"
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "Yeah. I would say we've always felt like we've got a differentiated product portfolio, and it has been a competitive environment and remains a competitive environment. I do think that the value proposition, as Toby mentioned in his prepared remarks of really being broker-neutral and broker-friendly, has been a key part of our go-to-market motion for many, many years. And so, I think there's some uniqueness to that, and we have been a leader in that space for a while, so I think some of the consolidation is certainly helpful in that category, but I will just go back to the fact that you've got to win based off of your product and your service that you provide every single day. It's a competitive market, and we're really proud of the results that our sales team were able to generate in the first quarter."
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "Awesome. And then on the go-to-market side, I was wondering if you can maybe parse out how sales rep productivity is trending versus hiring and how hiring is trending versus your initial expectations into the year?"
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "Yeah. I think we came into the fiscal year with around an 8% increase in headcount, and obviously, you can see where we landed the quarter and where we've guided the year. So, I think our focus going into fiscal 2025 and then coming into fiscal 2026 again was to be able to drive the type of performance that we've actually delivered and to be able to do that focused on our sales rep and go-to-market productivity, which, again, I think by looking at the headcount increase versus the amount of growth we've been able to deliver in Q1, I think we've done that again in Q1 of fiscal 2026, so overall, I think we continue to focus on the productivity of the teams, including our go-to-market teams, and I think that's what we've delivered again in Q1."
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "Great. Well, congrats on the strong start to the year, and I appreciate you taking my questions."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. And our next question comes from Brian Peterson of Raymond James. Your line is open."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Hi. This is Jessica on for Brian. Thanks for taking my question. I was just thinking a bit of a follow-up to earlier discussions we've had and comments is, as you have this increasingly differentiated value of your platform, are you seeing customers trying to trend towards landing with more products than prior cohorts were, or is this been more of a benefit of saying like Paylocity, you guys have more places that a customer can land on, and then from there building out to expanding later? Thanks."
+    },
+    {
+      "speaker": "Toby Williams",
+      "text": "I think we've seen both. I mean, I think we've seen, to Steve's comments, we've seen differentiation gains that we've had from the broader platform that I think help us from an overall client acquisition and unit growth standpoint. I think we have, over a very long period of time, continued year to year to see the amount we realize out of the total amount that's chargeable on the platform increase. And I think that reflects the fact that year after year after year, clients are taking a larger amount of product from us. And then I think you also get the benefit of being able to sell those products back into the customer base. So I think you see it in differentiation. I think you see it in driving higher ARPU at the time of client acquisition."
+    },
+    {
+      "speaker": "Toby Williams",
+      "text": "And I think you see it in the ability to drive an overall higher ARPU as you sell back into the customer base over time."
+    },
+    {
+      "speaker": "Toby Williams",
+      "text": "Got it. Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. And our next question comes from Pat Walravens of Citizens. Your line is open."
+    },
+    {
+      "speaker": "Kincaid LaCorte",
+      "text": "Oh, great. This is Kincaid on for Pat. Thanks for taking our question. You guys highlighted your sales reps are going to be using some AI tools to automate parts of their go-to-market. Is there any specific tools that you could call out there?"
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "Yeah. I think when we look across all of the tech that our go-to-market teams in sales and marketing are using, I think our effort has been to try and find. And this is true across the business. You're trying to find opportunities to automate the processes that everyone's going through day to day, including our sales reps. And you're looking at what AI tools each one of those pieces of technology has available to them and making sure that we're leveraging each one to the fullest extent while also, again, trying to take the lens of what can we automate in the process. And I think that's what my comments and the prepared remarks were referring to. So I think this is a broad-based commentary across all the tech that we're using from a go-to-market standpoint."
+    },
+    {
+      "speaker": "Kincaid LaCorte",
+      "text": "Then on the brokerage channels, it's more than 25% of your new business in Q1. Is there a level that you'd like to see that get to, or is it around where you'd hope it is?"
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "Well, I mean, I think we've been saying for a very long time, making the same comment, that we've been able to drive more than 25% of new business coming from the broker channel. And Steve made the comment before that. When the business went public in 2014, looking at the size and scale of it then, and now as you see us guiding towards just under $2 billion in revenue for this fiscal year, our ability to continuously, for the last decade plus, deliver 25% of our new business coming from the broker channel, I think, is a testament to the focus that we've put on it, the investments from a technology perspective that we've made that well serve the broker channel and their clients. And then I think ultimately the investment that we have made to build those relationships over that period of time."
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "And I think it reflects the fact that they see real value and real partnership in how we approach business with them. And I think overall, I think we're really pleased at what we've been able to deliver in Q1, the part that the broker channel has played in that, and look forward to continuing to partner with our broker channel throughout the course of the rest of the year."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thanks so much."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. And our next question comes from Alex Zukin of Wolfe Research. Your line is open."
+    },
+    {
+      "speaker": "Alex Zukin",
+      "text": "Yeah. Hey, guys. I think most of the questions have been asked, but maybe just help us think about the impact to retention rates. I think they're still 92% at this time. As you look at the elements from selling more AI functionality into the base or monetizing that functionality, getting greater usage, monetizing Airbase, or cross-selling that functionality, how does that retention rate evolve, if at all? Does it go up over time, particularly as you approach that long-term target? And then how do you think about kind of organic versus inorganic going forward now we're one year past Airbase. It seems like it's going really well, and it's meaningfully increasing the addressable market opportunity. Maybe just comment on kind of your view on organic versus inorganic innovation at this time."
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "Yeah. I mean, I think you're right. I think we're pleased with how the Airbase acquisition has gone. We're pleased with, based on the prior commentary, the level of traction that we're seeing, at least in the early days, with the spend management and finance part of the suite. And I don't think\u2014I think that is a proof point of what we've been able to do from an acquisition standpoint, but I don't think\u2014I don't think we've fundamentally changed our mindset around capital allocation or the role that M&A plays in the business. I think if you look back over time, we've been able to build out an awful lot of new products organically."
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "That's certainly still an important part of how we view innovation when we've found extraordinary opportunities to acquire something that would speed up our product roadmap and was really strategic, and we thought that we could integrate really well. We've had really good luck there with, again, Airbase being the most recent data point on that. With respect to your question on retention, I mean, I think our view has been for a long time that if you continue to broaden out what you're able to deliver from a product perspective while also providing world-class service, that's a recipe for being able to deliver against the expectations of clients, and that will provide a positive result from a retention standpoint over time. That's exactly what I think we've seen. Again, your reference, it's 92%+ is how we've described retention."
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "Continues to be the case, and I think that is very much what we see the opportunity as we look forward. I guess just one additional point on the M&A strategy. Completely agree with Toby. There's no strategic shift here, but I think it's probably important to note that is the largest acquisition that we have made kind of in our history, and so the ability to integrate that product portfolio, get it to launch, see the early success that we're having in go-to-market certainly gives us more confidence in our ability to do things like that on a go-forward basis."
+    },
+    {
+      "speaker": "Alex Zukin",
+      "text": "Perfect. Thank you, guys. Congrats on a great quarter."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. And our next question comes from Matt VanVliet of Cantor. Your line is open."
+    },
+    {
+      "speaker": "Matt VanVliet",
+      "text": "Hey, good evening. Thanks for taking the question. I guess first on the comment you made earlier about growing revenue per customer, curious how much of that is being driven by the cross-sell of whether it's the finance or IT modules or just some of the expansions of the product versus the AI and usage component being monetized already."
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "Yeah. I would just say from a product perspective, some of that's a little bit challenging to differentiate. As Toby mentioned earlier, you're kind of selling a bundled package, and even when you're cross-selling back to the client base, you sometimes can get an uplift of not just a singular product. You may get one or two as you're kind of evaluating that, and so I think they're both in the mix."
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "I think we're in the early inning still for finance and IT, so a lot of that cross-sell is being driven by our HCM suite currently, but we're really excited about the early feedback that we've got, and particularly because those products are a little bit more on an average revenue per customer, so we think that that opportunity is certainly there, but I think we've always talked about this as really an extension of our product strategy that will allow us to continue to have a mix in our growth algorithm of unit growth, which we expect to continue to drive, as well as average revenue per customer growth, which will be enabled by IT and finance expansion."
+    },
+    {
+      "speaker": "Matt VanVliet",
+      "text": "All right. Helpful. And then as we look at the long-term financial targets, curious if you can give us a little update on what the original $2 billion target of. Primarily the HCM business, what that looks like as part of the $3 billion. And then the obvious other part is sort of the TAM expansion, platform expansion. How much of that billion raise in the revenue target is almost exclusively from finance and IT?"
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "Yeah. I'm not sure we would have thought about it the same way that you asked the question. I think if you step back and you look at how we have driven growth every single year, it has been a mix of client growth, so new client acquisition and client growth, and then ARPU expansion from both new client and existing client standpoint. And I think that's really and a lot of that ARPU growth comes from our ability to continue to innovate and continue to expand the product set."
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "And so if you look back over the course of the last decade plus that we've been public, that's what we've delivered every single quarter and every single year is a fairly consistent yes, it's changed depending on what's going on in any given year but that there's been consistency in the mix of both new unit growth, new unit acquisition, client growth, and ARPU expansion over time. And I think that's really how we thought about the formula of how we get to $3 billion. You've got to be able to continue to drive client growth. You've got to be able to continue to drive ultimately ARPU expansion that comes with the TAM expansion of adding on things like finance and IT. But I think you get there through that. That's the execution formula."
+    },
+    {
+      "speaker": "Ryan Glenn",
+      "text": "And with respect to the product pieces, I think there is an opportunity to continue to grow the product set from an HCM perspective. There's certainly an opportunity to grow the product set from a finance perspective. And we're in the earliest days of product from an IT standpoint. So I think you've got growth across all those three. And if we can continue to drive that growth, continue to drive ARPU, continue to drive client growth, I think that's the formula. And that's a consistent formula that we've executed against for the last 10-plus years."
+    },
+    {
+      "speaker": "Matt VanVliet",
+      "text": "Okay. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. And our next question comes from Jason Celino of KeyBanc Capital Markets. Your line is open."
+    },
+    {
+      "speaker": "Jason Celino",
+      "text": "Hey, great. Thanks for taking my questions. Just one follow-up on Paylocity for IT. Obviously, a very complementary area. When I think about your customers today, what are they hypothetically using for asset management, identity management? Do you see yourself competing more with the traditional ITSM players?"
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "Yeah. So I think from an asset management perspective, and a lot of it's fairly manual. And so whether they're tracking that in spreadsheets or, frankly, at the lower end of a market, whether they're really not tracking it very effectively at all. And so being able to automate that as people are going on board, when they're changing positions, when they're coming off board, and then being able to manage that for an IT user is really, I think, critical for organizations. And so I think that's something that we've been really happy with, the receptivity. I think for the identity management, the strategy is a combination of our own capabilities as well as really integrating from a marketplace and API perspective."
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "And so you can get some value out of really leveraging the data in the employee record and not actually have to change your identity provider, or you can leverage our solution to be able to take on some of those capabilities for you. And so we see opportunities to be able to grow the category, for sure, but we really are trying to help customers with that use case, both from an access and identity of really offboarding, changing positions, and onboarding."
+    },
+    {
+      "speaker": "Jason Celino",
+      "text": "Okay. And then this is more of a philosophical question, but at this point, it looks like you're touching the HCM part of the business, the finance part of the business, and now the IT part. Long, long term, when we think about unified platform, could you ever see Paylocity expanding into more front office areas, or is it just too early?"
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "I think we're pretty excited about the size of the TAM that we have in front of us. Again, I go back to HCM. We're still at very low penetration. In our core marketplace, and we're having good success driving that. We're pretty early in IT and finance. I think if you were to take a broader point of view. Really, when you think about having that employee record, having the workflows across the organization, I think you've got a real opportunity to power much of the back office over time, and we can continue to stay focused on that. I think to think about getting into maybe front office solutions that are often more vertically based, it's probably not on the horizon."
+    },
+    {
+      "speaker": "Jason Celino",
+      "text": "Okay. Great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you and our next question comes from George Kurosawa of Citi. Your line is open."
+    },
+    {
+      "speaker": "Steve Enders",
+      "text": "Okay. Great. Yeah. I'm on for Steve Enders. Thanks for taking the questions. Maybe just a high-level question. A lot of discussion about the impact of AI on labor markets more broadly. It sounds like headcount and your customers was a touch better than expected this quarter. Is there anything you guys have seen or heard that might indicate that your customers might be changing the way they're thinking about hiring based off of use of AI?"
+    },
+    {
+      "speaker": "Toby Williams",
+      "text": "No, not at this point. I think we obviously are able to track workforce levels as well as a host of additional elements across our client base, and we continue to see stable data points. We look at those certainly on a weekly basis, but to date, there's nothing that I would call out that would suggest a different experience than what we have seen."
+    },
+    {
+      "speaker": "Steve Enders",
+      "text": "Okay. Great. And then a question on the back half of the year and seasonal trends. Form filings, I think you've said in the past, Airbase is maybe a bit less seasonal of a business than the core HCM side. Just anything to help us think through what that pattern will look like seasonally relative to typical historical patterns?"
+    },
+    {
+      "speaker": "Toby Williams",
+      "text": "Yeah. Nothing one-time that I would call out at this point. I think you're right. Airbase would not necessarily have the same seasonal cadence that the HCM side, although obviously that is a very small part of our business today. So not sure I would discretely adjust for that. Outside of that small item, everything else, I think so far, nothing I'd call out as far as one-time or different seasonal impacts as we think about the back half of the year."
+    },
+    {
+      "speaker": "Steve Enders",
+      "text": "Great. Thanks for taking the questions."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. And our next question comes from Zachary Gunn of FT Partners. Your line is open. Zachary, your line is open. Please check your mute button."
+    },
+    {
+      "speaker": "Zachary Gunn",
+      "text": "Oh, sorry. Can you hear me?"
+    },
+    {
+      "speaker": "Operator",
+      "text": "Can hear you now."
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "Yeah. We can."
+    },
+    {
+      "speaker": "Zachary Gunn",
+      "text": "Okay. Yeah. Thanks. I just wanted to follow up on one of the earlier questions around Airbase and the longer-term financial targets. And just thinking about. You've talked in the past about the 10%-20% kind of cross-sell opportunity. Is there a way to think about. What cross-sell is embedded within that $3 billion? I recognize it's still a small portion of volume, but just any context on how has the long-term goal shifted there?"
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "Yeah. So I think Toby kind of answered this question. I'll maybe take a different tack at it. It's really about unit growth and average revenue per customer growth for us. And so that formula for us historically has moved around year by year, but we've been pretty consistent. Roughly half the growth has come from units and the other half from average revenue per customer. That has shifted a little bit as we've had certain product launches, and they've moved up the adoption curve. But we're not fundamentally thinking that the launch of IT and finance changes that equation materially. You may see some shifts in that over time. But we feel more confident having that opportunity to expand in those areas that we can absolutely continue that ARPU expansion."
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "And certainly, it is a factor in giving us confidence to be able to not only look towards $2 billion, which is kind of around the corner, but look beyond that to $3 billion."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. And our next question comes from Madeline Brooks of Bank of America. Your line is open."
+    },
+    {
+      "speaker": "Madeline Brooks",
+      "text": "Hi. Thanks so much for fitting me in here. Just a quick one from me, guys. Looking at your long-term targets and how they've changed, looks like the updated target for sales and marketing as a percent of revenues actually went down a little bit. And I'm just curious as to why, because if we look at the opportunity ahead of you, both in the businesses that you operate in, but then largely in the market in terms of AI and broader technological shifts, most other companies are ramping up investment in their go-to-market. And I understand efficiencies from AI. However, I think the trend that we've seen is that those efficiencies kind of more supplement versus are used for total OpEx reduction. And so I'm just wondering why not invest a little bit more heavy-handedly at a time when the opportunity seems so ripe. Thank you."
+    },
+    {
+      "speaker": "Toby Williams",
+      "text": "Yeah. I think we feel like we've right-sized our investments across go-to-market against the opportunity that we have. And the change in the target, I mean, if you look at where we closed last year, I think we were at 21.6 from a sales and marketing perspective. That's basically at the top end of the range that we have adjusted to. So I wouldn't make more of that than is actually reflected in the data. So I think we have a pretty consistent approach from a go-to-marketing spend perspective. We've talked about being able to drive more productivity there, but I don't think we're under-investing in what we see as a significant opportunity. I think we are appropriately invested in it. We're looking for productivity and efficiency, but we're also looking for delivery. And so I feel really good about the productivity of that team throughout the course of 2025."
+    },
+    {
+      "speaker": "Toby Williams",
+      "text": "And we've been in a great spot as the fastest-growing HCM provider. And I think that's what looks, that's what we have in front of us too. And I think we're invested to be able to produce that."
+    },
+    {
+      "speaker": "Madeline Brooks",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Our next question comes from Jacob Smith of Guggenheim Securities. Your line is open."
+    },
+    {
+      "speaker": "Jacob Smith",
+      "text": "Hey. Thanks for taking my question. I want to ask another about the broker channel and Paylocity's right to win new referral business, especially in situations where brokers' books may have previously referred a lot of business to an acquired competitor. We understand this is a very competitive landscape with large public and private companies all leaning in pretty heavily into the channel, all going after the same opportunity. But most of them compete directly with brokers, as you guys point out, whereas Paylocity does not. Can you talk about what you're doing both at the leadership level with brokers in terms of strategic alignment and at the micro level with individual producers to deepen vendor trust and buy-in to win new referral business now that that might be up for grabs?"
+    },
+    {
+      "speaker": "Jacob Smith",
+      "text": "And also, is there any way to frame the benefit you've seen so far from any disruption in the channel? That'd be helpful. Thanks."
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "Yeah, sure. I think, as you indicated, it's a key part of our go-to-market motion, has been even prior to going public. And I think, as you also indicated, a lot of this happens at the field level. So these are individual relationships between our salespeople who are interacting with the brokers in their offices, going out on calls together, sharing leads, and getting referrals. And those referrals obviously get translated into new business sales. I think the other thing I would say is we consistently have been above the 25%. We don't give the exact specific number, but I think we've given you the color that we've been excited about the momentum in the broker channel. And that has definitely been a contributor to our overperformance, both in the back half of FY 2025 and into FY 2026. So no change to the strategy. It's really the same strategy."
+    },
+    {
+      "speaker": "Steve Beauchamp",
+      "text": "We also have relationships with the biggest brokers at a corporate level, and those are enabling factors. And so when you've got a little bit less competition out there, we certainly see that as an opportunity. We're going after that opportunity, and we think that has been a contributor to the strong start this fiscal year."
+    },
+    {
+      "speaker": "Jacob Smith",
+      "text": "Great. Thanks again."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. I show no further questions at this time. I'd like to turn it back to Toby Williams for closing remarks."
+    },
+    {
+      "speaker": "Toby Williams",
+      "text": "Yeah. I just wanted to thank everybody for their interest in Paylocity. Thanks for your time tonight, and certainly, a large thank you to all of our employees who helped make Q1 great. Thank you again. Have a good night."
+    },
+    {
+      "speaker": "Operator",
+      "text": "This concludes today's conference call. Thank you for participating, and you may now disconnect."
+    }
+  ],
+  "totalTurns": 155
+}

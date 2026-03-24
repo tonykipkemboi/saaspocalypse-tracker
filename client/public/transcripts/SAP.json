@@ -1,0 +1,445 @@
+{
+  "ticker": "SAP",
+  "period": "Q4 2025",
+  "eventDate": "2026-01-29",
+  "preparedRemarks": [
+    {
+      "speaker": "Monika Schaller",
+      "text": "Good morning, and thank you very much for joining us today for our Q4 and full year results press conference. A warm welcome to everyone here in the room, and of course, a warm welcome to everyone joining us virtually. As always, Christian, our CEO, and Dominik, our CFO, will share some brief remarks, and we will then move into the Q&A session. Everyone joining online, please feel free to submit questions at any time. Maybe one disclaimer, as always, unless stated otherwise, all numbers on these calls are non-IFRS, and growth rates and percentage point changes are non-IFRS, year-on-year at constant currencies. With this, let's not waste any time. Over to you, Christian."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Yeah. Thank you, Monika, and welcome everyone here at our headquarters in Walldorf, and of course, also to those who are joining us virtually from all over the world. I have actually, for my remarks, I have two rather, you know, big points. First, 2025, you have seen the numbers. Let me share also some more background on these numbers, and then, of course, also the outlook for 2026 and the years to come. And of course, there I will also double down on the topic of AI. Now, talking about 2025, I mean, first, when you look at the set of numbers, I would say I'm very happy with how SAP again once delivered a very successful year. You can look at cloud and software. We achieved our outlook. And please also remember, in the half year one, we had a rough start."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Yeah, there were some geopolitical tensions. We... Especially in the public sector, we actually had, you know, our challenges to actually do deals, and still we achieved our outlook for the year. We overachieved and beat our outlook for operating profit and cash flow. It's not only about cost discipline, it's also the way how we transform SAP, how we make the internal processes more efficient, how we also now applying AI in all parts of the company. I will come later to that when it comes to 2026. Also, in 2025, in Q4, we actually had our best bookings result of the year. Yeah, so I know there's still some discussions out there on, on CCB. I will touch base on that in a moment, but actually, Q4 was our best quarter with regard to bookings."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "We had lower churn than expected, and also the discounts we have given actually were pretty stable. So actually, net, net, in a very good Q4. Now, again, we started our transformation five years back, and we were sitting here, I was sitting here, made a pretty bold commitment about the 2025 ambition we have as a company. There were many doubts out there, but we delivered. The company delivered. I'm super thankful to our 100,000 colleagues worldwide, to the team, to the customers, for the trust, because with RISE and GROW, we made a big bet, not only on lifting and shifting our customers to the cloud, but really helping them to transform. And what came out of that is one of the biggest success stories, and definitely the biggest transformation in SAP's history."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Now, when you deep dive a bit on GROW, I mean, SAP, I know, is known for running large enterprises in the world, and yes, we are very proud about that. But what we also managed over the last years is that actually several thousands net new customers joined from the mid-market. Then the mid-market is actually by far now the fastest growing market in within our customer base. We are expanding our ecosystem because a lot of that will be also covered by our partners. And in 2025, and that is also shows the success of our cloud transformation, actually, our public cloud business was growing five times faster than our private cloud business. And also look at the resilience, what actually SAP in the meantime gained. We have a large recovering revenue share."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "We actually tripled our cloud revenue over the last year, so definitely I would say a huge success story, but we are living in a fast-moving industry. I would say it is probably the fastest moving industry in the world, and so we can't rest. Now, what we also did, when you look at this half moon, is actually we put a lot of clarity into our product strategy. I mean, we said, \"Hey, all lines of businesses, yeah, have to come together on one platform.\" The BTP is now, in the meantime, the platform for integration and extensibility. We put a BPM, a business transformation portfolio together, again, helping our customers to do the process transformation, to be world-class in enterprise architecture, and also just help them to transform on the business side."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "We launched a lot of new innovations around sustainability, the Business Network, and all these businesses contributing to the overall growth of SAP. Very important, obviously, is also what we did in the last years around AI and the Business Data Cloud. The Business Data Cloud now produced, in the meantime, over EUR 2 billion of order entry since its launch in January. Shows the success, but even more important, shows the strategic relevance. Because when we talk about AI, we talk a lot about data quality, and for the customers, super important to have this semantic layer of bringing SAP and non-SAP data together, and that is also then resulting in the huge success of BDC within the first 12 months. But of course, we are, we are not stopping here."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "I mean, you have seen our total cloud backlog increase by 30% to EUR 77 billion. I mean, what a number! And that also shows, you know, why we are so confident on our guidance to accelerate total revenue growth in the years to come. I mean, with this backlog and the contract duration is around about four years. So you can see there is already a lot in the books which will help us to say with confidence that SAP will be a growth company. The cloud business, when you compare these revenue growth numbers here of 26%. In 2025, these are on an average 10 percentage points faster than our peers, than our competitors. Just shows how also SAP is gaining market share."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "So net-net, also operating profit, free cash flow, Dominik will talk about that, so no need for me to dig deeper, but also there we beat our outlook, and that speaks for itself. In Q4, we closed a lot of business. Best bookings quarter. Now, I can tell you, share with you a story about all of them. I, I want to pick two, and I picked those two just to show the relevance of SAP AI in the world going forward. H&M, we all know them, great retailer, and they came to us and said: \"Hey, our business will change a lot as a retailer.\" And then we prototyped together over the complete year, and we closed the deal in Q4."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "They wanted to see, \"Okay, we are happy with your commerce platform, but in the future, our consumers expect a more personalized shopping experience.\" So we custom-coded for them a prototype on how shopping experience will change. We brought this back into the standard, and they said: \"Wow, this is exactly what we need to really address our, the consumer needs, the consumer trends wide in the store online.\" Second, we talked about certain things about returns, claims management, people ordering stuff, sending it back. How can we make this more efficient? How we can improve the consumer experience? Can we actually propose to the consumer a different good if they are not happy with the one thing? What if a certain good is not available in one store?"
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Can an AI agent help to find the right store to deliver next day or even in the same evening? So, we showed them, you know, this was the SAP transactional application in the old world, and this is what you get with AI in the new world. And it was tremendous what they have found out how to really personalize the consumer experience, to make the supply chain more dynamic, more agile with regard to also delivering the stuff faster to the consumers. And then finally, of course, they saw all the agents, you know, working together also into the back office, into finance. And that is what made this deal happen. It was not only the cloud move and get rid of the legacy, it was really the AI embedded in the different parts of our apps, which made this happen."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Fresenius, we did a press release already. Super happy about that. We got a lot of feedback, especially in Germany. \"Hey, you were great in patient management, but why do you not deliver the next generation?\" Together with Fresenius and Avelios, we are now coding on our platform a new patient management solution, and we started to do that. Avelios is our main partner here, and it will revolutionize how much more efficient we can make the doctors and the nurses to spend more time with the people in the hospital, making them more efficient, making more efficient decisions, and then just also make the whole operations in a hospital way more efficient than it is today. And again, AI agents taking a lot of manual work over what the nurses and the doctors had to do in the past."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "We showed this to many other healthcare customers, and they said: \"Wow, this is it. We would definitely want to join SAP in delivering the next generation patient management.\" Now, talking about the future of SAP AI, talking about the future of SAP, and I know there is a general concern out there in the market about how will software sustain in the world of AI? Cannot everyone code software? I would say clearly, no. Because what we are already seeing with many customers is, of course, they are doing, you know, certain building certain custom agents for cash flow collection, et cetera, with those LLM providers. But what you always see as a roadblock, and this is now what customers see more and more, and that's why it also explains why we sold two-thirds of our deals with AI."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "They first of all see, oh, an LLM can read when I build a cash flow agent, can read a support ticket. Yeah. Could be that because of a support of an issue of the customer, customer is not paying. It can read mails, okay, but what about the P&L data? What about, you know, certain, you know, sales negotiations, deals in the pipeline? What about certain payment information, which are also necessary for the agent to understand why is this customer not paying? So it always goes together. The LLMs are super good in the unstructured data, but you need the business data. And which company has petabytes of data, which we are using to fine-tune our AI Foundation?"
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "This is SAP, and we are using the world's best LLMs for the different use cases, bring this together, have a so-called knowledge graph to correlate the unstructured data with the structured data. And of course, BDC helps to bring the semantical data together for the structured data in a company. And that is the winning formula. And then the second piece is, when you want to change a retailer like H&M, you cannot just go there and say, \"do it, embed a certain agent in my operations.\" You have to fundamentally rethink, like we do in SAP, how will I run a certain industry going forward? How will cash collection work? How will recruiting work? How will workforce management work?"
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "So our product managers are just sitting there using the rich information, knowledge what we have about industries and business processes, to really redefine how these agents have to work. You know, an inventory agent is a matter of fact, you can do an inventory, but if the inventory agent has no clue what is happening on the demand side, the inventory agent is not so intelligent, I can tell you. And then, of course, there are a lot of things that what kind of a information can I actually feed into an agent? There are certain security authorization requirements which all sits in our beloved apps. Now, super important for us is business data, business process, security and trust, and of course, completely rethink how we want those companies, our customers, going forward."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "And so, you know, when I think about the future of AI and SAP, I'm super happy that I have our ERP. I'm super happy that I have our apps, because without those apps, I wouldn't have the data, and without the data, I wouldn't have an AI. So I know there is a lot of talk about, oh, what can the LLMs take over? The LLMs can take over coding of software, for sure. I mean, because this is unstructured information, code. They understand the patterns, how our developers code in the past. But everything related to business data is actually something what SAP can offer, and which is pretty unique to us. So when you think about how will SAP grow its business going forward?"
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "I find it pretty remarkable that we, on an already heavily growing business, we said we're gonna further accelerate our total revenue. Five pillars where we have a clear way to win. We cannot win everywhere, but we have five pillars which are very important for our customers. When you think about SAP and UX in the past, this was not a big success story. I mean, we know that Joule cannot take over today every skill of an end user, but we are getting there. We will not only take over manual work, we will take over analytical requests."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "We will train Joule also with correlations to understand, not only do analytical reporting, but also give smart recommendations, how to source the best for this good, what I'm looking for, how to actually do inventory planning the best, you know, looking into what is happening on the demand side, what is happening on the market side. So Joule will not only be connected to an LLM like GPT, Joule will be connected to our AI Foundation to get the two worlds together. And what it will do us is, when you think about, you know, how often did I sit in front of my desktop or mobile, typing into data into SAPs, this will completely change. The design, the user experience, the simplicity, and at the end, the productivity of every end user will change. Second, I mean, this is logic."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "We are wanting business processes today, transactions, workflows, complex. We are now embedding not further features into these apps, we are embedding agents. So the agents will take over the features, and the agent will talk to each other. So we are actually infusing across the most mission-critical business processes in the world, our agents, and we will train them, again, to also contextualize, information, because, you know, no agent can work in isolation, otherwise, you are not running businesses. Very important in that space, in the second space, AI assistant. Not every AI assistant will look the same, for example, the cash flow example. So extensibility is key."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "So you're getting access in our agent builder to, first of all, understand the process better, and then you can also enhance those agents based on individual needs of a treasurer, of a person in supply chain training, and so on. And we have both. We have the toolset for the developers, and we have the low-code toolset for the business users. Third, industry-specific capabilities. Already today, super important. I mentioned Fresenius. We had another large deal in Q4, where we could show the customer, \"Oh, you're doing last-mile delivery with SAP. Now we're gonna show you how your trucks arrive faster at your stores with AI in the future, how you can improve load optimization of your trucks with AI.\" So these things are super, super important because here is the value of a customer. This is how customers can differentiate in their industry."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "These are the main, main capabilities. For example, trade promotion for a retailer, personalized shopping experience, supply chain resiliency in manufacturing, asset management for the navies of the world. These are the things which SAP knows how we want it in the past, and now we will re-imagine those capabilities with AI. Fourth, Business Data Cloud. I mean, again, the biggest roadblock for business AI is today, data, data harmonization, data silos. This is actually what constraints our customers the most, and this is what you have seen in numbers. BDC is a big success. Because SAP said, \"Hey, we are not a closed shop anymore in really bringing our data together with non-SAP data.\" BDC, and it's only in BDC, we are going to allow you to harmonize SAP data with whatever other business data you have in your company sitting in non-SAP apps."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "And then fifth, obviously, this is what is close to our heart for many SAP customers, said, \"Christian, just do the RISE journey, but guess what? We are paying $1 to SAP.\" I mean, not exactly $1, but we are paying then $10 more to the SI. I said, \"That is not good.\" So what we are doing is... I mean, why can AI not take over, you know, certain parts of the ERP migration? Think about data migration. Think about configuration of the system. Think about test automation. So these things are super important, and we are doing this together with our partners because they understand as well, hey, in the world of AI, it's not only about set, putting a consultant to work. This work can be done way easier, way faster, and way more efficient."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Obviously, when we talk about ERP migrations, I think about SAP, and this is definitely a big focus area for us. Then coming, I mean, to be credible in AI, we need to use Joule. We need to use our own AI. And yes, does everything already work to perfection? No. But even more important is that we are a role model underpinning our great cash flow results and profit results with the use of AI. And you can ask all of our people, we are pushing this really heavily, so we mean it."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "So in R&D, code generation tools, Joule for developer, ABAP, we have thousands of developers who already see, \"Oh, now I have much more time on developing those agents and making the agent orchestration work, and less about my time producing code.\" In sales, already in Q4, we did a lot with AI on quoting, on pricing, on packaging, help me to find the best deal for my customer, help me now to find, you know, in the pipeline, the best opportunities for me to close out the year. In HR recruiting, we made the acquisition with SmartRecruiters, but also on skills. A lot will be handled, and we will work smarter with infused AI into our SuccessFactors solutions, and then, of course, into our own HR operations. So in tech, innovations come at a very fast pace."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "The most important thing is, next to, you know, having the right strategy, is our people. So AI is, first of all, not only a technology who can run a company smarter, it's also about the skills of the people. So reskilling is a big topic within SAP, and we will double down on that because AI will affect, affect every job, and we need to prepare our people for that. That doesn't mean that we need less people, I wanna say this very clearly, but we need different skills. And honestly, there will be a change of the mix of the job profiles going forward. But as long as we post such great top-line results, we are not thinking about restructuring. We are rather thinking about how we can, you know, reskill our existing employee base to make them fit for the next chapter of our transformation."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Now, when we then look forward, and in a second, I will hand over to Dominik. Let me just share some geopolitical observations. I mean, SAP is, I guess, by far the biggest tech company in Europe. But what will be very important for the future of SAP and for Europe is clearly, first of all, talent. So we really need to make sure that we are changing our education system and really, you know, our universities give us access to the best talents. That's actually working quite well. But when you think into every job the next generation has to do, it will change. And then, super important, and I'm talking about this since quite a while, especially here in Germany, I see a lot of movement now, the willingness to digitize Germany."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "But when I think about our home market and compare this to the U.S., oh, my God, the regulation! I mean, layers of layers. And that is, of course, something when we are closing deals in Q4, in the U.S., oh, it's FedRAMP, you have clear regulation. We are not even talking with customers about regulation. They are clear. And here, you, on the state level, you have regulation. Everyone reads a little bit different. Then on the federal level, you, you find other people who have other ideas on regulations, on sovereignty, and then you come to the European layer, and then you have layer and layer and layer. And now, that is not good for SAP, but think about of all of our startups, where you find the same startup, like an N.N. in China and the U.S."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "And so this digital union to come together and harmonize that is of such an essential important, because it's not only about funding and access to capital, it's really about speed, and the speed is especially super important for all of the great startups we are having. So with that, I said enough. I'm super confident about our outlook for 2026. Strategy is the right one, and we will also\u2014you're gonna see SAP clearly as a winner in AI. And with that, Dominik, over to you."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "Thank you, Christian, and thank you all for joining us this morning. I'd also like to wish you all a happy and healthy year 2026. SAP's strong close to the year reflects steady execution against our priorities as we navigated a rapidly shifting macroeconomic backdrop. At the beginning of the year, we remained focused throughout the year on operational discipline and driving value for our customers in times of unprecedented technological change. Our ability to drive top-line growth while consistently exceeding our profitability and cash flow expectations, reflects the consistent execution against the outlook we provided at the beginning of the year. While challenges persisted, we took deliberate steps to reinforce our foundation and align the business for durable, sustainable performance."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "As a result, we closed the year in a position of strength, and the progress we've made has set the stage for continued advancement towards our financial and strategic priorities in the years ahead. RISE and GROW with SAP. Both remain core pillars of our transformation strategy, serving as go-to solutions for large-scale enterprises and high-growth mid-sized companies undergoing complex end-to-end transformations and modernization efforts. And as Christian just highlighted, AI and the Business Data Cloud are beginning to show real commercial impact, emerging as meaningful contributors to customer decisions and deal activity. The combined momentum continues to materialize in large cloud transactions, with deal volumes greater than EUR 5 million, contributing a record 71% to our cloud order entry in the fourth quarter. These results validate our role as a partner of choice, trusted by world-class organizations, navigating high-stakes transformations and speed at scale."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "Now, let me provide more details around the financial highlights. The current cloud backlog reached EUR 21 billion, up 25%. Quite frankly, this is a more pronounced slowdown than we had anticipated, and more than the slight deceleration we guided at the beginning of last year. Echoing Christian's remark, the outcome reflects a deal mix weighted towards larger transformations, many of which include longer ramp periods or flexible structuring, reducing the near-term CCB contribution. Also, further mounting geopolitical tensions have led to many customers putting even more emphasis on exploring sovereign software-as-a-service solution options. While SAP is extremely well-positioned in this segment, and we have a significant pipeline of opportunities due to the trust Germany and SAP continue to enjoy on a global scale...."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "It takes longer to negotiate these more complex transactions, and also longer to deploy and ramp as compared to plain vanilla offerings done by U.S. infrastructure service vendors. This is particularly true for any state-owned and related entities as well as defense, but starts to also affect commercial customers in certain particularly sensitive geographies and industries. Total cloud backlog for the year grew 30% to a record EUR 77 billion, again, significantly exceeding our current cloud backlog and cloud revenue growth. Cloud revenue actually grew 26% year-on-year in 2025, again, primarily driven by the strong performance of Cloud ERP Suite. Cloud ERP Suite had another notable year, reinforcing its position as a key engine of growth with an increase of 32% in 2025. By the way, if you want to make that comparable to our U.S. competitor, add a couple percentage point."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "If you make this constant currency number a US dollar number, then it would have been 34%. This performance is especially meaningful given the expansion of its revenue base over time, highlighting its ability to scale at a sustainable growth rate, now accounting for 86% of total cloud revenue for the year. Software licenses revenue decreased by 27%. Finally, total revenue for the full year approached EUR 37 billion, up 11%. Now, down the income statement. Our non-IFRS cloud gross margin for the full year continued its upward trend from last year and expanded by another 1.6 percentage points to 75%, driving cloud gross profit up by 29%. In the fourth quarter, IFRS operating profit increased 27% to EUR 2.6 billion. Non-IFRS operating profit was up 21%."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "Both IFRS and non-IFRS operating profit were negatively impacted by approximately EUR 100 million related to a 2025 workforce transformation. In addition, IFRS operating profit growth was negatively impacted by $200 million related to Teradata litigation expenses. For the full year, IFRS operating profit increased to EUR 9.8 billion and non-IFRS operating profit to EUR 10.4 billion. The IFRS effective tax rate for the full year was 28.5%. The non-IFRS tax rate was 30.4%, which is below the outlook of approximately 32%, mainly resulting from an increased ability to offset foreign withholding taxes in Germany."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "Looking forward, we expect the midterm non-IFRS effective tax rate to be in a range of 28%-30%, which is the lower half of the previously communicated range of 28%-32%. Free cash flow for the full year was a rounded down EUR 8.2 billion, i.e., at the very high end of our revised outlook range of EUR 8 billion to EUR 8.2 billion, sorry. The increase was mainly attributable to higher profitability and to lower payments to reserves for restructuring and share-based compensation. This result reflects our continued emphasis on disciplined cash management and operating efficiency, building on the progress we've made in strengthening the quality and consistency of our cash flow over time. We are very proud of the progress we've made this year and the business momentum that contributed to our strong net cash position."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "As a result, SAP has decided to further step up its capital returns with a new two-year share repurchase program of up to EUR 10 billion, scheduled to start in February. This decision reflects our confidence in sustainable strengths of the business and our continued commitment to returning capital to shareholders in a disciplined and balanced way. Finally, non-IFRS basic earnings per share in fiscal year 2025 increased by 36% to \u20ac6.15. Now on to the outlook. As you've likely all seen in the quarterly statement published earlier today, we have provided this year's outlook. We expect CCB growth to moderate slightly over the course of 2026. While some deceleration is anticipated, it is expected to be meaningfully less than what we saw in 2025."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "At the same time, we see a path for total revenue growth to accelerate, supported by the foundation we've built and the continued strengths of our business. Our operating profit outlook reflects sustained operating discipline, driving expense to revenue growth ratio towards the lower end of our long-term operating leverage objectives of 80%-90%, lower end being good, giving us the opportunity to continue to drive non-IFRS operating profit growth significantly above revenue growth. In addition, in 2026, we expect to generate record free cash flow of approximately EUR 10 billion, supported by continued efficiency improvements and operational rigor. Overall, our guidance reflects a balanced view of the opportunity ahead, grounded in disciplined execution and an ongoing commitment to long-term value creation. With now 2025 behind us, we move into 2026 focused on consistency, clarity, and execution."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "The groundwork we've laid across both transformation initiatives and commercial performance puts us in a strong position to deliver against the guidance we outlined today. While geopolitical and trade tensions have taken a certain toll on our top-line performance in 2025, the growing need for sovereignty and resilience also offers unique opportunities for those vendors that can offer technologies and tools to reduce dependencies from dominant offerings."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "As the largest non-US software, SaaS, and PaaS vendor, there is no company better positioned than SAP to satisfy this rapidly growing demand. Our strategy to design a stack which is not locked into any particular infrastructure as a service vendor, is a particular asset in that respect. Our decision to keep developing our powerful SAP Sovereign Cloud Infrastructure, SCI, thereby preserving capability to run infrastructure as service efficiently in our own data centers, provided us with another, now even more valuable option to deploy our SaaS and PaaS offerings. Despite an unpredictable macro and geopolitical environment, our strategy remains clear, and our execution is already driving meaningful progress across the business. Customers are choosing us as their North Star to lead mission-critical change, and we remain committed to helping them move faster, scale smarter, become more resilient, and modernize with confidence. Thank you."
+    },
+    {
+      "speaker": "Monika Schaller",
+      "text": "Thank you very much, Christian. Thank you, Dominik. We have 30 minutes left, and we are going to move to the Q&A session now. Could you please, at the beginning, limit your input to one question only? I have a couple of questions here in the tool already, but I want to kick it off here in the room, of course. Heidi?"
+    },
+    {
+      "speaker": "Speaker",
+      "text": "Okay, good morning. I have a question related to the topic mentioned last. You mentioned the better environment in U.S. as to regulation, and you mentioned your opportunities here, given the demand, as to more sovereign and resilient infrastructure and solutions offering. But are you facing hurdles there in U.S., like, kind of a, you know, against the backdrop of growing tensions between the two countries and maybe there are some hurdles your competitors are facing here, so they might backfire, you know? Are there any indications for that?"
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "No, actually, the U.S. public sector was one of the best performing businesses in Q4, and that has completely changed. And, you know, those customers are actually less concerned around is the software coded in Europe or somewhere else. They have a clear regulatory framework, obviously, and it has high standards for very mission-critical parts of the U.S. government, for example, and still standards for other businesses in regulated industries. And so there is not a debate about: Are you from Europe? Are you from the U.S.? It's really about adhering to those standards. And that, of course, when you imagine now applying AI to these parts of the world and to their companies, it's very important because now you can really focus on the business value, you can focus on the technological questions."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Here, you can find in Europe, customers from the same country asking you for, you know, very, very different regulatory standards, yeah. Because, again, there is really this, you know, many layers of regulation, and that is something where when we really want to leverage the power of Europe, and I'm all in favor for Europe, yeah, we need Europe more than ever. But then at a certain point, you know, someone has to give up power and say: \"Okay, in order to come to one Europe, we can't regulate everywhere.\" And I guess that is the biggest difference. Also, what we have seen, by the way, in Q4, it was very visible also in all the deal closing activities we had. Yeah."
+    },
+    {
+      "speaker": "Monika Schaller",
+      "text": "Thank you. Let me build on that one. We have one question from Reuters here in the room to the same topic: Are your solutions intended to diversify, or are they intended to replace offerings from non-European providers in the long term?"
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "I don't see it. I mean, I feel sometimes in Germany, we are discussing forever, since years now, what does sovereignty mean? And then we are getting very theoretical in, okay, does it need to be a European provider, a U.S. provider? At the end, every little piece of hardware will come at some point of time, either from the U.S. or China, if we like it or don't like it. At the end, it's really about the competitiveness. SAP needs to be more competitive. Our AI needs to be stronger than the ones from our competitors, and then the customers, no matter where in the world, will buy that. Obviously, they will also tell us what the sovereignty standards are. I mean, in India, we are also now going to build, you know, a new sovereignty standard, with some local partners."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "We do the same in France. We do, I mean, that is becoming different, but it's still also, for SAP, absolutely manageable, because when you think about what did we do in the past, there was less regulatory requirements on data and cloud, because, you know, cloud was 30 years ago was not there. But we always localized our software for over 100 countries in the world, and that's now becoming more, especially with cloud and AI. But we have done that in the past, and now we are doing the same thing, obviously, with other requirements coming towards SAP on the cloud and the AI side."
+    },
+    {
+      "speaker": "Monika Schaller",
+      "text": "Herr Kerkmann?"
+    },
+    {
+      "speaker": "Speaker",
+      "text": "Right?"
+    },
+    {
+      "speaker": "Monika Schaller",
+      "text": "Yes."
+    },
+    {
+      "speaker": "Speaker",
+      "text": "You've mentioned a couple of times how the geopolitical tensions impact the, the business. So how do you expect these tensions to impact the business going forward? I mean, I know there is an outlook, but what impact do you see in this outlook? Do you plan for a scenario in which the tensions might even escalate? And maybe a very special question, I've heard that the next SAP leadership meeting is supposed to take place in Washington, D.C. So is there a reason why you have chosen this location, and do you consider changing it against the political backdrop?"
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "I can take the leadership summit question because it came to my table. I didn't think about the geopolitical tensions when we are making these decisions, but obviously we should probably, I don't know. Look, the leadership summit, it took place in beautiful Walldorf over the last three years, and we are a global company, and we love to, you know, spend our time here. But I also have to support our customers worldwide, and so we made a simple decision. You know, long time ago, let's just make sure that everyone lives in peace, so we do it once in the U.S. We're coming back to Europe, and then we go to APJ."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "That is the only thing, and sorry to say, we are still a company who has to support global customers, so we cannot make these decisions dependent on what is just happening in the world. I mean, obviously, if there would be a war and otherwise, of course, but at the end, we are a global company, and we have people everywhere in the world, and they want to feel part of SAP. And if I would say to my 30,000 people in the U.S., \"Oh, sorry, I don't come anymore,\" I mean, what kind of signal would we send? I mean, sorry, but this is how we do it, and I feel we are doing it in the right way. Dominik?"
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "Maybe on the outlook, first of all, I want to emphasize that 2025 was not necessarily an easy year, to put it mildly, in terms of trade issues, geopolitical tensions. And I find it quite remarkable that on cloud revenues, despite all these adversities, I would call it, we have been able to be really within spitting distance to the midpoint of our cloud revenue guidance. That shows you how predictable that number is by now, by virtue of the high share of more predictable revenues. So for the way we now scale the guidance for next year, we have basically assumed the 2025 environment to be the new normal? So I think 2025 shows that we have a resilience, even if some unexpected events hit us."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "But of course, we're not embarking any meltdown catastrophe scenarios here, in that guidance. But it's, I'd say, a good base to build on because let's all hope that it's not getting worse than what we have seen in 2025."
+    },
+    {
+      "speaker": "Monika Schaller",
+      "text": "Okay, oops! Let me continue with questions from the tool, because we have a lot of questions with regards to our share price dropped today by 10% for a short time this morning. What is the market not understanding about the company?"
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "So, I'm doing this job now since six years. I have seen a lot of ups and downs, and I, when we were meeting here a year ago, and the share price looked really great, I mean, we had a great one for two years. It's not a reason for me to lean back and say, \"Hey, this is now this is it.\" And so we need to make our strategy, and we need to drive our execution, independent of what the capital market is right now telling us. And obviously, it's not only SAP when you have followed the market in the last six months. I mean, they're all our competitors in the SaaS space."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "So, I mean, Alexandra, our head of IR, tells me we are in the penalty box, and we are in this penalty box because there are questions around, okay, what is the future of software in times where everyone maybe can generate and code apps? I mean, I already alluded to that. When you look back into all of the technological innovations over the last 10-20 years, it always starts with... I mean, these phones here became so powerful because there were better chips, better hardware, and the same is with the LLMs. It always starts with the chips, with the hardware. But I'm 100% sure, in order to create value on the business side, you need to move up the stack, and it always happened like that. And what I explained before, that you\u2014these agents need to understand business data."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "They need to understand business processes in order to deliver the value for our customers. This is very true. And so while there is, of course, a lot of money now going into the chip and semiconductor space, which I totally get, I'm 100% sure that we are uniquely positioned to win the race on business AI, and we're gonna prove that. And so that's why such a share price today is not nice, but at the end, it's super important that we understand our strategy, that we hear from our customers that the strategy is the right one, and that we now are laser focused on the execution of that, and then we will also see all, again, different times."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "And maybe to add some numbers around it, I mean, it's almost like a philosophical war around where the value is created. Is it on the infrastructure layer, which is currently the flavor of the month, where everybody is investing? By the way, that's actually good for SAP because we are agnostic, and the more money flowing into that, the more competitive that infrastructure will be to run our PaaS and SaaS services on top. We are actually de-emphasizing that business. Maybe that will stabilize at some point in time because of the sovereign debate we just had before. On the other side, if I look at the SaaS and the PaaS layer, which we continue to believe for the reasons Christian mentioned, will be a key layer, we are doing actually great, especially in comparison to competitors."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "You have seen results of some competitors, like Dynamics and ServiceNow, overnight. There's others to follow, and if you then adjust to an apples-to-apples dollar comparison, we are actually far ahead of the pack in terms of growth rate. So just to give you some data, on SaaS, PaaS in 2025, we had 30% growth in U.S. dollar terms, so that's what you need to compare our competitors to. And I'd say, there are some hovering around 20%, there are some hovering around 10%, some in the mid-teens, but nobody is anywhere close there. So we have a strong degree of confidence right now. That kind of SaaS, PaaS layer is not super appreciated by capital markets... but, I think the jury is still out what ultimately will happen."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "And by the way, we had a similar bifurcation, I'd say, in the last big tech bubble in 2000, where telecoms and fiber optics were going through the roof. Infrastructure again, because that's kind of rising tide lifts all boats, and I wonder how much dark fiber today is still in the ground, which has never been lit since then. And on the other hand, by the way, this dark fiber you can still light today, whereas the GPUs you buy will not hold for 20 years. So, jury's still out on that topic, I guess."
+    },
+    {
+      "speaker": "Monika Schaller",
+      "text": "Thank you. Before I move to my M&A question here from the tool, any questions in the room? Herr Buck?"
+    },
+    {
+      "speaker": "Speaker",
+      "text": "Can you hear me? Yes. I have a question about the tariffs. How are the U.S. tariffs affecting your business, both directly and indirectly, via delayed spending decisions by your customers?"
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "I mean, there are no tariffs on software or software services, which is good. So there is no direct impact, and we hope it stays like that because we have, again, customers everywhere in the world, and tariffs, digital tariffs, would immediately fire back, no matter where are you in the world. And then on the indirect impact, again, yeah, we saw in H1 2025, that was not great on the public sector. A lot of new requirements came up. We needed new certifications, but we overcome that, and Q4 was actually really good in the U.S. public sector. And yeah, so no, today there is no actually direct or indirect impact. Let's hope it stays like that. You never know. Let's see what's happening tomorrow morning. Yeah."
+    },
+    {
+      "speaker": "Monika Schaller",
+      "text": "So back to my tool. The company plans to start a share buyback program. Is there really no other idea to invest for future revenue?"
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "I mean, yeah, I knew that question will come. And look, it's a fair question. But look, I mean, first of all, these share buybacks, what we are also doing with these shares, we have employees, and they actually, we are also paying them via our shares. So we have actually employee stock programs, and that resonates really well. And so, I mean, there is a mean to it. It's not just about financially buying back shares. The second piece, obviously, I mean, we didn't do larger M&A over the last years. We didn't need to. I mean, still here, look at these quotes, we are posting. The accelerated total revenue will come organically. No many tech companies can say this, and so. But going forward, obviously, would I now rule out M&A? No."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "We will, at some point, do M&A, but then more for technological reasons, especially in the data and AI space. Whenever we're gonna see there is a technology out there which can help to accelerate our AI and the data platform, we have enough financial flexibility to do that. So SAP is now after that share buyback, not short of money. We have the flexibility to react, and we will react, but not from a financial standpoint. We will react if we find the right technology and the right company we are believing in."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "May I add on the-"
+    },
+    {
+      "speaker": "Monika Schaller",
+      "text": "Yeah"
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "... financial aspects of that, question? First, I want to highlight that SAP today has an extremely strong credit profile, so we have very good rating, much better than some of our competitors. I dare say we have managed to base that rating more and more on recurring cash generation. Think about the EUR 10 billion guidance we have put out, the EUR 8.2 billion that we delivered in 2025. So we don't need to hoard an excess cash pile to sustain that extremely strong creditworthiness. So that's the philosophy, and frankly, we always benchmark investments like M&A against investing in our own shares. I always say: Why should we do an M&A if investing in our own shares would give us more value?"
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "So this is why we think it's part of the mix, and I think it also is evidence to the success we have in really coming up on the free cash generation massively."
+    },
+    {
+      "speaker": "Monika Schaller",
+      "text": "Thank you. Barbara? You said you won't need less people. Does this apply to Germany as well?"
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "That, that applies especially to Germany, yeah, because you know, there are people here in this part of the world are super well protected, and we are also super happy with these people. We are also investing in Munich and Berlin, and there are major hubs now. In the meantime, Munich, more supply chain AI. Berlin, it's a lot about data. And so yes, just still, I mean, I mentioned some of the headwinds we are having here. We can only always share with our government. Just look at what's happening in China and the U.S., and we can always agree or disagree with certain things, and if it adheres to our values, I will stay out of that."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "But what happens on the economical side is they are moving super fast, and when it comes to hiring new people, you have them on board in two weeks. Matters. If you have to, you know, reskill your workforce, there's no one you need to ask on, \"Can I apply now these code generation tools to my workforce?\" There are way less regulations, and all of that is a result when we are asking ourselves: Why is there not another SAP here in Europe? I mean, yeah, you probably can find some of the reasons. Not everything is related to that. You need also great entrepreneurs. You need CEOs who need to, who need to make the right decisions. But of course, also the regulatory environment is, is very, very important, especially for a tech company, because this industry moves much faster."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Than any other industry in the world."
+    },
+    {
+      "speaker": "Monika Schaller",
+      "text": "So we'll talk about AI in a second here in the tool. Any other questions in the room? Herr Jungert?"
+    },
+    {
+      "speaker": "Speaker",
+      "text": "Yes. Hi, and thank you for having my question. How important are deals with the military for your company? Thank you."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "I mean, they are as important as every other deal we are closing. I mean, we are winning a lot of, you know, military, defense in companies all over the world. I mean, we are super proud. We have a project going on with the Japanese Navy. We're doing a lot with Australia, and so on. So they are part of our customer base, as, you know, every other customer. And of course, with AI, what we are doing oftentimes there, it's not about war, it's about, you know, things, how we can make them more flexible, how can we help with AI on asset management, on the maintenance of their fleets, et cetera. So that is actually what SAP is doing. It's pretty similar to what we are also doing for other industries."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "So yeah, they are part of our customer base, yes. And, I mean, maybe just from the size of the industry, the public sector is ranked number five when you... And we are dealing with 22 industries roundabout, and it's ranked number five from a revenue perspective. Yeah."
+    },
+    {
+      "speaker": "Monika Schaller",
+      "text": "Two questions from the tool. AI first or Current Cloud Backlog first?"
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "I mean,"
+    },
+    {
+      "speaker": "Monika Schaller",
+      "text": "Let's start with Current Cloud Backlog."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "I mean-"
+    },
+    {
+      "speaker": "Monika Schaller",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "I mean, the one doesn't come without the other, yeah?"
+    },
+    {
+      "speaker": "Monika Schaller",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "So the AI is actually part of the backlog, and AI is... Because oftentimes, numbers, people ask: \"What is your AI revenue?\" The AI sits within our apps, so the AI brings us the apps. The AI help us to win deals in SaaS. The AI helps us to bring more developers on our platform, so it's a natural part of everything what we do, and with that, obviously, it's also part of CCB."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "So what's the question? What's the question on CCB?"
+    },
+    {
+      "speaker": "Monika Schaller",
+      "text": "Can you again explain CCB?"
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "Yeah. I presume the question might refer to the fact that we have-"
+    },
+    {
+      "speaker": "Monika Schaller",
+      "text": "Yes"
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "... come in at 25% in actual terms, and that we had anticipated, post Q3 to come in at 26. You have to understand that when we forecast CCB, it's about also the granularity of all these contracts, and, if you look into the specific composition of the contracts we sign, they were slightly different. So the biggest impact we've seen, and we mentioned that in the introductory remarks, is that we had a lot of very large deals. Yeah. 71% of deals being EUR 5 million or higher. And in these large deals, it just takes longer to ramp because, the customers start with smaller instances in the company and then tackle the really challenging, big, elephant, so to speak, in the room later."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "So there's a little bit of a kind of back-end loading of the ramps there. Second point is that Christian mentioned the very strong traction we had on the defense side, also on the other side of the pond, and there are sometimes procurement laws in certain jurisdictions where we have very mighty procurement departments that can impose a termination for convenience on the vendor, and then we cannot put it in the cloud Current Cloud Backlog because that backlog needs to be contractually committed, and that option to walk is there. Now, in reality, that option is, of course, sometimes theoretical because these are deeply embedded systems which are extremely sticky. So we're very confident that the revenues out of this will come, but technically, we cannot put it into Current Cloud Backlog."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "The last point is what we discussed, that there is more and more customers who say: \"Can I really afford to have a off-the-shelf, standard, plain, vanilla, U.S. hyperscaler, infrastructure as a service? Is there a risk that might go away quickly for whatever political reasons, and look for alternatives?\" These alternatives are just about to emerge. Some of them are already up and running, some are just certified. The certification process takes some times. They also sometimes need to be built, so also from the signing of the contract till the deployment at the customer, it takes time. These were the three factors that actually explain the delta. Each of them, not super big, but if they compound together, we talk about that round about one percentage point."
+    },
+    {
+      "speaker": "Monika Schaller",
+      "text": "Thank you. Any other questions in the room? Nope. Okay. IDC, you are saying that connecting SAP AI to industry-specific processes is critical to winning customers such as, H&M. How can SAP move into AI- move AI into the industry-specific process at scale? What is your vision for that? After all, these processes vary greatly by industry."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Oh, yeah. Now I have to be careful that I am not deep diving too deep in our industry technological layer. I mean, first of all, there was a certain reason why always customers lean towards SAP to build industry extensions. A lot of data which sits in an ERP needs to be then also flowing through an industry capability. I mean, when you do returns claims management, it would be good to have the order data from the ERP. If you talk about, you know, supply chain resiliency, you need to also understand how do you produce, how to transport, and so on. So you always come back to the core. So then to extend that with industry capabilities makes total sense, and that's why a lot of customers are also turning to SAP."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "So we have the knowledge, we have the people, also here in Germany, by the way, a lot, who understand these industries extremely well. Now, with AI, we can, of course, completely reimagining how these certain industry capabilities will be done. I mean, a machine who needs maintenance\u2014we can actually predict this now way better than with our, you know, former asset management solution of SAP, because we have agents who are getting demand signals. We have agents who are, which can read out by an LLM, then in that case, the machine instruction when something's happening, how to put the machine up faster. We, of course, getting, we have the data in our ERP, where are the technical people who can fix the machine?"
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "And all of these agents are orchestrating all of that to improve the uptime of the assets of a company. And these are these industry capabilities, which we know very well from the past, and now we have to make sure that we also then co-innovate with our customers, the next generation of AI industry capabilities they need. And so, and technological-wise, I mean, it's the same like in the LOBs, yeah? We need the data scientists now, we need the people who can, you know, develop the AI, but we have those people. So now it's about, you know, going into this together, and I'm sure, especially this industry, AI will be a big growth driver for SAP. Can you standardize this 100%? No. I mean, such an agent will look different even within one industry."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "One mining company will not exactly do asset management like another mining company or the Deutsche Bahn. This is where we, of course, have to have the extensibility layer so that customers can go into our agent builder and can see, \"Okay, I want to actually automate that process piece on top of what SAP provided.\" This fine-tuning of agents, this extension of agents, is a super critical capability as part of our solutions."
+    },
+    {
+      "speaker": "Monika Schaller",
+      "text": "If we don't have any other questions in the room, I'll take the final one from the tool, combining two. AI investments. Your peers are struggling to show real AI value. What is SAP's value on AI? And how do you define sales goals in terms of AI for salespeople if you do not measure AI revenues?"
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Yeah. I mean, first on the value, I mean, I described H&M, I described Fresenius, Evonik. We are doing for other large companies in the world last mile delivery, so we are doing it already. Now, is some of that, you know, still to be developed? Yes. But I can say, I speak for everyone in this industry, yeah, that these things further need to mature. The very important, important part is of it, do you have the AI Foundation? Do you have the data? Do you have the business process understanding? And I can tick-mark all of that. Now, do we need some time and further investments to make that happen? Absolutely. But we are on a very good track, and customers are already seeing the first AI agents, and they are believing in it."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Just here in Germany, we had a big healthcare company, they just removed all of their 120 modules they had for cash flow because our AI Foundation came in together with an LLM and showed, \"Hey, we can do this way smarter.\" And then last but not least, how do we measure that? I mean, when we are going into now the year, I mean, obviously, we review in how many deals is AI part of it. When you sell supply chain, when you sell HR, don't go to the customer and sell it in the old way. Sell them the new capabilities with AI and how we can help to transform the customer's business. That's what we are looking at."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "We are looking at the value proposition, and then obviously connecting it to our product roadmap, so that what we are selling can also be adopted later on, and this is how we're gonna steer AI inside SAP."
+    },
+    {
+      "speaker": "Monika Schaller",
+      "text": "Sales targets."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Monika Schaller",
+      "text": "How do you-"
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "I mean, sales targets, again, yeah, we... The people get incentives if they, you know, selling value to our customers. We see high adoption, and AI is part of the solution. Yeah, it's not like, here's a piece of AI and here's a piece of supply chain software. It needs to come together. And only when it comes together, you're gonna see that you also get higher incentives, because we want to, of course, sell our customers the future, and that's how we steer it and how we incentivize our people."
+    },
+    {
+      "speaker": "Monika Schaller",
+      "text": "Perfect. We're running out of time now. Thank you, Christian. Thank you, Dominik. Thank you, everyone, for joining us today virtually. Of course, also here in the room-"
+    }
+  ],
+  "qAndA": [],
+  "totalTurns": 109
+}
