@@ -1,0 +1,374 @@
+{
+  "ticker": "SAP",
+  "period": "Q3 2025",
+  "eventDate": "2025-10-22",
+  "preparedRemarks": [
+    {
+      "speaker": "Operator",
+      "text": "Ladies and gentlemen, thank you for standing by. Welcome, and thank you for joining the SAP Q3 2025 financial results conference call. Throughout today's recorded presentation, all participants will be in a listen-only mode. The presentation will be followed by a question and answer session. If you would like to ask a question, you may press star followed by one on your touch-tone telephone. I would now like to turn the conference over to Alexandra Steiger, Global Head of Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "Alexandra Steiger",
+      "text": "Good evening, everyone, and welcome. Thank you for joining us. With me today are CEO Christian Klein and CFO Dominik Asam. On this call, we will discuss SAP's third quarter 2025 results. You can find the deck supplementing this call, as well as our quarterly statement on our investor relations website. During this call, we will make forward-looking statements, which are predictions, projections, or other statements about future events. These statements are based on current expectations and assumptions that are subject to risk and uncertainties that could cause actual results and outcomes to differ materially. Additional information regarding these risks and uncertainties may be found in our filings with the SEC, including but not limited to the risk factor section of our annual report on Form 20-F for 2024."
+    },
+    {
+      "speaker": "Alexandra Steiger",
+      "text": "Unless otherwise stated, all numbers on this call are non-IFRS, and growth rates and percentage point changes are non-IFRS, year-on-year at constant currencies. The non-IFRS financial measures we provide should not be considered as a substitute for or superior to the measures of financial performance prepared in accordance with IFRS. With that, over to you, Christian."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Thank you, Alexandra, and a warm welcome to everyone on the line. We are already entering the final stretch of 2025, and I'm very happy to report SAP had a great Q3 and keeps delivering. Our cloud revenue growth and current cloud backlog performance have been strong. Business in the U.S. public sector has started to pick up again. Overall, we are gaining market share as our customers are adopting solutions across the entire business suite, including Business Data Cloud and AI at an accelerated pace. A recent IDC study shows that we grew 10% faster than the rest of the market in 2024. Looking ahead, the pipeline for Q4 and 2026 looks great as we unlocked a few key industries where business had stalled in half year one. As a result, we can confirm with high confidence our ambition to accelerate total revenue growth through 2027."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "I'm very excited that AI is becoming the key enabler of our growth. First, let's have a closer look at the quarter's financial results and our customer wins. In Q3, cloud revenue rose 27%. Cloud revenue has consistently grown more than 25% for five quarters in a row, and it was coming with a very solid cloud gross margin of about 75% in Q3. Total revenue growth came in again double digits at 11%. Current cloud backlog increased 27%, a strong performance considering that the WalkMe acquisition is now in the base. Once again, our bottom line performance was excellent. Free cash flow increased by 5%, while operating profit came in 19% higher despite negative impacts of around EUR 200 million, which Dominik will explain in a moment. The customer stories from Q3 add color to the picture. Alphabet, Ericsson, Lufthansa, the Magnum ice cream company, Stihl, Syngenta Crop Protection, Tapestry."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "These companies are known around the world. They are industry leaders with iconic brands, and they all opted for the wise journey in Q3. Their business transformation journey doesn't stop at cloud ERP. Ericsson, Lufthansa, Magnum, Syngenta, Stihl, and Tapestry also adopted SAP Business Data Cloud and Business AI and expanded the SAP footprint with our business suite LOB Solutions. Alphabet, for its part, selected BDC, and we deepened our relationship with plans to further support our Business AI roadmap with Google Gemini. The picture is the same wherever you look. In addition to their new RISE journeys in Q3, we won Jysk for CX, Czech Wallskin for supply chain, Takeda for Ariba and supply chain, and all three customers also signed up for Business Data Cloud. Panasonic, for their part, signed up for RISE in 2022 and now in Q3 selected our complete human capital management portfolio."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "As you already know from the analyst conference at Sapphire, we see the potential to convert one euro of on-premise revenue into five and more euros of cloud revenue by transforming the end-to-end value chain of our customers through RISE with SAP. About half of that potential is upselling and cross-selling. The conclusion from these stories is very clear. Our strategy works, land and expand works, and the AI-infused integrated business suite is the way forward for customers as well as for SAP. As for the growth journey, our strategy is playing out very nicely as well. Among those that embarked on their growth journeys were the AI companies Perplexity, Connecta, and Kodiak AI. It is great to see that many fast-growing tech companies built their unique growth stories with SAP's business suite. Next to the Q3 wins, also Bending Spoons, [Top, and Solid], for example."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "They all embrace our growth journey because of the following reasons. They will be able to go live in a matter of weeks. They can scale our platform from small to big without any effort in over 60 countries, growing towards the IPO and beyond. They will never have to think about upgrades again and can instead invest their IT money in continuous innovation like AI. Finally, let's have a look at our software and cloud offering. I already mentioned that business in the U.S. public sector is picking up again. SAP NS2 was awarded a major framework contract with the U.S. government, and we are very happy that we have already won first orders under this framework in Q3. For example, the United States Army signed a contract enabling the migration from on-premise systems to the cloud. In the U.S."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "and worldwide, more and more customers are approaching us with their software needs. While some companies pursue high growth in the infrastructure business, we are sticking to our strategy. SAP will not build gigafactories. Instead, we provide software and cloud solutions together with strong cloud infrastructure partners. This allows us to offer customers the best of the best across the technology stack, and it allows us to reach great global coverage at a healthy margin without any long-term bans. Together with AWS, we recently launched software and offerings for India and Europe. With OpenAI, we launched a partnership providing German public sector customers software and access to one of the world's leading LLMs. On top of that, we just introduced a game-changing new software and cloud offering for highly regulated customers and governments."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "We can now offer our entire cloud portfolio in a customer data center at a highly competitive cost. The offering delivers the highest levels of data, operational, technical, and legal sovereignty while customers have access to all SAP cloud solutions, BTP, BDC, and AI. We see tremendous customer interest in this software and cloud on-site offering and have built already a strong pipeline for 2025 and 2026 within a few weeks. With regard to AI, our strategy is playing out as well. For high-value AI cases in B2B, a large language model alone is not sufficient. To make it simple, no apps, no data, no AI. Only the combination of LLMs with business processes and contextual data results in high-value AI use cases. That is our strategy. That is where SAP is better than anyone else, and that is where we innovate and invest."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "We are proud of releasing more and more AI agents, but it is not the number that counts. It is about how we automate and infuse intelligence across end-to-end business processes. It is about orchestrating AI agents across the company's value chain, something only SAP can do. That's why we are introducing AI assistants in tool, orchestrating our agents to support specific personas and functions in a company. Imagine, for example, an AI assistant for supply chain management supporting a planner to reroute goods, optimize inventories, or connect new suppliers seamlessly. Think of these assistants as team leads who bring just the right technical agents into the conversation from a pool of hundreds. For example, bringing in a maintenance planner agent as part of the production planning process and supporting the planner to reduce downtimes of important assets significantly, increasing the productivity of the planner by up to 40%."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "We are currently working with customers across all industries and functions to co-develop and refine these assistants to maximize the business value. We are also releasing the tool everywhere and everything functionality to customers in Q4. Thanks to our partnership with Perplexity, our AI copilot can now work with both SAP and non-SAP data, and it can provide high-quality answers to very complex business questions. Finally, our latest research publication on SAP's foundation module for tabular data will be a spotlight paper at one of the world's top AI research conferences this year. We are at the cutting edge of research and turning now these insights into tangible benefits for our customers. In Q4, we are going to sign Wise deals initially planned in 2026 because customers want to start now using SAP Business AI."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Even more important for us at SAP, AI adoption is going up significantly because end users are consuming SAP Business AI at a higher frequency and across a broader scope. Some examples: Johnson Controls saves 3,000 hours annually by automating routine IT system monitoring with our IT agent. Bosch saves 2,500 hours per customer service center per year with our services agent. JK Cement from India has cut the time for purchase-related processes by 50% with our sourcing agent. We build use cases not just for the horizontal layer. Super happy to report that we are going in the meantime deep into the industry verticals as well. To give you two examples, W\u00e4rtsil\u00e4, a manufacturing company, is infusing SAP Business AI in their mission-critical spare part quotation process. This results in a significantly higher process accuracy and a much better customer and supplier experience."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "With CHS, an agriculture company, we are enabling traders to create commodity contracts in natural language with SAP tool, with estimated efficiency gains in the tens of thousands of dollars per trader, as well as improved data integrity and accuracy. Looking at the data layer and our business data cloud offering, we are also pushing ahead. For example, with the hundreds of data products released to date and new capabilities for intelligent apps such as people intelligence and revenue intelligence, we are also strengthening our position in data with our new offering, SAP Business Data Cloud Connect, a zero-copy service to connect BDC with partner data platforms such as Databricks and also Google BigQuery. Customers receive live and secure access to Google's AI ecosystem and Gemini modules, among many other things. More exciting data partnerships will soon follow at our TechEd event in November."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Internally at SAP, we are also doubling down on AI adoption. Acting as customer CRO for our own solutions, we boost productivity. Some of the greatest internal levers are in development, go-to-market, customer support, pricing, and process simplification in the corporate functions, for example, in the deal approval process. SAP wants SAP. That is the guiding principle. As for Joule, our AI copilot answers thousands of employee questions every day, from simple tasks such as travel bookings to complex quoting support at quarter end. We believe that simplification and internal AI adoption will enable our headcount to grow significantly below revenue. Let me now summarize. SAP is in a very good shape. We closed a great Q3 and are ready for Q4, thanks to a very healthy pipeline."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "At the same time, we are building a strong position for SAP to be a leader in the AI race with apps, data, and AI as the winning formula. As 2025 is coming to a close, we are already looking ahead to the next chapter. Our product strategy and business model are spot on. This gives us resilience across regions and industries. AI will be the key enabler for accelerating double-digit total revenue growth through 2027. Given all that and more, I'm very much looking forward to the future. With that, I'm now handing it over to Dominik. Dominik?"
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "Thank you, Christian, and thank you all for joining us this evening. As Christian mentioned, SAP delivered yet another great quarter with performance that underscores the momentum we see across the business, despite the persistent challenges and uncertainties in the broader macroeconomic backdrop. In Q3, we saw strong execution on current cloud backlog and cloud revenue. This, coupled with the healthy growth in operating profit, reflects the safeguards we put in place and the discipline with which we are managing the business. The cloud ERP suite delivered its 15th consecutive quarter with growth exceeding 30%, highlighting the progress we are making in helping customers migrate to the cloud and validating the strength of our strategy. These achievements show that SAP remains a bellwether for digital transformation, reflecting the trust customers place in our mission-critical solutions and positioning us for durable growth in the years ahead."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "Now, more details around our financial highlights. Account cloud backlog exceeded EUR 18.8 billion, up 27%. Cloud revenue also increased 27%, driven once again by the strong performance of cloud ERP suite. It delivered 31% growth in Q3, demonstrating the unabated momentum of strong market share gains in what by now represents 87% of cloud revenues and actually more than 100% of the year-over-year increase in cloud revenues. The magnitude of these market share gains becomes even more evident if adjusted from 31% cloud ERP suite growth at constant currencies to the reporting currency of our competitors, which is obviously the U.S. dollar. During the quarter, we also closed our acquisition of SmartRecruiters. This tuck-in strengthens our capabilities in talent acquisition and supports our long-term strategy."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "Despite our solid operating momentum in Q3, please keep in mind that as we progress through the remainder of 2025, we need to stay mindful of the broader environment. We were also awarded a major U.S. public sector framework agreement in Q3 with the United States Army, which we expect will expand our access to future opportunities in this market, giving us confidence that this industry is seeing early signs of improving engagement. Software licenses revenue decreased by 42% in Q3. Finally, total revenue came in at EUR 9.1 billion, up 11%, and the share of more predictable revenue rose by 2 percentage points to 87%. Now, a brief look at our regional performance. In Q3, SAP's cloud revenue performance was particularly strong in APJ and EMEA, and solid in the Americas region. Brazil, France, Germany, India, Italy, and South Korea all had outstanding performance, while Japan, Spain, and the U.S."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "were particularly strong. Now, moving down the income statement. Our non-IFRS cloud gross margin for the quarter expanded by 1.1 percentage points to 75.1%, driving cloud gross profit up by 28%. IFRS operating profit increased 12% to EUR 2.5 billion in the quarter. In the third quarter, non-IFRS operating profit was up 19% to EUR 2.6 billion. Both IFRS and non-IFRS operating profit growth were negatively impacted by approximately EUR 100 million as a result of a change in case law that affected SAP's other tax litigation provisions, as well as more than EUR 100 million related to the workforce transformation. In light of the timing for some of the measures related to this program, we anticipate another EUR 100 million of expenses to be recognized in the fourth quarter of 2025. I'll now touch on our results below the operating line."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "The IFRS effective tax rate in Q3 was 25.3%, and the non-IFRS tax rate was 27.9%. The IFRS effective tax rate is lower than the non-IFRS effective tax rate due to the tax benefits from tax-exempt income. Operating cash flow in the third quarter was up by 7% to EUR 1.5 billion, and free cash flow increased by 5% to EUR 1.3 billion. The increase was mainly attributable to the higher profitability and to lower restructuring payments, which were partially offset by higher tax payments. Finally, basic IFRS earnings per share increased to EUR 1.72, and non-IFRS earnings per share increased to EUR 1.59. Now, on to our outlook. As you've seen in today's release, we now expect to reach the range of our cloud revenue outlook for fiscal year 2025 towards its lower end due to delayed bookings in the first half of the year, as already highlighted in July."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "We've seen this dynamic of backend loaded bookings again in Q3, especially in sectors such as industrial manufacturing and the public sector. Nonetheless, we are now expecting to land towards the upper end of our operating profit outlook range and forecast free cash flow to exceed the previous target of EUR 8 billion. We continue to expect CCB growth to slightly decrease in 2025. While by now we have a quite precise view as to where we will end up within our guided range for cloud revenues for fiscal year 2025, given that Q4 is by far the biggest quarter in terms of bookings seasonality, we still have a larger range of potential outcomes for CCB growth. Nonetheless, our robust pipeline of opportunities and our strong competitive momentum give us confidence to reiterate our ambition to accelerate total revenue growth through 2027."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "This performance underscores the strengths of our portfolio, operational discipline, as well as our ability to deliver results. For additional details, please refer to our quarterly statement published earlier today on our investor relations website. Thank you, we will be happy to take your questions."
+    },
+    {
+      "speaker": "Alexandra Steiger",
+      "text": "Thank you, Dominik. Again, we will take your questions now. I would kindly remind you to only ask one question when prompted. Operator, please open the line."
+    }
+  ],
+  "qAndA": [
+    {
+      "speaker": "Operator",
+      "text": "Ladies and gentlemen, at this time, we will begin the question and answer session. Anyone who wishes to ask a question may press star followed by one on their touch-tone telephone. If you are using speaker equipment today, please lift the handset before making your selections. Again, anyone who has a question may press star followed by one at this time. One moment for the first question, please. The first question is from the line of [Toby Og] with JPMorgan. Your line is now set."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Yeah, hi. Hi, good evening, and thanks for the question. Just on the demand backdrop, Christian, I know you talked previously about elongated sales cycles across various sectors, U.S. public sector and manufacturing. Could you just give us an update on what you're seeing now with respect to these sectors? Obviously, there's the shutdown at the moment, but it sounds like you're seeing some positive early signs. Just related on the backlog, Dominik, I think you'd said at a recent conference that 4 percentage points of decline would be a bit more than a slight decline, which is the guidance. Is it right for us to interpret that as a 25% exit rate being unlikely, as that would be 4 points deceleration from the 29% that you did in 2024? Thank you."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Yeah, happy to take your question. First, on macro and deal cycles, just to give you also a bit of insights into our Q4 pipe. First, what is not only very positive is that we have the coverage. Q4 is by far, as you know, our biggest bookings quarter, and coverage looks really good. We even see in the U.S. public sector, you saw the adjusted cloud revenue guidance. When you're going to miss in the U.S. public sector and also in a few deals in the manufacturing space, somehow the bookings in half year one, it's hard to catch up. The good piece is looking at our Q4 pipeline, I find a lot of these deals now coming back, and that gives us a lot of confidence for Q4."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "The good piece is also when you look at the pattern of the pipeline, and not even Q4, we had also a broader look on rolling fourth quarter. The good piece is I always ask the question, are we connected to the C level? Is it only about IT and end of maintenance, or is there high value? I can tell you in over 90% of the deals, we are talking to the C level. We are talking about cost optimization with AI, especially in the chemical industries. This is not about do we do it or do we not do it. It's actually a done deal that they want to do it. It's also about AI being the leading factor for doing this deal and not only to be more safe in the cloud."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Second, when we also then look at the Q4 pipeline, what is also very promising is that when we have seen in the past this kind of pipeline coverage, we could definitely see that when we are executing it in the right way, when we are connected to the C level, when there is a compelling business case, then it's all about execution. It's in our hands, nothing else. No macro, no elongated sales cycles. Last but not least, when it comes to the CCB, I definitely don't see a 2025 Q4 can have a big swing. I would be rather a bit more optimistic when we are talking about the CCB and the exit rate for this year, given the momentum in our business."
+    },
+    {
+      "speaker": "Operator",
+      "text": "The next question is from the line of Mohammed Moawalla with Goldman Sachs. Please go ahead."
+    },
+    {
+      "speaker": "Mohammed Moawalla",
+      "text": "Great, thank you. Hi, Christian. Hi, Dominik. Just for me, again, on the sort of the delay you're seeing in terms of the backlog and the back-end loaded nature of the deals falling into kind of cloud revenue, how should we think of that? The Q4 implies a kind of significant step down. When we think of cloud revenue going into next year, do you still expect to be around that sort of mid-20s level, plus or minus?"
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Yes, and I mean, Q4 is, of course, a very important quarter, as you know, for the cloud revenue guidance for next year. We have the pipeline, we have the coverage, we have the industry back which we were waiting for, and we have the AI in order to build these compelling business cases. Yes, we are definitely very confident that we can not only deliver a good Q4, but also pick up some of the stalled pipeline in half year one now that we were able to open up these markets for SAP again."
+    },
+    {
+      "speaker": "Mohammed Moawalla",
+      "text": "Great, thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "We'll move to our next question from Michael Briest with UBS."
+    },
+    {
+      "speaker": "Michael Briest",
+      "text": "Yes, good evening. Thanks. Christian, I know that you announced some of the details around the SAP ERP transition option for those customers who need longer to move over to S/4HANA in the cloud. Can you say something about the uptake? I think you've done quite a smart thing on pricing by flagging increases if people don't sign by the year end. What sort of uptake do you expect? Does this give you sort of visibility on the hopefully small number of customers who will adopt this option?"
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Yeah, happy to do so, Michael. First, when you look at the pipe and analyzing the pipe and how we also deliver now the increase in pipeline over the last, I would say, three to four months, there was positive momentum. First, yes, it's this transitioning option, but also, Michael, don't overestimate the potential. Yes, we have a lot of large customers and they cannot transform all ERP businesses at the same time. I mentioned in the past a few examples, and for these customers, it's great. Yes, indeed it's helping to move those customers also more faster to the cloud to secure their landscape, to give them also the security on the support, on the cyber side, on the SLAs around the operations of the system."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Even more important, I would say, is when I saw now in the last three months what really moved the pipeline was around software and cloud. I know others are playing a big bet on infrastructure. SAP is rather focusing on the value creation at the upper part of the stack. That doesn't mean that we are not competitive in the software and cloud. We are opening up in every country in the world almost now new options with our infrastructure partners on software and cloud. Especially the public sector, be it in MENA, be it even in Germany. Not only the U.S., Australia is now really, really coming along. What I also mentioned in my statement, that we can put the whole stack into a customer data center and can operate it in a SaaS-like environment. That was for many customers in these industries really great news."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "We see now high interest, and I would say we can even sign the first deals in Q4 if everything works out well. Yes, the transition option helped, software helped, and then, as I mentioned, AI. Look, I know you're always looking for numbers on AI. I also don't want to play into hype on, oh, we deliver now 800 agents in the cloud. What do 800 agents do? Which salesperson can actually sell 800 technical agents? For me, it's more important when we talk to a W\u00e4rtsil\u00e4, when we talk now to the Q4 opportunities. There's, for example, a big hardware store market, one of the largest in the world. They want to build AI use cases, giving them a marketing agent to do more targeted marketing campaigns, to understand better the consumer trends. We are delivering an agent on supply chain."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Are all these agents having all the technical agents underneath to cover the complete supply chain? No, but the customers are seeing, hey, this is what we want. We don't want to get sold on 800 technical agents. We need actually, here's a business process, here's a persona, SAP, tell me what does it do for this persona, how much productivity, and how much more intelligence do I get, for example, in a supply chain planning process? That is working. Even if then there is 20%, 30% of the technical agents missing underneath to orchestrate an end-to-end process, we say, hey, come on. This is also what SAP is strong about. We come to you and we develop together standard agents to really make sure that you can cover this very important business capability."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "That is, in the meantime, really the key reason for many of our deals, especially now in Q4. That last piece also reduces the slippage risk because you not only talk about cloud, you not only talk about end-of-maintenance, you have a compelling business reason. That, again, gives me also a good confidence that we will also see a good pipeline conversion because a strong pipeline alone doesn't help. You need to close it. There I see also the wide maturity in the pipeline in Q4."
+    },
+    {
+      "speaker": "Operator",
+      "text": "The next question is from Mark Moerdler with Bernstein Research. Please go ahead."
+    },
+    {
+      "speaker": "Mark Moerdler",
+      "text": "Thank you so much for taking my question, and great to hear in terms of the strength of what we should see at the back half of the year. I've got a higher-level question I'd like to ask. SAP is taking the approach through Business Cloud in terms of allowing the data to flow out to systems like Databricks and Google for analytics and the rest. How should we think about the effect that could have on the future economics for SAP, for AI, analytics, et cetera? Thank you."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Yeah, Mike, a very good question because I know there are also other people asking similar questions around BDC. First, and Mike, I want to also make this very clear because some of the discussions around the role of SaaS, the role of the apps in the future, I don't see one AI use case in the B2B world where you can only deliver high value with an LLM module. No matter if it's about predictive asset management, we are talking, we are working on autonomous payrolls, faster quarter ends, strategic workforce in HR. It's always about the combination of the two. You always need the data. You always need high-quality data, by the way. You wouldn't imagine some of the adoption challenges customers sometimes have when they're coming to us that, Christian, I have here a lot of custom agents, but they are really constantly delivering the wrong prediction."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Okay, because again, the agent cannot do magic if the underlying data structure is not harmonized. If the agent, technical agent, again, to my point, you can deliver 800 agents. When they don't talk to each other, when they don't understand the business context, they are lost. Now to BDC and the data side of the house. BDC is, in the meantime, involved in every AI wise deal we are doing. Customers are getting, okay, I get it. These data products give me the harmonization, the data quality I need to deliver the high-value AI use cases on top. Now, to your question, what does this mean when we are now closing partnerships with Google and Databricks? First, it's all about better data processing. Zero data copy is value. The data products, the semantics, the business context, the orchestration of the agents in a business context is all with SAP."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Obviously, you can use some of the data products for data engineering in the Databricks world. Everything that happens on AI agents in the context of the SAP applications, in the context of the business processes, in the context of enterprise analytics, that is SAP. We will never, ever give up this crown jewel because this is clearly what SAP is best at. We are getting the best of both worlds. As I mentioned, it's not only Google. There are a few more now coming in Q4, which again is even also relevant already now in the Q4 pipeline for BDC because customers are loving what they see and that SAP is really having now this open data platform, which is again also very essential for almost every AI use case we are building together with our customers."
+    },
+    {
+      "speaker": "Operator",
+      "text": "The next question comes from Adam Wood with Morgan Stanley. Please go ahead."
+    },
+    {
+      "speaker": "Adam Wood",
+      "text": "Hi, good evening, and thanks for taking the question. I just wondered if we could come back to the confidence on the revenue acceleration for next year. I think you're suggesting we probably end the year on CCB of EUR 26 billion, but obviously there is a little bit more risk of the range on that one. It sounds like the cloud guide suggests that we exit Q4 maybe around 25% growth. I think on my calculation, you need around 24% growth on cloud revenues next year to get that revenue acceleration. If you're exiting at 25%, it doesn't feel like there's a huge amount of room for error on that to be able to hit that revenue acceleration. Could you maybe just give us a few more insights into why that confidence is there? Is it the other revenues within cloud that you're more optimistic on?"
+    },
+    {
+      "speaker": "Adam Wood",
+      "text": "Is it that CCB just starts to slow dramatically less because you're starting to close some of the deals that slipped earlier in this year? Thank you."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Happy to do so. I mean, look, just the cloud revenue guidance is just a result of some of the stalled pipeline we had in half year one. Yes, I mean, mathematically, you know how it works. It's hard to pick up even if you close these deals in August, September. Some of the deals we started to close in September, you cannot make up six months of revenue you couldn't realize. Now, for the revenue one rate next year, obviously, I mean, they're fully in. They're fully in the backlog. They're actually now everything what we can pick up from half year one, plus having a good pipeline, a strong pipeline for Q4 helps. On the CCB side, as I said before, yes, I mean, look, there's always a big swing, but I would be again also a bit more optimistic than the 25%."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "We have the pipeline to do more. Again, yes, there is a big swing. There are large deals, but they are very mature. I'm more confident than the 25%. With that, obviously, that also sets us up for the total cloud for the total revenue acceleration in 2026. Given the high recurring revenue share we're having in the meantime, I mean, we can say this with confidence that if we now deliver on our strong pipeline in Q4, it's very likely that you're also going to see this guidance for SAP next year. Dominik?"
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "No, just adding that probably the delta between CCB growth exiting 2025 and the cloud revenues should be not more than a percentage point because the famous transactional business is really currently still languishing, I would say. The biggest reason for that, actually, the overwhelming reason for that, is lower travel activity for Concur on bookings. That's, again, very much related to the shutdown, which is actually resulting in lower travel activity on government officials."
+    },
+    {
+      "speaker": "Operator",
+      "text": "The next question comes from [Ben Castillo] with BNP Paribas. Please go ahead."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Hi, good evening. Yeah, thanks very much, I'm [Leong]. Question maybe for you, Dominik, on free cash flow. Obviously, you've nudged up the guidance for this year up to EUR 8.2 billion. You're at EUR 7.2 billion through nine months this year. I guess I can't recall the last time Q4 was less than EUR 1 billion in free cash flow, excluding one-offs. Is there anything that's different this year that we should be thinking about? I guess the cash conversion so far this year has been very strong. I know you've given us some indications for next year with various headwinds, but nevertheless, just welcome any comments on this year's free cash conversion and thoughts into next year. Thank you."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "Yeah, I mean, one source is really also the phasing of the tax cash out because we had moderate cash tax out in H1, a little bit higher in Q3, but Q4 will be higher. Obviously, we have to always be cautious about the consumption of transformation credits, how much of that will be used by year end, which can trigger some cash headwind. There's nothing magic in there. It's just a myriad of smaller things that happen in the working capital that can make that number a little bit noisy. We sharpened the pencil as well as we could for Q4 and come up with this number. I think this is the best we can estimate as of today."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "It's really a phasing topic within the quarter, and it's always a question of receipts and payments of certain activities that happen at year end, which can be flipping either side of the turn."
+    },
+    {
+      "speaker": "Operator",
+      "text": "The next question comes from Frederic Boulan with Bank of America. Please go ahead."
+    },
+    {
+      "speaker": "Frederic Boulan",
+      "text": "Hi, good evening, Christian and Dominik. If I can ask a question on your competitive position versus Oracle, do you see an incremental risk from their pivot toward infrastructure in terms of offering? They mentioned you guys a number of times at their recent CMV, so I'm looking to get a bit of an update on where you see yourself positioning this time."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Yeah, look, I mean, for me, when I see the recent developments out there in the market, I know that some of our competitors are playing the game on scaling the infrastructure, training LLMs. I mean, when I listen to our customers, and that is super important, they are super positive around the value creation we are now providing to them for the end users, Joule, supply chain, HR, finance. For us, the infrastructure is, of course, part of the stack. When you look at software and cloud, I mean, we can actually always offer highly competitive offerings in all parts of the world. There is no need in my eyes at all to change our strategy and to suddenly start building data centers everywhere in the world. Our strategy is proven and it works."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "I'm deeply, deeply convinced that when we are now looking at some of the large language modules, I mean, our goal is not to train them, but our goal is to use them. Many of them, like an OpenAI, you saw our announcement in Germany, are now coming to SAP and saying, hey, for this applied AI, I want to do business in the public sector. Can you work with us? Can you give us the BDP? Can you give us Joule Studio to build all of these agents? Because we need a development platform. We need this applied AI thing. Over time, we need to move up and deliver that. We see a huge momentum there also working with these LLM providers in really not only infusing them in our technical stack, but really now going to customers together and actually deliver AI agents together."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "That is actually, for me, the absolute winning formula. Again, it's for us super, super important to make our AI foundation world-class. We will stick to the winning formula we had throughout the whole year. It's about the apps. They give us high-quality data. BDC was a genius move for us. Now with the high-quality data together with the LLMs, we can provide more and more value to our customers. We see it in the numbers. We see it in the pipeline. It's working. Again, on software and cloud, we are having everything what we need also on the infrastructure level without building those data centers."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "From a finance or numbers point of view, first of all, indeed, infrastructure as a service is now at around 1% of our cloud revenues. With Sovereign, that might stabilize or even go up, but we talk about a completely different path we're taking. On the competitive benchmarking, when you look at Gartner's RDCs and so forth, they all put the numbers into U.S. dollars. At the risk of stating the obvious, euro constant currency numbers with a strongly depreciating dollar is a different story than dollar. If we convert our numbers in dollar, we see even higher numbers than the constant currency numbers. What is a headwind for us, namely the depreciating dollar, is, of course, a tailwind for our U.S. competitors. That's the comment I tried to make in the interest statement."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "I don't quite understand why there is any nervousness if you see cloud ERP suite growing at 31% constant currencies, which is even more in U.S. dollars because of the depreciation of the dollar. If you then look at the market data, a competitor data, please name us one who is actually anywhere near that."
+    },
+    {
+      "speaker": "Operator",
+      "text": "The next question comes from Jackson Ader with KeyBanc Capital Markets. Please go ahead."
+    },
+    {
+      "speaker": "Jackson Ader",
+      "text": "Great, good evening, guys. Thanks for taking our questions. I want to just go back to the backend bookings that are happening either in the first half or through the quarter. I think we've addressed the competitive dynamics, but I'm curious, Christian, you've said that you guys want to focus a little bit on price discipline. I'm curious how whether that price discipline is impacting the linearity of the bookings through the quarter and then how that price discipline is actually holding up as we get closer and closer to the ends of these quarters. Thank you."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Great question. I mean, look, actually, to give you a real-life example of how our AI works, I asked in the afternoon in preparation of this earnings call, Joule. I said, Joule, with my pipeline, with the sentiment, with everything what we have compared to the years before, how are we going to end up the year? Joule, happily enough, gave me a pretty confident answer. What I also got out is when you look at the pipeline, when you look at also about what we see for next year and the business cases we have in the system, it's actually good to see that it's not only about, again, a lift and shift of a system. It's not about training an LLM module and scale commodity hardware."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "In many, many, I would say, in the predominant number of the deals, it's really about, okay, talking to the C level, there's a cost optimization program. How can we help on the spend side? How can we help on the automation side? How can we help on the shop floor automation in moving more to in-time, real-time manufacturing with a better prediction of the demand? That is also, of course, giving us not so much pricing pressure because this is not only the CIO who is standing up and says, oh, SAP wants to get a deal done. This is the C level saying, hey, you are part of a business case when it comes to the transformation of the company, no matter if this company has cost pressure or is looking into new business models with AI, but we are playing in this game."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "That is, of course, also then helping us on price protection. As I also mentioned before on pricing, you know, look at all of the software and cloud. I mean, this is really a lot of engineering work what we have done to make this happen. Now it's paying off. Customers are willing to pay also a premium for that. Honestly, these are highly sophisticated capabilities. This is not only about putting an ERP system on a public cloud infrastructure in a data center in a country. These are sometimes much higher standards which we can fulfill. Customers, again, understand that they have to pay a premium for that. Last but not least, our sales team knows that when they want to make the year and they want to make their quota, there is, of course, a volume included in the quota. We also have a pricing element included."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "We are not just giving deals away in order to hit our numbers. It always has to be a wide mix of both of volume and pricing. One piece, because Alexandra always reminds me about it, is the questions around the migration credits. We are not taking this lightly and we are not pushing them out every time. When a customer says, oh, I have now cost pressure, but I want to do this. I see the AI, I see what Wise can do for me on the business side. Can you help me to make this, you know, the business case a bit more attractive? Before we discount the exit price or the point of renewal, in this case, it's very targeted and we also work with these migration credits. That's also how we protect our prices on the cloud, on the subscription side."
+    },
+    {
+      "speaker": "Operator",
+      "text": "The next question is from Charlie Brennan with Jefferies. Please go ahead."
+    },
+    {
+      "speaker": "Charlie Brennan",
+      "text": "Great, thanks for taking my question. Can I just ask a high-level question around investment levels? I think we all want you to remain at the front of the curve with AI and leading the industry. I think we all understand that investment comes before revenue streams. Are you confident that you can fund the required AI investment by reallocating R&D spend and maybe reinvesting the efficiencies that you're driving? Do you think there's a business case for an acceleration in investment to guarantee that you remain a leader in this space? Separately, can I just ask a quick question about the support revenues? It looks like we're finally into the stage where we're seeing an accelerating decline. That's obviously an indication that you've got customers going live, which is very healthy. Is there anything you can say about the total cloud backlog moving into the CCB?"
+    },
+    {
+      "speaker": "Charlie Brennan",
+      "text": "Does that take some of the in-quarter pressure away to sign new deals because of that transfer of TCB into CCB? Thank you."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Yeah, happy to take the first question on support revenue. Maybe Dominik, you can help me, but we're happy to."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "On the support revenue, yeah, I mean, it's just the acceleration we've always indicated that will come sooner or later. Again, don't look too much at one single quarter. I think it's always a bit noisy for whatever reasons, and there are some backs and forths on this. The trend is clearly towards a slight acceleration for the reasons you have highlighted yourself."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Yeah, it also speaks for the adoption of our customers in the cloud as the RISE journey now continues and even accelerates for many customers we signed a few years back. Now, on AI, when you look at our R&D portfolio, I will now talk first about Philip and our AI foundation. When you would ask Philip for his budget request next year, he says, \"Christian, I don't need 2,000 more AI developers. I need the best. I need the PhDs of the Berkeleys. We are working with MIT on our knowledge graph.\" It's really about the quality of the people. It's not necessarily about the quantity of the people. What we are doing, and you heard me saying about our research on tabular data, that is for us very important that Joule can talk not only HR and finance."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "When I'm asking this question this afternoon about our financial result prediction for the year, then Joule needs to correlate sales, contextual data, unstructured content with finance data. This is what we are building on the AI foundation. Now, in the lines of businesses with Muhammad, we already did some work this year. You have seen us. We did another slightly surgical restructuring round this year, which we ended, and now we adjusted here and there a bit the workforce. That was predominantly in R&D. What we are doing there is when you see the lift and shift in our portfolio, we have now much less developers sitting coding features and functions, but a really solid shift, I would say, into AI developers, data scientists, building the predictive modules on BDC for the intelligent apps, etc. That is actually already happening."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "We will see next year probably a further shift, but not a radical shift because a lot of that has already been done. Overall, the investment into R&D, when there's one area where I'm always open to invest is R&D. I also talked about applying AI internally. Obviously, Muhammad is great in this team, applying code generation tools. Joule for Developer, we have GitHub. We are now rolling out a few more. We have also our own code generation tool now as part of Joule Studio. We even see an increase of adoption of 300% for Joule for Developer only in the last three months. Also there, we are working on efficiency. While on the one hand side, we of course have a strong development backlog, we also, of course, see the efficiencies now kicking in with AI. The lift and the shift in the portfolio is good."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "The pipeline is good. We also find the right resources in India, in Singapore, parts of the U.S., also for our AI team. We are very happy with the quality of the people. I want to underscore, for us, it's more about the quality of the people we can onboard and hire."
+    },
+    {
+      "speaker": "Operator",
+      "text": "The next question is from Michael Turrin with Wells Fargo. Please go ahead."
+    },
+    {
+      "speaker": "Michael Turrin",
+      "text": "Hey, great. Thanks. I appreciate you taking the question. Dominik, you mentioned the range of potential outcomes on 4Q CCB. It sounded like from some of Christian's comments, AI is actually pulling RISE deals forward in some cases. I'd just be curious to hear more around potential swing factors in either direction there on that metric and any higher-level commentary you're willing to share to help size the range of potential outcomes as you're exiting the year on the stronger seasonal bookings quarter. Thanks very much."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "I mean, the obvious number that drives the CCB from now onwards is the net bookings, either cross bookings and then the churn. On both, we want to do as well as we can. The good thing about the CCB is that the lion's share is really, if you close by the end of the quarter with a certain kind of deployment time, you embark that in your CCB if you can do that, which is not the case for cloud revenues, of course. Now, I can really not give any more hints than have already been shared on this call. I mean, it's just useful to, I think, remind ourselves where we started the year. We started the year at exactly EUR 28.7 billion. That was the 29% we jumped off."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "We said we are going to be slightly down, including an effect from M&A, which back then was 1.5 percentage points roundabout. Of course, WalkMe, sorry, SmartRecruiters was kind of a slight offset. M&A is around about the percentage point in that bridge. If you now think where we are post-Q3, it actually gives you a little bit of a feeling between kind of what happened at the beginning of the year, what's there now. I would not look at any individual quarter and read too much into this, but if you think about the kind of three quarters that we now have under our belt and the gradient there, and then depollute that for CCB growth, you see a little bit of a trend. Let's not forget there's still a difficult situation in the transactional business, but that doesn't impact the CCB. It's more heavy on the cloud revenues."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "text": "If you put these numbers into the trajectory and then think about the type of imponderability about bookings, net bookings, it gives you actually this kind of, I'd say, a bandwidth which the numbers need to be gravitating in and it's not too wide, actually."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Maybe just to add it up on because I know, I mean, how important the CCB will be for the, you know, at the exit of the year, also for the outlook next year. I mean, look, 25%. I mean, when I look into the first half year, how much pipeline was stalled, I would say 25% would be probably the most likely scenario. In the meantime, as I mentioned, the sentiment in some of these industries, which are not insignificant from a size perspective, has changed. Now I would be rather disappointed on 25%. 26% would be, in my eyes, a great result. Look at the base, look at the acquisition impact of WalkMe. I definitely see now that there is a better pipe. We worked hard on some of these things. We have it in our hands. Again, Q4 has a big swing."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "It can go in all directions. Right now, if you ask me and if you look at the pipeline, and I've seen it many times, I would rather see 25% as a disappointment. Again, there is a swing, but I'm now definitely more optimistic than I was three months ago when it comes to Q4, which is by far, of course, our biggest bookings quarter we have in the year."
+    },
+    {
+      "speaker": "Operator",
+      "text": "We'll take our next question from Johannes Schaller with Deutsche Bank. Please go ahead."
+    },
+    {
+      "speaker": "Johannes Schaller",
+      "text": "Yeah, good evening. Thanks for letting me on. Christian, I wanted to come back to this comment that you made that you're now hoping to sign maybe some RISE deals in Q4 that were initially planned for 2026. I guess that's quite a rare comment in an industry that often sells quite large, multi-year transformational deals that are maybe not that easy to accelerate. Could you zoom in a little bit more on the customer discussions you had around that and really kind of what role your AI offering played here? Just as a quick follow-up, you used to give the AI attach rate on new deals. I may have missed that, but could you share that maybe for the third quarter? Thank you."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Yeah, I mean, look, to give you a real-life example, I was last week in Japan. A customer and the big transformation pressure, BCG pulled us in and actually also shared with us, \"Hey, Christian, can you help not only on now cloud and making sure they get rid of these painful ERP upgrades, but really about we really are looking for cost optimization potential. They are looking for a new template on how to monetize their new businesses as they diversify their portfolio. Of course, we see that you have the AI use cases here and there on process automation and then also on the CPQ side for more intelligent quoting and pricing. That is a deal, for example, which I didn't see coming."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "There you see that in the meantime, it's also great that the ecosystem pulls us in and says, \"Hey, this is where SAP is in the meantime really, really good.\" That, of course, helps, you know, that you get such deals. Again, not because of maintenance, not because of IT. It's really about the business transformation and AI. We have some of these deals. Again, they need to materialize. I mean, they came now in. We have it in the pipe. They are looking good. We see some of them. That is a good sign. Last but not least, as I also mentioned, yeah, I mean, you know, half year one, even here when we did the Q2 earnings, I mean, back then I would also say I would have underscored the 25%."
+    },
+    {
+      "speaker": "Christian Klein",
+      "text": "Now, in the meantime, given the sentiment, what we are seeing, and also again having the access to the C level, I'm definitely more optimistic than I was at the Q2 earnings."
+    },
+    {
+      "speaker": "Alexandra Steiger",
+      "text": "Great, thank you, Christian. This concludes our call for today. Thank you all for joining."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Ladies and gentlemen, the conference is now concluded and you may disconnect your telephone. Thank you for joining and have a pleasant day."
+    }
+  ],
+  "totalTurns": 91
+}

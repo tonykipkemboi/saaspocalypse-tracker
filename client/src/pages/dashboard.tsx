@@ -15,7 +15,9 @@ import {
 } from "lucide-react";
 import { PerplexityAttribution } from "@/components/PerplexityAttribution";
 
-const companies = companiesData as Company[];
+const allCompanies = companiesData as Company[];
+const companies = allCompanies.filter((c) => c.status === "active");
+const delistedCompanies = allCompanies.filter((c) => c.status === "delisted" || c.status === "international");
 const prices = pricesData as Record<
   string,
   {
@@ -79,7 +81,7 @@ export default function Dashboard() {
   }, []);
 
   const totalQuotes = useMemo(
-    () => companies.reduce((s, c) => s + c.quotes.length, 0),
+    () => allCompanies.reduce((s, c) => s + c.quotes.length, 0),
     []
   );
 
@@ -158,7 +160,7 @@ export default function Dashboard() {
           <TerminalLogo />
           <div>
             <h1 className="text-sm font-bold tracking-wider text-primary glow-amber">
-              SAASPOCALYPSE TRACKER
+              SAASPOCALYPSE<span className="text-foreground">?</span>
             </h1>
             <p className="text-[10px] text-muted-foreground tracking-widest uppercase">
               System of Record · Earnings Intelligence
@@ -184,7 +186,7 @@ export default function Dashboard() {
           </Link>
           <div className="flex items-center gap-4 text-[10px] text-muted-foreground tracking-wider ml-2">
             <span>
-              {companies.length} COMPANIES · {totalQuotes} QUOTES
+              {companies.length} ACTIVE · {delistedCompanies.length} DELISTED · {totalQuotes} QUOTES
             </span>
             <span className="text-primary tabular-nums">
               {new Date().toLocaleDateString("en-US", {
@@ -353,6 +355,71 @@ export default function Dashboard() {
         )}
       </div>
 
+      {/* Delisted / International section */}
+      {delistedCompanies.length > 0 && (
+        <div className="border-t-2 border-border flex-shrink-0">
+          <div className="px-4 py-2 bg-card/30 border-b border-border">
+            <span className="text-[10px] text-muted-foreground tracking-widest font-medium uppercase">
+              DELISTED / NON-US — {delistedCompanies.length} companies (historical data only)
+            </span>
+          </div>
+          <table className="w-full text-xs opacity-60">
+            <tbody>
+              {delistedCompanies.map((company) => (
+                <tr
+                  key={company.ticker}
+                  className="border-b border-border/30 hover:opacity-80 transition-opacity"
+                  data-testid={`delisted-row-${company.ticker}`}
+                >
+                  <td className="px-3 py-2 text-center tabular-nums text-muted-foreground w-10">
+                    {company.rank}
+                  </td>
+                  <td className="px-3 py-2 w-20">
+                    <Link
+                      href={`/company/${company.ticker}`}
+                      className="font-bold text-muted-foreground hover:text-primary hover:underline tracking-wide"
+                    >
+                      {company.ticker}
+                    </Link>
+                  </td>
+                  <td className="px-3 py-2 text-foreground/50">{company.name}</td>
+                  <td className="px-3 py-2 text-muted-foreground text-[10px] tracking-wider uppercase hidden xl:table-cell">
+                    {company.category}
+                  </td>
+                  <td className="px-3 py-2 text-right text-muted-foreground" colSpan={2}>
+                    —
+                  </td>
+                  <td className="px-3 py-2 text-right tabular-nums text-muted-foreground">
+                    ${company.marketCap}B
+                  </td>
+                  <td className="px-2 py-2 hidden lg:table-cell">
+                    <span className="text-[10px] text-muted-foreground">—</span>
+                  </td>
+                  <td className="px-3 py-2 text-center">
+                    <span
+                      className={`inline-block px-2 py-0.5 rounded text-[10px] font-bold tracking-wider ${
+                        STANCE_CLASSES[company.stance] || "stance-neutral"
+                      } opacity-60`}
+                    >
+                      {STANCE_LABELS[company.stance] || company.stance.toUpperCase()}
+                    </span>
+                  </td>
+                  <td className="px-3 py-2 text-center tabular-nums text-muted-foreground">
+                    {company.quotes.length || "—"}
+                  </td>
+                  <td className="px-3 py-2 text-[10px] text-muted-foreground/60 hidden 2xl:table-cell">
+                    <span className="px-1.5 py-0.5 rounded bg-destructive/10 text-destructive/70 text-[9px] tracking-wider">
+                      {company.status === "delisted" ? "DELISTED" : "NON-US"}
+                    </span>
+                    <span className="ml-2 italic">{company.delistReason}</span>
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )}
+
       {/* Footer */}
       <footer className="border-t border-border px-4 py-2 text-[10px] text-muted-foreground flex items-center justify-between flex-shrink-0">
         <span>
@@ -512,7 +579,7 @@ function TerminalLogo() {
       height="28"
       viewBox="0 0 28 28"
       fill="none"
-      aria-label="SaaSpocalypse Tracker"
+      aria-label="SaaSpocalypse?"
     >
       <rect
         x="1"

@@ -1,0 +1,590 @@
+{
+  "ticker": "BILL",
+  "period": "Q4 2025",
+  "eventDate": "2025-08-27",
+  "preparedRemarks": [
+    {
+      "speaker": "Operator",
+      "text": "Good afternoon. My name is Tamia and I will be your conference operator today. At this time, I would like to welcome everyone to BILL's Fiscal Fourth Quarter."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Fiscal Year 2025 Conference Call."
+    },
+    {
+      "speaker": "Operator",
+      "text": "All lines have been placed on mute to prevent any background noise."
+    },
+    {
+      "speaker": "Operator",
+      "text": "After the Speaker's remarks, there will be a question and answer session. Thank you. I will now turn the call over."
+    },
+    {
+      "speaker": "Operator",
+      "text": "To Jun Wang, Director, Investor Relations. You may begin your conference."
+    },
+    {
+      "speaker": "Jun Wang",
+      "text": "Thank you. Good afternoon everyone. Welcome to BILL's fiscal fourth quarter 2025 earnings conference call. We issued our earnings press release a short time ago and filed a related Form 8-K with the SEC. The press release can be found on our investor relations website at investor.bill.com. Joining me on the call today are Ren\u00e9 Lacerte, Chairman, CEO and Founder, John Rettig, President and COO, and Rohini Jain, CFO. Before we begin, please remember that during the course of this call we may make forward-looking statements about the future business operations, targets, products, and expectations of BILL. that involve many assumptions, risks, and uncertainties. Actual results could differ materially from those expressed or implied by our forward-looking statements."
+    },
+    {
+      "speaker": "Jun Wang",
+      "text": "In addition to our prepared remarks, please refer to the information in the company's press release issued today, our Q4 2025 investor deck, and our periodic reports filed with the SEC, including our most recent annual report on Form 10-K and quarterly reports on Form 10-Q. We disclaim any obligation to update any forward-looking statements. On today's call we will refer to both GAAP and non-GAAP financial measures. Please refer to today's press release for a reconciliation of GAAP to non-GAAP and additional information regarding these measures. With that, let me turn the call over to Ren\u00e9. Ren\u00e9,"
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "thanks Jun."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "Good afternoon everyone and thank you for joining us. Fiscal 2025 was a pivotal year for BILL as we executed well against our innovation agenda. We launched new software and payment products, made strategic investments to drive future growth, and drove significant profitability expansion. We have a big opportunity in front of us. The investments we made in fiscal 2025, along with our durable and diversified business model, set the foundation for us to continue to expand profitability and accelerate revenue growth in the years ahead. During the call today, we will share our recent progress and outline our plans to deliver greater value to shareholders."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "In Q4 and throughout fiscal 2025, BILL strengthened our platform, increased our scale, expanded our market opportunity to serve larger, more complex businesses, and strategically invested in delivering financial operations agents for small and mid-sized businesses to accelerate BILL's growth and category leadership. Three key highlights from our fiscal 2025 include, first, growing total revenue to $1.5 billion with core revenue growth of 16% year-over-year. Second, we continued our track record of profitability improvements while also investing in key areas. This resulted in non-GAAP operating income exceeding the high end of our initial fiscal 2025 guidance by over 20%. Third, we built our Agentic AI platform that leverages the capabilities, data, and scale acquired over the last 20 years across millions of SMBs and over a trillion dollars in spend so that we can launch intelligent finance agents quickly and safely at scale."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "We are excited to leverage our platform and will start rolling out our suite of financial operations agents to customers in Q2 and at fiscal 2026. At BILL, we are not just building software and payments infrastructure, we are redefining the future for how the Fortune 5 million, the millions of small and mid-sized businesses that power the U.S. economy, will manage, move, and maximize their money in order to grow and win. BILL serves more SMBs and accounting firms than anyone in our category. We are the trusted platform of choice for nearly half a million small and mid-sized businesses and over 9,000 accounting firms, including nearly 90% of the top 100 accounting firms across the U.S. Throughout FY 2025, we continued to strengthen our platform."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "We launched amazing new products that create new value for our customers and their suppliers, extended our advantage through our powerful two-sided network, drove new monetization, and strategically increased our market opportunity. In Q4 we launched Supplier Payments Plus, previously referred to as Advanced ACH, which streamlines millions of payment transactions from SMBs and simplifies incoming payments at scale for suppliers. Supplier Payments Plus leverages BILL's expertise of unifying software and payments to solve a critical problem for suppliers managing thousands of disparate weekly payments for millions of SMBs. With BILL, large suppliers can now do reconciliation at scale and convert the thousands of paper checks sent by their small business customers directly into faster digital payments with rich remittance data. This speeds the collection cycle and significantly reduces manual reconciliation efforts, which is much better for suppliers and for SMBs."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "This product will allow us to move from a flat fee ACH transaction paid by the buyer to an ad valorem fee paid by the supplier. The value proposition resonates across industries with companies ranging from a national law firm to a global environmental and waste management company. Businesses are using Supplier Payments Plus to optimize their receivables for thousands of SMBs. In Q4 we delivered new products for midsize and complex businesses through the launch of BILL Procurement. We have combined AP/AR, Spend and Expense, procurement, and forecasting in a single intelligence platform, giving businesses control of their cash flow in one seamless experience. Our customers gain speed and control through automation and the power of integrated payments all in one place."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "We also launched bulk payment capabilities, enhanced our multi-entity workflows, and introduced more solutions for businesses and accountants to embed BILL APIs into their existing systems so they can tailor financial workflows based on their preferences and unique needs. These APIs are part of our Embed 2.0 strategy. Overall, we continue to make strong progress on driving demand for our embedded products, which John will cover later. The Bill Network, consisting of our customers and suppliers they pay, is the only one of its kind in our category, and it provides an unmatched advantage. We recently hit a new milestone surpassing 8 million members, an increase of 18% from the previous year. As more businesses and suppliers join the Bill Network, transactions get faster, more secure, and more efficient. As our network has grown, payment volume within the network has also increased."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "Today, 54% of payments on BILL occur seamlessly between the payer and the receiver on our network, providing customers and suppliers with full visibility into both sides of the transaction and more options to choose payment methods that match their needs and preferences. As our network grows, our data advantage grows with it, not only the scale of our data asset, but also the depth and richness of the intelligence and insights we have into the businesses that make up the SMB economy. It's this unique combination of scale and insights that positions BILL to win the category for intelligent financial operations. BILL is already a leader in delivering predictive and generative AI features to SMBs and accountants. Currently, more than 40,000 customers benefit from two or more AI features on our platform."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "More than 1.3 billion documents have been processed on BILL's platform, including nearly 500 million documents through our AI features and the BILL Intelligent Virtual Assistant. The scale and richness of our data provide a significant advantage in training our models to deliver new strategic finance capabilities and intelligence that SMBs can't access on their own or through other platforms. BILL is saving businesses valuable time. Since the beginning of 2025, BILL's AI solution has increased the number of fully automated bills by 80%. We are also increasing access to capital, which is critical to the success of SMBs. In fiscal 2025, our AI features helped us to proactively identify when customers qualified for larger credit limits, enabling us to extend $200 million in proactive line increases for Spend and Expense customers. BILL's AI-enabled fraud solutions protect the most important asset SMBs have, their cash, in FY 2025."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "Our predictive AI solutions helped us stop over 8 million fraudulent attempts. BILL's platform is proactive, predictive, and acts as the intelligence layer that powers financial operations across SMBs. We are investing in Agentic AI, building a new generation of intelligent agents that will deliver autonomous finance for SMBs and accelerate the shift from doing it with you to doing it for you. To be clear, we're not just adding Agentic AI into workflows, we're eliminating the workflows themselves. Our first agents will transform how SMBs complete critical business tasks, paperwork, documentation, and onboarding of vendors. We're also building new agents that provide additional security to keep money safe and flowing faster. We firmly believe our Agentic AI platform initiatives will further improve customer retention, accelerate multi-product adoption, and fuel customer acquisition."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "As a result of the increased value we deliver, by the end of fiscal 2026, we expect the majority of customers will be using at least one intelligent finance agent in addition to our AI solutions. Extending BILL's leadership in delivering AI and strategic financial capabilities to SMBs, at BILL, we are shaping the future across all dimensions of financial operations for SMBs and carrying strong momentum into fiscal 2026 to deliver greater value to our customers, suppliers, partners, and shareholders. Over the past year, we've added exceptional new talent to our executive team. Most recently, we welcomed Rohini Jain as BILL's Chief Financial Officer. She is a standout global finance leader and has a strong track record for enabling growth and scaling top technology in Fortune 500 companies."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "We also added Michael Cherry as Executive Vice President and General Manager of Software Solutions. In the fourth quarter, Mike, combined with Mary Kay Bowman, EVP and GM of Payments and Financial Services, completes our team to align the strategy and execution around software and payments. In closing, we're operating at massive scale. More than 1% of U.S. GDP flows through our platform annually. That's a staggering number, and it's a reflection of the trust our customers and suppliers place in us to move their money, automate their workflows, and give them visibility and control over their financial operations. With the BILL Network, we have built one of the most comprehensive and real-time financial maps of the SMB economy. We continue to leverage our scale and customer interactions to develop groundbreaking innovations."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "We're excited to simplify the lives of SMBs and accountants by harnessing the power of AI. We see a future where every business, regardless of size, has access to a strategic finance function from anywhere on any device. We believe our focus on serving the Fortune 5 million with our intelligent finance platform will enable them to move at the speed of business. I'll now turn it over to John to share more on our fiscal 2025 performance and our key initiatives for fiscal 2026."
+    },
+    {
+      "speaker": "John Rettig",
+      "text": "Thanks, Ren\u00e9. I've recently taken on the role of President and COO, and I'm energized to help scale our next chapter. I'll start with an update on fiscal 2025 progress against our priorities and then cover our fiscal year 2026 focus areas. During fiscal year 2025, we made great progress executing on our strategy to be the intelligent financial operations platform for SMBs. Throughout the year, we strategically invested to strengthen our core business and build a foundation for future growth. I'll provide a few examples of our key accomplishments during the year. Payments are an integral part of our growth strategy, and in fiscal 2025 we rolled out our local transfer experience to over 30 countries. The improved payment speed resonated with customers, and we quickly drove strong adoption. In Q4, over 10,000 customers used this solution, accounting for approximately half of our international payment FX volume."
+    },
+    {
+      "speaker": "John Rettig",
+      "text": "In addition, during fiscal year 2025 we significantly grew the adoption of our BILL Divvy card among AP customers, with volume increasing nearly 600% compared to fiscal 2024. On the supplier experience front, we launched Supplier Payments Plus in June, and we have already received strong positive feedback from large suppliers with significant SMB transaction volume. The solution streamlines the complex cash application process, and we believe this product can create meaningful transaction revenue as it scales among the largest suppliers in our network. Turning to the accounting channel, we delivered an upgraded console that provides accountants with deeper insights into the financial health of their clients. Our product enhancements and expanded sales coverage for accountants contributed to a 24% year-over-year increase in net new customer adds from the accounting channel. In fiscal 2025, we also achieved new milestones with our Embed 2.0 strategy."
+    },
+    {
+      "speaker": "John Rettig",
+      "text": "As the solution went live, we built out new features and we refined our partner sales motion. We recently signed a strategic embed partnership with a Fortune 500 software company that underscores our embed opportunity. We'll share more details about this partnership as we get closer to launch. We believe there's a large market for software companies interested in deploying our embedded finance solutions to support the financial operations of their clients, and over the long term, this could collectively translate into tens of thousands of lower mid-market businesses and hundreds of thousands of small businesses using our embedded products. The progress we made against our ambitious fiscal 2025 goals has improved the strength of our business and created strong momentum in the market for BILL. Shifting to our strategic priorities for fiscal 2026, we are starting the year with significant momentum."
+    },
+    {
+      "speaker": "John Rettig",
+      "text": "We are focused on the following three strategic priorities. First is to drive growth from our integrated platform, which includes our AP, AR and Spend and Expense solutions. Second is to expand our addressable market, and third is to innovate with AI to drive a step function change in the value of our platform for SMBs. For each of these priorities, we are focused on executing with speed, driving tangible results, and have defined clear metrics to measure our progress. Now let's dive into each of these priorities. First, to drive growth from our integrated platform, we have prioritized the following three foundational building blocks: front-end modernization, product-led cross-sell, and ad valorem expansion."
+    },
+    {
+      "speaker": "John Rettig",
+      "text": "We are accelerating efforts to modernize our UI to make it easier for SMBs to onboard efficiently and self-serve, which we believe will drive even increased velocity of net new customer adds through higher conversion and retention. In addition, we are creating a more unified and intuitive experience that makes it easier for existing AP and AR customers to discover, adopt, and benefit from our Spend and Expense solution. With tens of thousands of existing BILL customers who are great candidates for our Spend and Expense product, we believe these product improvements will enable significant expansion of multi-product adoption by our customers. Another building block that supports growing usage of our integrated platform is expansion of our payment portfolio. ACH and checks collectively represent over $270 billion, or 85%, of our annual payment volume. We now have a broader portfolio of ad valorem offerings to address this opportunity."
+    },
+    {
+      "speaker": "John Rettig",
+      "text": "One that we're particularly excited about is Supplier Payments Plus. We are leveraging the launch momentum and positive feedback to double down on accelerating adoption of Supplier Payments Plus in the current fiscal year, which we expect, combined with the rest of our payment portfolio, will accelerate ad valorem product penetration. For our second priority of expanding our addressable market, we are focused on increasing adoption among mid-market businesses and scaling our Embed 2.0 solution. The depth of our advanced workflows and payment solutions has consistently resonated with upmarket businesses. What began as an organic pull upmarket is now a dedicated mid-market focus for BILL. In fiscal 2025, mid-market customer growth outpaced our overall BILL AP/AR customer growth by 5 points, and this is just the beginning. There are approximately 300,000 mid-market businesses in the U.S., representing a very large opportunity for BILL."
+    },
+    {
+      "speaker": "John Rettig",
+      "text": "Mid-market customers on our platform have two times more TPV than the average SMB and twice as many users on our platform. In fiscal 2026, we will be enabling new capabilities to help global businesses using our AP and Spend and Expense management solutions to easily manage financial operations. We are focused on simplifying the management of international subsidiaries and enabling global teams to spend smarter through our Spend and Expense management solution. We believe this focus on capabilities for larger customers will increase customer growth from the mid-market segment and overall TPV per customer. For BILL, the second lever to support expanding our addressable market is the next phase of our Embed 2.0 strategy. We believe this solution can accelerate market penetration across multiple software verticals and SMB segments."
+    },
+    {
+      "speaker": "John Rettig",
+      "text": "Our progress here will be evaluated based on increasing market penetration as well as conversion of our Embed partner pipeline. For our third strategic priority around AI, we couldn't be more excited about the momentum we have entering fiscal 2026. We are building innovative AI solutions to not only transform our platform, but also disrupt the entire market for SMBs. AI has been an important part of BILL's advanced features for years, and we are seeing real traction with our AI capabilities generating tangible value for customers. This year, we will be leveraging the new AI infrastructure we delivered in fiscal 2025 to rapidly introduce intelligent finance agents for key workflows in our platform. With intelligent finance agents, SMBs can skip step by step automations to directly accomplish tasks while staying informed."
+    },
+    {
+      "speaker": "John Rettig",
+      "text": "As we introduce new agents, we will be focused on driving adoption across our customers and partners. With these strategic initiatives in fiscal 2026, we are positioning ourselves to accelerate our market penetration and drive greater product adoption among SMBs and their suppliers to enable us to capture the growth upside as macro recovers. I'm excited to officially welcome Rohini Jain as our new CFO. Having built and led high performance teams in large multinational companies, she has seen firsthand what it takes to support growth at this stage. Her experience and perspective are critical and I look forward to working closely together as we build the next phase of BILL. I'll hand it over to Rohini to cover details of our financial performance and outlook for fiscal 2026."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "Thank you, John, for your kind words. I'm truly excited to be joining the team at such a defining moment in BILL's journey as we work together to shape the company's transformation from a $1.5 billion revenue business into a thriving multibillion dollar enterprise. Our commitment to leveling the playing field for the SMBs resonates deeply with me. Equally important, BILL has always had a culture of transparency and accountability, which strongly aligns with my values. I'm committed to carrying this forward through a simple but effective communication of our results, outlook, and progress against our strategic priorities as we drive growth and shareholder value. With these in mind, let's dive into our financial highlights. There are additional details in the supplemental section of our Q4 2025 investor deck, which can be found on the Investor Relations section of our website."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "In fiscal year 2025, we achieved strong growth and margin expansion, over delivering on the commitments that we had set out at the beginning of the year. Our core revenue grew 16% year-over-year despite headwinds from card acceptance and a muted spend environment. With disciplined management of investment dollars and portfolio efficiencies, we were able to fund and execute on our AI platform while exceeding the top end of our initial guidance for non-GAAP operating income by 23% or $45 million."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "For the full year."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "We generated $240 million in non-GAAP operating income and improved our Explore profitability. Non-GAAP operating margin expanded 345 basis points year-over-year. We delivered solid Q4 results, extending our track record of doing what we say. We accelerated core revenue growth to 15% year-over-year, landing at $346 million, exceeding the high end of our guidance. We delivered $56.4 million in non-GAAP operating income, 17% more than the top end of our guidance provided one quarter ago. Moving on to some key highlights on our Q4 revenue performance, with our integrated platform, annual revenue growth for Bill AP/AR accelerated three points sequentially to 13%, primarily driven by transaction revenue strength. Bill AP/AR transaction revenue grew 15% year-over-year in Q4. Total payment volume came in strong and grew 13% year-over-year in Q4."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "Customers across different sizes increased their spend on the same-store sales basis by 4%. APAR monetization beat our forecast, primarily driven by strong adoption of our emerging ad valorem products and supported by the price increases on ACH and checks. As we continue to align pricing with customer value, the strong value proposition of our platform resonates with SMBs. In Q4, we accelerated market penetration, adding 4,700 net new BILL AP/AR customers, up from 4,200 in Q3. Our net revenue retention rate, inclusive of financial institutions, came in at 94%, reflecting the lower B2B spend environment during fiscal 2025 and continued supplier cost sensitivity towards payment acceptance. Annual customer retention, however, remained very healthy at 86%, underscoring the value and stickiness of our platform. Also within our integrated platform, BILL Spend and Expense sustained strong growth while delivering an improved contribution margin."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "Revenue totaled $151 million in Q4, up 19% year-over-year, driven by 22% card payment volume growth. On the go-to-market front, we continued to increase focus on businesses with higher capacity to spend. This led to a 5 basis points year-over-year increase in rewards as a percentage of card payment volume. Offsetting this, we significantly reduced credit and fraud losses by 14 basis points in Q4 compared to a year ago. Our portfolio approach is working. On the software side, we are seeing increased multi-product adoption across our customer base, which continues to be one of the key opportunities for growth. Joint customers using both BILL AP/AR and Spend and Expense grew nearly 40% to 15,800 by year end 2025. Our diverse payment portfolio remains a key growth driver."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "Spend and Expense continues to scale while our emerging ad valorem products, which consist of Pay by Card, invoice financing, instant transfer, and Instapay, grew 30% year-over-year. At the company level, overall ad valorem product penetration excluding FX increased to 14.3% in Q4, up from 13.8% a year ago. Turning to profitability in Q4, we outperformed on all key metrics. Our non-GAAP net income exceeded the high end of guidance, reflecting discipline in managing investments and benefits from leveraging AI in risk management. In Q4, we also reallocated resources to AI as we prepare to launch a suite of intelligent finance agents in the next few months. Before providing detailed guidance, I want to outline our assumptions on overall customer spend and take rate for the year. Given external uncertainty, we are being prudent and assuming flat volume per customer year-over-year across the portfolio."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "In BILL AP/AR, we expect a similar level of take rate expansion as we did in fiscal 2025. We expect Spend and Expense take rate to be at the lower end of our previously stated range of 250-260 basis points for fiscal 2026. As we execute to accelerate growth, we are sharpening our focus on creating efficiency and driving disciplined cost optimization. Our fiscal 2026 profitability guidance reflects a disciplined approach, incorporating continued expense management and further structural efficiencies. As confidence in SMB spending improves and our initiatives start to accelerate growth, we will adjust investment levels to capture additional growth opportunities."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "Now turning to guidance for fiscal Q1 2026, we expect total revenue to be in the range of $385 million-$395 million and core revenue to be in the range of $348 million-$358 million, reflecting 11%-14% year-over-year growth. Note that Q1 will be the last quarter before we fully lap the impact of a major online advertising platform's change to its payment acceptance policy. On the bottom line for Q1, we expect to report non-GAAP operating income in the range of $53.5 million-$58.5 million. We expect non-GAAP net income in the range of $56.5 million-$60.5 million and non-GAAP EPS to be between $0.49-$0.52. Shifting to full year guidance for fiscal 2026, we expect total revenue to be in the range of $1.59 billion-$1.63 billion, which reflects 9%-11% year-over-year growth."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "This guidance contemplates approximately 160 basis points impact from float revenue, implying core revenue range of $1.45 billion-$1.49 billion or 12%-15% in latter half of the year. We anticipate growth to improve driven by our key initiatives and lapping of the full impact from the payment acceptance headwind I mentioned earlier. Turning to the bottom line, for fiscal 2026 we expect to report non-GAAP operating income in the range of $240 million-$270 million, which represents a 15%-17% range in non-GAAP operating margin. This implies an operating margin expansion of approximately 190 basis points. At the midpoint, we expect non-GAAP net income in the range of $236 million-$260 million and non-GAAP EPS to be between $2-$2.20. For fiscal 2026, we expect stock-based compensation expenses to be approximately $290 million."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "As the company matures, we are enhancing our focus on GAAP profitability in that regard. Together with our Board, we have extensively reviewed our stock-based compensation, inclusive of executive compensation. As a first step, our fiscal 2026 plan incorporates a significant reduction in grant value with a tighter eligibility criteria and shorter vesting period for fiscal year 2026 compared to prior years. These changes will reduce dilution impacts and continue to drive meaningful benefits in the future years as stock-based compensation expenses related to prior grants wind down. Moving on to the balance sheet, we are well capitalized, which gives us the flexibility to deploy cash through a holistic investment framework. This framework has two: making accretive investments in the business to re-accelerate profitable growth and returning value to the shareholders. We are putting investments behind the key priorities that John outlined earlier."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "For each of these priorities, we have clear metrics that anchor our execution. We commit to providing regular updates on these leading performance indicators so that our shareholders can have visibility into our progress and measure the effectiveness of our investments. During Q4 2025 and earlier this quarter, we repurchased a total of $100 million of our stock. We see buybacks as a disciplined investment, one that at current valuations provides compelling returns. We are reinventing financial operations for millions of SMBs, and we believe the exceptional customer value will translate to significantly greater value for BILL. Reflecting this conviction, the Board has approved a new share repurchase plan. We intend to execute up to $300 million in share repurchases in this fiscal year. The impact of this repurchase is not contemplated in our guidance."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "In closing, we delivered another year of balanced growth and profitability while continuing to invest in the future. We expanded the breadth and depth of our platform and strengthened our distribution ecosystem. Looking ahead, our focus remains on scaling BILL into a much larger and more profitable business. I'm excited about the long term potential of our company. We are not only operating in the category we created, but reinventing it to bring greater ease and intelligence to millions of SMBs. We now open up the call for Q&A."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you."
+    }
+  ],
+  "qAndA": [
+    {
+      "speaker": "Operator",
+      "text": "We will now begin the question and answer session. If you would like to ask a question, please press Star followed by one."
+    },
+    {
+      "speaker": "Operator",
+      "text": "On your telephone keypad."
+    },
+    {
+      "speaker": "Operator",
+      "text": "If for any reason at all you would like to remove that question, please press star followed by two. Again, to ask a question, please press star one. The first question comes from Tien-tsin Huang with JPMorgan. You may proceed."
+    },
+    {
+      "speaker": "Tien-tsin Huang",
+      "text": "Hey, thanks so much. I want to ask first on the revenue outlook here. It seems stable core growth at the high end versus the exit rate here in fiscal year 2025. I'm just curious, what are the key factors that would drive any deceleration to the midpoint? I'd love to hear what is holding the company back from achieving the core revenue growth acceleration that you guys were excited about early in the year."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "Thank you, Tien-tsin. I appreciate the question. Let me start first and then Rohini can add some comments as well. First and foremost, let me just step back and talk about\u2014there is a lot of static on this line. Sorry, I just want to make sure folks can hear okay before I give this answer. Tien-tsin, since you're on the call, can you hear me okay? If you can, then I'll\u2014"
+    },
+    {
+      "speaker": "Tien-tsin Huang",
+      "text": "Yeah, I can."
+    },
+    {
+      "speaker": "Tien-tsin Huang",
+      "text": "I can hear you."
+    },
+    {
+      "speaker": "Tien-tsin Huang",
+      "text": "Let me."
+    },
+    {
+      "speaker": "Tien-tsin Huang",
+      "text": "Let me mute on my side just in case."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "Ren\u00e9, sorry about that. Okay, thanks. Great. I think the thing that gives us a lot of confidence and ability to be able to drive growth really goes back to the foundational elements we've built into the company and the product and the platform. When we think about what we were able to do this year, we drove a lot of good growth strength across mid-market, across account, across our supplier network capabilities, across our payment engines, and across the embedded capabilities. The agentic capabilities that we're adding are something that also give us confidence."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "When we step back and look at the opportunity and belief to be able to drive growth and acceleration in the business, it comes back to the foundational elements that we have and the opportunities that we have based on the years of building the platform across the last few decades here. I think the opportunity really comes back to a tremendous amount of driving forward across the success that we've had. Can you just turn the volume off here? Sorry, it's quite distracting. I think that's better. With that, I'd like to have Rohini just discuss kind of the guide and how we're thinking about growth in the coming year and the factors affecting that."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "Yeah, absolutely. Tien-tsin, thank you for the question. One of the things I want to start with is we had a strong Q4. There were some strong spend trends that we saw in Q4, especially on our international payments volume as well as the AP card adoption, which we are very excited about. As we go into Q1 and the rest of the year, our hypothesis was that Q4 strength, a part of that was driven by some of the spend falling in with the SMBs as they were starting to expect some of the tariff headwinds to start to hit in fiscal year Q1 for us. With that, we are being prudent and trying to estimate slightly lower CBD levels for APAs. Similarly, as I mentioned on the S&E take rate side, over the last year we've seen slight deceleration on the take rate."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "That's really a result of the portfolio mix that S&E has. Last year our TPV remained really strong and grew at 21% on F&E, but the take rate was a little bit impacted by the portfolio mix shift. As we extrapolate that into next year, we expect some of the advertising and the TNE spend that is a higher take rate, high interest range part of our portfolio to be under some pressure as the tariff impact on the SMBs becomes real. They have finite wallet sizes, and as they're trying to accommodate the tariffs in their wallets, their spend on some of these discretionary areas starts to reduce. Those are the two key factors that are impacting us. Overall, we are super excited about all these things that we can control."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "What we are doing."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "John talked a lot about that in his tip. The three priorities, again to remind you, are continuing to drive value from the integrated platform, expanding the market as we go up market, as well as, last not the least, innovating with AI where we expect to increase over time the subscription part of the portfolio. Hopefully that helps answer your question."
+    },
+    {
+      "speaker": "Tien-tsin Huang",
+      "text": "No, it does. Thanks for going through that. I'll be quick in case the line is bad on my side. Just Rohini, for you, welcome to the call."
+    },
+    {
+      "speaker": "Tien-tsin Huang",
+      "text": "Of course."
+    },
+    {
+      "speaker": "Tien-tsin Huang",
+      "text": "I just want to get your early impressions that you've been here for a little bit at BILL. What have you learned about the company?"
+    },
+    {
+      "speaker": "Tien-tsin Huang",
+      "text": "Any surprises? I'd love to hear."
+    },
+    {
+      "speaker": "Tien-tsin Huang",
+      "text": "If you might do anything differently on the inventory relations front."
+    },
+    {
+      "speaker": "Tien-tsin Huang",
+      "text": "Including you, of course, the guy."
+    },
+    {
+      "speaker": "Tien-tsin Huang",
+      "text": "Thanks."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "Absolutely love that question. I've been, for the last six or seven weeks of being here, thinking deeply about this. One of the things that I feel most excited about is the product itself. The products we have are very sticky. Really strong customers love it, and it makes for a really strong business model and a resilient business model, which I'm very excited about. Secondly, the team that Ren\u00e9 has put together has deep subject matter expertise. They're experts in their field, but are also really building a strong culture of execution and driving outcomes. I really look forward to working with that very accomplished team to drive results in the future."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "On the things that I'm focused on in the coming months and weeks, I'm really working very closely with you guys to start to strengthen our communication with the investor community overall, trying to figure out better ways of strengthening our understanding of the business together and communicating the results in the most effective way. That's going to be something that I look forward to doing with you all."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "The next question comes from Trevor Dodds with Bank of America."
+    },
+    {
+      "speaker": "Operator",
+      "text": "You may proceed."
+    },
+    {
+      "speaker": "Trevor Dodds",
+      "text": "Just one for me."
+    },
+    {
+      "speaker": "Trevor Dodds",
+      "text": "Can you guys dive deeper into the agent's opportunity across payables and payments and then just elaborate on what some use cases might be."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "Thank you, Trevor. Really appreciate the question. Something we are very excited about. Maybe before getting into some specific agent cases, let me just step back and kind of frame how I think about the market, the platform we've built, and how AI is going to impact SMBs first and foremost. The example I think about is before BILL, it was a do it yourself model. Every business had to manage their financial operations on their own. They had to have filing cabinets, sticky notes, checks. They had to reconcile checks, they had to integrate with their ERPs and their accounting packages."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "This was a ton of work, and a lot of time spent doing that meant that the businesses weren't able to actually drive the strategy forward of the business. We came along then and developed to do it for you, do it with the approach, which is super valuable to the business because we help them along the way. Where I see AI going is taking the do it with you approach and putting it into do it for you model. What I mean by do it for you is that many of the tasks that are inside of the financial operations category, they are mundane, rote tasks that can be automated with great AI capabilities. If you think about what we've already done from an AI perspective, we've already leveraged AI from a data ingestion process."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "We have a product called IVA, the Inbox Virtual Assistant, that has so far ingested over 500 million documents in the last year. The time saved and the number of bills that actually have increased to over 80% of where it was a year ago of the no touch based document being entered to the platform. In addition, we've used AI to increase the lending capabilities across the platform. When you think about the credit and extending the ability for our customers to be able to have more card access for their products across the business. We've also used it to obviously stop fraud, which I talked about. That's just the beginning. We've developed this a massive amount of scale, 1% of GDP. In some ways it's staggering. That's all predicated on the fact that we've got a tremendous amount of data and a tremendous amount of trust."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "Those are the key elements that actually will drive AI forward. Without that, AI is not going to be successful. Businesses won't be able to use it to the advantage that we all expect. For us, the reason to do it for you is a game changer because we're going to be able to take that trust in that data and we're going to be able to wrap that into experiences where the customer no longer has to do the effort that it used to take to run their business. Our mission at BILL has always been and always will be to make it simple to connect and do business. The operative words there are connect and do. We have a network that has over 8 million entities in it now and we do over 1% of GDP."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "When you take those two together, the agents that we're going to be able to complete and really add value to our customers are going to be around intake. When we think about intake, this is collecting documents, this is entering documents, this is routing documents for our customers so that the approval process happens. It's going to be about supplier management. Last winter we talked about 1099 capabilities and the acquisition we did there. We have an opportunity to really complete the network with supplier management done by agents so that buyers and suppliers are automatically connected. That's going to lead to tremendous opportunities from a payment execution perspective, giving businesses choice to be able to execute on the payments that they want. That's super, super, super powerful."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "I think the last area of agents that we're super excited about is all of that leads to an opportunity for self-serve inside the product and ultimately an ability to drive insights that businesses haven't had before. Small businesses, and I grew up with them and among them, they don't have the MBA. I like to call my MBA the dinner table MBA. That's what small businesses have. We're going to be able to leverage that data and that trust that we have to create insights on a platform based on the trillions of dollars of spend that go through BILL, the billions of dollars of monthly transactions, and the millions of transactions every month. We're able to leverage that in a way that nobody else is able to do."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "We are uniquely positioned for this AI revolution and we are super excited about what we're going to be able to do for our SMB customers."
+    },
+    {
+      "speaker": "Trevor Dodds",
+      "text": "Thank you. Really appreciate it."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "Thank you, Trevor."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. The next question comes from Chris Quintero with Morgan Stanley."
+    },
+    {
+      "speaker": "Operator",
+      "text": "You may proceed."
+    },
+    {
+      "speaker": "Chris Quintero",
+      "text": "Hey Ren\u00e9. Hey John. Hey Rohini. Congrats on joining the team here. I want to ask on the mid-market side of the business, really encouraging to see that be the faster growing part of the overall BILL platform. I'm curious as you kind of have a more dedicated motion there and start to grow, how do you think about evolving the go-to-market motion there? Could you start to look at making more partnerships with system integrators and other ISVs? How do you think about that evolving over the next couple of years?"
+    },
+    {
+      "speaker": "John Rettig",
+      "text": "Yeah, thanks for the question. We've had a lot of success with the mid-market focus, particularly in fiscal 2025 where that segment of customers grew faster than the overall customer base. We see the importance of this segment because they're just much larger businesses, twice the TPV than the average small business, two times the number of users, and they contribute much faster to the overall growth of BILL, including on a TPV per customer basis. We have a super efficient go-to-market motion. As you know, we leverage multiple channels: direct to small businesses, we partner with accounting firms, and more recently with our Embed 2.0 strategy, both banks and software companies. We expect to continue to leverage those motions while increasing the allocation of resources that we have that are focused on the mid-market segment."
+    },
+    {
+      "speaker": "John Rettig",
+      "text": "The solutions that we have have the depth of capabilities around workflows and advanced features that resonated with mid-market customers for a long time, and we're continuing to see that. We're also investing behind the capability to serve mid-market customers, in particular international product capabilities with our Spend and Expense management solution. We think we're going to continue to double down on the go-to-market motion that we have now and drive continued success."
+    },
+    {
+      "speaker": "Chris Quintero",
+      "text": "Excellent. Thanks, John."
+    },
+    {
+      "speaker": "John Rettig",
+      "text": "You bet."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "The next question comes from Darrin Peller with Wolfe Research. You may proceed."
+    },
+    {
+      "speaker": "Darrin Peller",
+      "text": "Guys."
+    },
+    {
+      "speaker": "Darrin Peller",
+      "text": "Thanks and ringing congrats again. I just want to start off with a relook at guidance again because you ended the year with core revenue growth at 15% and you called out that you're going to be lapping or anniversarying the headwind you had from the media customer that obviously stopped taking virtual card earlier in the year. You have one quarter to grow over that. I would imagine that you'd have an opportunity to do better unless trends change and you obviously are showing good execution on the transaction take rate. Just help us understand a little more on the thought process on your outlook for the year, just how much is conservatism given the underlying macro dynamics. Maybe either John, or if you could just rank order the drivers of sequential take rate expansion from here."
+    },
+    {
+      "speaker": "Darrin Peller",
+      "text": "Where do we expect to end the."
+    },
+    {
+      "speaker": "Darrin Peller",
+      "text": "Year from an AP or take rate standpoint?"
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "Let me start, and then John, you can add anything that I missed."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "So."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "Let's talk about take rate for a second. I did have some information in my prepared remarks, but I will unpack a little bit more for you. On the AP/AR side, we actually saw 0.4 basis points of take rate expansion in fiscal year 2025. Going into fiscal year 2026, we would expect a similar level of take rate expansion. We have some definite macro headwinds that we are trying to, you know, contemplate within the guide."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "If in the back half of."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "The year things start to ease up and the spend compression turns around, we will definitely be towards the higher end of our guidance and that's why the range. Coming back to S&E, over the last whole year we see sequential drop in the take rate and as I said earlier to Tien-tsin's question, a lot of that is to do with how the discretionary part of our S&E portfolio spend is performing. As we started seeing the early results in Q1, we saw some of the Q4 trends normalized earlier on in the year, which is not unexpected."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "We were actually thinking that's probably going to happen and that's really because SMBs have a finite wallet and they are trying to absorb some of the costs of the tariffs, which is leaving them less money to spend on advertising and T&E and such categories, which is suppressing the take rate within the S&E portfolio. As I said, we've been prudent. I wouldn't say conservative, but as the initiatives that we have in the pipeline start to deliver results as well as the macro environment turn, we expect to continue to be on the growth trajectory."
+    },
+    {
+      "speaker": "John Rettig",
+      "text": "I'd add to that, Darrin, that we're really focused on driving penetration of ad valorem payments overall. We now have a pretty broad portfolio of solutions that address the needs of both large and small suppliers. We saw significant growth in our emerging portfolio in fiscal 2025, 37% growth that's across pay by card, instant transfer, and Instapay. We're focused on continuing to scale that with the addition of Supplier Payments Plus while also expanding our existing portfolio, the more established products around Virtual Card and international payments, where we've actually had a lot of success in fiscal 2025, both stabilizing volume and growing volume on Virtual Card while managing through some of the volatility associated with international payments in the current environment they're operating in."
+    },
+    {
+      "speaker": "John Rettig",
+      "text": "These things, combined with our efforts around cross-sell of BILL S&E to the BILL base, collectively give us confidence in the ability to expand the ad valorem portfolio, which ultimately is going to be the biggest driver of expanding take rate or monetization over time."
+    },
+    {
+      "speaker": "Darrin Peller",
+      "text": "Okay, very helpful."
+    },
+    {
+      "speaker": "Darrin Peller",
+      "text": "Ren\u00e9 or John, customer adds continue to trend pretty well. I'm curious what your thoughts are around where we should expect to model that out for the remainder of the year in terms of your sequential customer adds on both sides of the business or collectively even. What are the number one or two drivers of that? That's incremental to the business. It's really helping you add more customers."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "Thanks, Darrin, for the question. There's a lot of activity across the business because of the breadth and depth of the platform that we have and how we go to market. As a reminder, we go direct, we go through accountants, we go through partnerships. On the direct and accountant side, we've obviously talked about the focus of getting the right customer at the right time. For accountants, we had a very strong quarter with the net adds year-over-year going up significantly. We believe that our focus in the next year will not really change and that accountants are, we have, what, 9,000 accounting firms across the country. We are the ones that have helped them actually create a whole new business line for themselves, which is the CAS practice. Roughly, by our estimates, 9,000 is around 10% of the overall accounting market."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "Our ability to continue to drive their success will be a critical factor for what we do. I think at the highest level, when we think year-over-year, we're thinking roughly the same targets that we've done this year. I just want to call out this opportunity on the third wheel of our ecosystem, which is Embed. This wasn't your question, but I just want to make sure folks understand how impactful and how excited we are about the opportunity that we have. We've worked years to be able to have this opportunity where our platform can be extended into the right place at the right time for SMBs. Part of our philosophy all along is that you have to meet SMBs where they are and we have an ecosystem that does that."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "Our ability to drive success in FY 2026 on Embed is predicated on success we had in FY 2025. Our Embed 2.0 platform is being well received. We mentioned a new deal with a Fortune 500 company that we're super excited about. This company serves lower mid-market to mid-market customers, has trillions of dollars to spend that their customers do on their platform. The opportunity for us to tap into that, support the customer activity that's happening already on their platform with our embedded solution, is only because we did all the investment we did in 2025 to enable Embed to be well positioned for this market. I'm super excited about that opportunity because of what we've already been able to accomplish on that opportunity."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "I'm also excited about what we just recently signed up in the last couple of days here, another partnership that reaches hundreds of thousands of SMBs, again leveraging the Embed 2.0 platform. When we think about adding customers going forward, we're going to consistently think about getting the right customers at the right time from the right source. Part of that is going to be Embed. I wanted to highlight these capabilities on Embed and these successes on Embed, and we will share more as they become launched and available by our partners. We are super excited about what we're seeing, the demand in the pipeline, and the opportunity because of the platform we've built over the last few years."
+    },
+    {
+      "speaker": "Darrin Peller",
+      "text": "Okay. It's very helpful. Thanks guys"
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "and thank you. Darrin."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Next comes from Scott Berg with Needham & Company."
+    },
+    {
+      "speaker": "Operator",
+      "text": "You may proceed."
+    },
+    {
+      "speaker": "Scott Berg",
+      "text": "Hi everyone. Thanks for taking my questions. Ren\u00e9, if you didn't know, my superpower is translating through static. We'll be just fine here. I just wanted to take a look back at fourth quarter. Here we go back to three months ago when you guided the quarter. I think there was some extra conservatism around payment volumes and take rates, and payment volumes in particular for both categories, AP/AR and Spend and Expense. The growth rates kind of accelerated quarter over quarter. I guess what was better in the quarter than maybe what your slightly more conservative assumptions had 90 days ago."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "Absolutely. Happy to take the question. What we saw in Q4 was primarily a couple of areas of strength. First of all, as I said earlier, our FX IP product performed really well, which you've heard from other people talk about as well. We also saw AP Card do really well, and that's actually really encouraging for us as we start to diversify our ad valorem portfolio. This is really some of the good green shoots that we're counting on in diversifying the growth of the portfolio. Those two were the specific areas. Overall, the spend environment in Q4 got better."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "As I said, some of that."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "Pulling off Q1 demand and spend that SMBs were trying to do, we are seeing the proof of that hypothesis come through now early in the quarter. Those, I would say, were the few things that helped us in Q4."
+    },
+    {
+      "speaker": "Scott Berg",
+      "text": "I helped one understand, I guess as a follow-up. I know Ren\u00e9 spoke a lot about agents and it was in John's script as well. How do you think about monetizing those? The feature functionality seems very much up the, I guess, proverbial alley of what you all do and what the platform's functions really surround. How do you think about monetizing that?"
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "That's a great question, Scott. One of the things that we've always done is to make sure that we're adding value for our customers and continue to drive their efficiency and their effectiveness running their business. When we think about what we're going to be able to do with agents, we think it's going to be significant value that we're adding. It is going to be part of the evolution of the business, how do we leverage and monetize those experiences for our customers."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "I think Rohini, you might have a few thoughts on that as well."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "Yeah, absolutely. Ren\u00e9, I'm as excited as you are with all the AI agents going out into the market, and especially its potential to accelerate our subscription revenue growth rates as well, to create a more balance between subscription and transaction revenue portfolios. As you think about AI monetization, I think of it in three phases. The first phase is really to get a lot of these agents out, driving value to the SMBs and have them adopt and use it so that we can make them the best product there is available. The second phase will be how we start to bring out the differentiated subscription pricing for some of these AI use cases that we have."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "Over the longer term, we want to have sophisticated agents that are helping customers transaction by transaction and build the capabilities to be able to monetize that on a transaction basis as well. That would be our evolution of how we think about AI monetization. I do want to reiterate our philosophy of first we drive value to the customers and have the pricing follow it, when the customers start to see the value."
+    },
+    {
+      "speaker": "Scott Berg",
+      "text": "Very helpful, thank you."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "Thank you, Scott."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "The following comes from Ken Suchoski with Autonomous. You may proceed."
+    },
+    {
+      "speaker": "Ken Suchoski",
+      "text": "Hey, good afternoon. Thanks for taking the questions."
+    },
+    {
+      "speaker": "Ken Suchoski",
+      "text": "I was wondering if you can help."
+    },
+    {
+      "speaker": "Ken Suchoski",
+      "text": "U.S. square the same store sales growth of 4% in BILL, apart with the TPP per customer at roughly flat year-over-year. That 4 point gap consistent with what you've seen historically. Meaning, is that simply a function of newer customers coming onto the platform, or is it driven by, I guess, onboarding smaller customers or churn or anything else?"
+    },
+    {
+      "speaker": "John Rettig",
+      "text": "Yeah, thanks for the question, Ken. I'd say it's primarily still a mix-related item where we have smaller customers that make up an important part of the customer base. Primarily by working with our accounting firm partners is where we reach most of those customers. There's also some level, as Rohini mentioned earlier. We're trying to be prudent with the environment that our SMB customers are operating in and make sure that our expectations are reflective of recent trends that we've seen in spend patterns and make sure that we're not getting ahead of our skis on expectations, given the number of uncertainties that exist for small businesses."
+    },
+    {
+      "speaker": "Ken Suchoski",
+      "text": "Okay, great."
+    },
+    {
+      "speaker": "Ken Suchoski",
+      "text": "Maybe just one on subscription ARPU and BILL AP/AR. That metric was down a little bit again, quarter over quarter. I was wondering if you could talk about the drivers of that. I was thinking that, you know, as you push up a market and you get these mid-market customers, that would."
+    },
+    {
+      "speaker": "Ken Suchoski",
+      "text": "Presumably help that figure."
+    },
+    {
+      "speaker": "Ken Suchoski",
+      "text": "Any thoughts there and just any thoughts on how that metric will trend throughout the year?"
+    },
+    {
+      "speaker": "Ken Suchoski",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "John Rettig",
+      "text": "Yeah, you bet. Great question. You're right. We saw a slight decline in the subscription ARPU, and the main driver there is a slightly lower number of users per customer. I think that's directly in response to the environment that small businesses are operating in. They're scaling back slightly. Rohini mentioned earlier that they're typically managing within fixed cost budgets and things like that. The smaller customers are maybe a little bit more sensitive. That's something that we're working through. There's also some multi-entity larger businesses that we work with through the accountant channel that could have some implication there, just the way the math works."
+    },
+    {
+      "speaker": "John Rettig",
+      "text": "Over time, I think you're right to suggest that we should see subscription ARPU expand by virtue of being more successful with the mid-market customers who are going to just be much larger on average, bring us more users and more volume, and it'll take a little while for the overall mix of our customer base to evolve such that we see that dynamic come through the ARPU number. That is something that we're expecting."
+    },
+    {
+      "speaker": "Ken Suchoski",
+      "text": "Great, thank you. John."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "text": "We are excited about the AI agents as well. Over the long term, that would be a key lever for us to drive and see TARPO as well."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "I would now like to pass the."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Call back to the CEO Ren\u00e9 Lacerte for closing remarks."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "text": "Thank you everyone for joining us today. We closed FY 2025 with strong growth and profitability results while driving some strong momentum for SMBs. FY 2026 will leverage our momentum and investments in AI to continue to transform the market. All of us at BILL are energized by the opportunity ahead and look forward to sharing our progress with you. Take care and have a great evening."
+    },
+    {
+      "speaker": "Operator",
+      "text": "This concludes today's conference call."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you for your participation. You may now disconnect your lines."
+    }
+  ],
+  "totalTurns": 145
+}

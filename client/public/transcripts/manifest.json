@@ -1,0 +1,672 @@
+{
+  "ADP": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2025-10-29",
+      "file": "ADP/Q1_2026.json",
+      "turns": 112,
+      "prepared": 17,
+      "qa": 95
+    },
+    {
+      "period": "Q4 2025",
+      "eventDate": "2025-07-30",
+      "file": "ADP/Q4_2025.json",
+      "turns": 115,
+      "prepared": 17,
+      "qa": 98
+    }
+  ],
+  "APPF": [
+    {
+      "period": "Q4 2025",
+      "eventDate": "2026-01-29",
+      "file": "APPF/Q4_2025.json",
+      "turns": 19,
+      "prepared": 19,
+      "qa": 0
+    },
+    {
+      "period": "Q3 2025",
+      "eventDate": "2025-10-30",
+      "file": "APPF/Q3_2025.json",
+      "turns": 20,
+      "prepared": 20,
+      "qa": 0
+    }
+  ],
+  "BILL": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2025-11-06",
+      "file": "BILL/Q1_2026.json",
+      "turns": 115,
+      "prepared": 32,
+      "qa": 83
+    },
+    {
+      "period": "Q4 2025",
+      "eventDate": "2025-08-27",
+      "file": "BILL/Q4_2025.json",
+      "turns": 145,
+      "prepared": 43,
+      "qa": 102
+    }
+  ],
+  "BL": [
+    {
+      "period": "Q4 2025",
+      "eventDate": "2026-02-10",
+      "file": "BL/Q4_2025.json",
+      "turns": 122,
+      "prepared": 32,
+      "qa": 90
+    },
+    {
+      "period": "Q3 2025",
+      "eventDate": "2025-11-06",
+      "file": "BL/Q3_2025.json",
+      "turns": 165,
+      "prepared": 35,
+      "qa": 130
+    }
+  ],
+  "BLKB": [
+    {
+      "period": "Q4 2025",
+      "eventDate": "2026-02-10",
+      "file": "BLKB/Q4_2025.json",
+      "turns": 69,
+      "prepared": 31,
+      "qa": 38
+    },
+    {
+      "period": "Q3 2025",
+      "eventDate": "2025-10-29",
+      "file": "BLKB/Q3_2025.json",
+      "turns": 54,
+      "prepared": 26,
+      "qa": 28
+    }
+  ],
+  "CRM": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2025-05-28",
+      "file": "CRM/Q1_2026.json",
+      "turns": 139,
+      "prepared": 40,
+      "qa": 99
+    },
+    {
+      "period": "Q4 2025",
+      "eventDate": "2025-02-26",
+      "file": "CRM/Q4_2025.json",
+      "turns": 111,
+      "prepared": 48,
+      "qa": 63
+    }
+  ],
+  "CWAN": [],
+  "DAY": [
+    {
+      "period": "Q2 2025",
+      "eventDate": "2025-08-06",
+      "file": "DAY/Q2_2025.json",
+      "turns": 90,
+      "prepared": 25,
+      "qa": 65
+    },
+    {
+      "period": "Q1 2025",
+      "eventDate": "2025-05-07",
+      "file": "DAY/Q1_2025.json",
+      "turns": 90,
+      "prepared": 18,
+      "qa": 72
+    }
+  ],
+  "DOCU": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2025-06-05",
+      "file": "DOCU/Q1_2026.json",
+      "turns": 158,
+      "prepared": 31,
+      "qa": 127
+    },
+    {
+      "period": "Q4 2025",
+      "eventDate": "2025-03-13",
+      "file": "DOCU/Q4_2025.json",
+      "turns": 125,
+      "prepared": 33,
+      "qa": 92
+    }
+  ],
+  "DSGX": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2025-06-04",
+      "file": "DSGX/Q1_2026.json",
+      "turns": 126,
+      "prepared": 34,
+      "qa": 92
+    },
+    {
+      "period": "Q4 2025",
+      "eventDate": "2025-03-05",
+      "file": "DSGX/Q4_2025.json",
+      "turns": 166,
+      "prepared": 37,
+      "qa": 129
+    }
+  ],
+  "GWRE": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2025-12-03",
+      "file": "GWRE/Q1_2026.json",
+      "turns": 84,
+      "prepared": 84,
+      "qa": 0
+    },
+    {
+      "period": "Q4 2025",
+      "eventDate": "2025-09-04",
+      "file": "GWRE/Q4_2025.json",
+      "turns": 111,
+      "prepared": 111,
+      "qa": 0
+    }
+  ],
+  "HUBS": [
+    {
+      "period": "Q4 2025",
+      "eventDate": "2026-02-11",
+      "file": "HUBS/Q4_2025.json",
+      "turns": 92,
+      "prepared": 25,
+      "qa": 67
+    },
+    {
+      "period": "Q3 2025",
+      "eventDate": "2025-11-05",
+      "file": "HUBS/Q3_2025.json",
+      "turns": 115,
+      "prepared": 21,
+      "qa": 94
+    }
+  ],
+  "INTA": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2025-11-04",
+      "file": "INTA/Q1_2026.json",
+      "turns": 116,
+      "prepared": 19,
+      "qa": 97
+    },
+    {
+      "period": "Q4 2025",
+      "eventDate": "2025-08-12",
+      "file": "INTA/Q4_2025.json",
+      "turns": 95,
+      "prepared": 23,
+      "qa": 72
+    }
+  ],
+  "INTU": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2025-11-20",
+      "file": "INTU/Q1_2026.json",
+      "turns": 127,
+      "prepared": 22,
+      "qa": 105
+    },
+    {
+      "period": "Q4 2025",
+      "eventDate": "2025-08-21",
+      "file": "INTU/Q4_2025.json",
+      "turns": 119,
+      "prepared": 22,
+      "qa": 97
+    }
+  ],
+  "JKHY": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2025-11-05",
+      "file": "JKHY/Q1_2026.json",
+      "turns": 130,
+      "prepared": 27,
+      "qa": 103
+    },
+    {
+      "period": "Q4 2025",
+      "eventDate": "2025-08-20",
+      "file": "JKHY/Q4_2025.json",
+      "turns": 132,
+      "prepared": 26,
+      "qa": 106
+    }
+  ],
+  "MANH": [
+    {
+      "period": "Q4 2025",
+      "eventDate": "2026-01-27",
+      "file": "MANH/Q4_2025.json",
+      "turns": 151,
+      "prepared": 29,
+      "qa": 122
+    },
+    {
+      "period": "Q3 2025",
+      "eventDate": "2025-10-21",
+      "file": "MANH/Q3_2025.json",
+      "turns": 118,
+      "prepared": 24,
+      "qa": 94
+    }
+  ],
+  "MSFT": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2025-10-29",
+      "file": "MSFT/Q1_2026.json",
+      "turns": 100,
+      "prepared": 36,
+      "qa": 64
+    },
+    {
+      "period": "Q4 2025",
+      "eventDate": "2025-07-30",
+      "file": "MSFT/Q4_2025.json",
+      "turns": 97,
+      "prepared": 37,
+      "qa": 60
+    }
+  ],
+  "NCNO": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2025-05-28",
+      "file": "NCNO/Q1_2026.json",
+      "turns": 134,
+      "prepared": 22,
+      "qa": 112
+    },
+    {
+      "period": "Q4 2025",
+      "eventDate": "2025-04-01",
+      "file": "NCNO/Q4_2025.json",
+      "turns": 176,
+      "prepared": 47,
+      "qa": 129
+    }
+  ],
+  "NOW": [
+    {
+      "period": "Q4 2025",
+      "eventDate": "2026-01-28",
+      "file": "NOW/Q4_2025.json",
+      "turns": 115,
+      "prepared": 42,
+      "qa": 73
+    },
+    {
+      "period": "Q3 2025",
+      "eventDate": "2025-10-29",
+      "file": "NOW/Q3_2025.json",
+      "turns": 103,
+      "prepared": 24,
+      "qa": 79
+    }
+  ],
+  "OKTA": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2025-05-27",
+      "file": "OKTA/Q1_2026.json",
+      "turns": 154,
+      "prepared": 154,
+      "qa": 0
+    },
+    {
+      "period": "Q4 2025",
+      "eventDate": "2025-03-03",
+      "file": "OKTA/Q4_2025.json",
+      "turns": 193,
+      "prepared": 193,
+      "qa": 0
+    }
+  ],
+  "ORCL": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2025-09-09",
+      "file": "ORCL/Q1_2026.json",
+      "turns": 79,
+      "prepared": 17,
+      "qa": 62
+    },
+    {
+      "period": "Q4 2025",
+      "eventDate": "2025-06-11",
+      "file": "ORCL/Q4_2025.json",
+      "turns": 82,
+      "prepared": 20,
+      "qa": 62
+    }
+  ],
+  "PAYC": [
+    {
+      "period": "Q4 2025",
+      "eventDate": "2026-02-11",
+      "file": "PAYC/Q4_2025.json",
+      "turns": 104,
+      "prepared": 17,
+      "qa": 87
+    },
+    {
+      "period": "Q3 2025",
+      "eventDate": "2025-11-05",
+      "file": "PAYC/Q3_2025.json",
+      "turns": 95,
+      "prepared": 17,
+      "qa": 78
+    }
+  ],
+  "PAYX": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2025-09-30",
+      "file": "PAYX/Q1_2026.json",
+      "turns": 93,
+      "prepared": 16,
+      "qa": 77
+    },
+    {
+      "period": "Q4 2025",
+      "eventDate": "2025-06-25",
+      "file": "PAYX/Q4_2025.json",
+      "turns": 138,
+      "prepared": 24,
+      "qa": 114
+    }
+  ],
+  "PCOR": [
+    {
+      "period": "Q4 2025",
+      "eventDate": "2026-02-12",
+      "file": "PCOR/Q4_2025.json",
+      "turns": 89,
+      "prepared": 30,
+      "qa": 59
+    },
+    {
+      "period": "Q3 2025",
+      "eventDate": "2025-11-05",
+      "file": "PCOR/Q3_2025.json",
+      "turns": 144,
+      "prepared": 28,
+      "qa": 116
+    }
+  ],
+  "PCTY": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2025-11-04",
+      "file": "PCTY/Q1_2026.json",
+      "turns": 155,
+      "prepared": 23,
+      "qa": 132
+    },
+    {
+      "period": "Q4 2025",
+      "eventDate": "2025-08-05",
+      "file": "PCTY/Q4_2025.json",
+      "turns": 197,
+      "prepared": 22,
+      "qa": 175
+    }
+  ],
+  "PWSC": [],
+  "PYCR": [
+    {
+      "period": "Q4 2024",
+      "eventDate": "2024-08-14",
+      "file": "PYCR/Q4_2024.json",
+      "turns": 131,
+      "prepared": 21,
+      "qa": 110
+    }
+  ],
+  "QTWO": [
+    {
+      "period": "Q4 2025",
+      "eventDate": "2026-02-11",
+      "file": "QTWO/Q4_2025.json",
+      "turns": 127,
+      "prepared": 33,
+      "qa": 94
+    },
+    {
+      "period": "Q3 2025",
+      "eventDate": "2025-11-05",
+      "file": "QTWO/Q3_2025.json",
+      "turns": 114,
+      "prepared": 24,
+      "qa": 90
+    }
+  ],
+  "ROP": [
+    {
+      "period": "Q4 2025",
+      "eventDate": "2026-01-27",
+      "file": "ROP/Q4_2025.json",
+      "turns": 146,
+      "prepared": 31,
+      "qa": 115
+    },
+    {
+      "period": "Q3 2025",
+      "eventDate": "2025-10-23",
+      "file": "ROP/Q3_2025.json",
+      "turns": 133,
+      "prepared": 31,
+      "qa": 102
+    }
+  ],
+  "SAP": [
+    {
+      "period": "Q4 2025",
+      "eventDate": "2026-01-29",
+      "file": "SAP/Q4_2025.json",
+      "turns": 109,
+      "prepared": 109,
+      "qa": 0
+    },
+    {
+      "period": "Q3 2025",
+      "eventDate": "2025-10-22",
+      "file": "SAP/Q3_2025.json",
+      "turns": 91,
+      "prepared": 24,
+      "qa": 67
+    }
+  ],
+  "SHOP": [
+    {
+      "period": "Q4 2025",
+      "eventDate": "2026-02-11",
+      "file": "SHOP/Q4_2025.json",
+      "turns": 98,
+      "prepared": 98,
+      "qa": 0
+    },
+    {
+      "period": "Q3 2025",
+      "eventDate": "2025-11-04",
+      "file": "SHOP/Q3_2025.json",
+      "turns": 101,
+      "prepared": 101,
+      "qa": 0
+    }
+  ],
+  "TEAM": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2025-10-30",
+      "file": "TEAM/Q1_2026.json",
+      "turns": 73,
+      "prepared": 8,
+      "qa": 65
+    },
+    {
+      "period": "Q4 2025",
+      "eventDate": "2025-08-07",
+      "file": "TEAM/Q4_2025.json",
+      "turns": 77,
+      "prepared": 9,
+      "qa": 68
+    }
+  ],
+  "TOST": [
+    {
+      "period": "Q4 2025",
+      "eventDate": "2026-02-12",
+      "file": "TOST/Q4_2025.json",
+      "turns": 99,
+      "prepared": 36,
+      "qa": 63
+    },
+    {
+      "period": "Q3 2025",
+      "eventDate": "2025-11-04",
+      "file": "TOST/Q3_2025.json",
+      "turns": 93,
+      "prepared": 28,
+      "qa": 65
+    }
+  ],
+  "TTAN": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2025-06-05",
+      "file": "TTAN/Q1_2026.json",
+      "turns": 78,
+      "prepared": 22,
+      "qa": 56
+    },
+    {
+      "period": "Q4 2025",
+      "eventDate": "2025-03-13",
+      "file": "TTAN/Q4_2025.json",
+      "turns": 105,
+      "prepared": 22,
+      "qa": 83
+    }
+  ],
+  "TYL": [
+    {
+      "period": "Q4 2025",
+      "eventDate": "2026-02-12",
+      "file": "TYL/Q4_2025.json",
+      "turns": 126,
+      "prepared": 26,
+      "qa": 100
+    },
+    {
+      "period": "Q3 2025",
+      "eventDate": "2025-10-30",
+      "file": "TYL/Q3_2025.json",
+      "turns": 114,
+      "prepared": 19,
+      "qa": 95
+    }
+  ],
+  "VEEV": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2025-05-28",
+      "file": "VEEV/Q1_2026.json",
+      "turns": 134,
+      "prepared": 6,
+      "qa": 128
+    },
+    {
+      "period": "Q4 2025",
+      "eventDate": "2025-03-05",
+      "file": "VEEV/Q4_2025.json",
+      "turns": 131,
+      "prepared": 5,
+      "qa": 126
+    }
+  ],
+  "VERX": [
+    {
+      "period": "Q4 2025",
+      "eventDate": "2026-02-11",
+      "file": "VERX/Q4_2025.json",
+      "turns": 111,
+      "prepared": 30,
+      "qa": 81
+    },
+    {
+      "period": "Q3 2025",
+      "eventDate": "2025-11-03",
+      "file": "VERX/Q3_2025.json",
+      "turns": 111,
+      "prepared": 25,
+      "qa": 86
+    }
+  ],
+  "WAY": [
+    {
+      "period": "Q4 2025",
+      "eventDate": "2026-02-17",
+      "file": "WAY/Q4_2025.json",
+      "turns": 104,
+      "prepared": 25,
+      "qa": 79
+    },
+    {
+      "period": "Q3 2025",
+      "eventDate": "2025-10-29",
+      "file": "WAY/Q3_2025.json",
+      "turns": 85,
+      "prepared": 23,
+      "qa": 62
+    }
+  ],
+  "WDAY": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2025-05-22",
+      "file": "WDAY/Q1_2026.json",
+      "turns": 110,
+      "prepared": 22,
+      "qa": 88
+    },
+    {
+      "period": "Q4 2025",
+      "eventDate": "2025-02-25",
+      "file": "WDAY/Q4_2025.json",
+      "turns": 119,
+      "prepared": 25,
+      "qa": 94
+    }
+  ],
+  "ZUO": [
+    {
+      "period": "Q4 2024",
+      "eventDate": "2024-02-28",
+      "file": "ZUO/Q4_2024.json",
+      "turns": 91,
+      "prepared": 32,
+      "qa": 59
+    }
+  ]
+}

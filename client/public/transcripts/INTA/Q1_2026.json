@@ -1,0 +1,474 @@
+{
+  "ticker": "INTA",
+  "period": "Q1 2026",
+  "eventDate": "2025-11-04",
+  "preparedRemarks": [
+    {
+      "speaker": "Operator",
+      "text": "Hello, and welcome everyone to the Intapp Fiscal First Quarter 2026 earnings webcast. At this time, all participants are in a listen-only mode. After the speaker's presentation, there will be a question-and-answer session. Please be advised that this conference is being recorded. Now, it is my pleasure to turn the call over to the Senior Vice President, Investor Relations, David Trone. The floor is yours."
+    },
+    {
+      "speaker": "David Trone",
+      "text": "Thank you. Welcome to Intapp Fiscal First Quarter financial results. On the call with me today are John Hall, Chairman and CEO of Intapp, and David Morton, Chief Financial Officer. During the course of this conference call, we may make forward-looking statements regarding trends, strategies, and the anticipated performance of our business, including guidance provided for our fiscal second quarter and full year 2026. These forward-looking statements are based on management's current views and expectations, entail certain assumptions made as of today's date, and are subject to various risks and uncertainties, including those described in our SEC filings and other publicly available documents that are difficult to predict and could cause actual results to differ materially from those expressed or implied by such forward-looking statements. Intapp disclaims any obligation to update or revise any forward-looking statements except as required by law."
+    },
+    {
+      "speaker": "David Trone",
+      "text": "Further on today's call, we will also discuss certain non-GAAP metrics that we believe aid in the understanding of our financial results, including non-GAAP gross margin, non-GAAP operating expenses, non-GAAP operating income, non-GAAP diluted net income per share, and free cash flow. Our GAAP financial results, along with the reconciliation of GAAP to non-GAAP financial measures, can be found in today's earnings release and its supplemental financial tables, which is available on our website and as an exhibit to the Form 8-K furnished with the SEC prior to this call, or a supplemental financial presentation, which is available on our website. With that, I'll hand the conversation over to John."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "Thank you, David. Good afternoon, everyone. Thank you for joining us today as we share the results of our fiscal first quarter. Now starting our fifth year as a public company, I'm pleased to share that once again, we've achieved strong quarterly results supported by cloud ARR growth, new products, new partnerships, new logos, and expanded client accounts around the world. We added new applied AI capabilities to our platform. Furthered our strategic partnership with Microsoft, and migrated more clients to the cloud. I'll share details on these and other select growth drivers throughout this call. In Q1, our cloud ARR grew to $401 million, up 30% year-over-year. Cloud now represents 80% of our total ARR of $504 million. In the quarter, we earned SaaS revenue of $98 million, up 27% year-over-year, and total revenue of $139 million, up 17% year-over-year."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "Now, I'd like to share some highlights from our fiscal first quarter. We continue to execute on our vertical AI roadmap, specifically through applied AI innovation and growing client adoption. For a bit of context, our industry-specific AI solutions do automate rote manual tasks, but more importantly, they deliver actionable insights drawn from a firm's proprietary data, knowledge, and relationships, which are unified and enriched with our own industry graph data model and trusted third-party sources. Critically, our solutions do all this while helping firms maintain compliance with the industry's most complex regulations. These advanced, tailored compliance capabilities are what set Intapp apart and why firm leadership continues to invest in our technology. Which brings me to my first example. In Q1, we announced a significant new release of Intapp Time, which delivers faster, easier, more accurate timekeeping powered by major new AI features."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "Built on our secure cloud foundation, the new Intapp Time offers Gen AI capabilities that monitor users' workdays to find and capture billable activities, to validate entries against client guidelines, to suggest corrections when needed, and to answer questions about entries and unreleased time via an AI chat experience. The response has been very enthusiastic, reflecting that we're tapping into real need with our thoughtfully designed vertical AI. More than 100 clients and prospects attended our introductory webinar, and we booked over 200 meetings in the six weeks following its launch. Ryan Donato, CIO at Vores, who participated in our early adopter program, said, \"The Intapp Time release is very intuitive and won't require us to retrain our lawyers."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "Our users really like the quick add functionality, the ability to use AI to create narratives, and the ability to group activities in the activity stream.\" Additionally, this quarter, Starwood Capital Group, a leading real estate investment firm with over $120 billion in capital deployed globally and a leader in technology adoption, added Intapp's agentic AI capability to its DealCloud deployment. The agentic capability will give Starwood's investment professionals a 360-degree view of the firm's investments and portfolio, all enabled and orchestrated in a modern AI chat interface. And third, Alpaca Real Estate is showcasing its use of DealCloud as a differentiator to its clients and prospects. At a recent client retreat, the firm shared how its modern tech stack gives them a competitive advantage among real asset investors. And highlighted DealCloud as an integral part of their evolution toward AI, powering their workflows, analytics, and data."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "Now let's turn to our expansive partner network. We continue to grow our high-impact partner ecosystem, anchored by Microsoft and a strategic set of 145 curated data, technology, and services partners. It's one of the most powerful vertical ecosystems in our industry. And its real differentiator is how deeply our partners are integrated into our commercial operations. They're strategic amplifiers of our business, enabling us to pursue larger opportunities, execute faster, and scale more efficiently without a proportional increase in internal costs. To name just one example, in Q1, Lexsoft joined our network to help drive growth in our legal vertical in Latin America and other Spanish-speaking markets. And as in previous quarters, Microsoft continues to be a major growth driver for us. Of our 10 largest Q1 wins, more than half were jointly executed with Microsoft."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "In several of those, Microsoft fronted Azure investment dollars to help accelerate the deals. I'll share more specifics as we turn now our attention to notable wins from the quarter. Our growth was again powered by adding new clients, expanding within existing clients, and migrating clients to the cloud. We also continued to make traction in new markets spanning across our verticals, products, and global locations. This quarter, we saw three notable trends driving wins in our legal vertical. First, the largest law firms continue to consolidate. In other words, the big firms keep getting bigger. They're taking a bigger share of the growing legal market. And they're going to continue to need an enterprise-class technology partner that can scale with them."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "To cite an example, one of the Am Law 100 firms we count as a client increased their contract for Intapp Conflicts, Intake, Terms, Time, Walls, and Collaboration this quarter to accommodate its growing size. Second, our clients are adding additional Intapp solutions, including AI, when they migrate to the cloud. For example, another AmLaw 100 client started moving its intake and conflict solutions to the cloud while also augmenting its portfolio of Intapp solutions by upgrading to the newly released Intapp Time with GenAI on the Azure Marketplace. And an Am Law 200 firm chose to move all of its Intapp solutions to the cloud, starting with compliance. They purchased Intapp Assist to add GenAI capabilities to its time, terms, and DealCloud solutions. The firm completed the purchase via the Azure Marketplace using their existing MAC agreement. And third, current cloud clients are also growing their Intapp footprint."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "For example, Brian Cave Leighton Paisner bought BillStream and added Intapp Assist to its time contract, expanding their existing product portfolio of Intapp compliance and collaboration solutions. One of our Intapp Time GenAI early adopters also added Intapp Terms with Assist to enable comprehensive compliant time recording. These solutions add to the UK law firm's existing portfolio of Intapp compliance solutions. In our accounting and consulting vertical, we saw continued modernization of compliance and timekeeping practices, with many adding new products to their existing Intapp investments. I'll share a couple of examples. One of the largest providers of tax, accounting, and advisory services purchased Intapp Employee Compliance to complement its existing instances of intake and conflicts. And SEA Limited, a leading consulting firm in forensics analysis and investigations, added the new Intapp Time to its portfolio that includes BillStream, conflicts, and intake."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "In our financial services verticals, firms continue to choose our purpose-built solutions for their industry-specific capabilities. Here are some examples. A leading bulge-bracket investment bank chose to replace a homegrown system with DealCloud for AI-enabled client coverage and deal execution that are attuned to the complexities of a multinational bank with complex clients. A mid-market PE firm moved from its legacy horizontal CRM to DealCloud with Intapp Assist as part of its AI-first approach to deal origination, deal sourcing, and business development. Compass Capital chose DealCloud for AI-driven marketing, deal origination, and relationship management capabilities. The firm is replacing disparate legacy systems with a unified solution designed for PE workflows. And a global investor and manager focused on real assets selected DealCloud for its ability to improve investment process efficiency and manage complex transactions."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "In conclusion, we're proud of our strong performance in our first quarter, and we're optimistic about our continued growth opportunities. As our Q1 performance has shown, we continue to grow by adding new capabilities to our platform and increasing our global and enterprise go-to-market reach. We see continued opportunity both to add new clients across a broad TAM and to deliver greater value by expanding within our existing client base. We're serving a durable end market with our subscription revenue model, industry-specific cloud platform, and applied AI and compliance capabilities. We have a great growth opportunity to drive AI, cloud adoption, and modernization across all the industries we serve. As always, I'd like to thank our clients, our partners, our investors, our board, and our global Intapp team for their teamwork and dedication. Thank you all very much. Okay, David, over to you."
+    },
+    {
+      "speaker": "David Morton",
+      "text": "Thank you, John, and thanks to everyone for joining us today. I'm pleased to report a solid start to fiscal 2026 with our first quarter performance. These results underscore the opportunity ahead as we prudently invest and execute against key market tailwinds: digitalization, cloud forward adoption, and compliance-driven demand. Our Q1 execution reflects these dynamics and reinforces our confidence in driving sustained, profitable growth this fiscal year and beyond. Cloud annual recurring revenue surpassed $400 million in Q1, a 30% year-over-year increase as we expanded enterprise wallet share across our vertical markets. We excelled on both upsell and cross-sell activity this quarter while continuing to transition client spend to the cloud. We're also seeing strong progress in executing our vertical applied AI strategy with absolute growth in AI SKU, ACV dollars, and attach rates while maintaining discipline in our operating model, proving that efficiency and leverage are tenable."
+    },
+    {
+      "speaker": "David Morton",
+      "text": "Let's begin with our fiscal Q1 results. SaaS revenue was $97.5 million, up 27% year-over-year, driven by new client acquisitions, contract expansions, and ongoing migrations from on-premise products to the cloud. Cloud-positive mix progression continued with SaaS now contributing 70% of total revenue, up more than five points year-over-year. License revenue totaled $29.2 million, up 2% year-over-year. The on-premise portion of our business continued to migrate toward cloud offerings while legal client growth remained steady and in line with firm expansion. Professional services revenue was $12.3 million, down 8% year-over-year. Our partner ecosystem continues to help us prioritize long-term cloud growth by focusing on co-sell execution, client satisfaction, and efficient implementation practices. Total revenue was $139 million, up 17% year-over-year, driven primarily by strong demand for our cloud solutions. Turning to our capital allocation, as announced in August, our board authorized a $150 million share repurchase program."
+    },
+    {
+      "speaker": "David Morton",
+      "text": "During the first quarter, we repurchased $50 million, or approximately 1.1 million shares, reflecting our confidence and long-term value of the business while maintaining a strong balance sheet. Our partner ecosystem continues to deepen its role in the go-to-market execution and client delivery. Partners are facilitating complex deals, opening new geographic opportunities, accelerating value realization, and promoting platform adoption and retention. Our FY26 sales kickoff included a dedicated in-person partner track for the first time, a reflection of the expanding network opportunity. Year-over-year, co-sell growth in Q1 was strong, and we feel well-positioned for even greater partner-driven contribution in FY26 and beyond. As we continue to focus on margins and operational efficiency. Q1 non-GAAP gross margin was 77.7%, up from 76.3% a year ago, reflecting continued mix shift and cloud efficiency gains."
+    },
+    {
+      "speaker": "David Morton",
+      "text": "Non-GAAP operating expenses were $87.1 million compared to $75.6 million in the prior year period, largely reflecting go-to-market spend related to sales kickoff and targeting marketing initiatives as we entered the fiscal year, as well as ongoing investments in our product-led growth strategy. Non-GAAP operating income was $20.9 million, up from $15.1 million in Q1 of last year. Non-GAAP diluted EPS was $0.24 compared to $0.21 in the prior year period. Free cash flow was $13.2 million for the quarter, defined as cash flow from operations less capital expenditures. Our cash and cash equivalents balance at the end of the quarter was $273.4 million, reflecting our $50 million share repurchase. Turning to our key metrics, cloud ARR increased 30% year-over-year, while total ARR grew 21% over the same period. Total remaining performance obligations, or RPO, was $715.2 million, up 30% year-over-year."
+    },
+    {
+      "speaker": "David Morton",
+      "text": "Our increasingly enterprise-focused go-to-market motion showed continued progress in Q1, yielding at quarter-end 813 clients with ARR of at least $100,000, up from 707 in the previous year. Our 100K plus ARR clients now comprise approximately 30% of our total clients, up $2,750. Our cloud net revenue retention rate was 121% in the first quarter, demonstrating continued strong retention and strong upsell and cross-sell expansion among existing cloud clients. Now turning to our outlook. For the second quarter of fiscal 2026, we expect SaaS revenue between $100 million-$101 million. Total revenue in the range of $137.6 million-$138.6 million. Non-GAAP operating income is expected to be in the range of $21.4 million-$22.4 million, and non-GAAP EPS in the range of $0.25-$0.27 using a diluted share count weighted for the quarter of approximately 84 million in common shares outstanding. For the full year of fiscal 2026, we expect SaaS revenue between $412 million-$416 million."
+    },
+    {
+      "speaker": "David Morton",
+      "text": "Total revenue in the range of $569.3 million-$573.3 million. Non-GAAP operating income in the range of $97.7 million-$101.7 million, and non-GAAP EPS in the range of $1.15-$1.19 using a diluted share count weighted for the fiscal year 2026 of approximately 85 million in common shares outstanding. Thank you, and I'll now turn the call back to the operator."
+    }
+  ],
+  "qAndA": [
+    {
+      "speaker": "Operator",
+      "text": "Thank you. We will now begin the question and answer session. If you have dialed in and would like to ask a question, please press star one on your telephone keypad to raise your hand and join the queue. If you would like to withdraw your question, simply press star one again. If you are called upon to ask your question and are listening via speakerphone in your device, please pick up your handset to ensure that your phone is not on mute when asking your question."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Again, press star one to join the queue. And our first question comes from the line of Kevin McVeigh with UBS. Your line is open."
+    },
+    {
+      "speaker": "Kevin McVeigh",
+      "text": "Great. Thanks so much, and congratulations, really, on terrific results. Hey, John or Dave, I don't know who this is best for, but the net revenue retention, 121%, just really, really amazing. That was up from last quarter. Can you help us maybe understand what drove that a little bit? Maybe we could start there."
+    },
+    {
+      "speaker": "David Morton",
+      "text": "Hey, Kevin. It's Dave. Hey, Dave. Yeah. The team's done continuing to do extremely well. We continue to make continued inroads, both not only on the upsell, which is additional seats, but also true cross-sell motion."
+    },
+    {
+      "speaker": "David Morton",
+      "text": "And I think going back in time, last year, we introduced our true enterprise model, and we've continued to densify that around a lot of key accounts, and we're continuing to see a lot of success with our cloud offerings with that profile. And so you're just continuing to see that general nature of how we've been going to market and been articulating and, quite frankly, given some really good examples even in today's conversation point, as well as our churn continues to remain low single digit. Our product adoption and delivery has been very welcomed by our respective clients, and we'll continue to make progress there."
+    },
+    {
+      "speaker": "Kevin McVeigh",
+      "text": "That's helpful. And then obviously, the results continue to be terrific. There's obviously a lot of debate as to how GenAI could potentially impact your clients."
+    },
+    {
+      "speaker": "Kevin McVeigh",
+      "text": "As you've kind of started on the journey, have you seen any changes in behavioral around that, whether consuming maybe more, maybe less, or shifts in terms of how you're charging, just based on any behavioral changes from your client perspective? I mean, the numbers don't suggest it at all. If anything, it seems they get better. But just anything to help us kind of answer that question that we've gotten from our clients."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "Thanks, Kevin. This is John. We're big believers in what this generation of AI is going to bring to this end market. There's an incredible opportunity for these firms who are very knowledge-oriented in the way that they create value, either as investors or as advisors. We're putting a huge program behind extending our traditional machine learning generation AI with this GenAI generation technology."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "We have a lot of expertise in the business to continue to do that. You've seen a series of announcements from us over the past 18, 24 months of a sequential expansion of the GenAI generation throughout the platform. The most recent one we talked about on this call was the time release, which has been very well received. It's interesting to get the feedback from the clients. A lot of them are trying a lot of the different tools. We had an advisory board with our COOs, and one of the leaders told me that she had nine different AI startup tools that they were trying. That's kind of where we are in the adoption cycle. From our perspective, we think there's a tremendous opportunity to leverage the position that we have developed over many years as the scaled compliant systems to bring GenAI into the workflows."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "We call it vertical AI, and really differentiate from a lot of the more general horizontal systems that are being offered out there from some of the larger companies, but also in an integrated workflow that differentiates from some of the smaller companies that are working on more of a point solution approach. That's been very positively received from our advisory boards and our early adopters. I gave some examples of how our adoption is working. This is historically how we have grown the company. We've had many years working with these firms and the advisory board system that helped build the company as a bootstrap business. And we're doing the same thing with this GenAI generation. So it's a very deliberate strategy to look for the key value propositions that will enable us to roll GenAI out and monetize it."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "Your question about charging, we have said that we have in our contracts the ability to meter in different ways. We already have revenue that comes both from a per-user basis and from a firm-size basis. And we're working with some of the early adopters on some other models that we'll hear more about as fiscal year rolls on. But I think there's a real opportunity to continue to leverage the existing relationships we have. And the firms are pretty excited to pay for it, given some of the ROI that we can show. So we're optimistic about how this goes."
+    },
+    {
+      "speaker": "Kevin McVeigh",
+      "text": "Makes a lot of sense. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Our next question comes from the line of Alexei Gogolev with JPMorgan. Your line is open."
+    },
+    {
+      "speaker": "Alexei Gogolev",
+      "text": "Thank you. Hi, John. Hi, Dave. Given the very strong ARR and NRR acceleration."
+    },
+    {
+      "speaker": "Alexei Gogolev",
+      "text": "How much of this acceleration is coming from industry-specific changes like the one, John, you mentioned in market consolidation and legal? And how much is coming from macro tailwinds or perhaps that internal enterprise sales build-out and productivity improvement?"
+    },
+    {
+      "speaker": "John Hall",
+      "text": "Yeah. Thank you, Alexei. I think it is a combination of several of those trends. So there's definitely a set of trends in each of the industries that is helping us at the enterprise level. As I mentioned, the law firms have a consolidation trend going on. In the accounting industry, there is a trend where the private equity firms are coming in and investing in the mid-sized accounting firms and basically rolling them up. So they're becoming more enterprise-class pretty quickly."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "And they have a strong technology need and, in particular, a strong compliance need because now you have, for the first time, private equity owners of these professional firms, and the compliance issues are very meaningful there. So that's helping us. There are a couple of regulatory things that are happening. I mentioned on an earlier call what's happening in places like Australia with some of the AML regulations. And then the private equity industry is continuing its secular growth. So the firms are getting bigger. They're raising larger funds, and they're taking more share from the public market. So we're very well positioned in several of these macro trends. I think from a technology transformation perspective, we're continuing to follow the digital transformation trend that you all have studied in a lot of the other markets for a long time. It was slower to come to this market."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "And we're benefiting from the fact that these firms are really committed now to getting to the cloud, particularly after COVID, and you hear us give examples of that accelerating. So we're excited about that for us. And then finally, this AI conversation that we just talked about is definitely causing people to take a new look at their IT portfolio and how are they going to position themselves to make sure they compete in this era when AI is going to play a meaningful role in the operation of the firms. So there are several overall drivers, I think, that are supporting that NRR and ARR growth."
+    },
+    {
+      "speaker": "Alexei Gogolev",
+      "text": "Thank you, John. And Dave, considering the strong dynamic for ARR. Do you feel like the guidance that you've given is somewhat conservative? It looks like you've raised all your outlook by less than the Q1 beat."
+    },
+    {
+      "speaker": "Alexei Gogolev",
+      "text": "Can you maybe elaborate on that?"
+    },
+    {
+      "speaker": "John Hall",
+      "text": "Yeah. We're always going to show a series of prudence here as we exit not only this year but then going into next year. So that's one. Two. We're definitely cloud-focused, SaaS-focused. We do have some moving parts going on with both services and with license. But we feel that we've provided a very prudent guide that just lets us keep our heads down and execute accordingly, so."
+    },
+    {
+      "speaker": "Alexei Gogolev",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Next question comes from the line of Parker Lane with Stifel. Your line is open."
+    },
+    {
+      "speaker": "Parker Lane",
+      "text": "Hey, guys. Thanks for taking the question. John, clearly showing a lot of progress here in the percentage of business from cloud, from an ARR perspective. For those holdouts that you're seeing today, with the amount of innovation you're delivering from an AI perspective, what are the common reasons that people are continuing to stick on-premise?"
+    },
+    {
+      "speaker": "Parker Lane",
+      "text": "And do you think AI is becoming that tipping point that can perhaps accelerate their decision-making to move to cloud more quickly?"
+    },
+    {
+      "speaker": "John Hall",
+      "text": "Thanks, Parker. I do think the trend is strong and accelerating because a lot of the traditional impediments that held back this industry have kind of been tackled. There were some regulatory requirements that people needed, but a lot of the capabilities of our partner, Microsoft, now to meet the different hosting requirements in each of the jurisdictions have been solved. Most of the firms that we serve, certainly the enterprise-class firms, are operating in more than one regulatory jurisdiction. So that was an important part. I think the Microsoft partnership overall has really helped us in that regard at the larger end of the market."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "I think now AI has absolutely captured the attention of the firms, but they really are experimenting in a lot of places and looking for an experienced partner that they can trust. And particularly for this market where we're focused, the compliance questions about how do they make sure that they respect client confidentiality and the incredible importance to each of them, sometimes from a pure regulatory point of view around how do you manage MMPI inside these large firms and make sure that it doesn't get accidentally shared, overshared inside the firm. And then how do you make sure that the firm's intellectual property, its history of knowledge and experience, which is really what forms the basis of these firms' ability to compete and differentiate themselves, how do you make sure that that is something that you can manage and use for the firm's proprietary advantage going forward?"
+    },
+    {
+      "speaker": "John Hall",
+      "text": "These are all key issues for these firms as they look at a lot of these solutions. And we've been very focused on continuing our strong position in compliance and information governance and confidentiality as the key partner to enable them to deploy AI in a trusted way, to really get the value of it in a way that's consistent with the obligations that they have from regulations, but also from their professional obligations. And that's playing well. So I think that we have a great opportunity to continue to pull people to the cloud now. The final piece is just the IT budget and prioritization of all the projects that they're doing this year."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "It's become less and less of an argument against as much as a practical, \"How do we plan for this?\" And so we're working with each of our clients, with our account plans and our teams, to make sure that we get in line and make sure we're at the front of the line with the AI story to help them make this move. And you're seeing some examples of that that we shared with you."
+    },
+    {
+      "speaker": "Parker Lane",
+      "text": "Makes sense, John. And Dave, maybe one for you. As you've leaned more into partners, you alluded to this more moderated pace of professional services revenue growth. Would you expect that trend to continue here in fiscal 26? And given that, would the somewhat of a pressure that we saw in gross margins of professional services also come with that, or do you expect utilization rates to sort of normalize here?"
+    },
+    {
+      "speaker": "David Morton",
+      "text": "So on the margin pressure, we expect that to moderate here through the back half of the year. So plenty of planning and activity there. With respect to revenue, we're always playing the trade-offs of building the ecosystem as well as what gets delivered internally without losing the aspect of the customer first. And so that's always going to be a relatively tricky balance that we're trying to make game-day decisions on, and then with respect to the margins that follow. And so I think from a longer-term perspective, you want to model around 10% of revenue to be in our services, but that could deviate a point or two here or there as you modulate through the respective quarters."
+    },
+    {
+      "speaker": "Parker Lane",
+      "text": "Understood. Thanks for the feedback."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Next question comes from the line of Koji Ikeda, with Bank of America. Your line is open."
+    },
+    {
+      "speaker": "Koji Ikeda",
+      "text": "Yeah. Hey, guys."
+    },
+    {
+      "speaker": "Koji Ikeda",
+      "text": "Thanks so much for taking the questions. Maybe the first one on AI and looking at your two target verticals, the financial services and professional services. Of the two, which are more. Open to adopting AI tools today? And for the other one that maybe is less open, what do you think is the catalyst or trigger within this specific vertical to drive more AI adoption?"
+    },
+    {
+      "speaker": "John Hall",
+      "text": "Thanks, Koji. The market generally is super excited about the AI opportunity, particularly because so much of what these folks do is in the style of research. And a lot of the first tools that have come out have helped people to look into the outside world and research what's available on the internet and take a point of view on that. And it's very familiar to a lot of the work that a lot of the folks inside these organizations do."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "So there's a lot of enthusiasm for what it can do to help them. As they try to bring those experiences and integrate them into the overall management workflows of the firm, they're needing to integrate more and more with the proprietary data of the firm, with the governance practices of the firm, with the financial management, operational management requirements of the firm."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "And I think this is what's pulling us in at the top of the leadership group to say, \"How can we help them orchestrate the role of AI across the various activities that people are trying inside the firm and do so in a compliant way and in a governed way and take advantage of a lot of the firm's proprietary knowledge in our industry graph data model and other sources inside the firm to help them really get the full value for the institution out of this style of adoption?\" I think there's different flavors of that in the law firm side. We make this distinction, which is kind of a classic distinction between the practice of law and the business of law. And historically, Intapp has been very much helping the firms as a whole orchestrate their business. And so that's sort of an angle inside that firm."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "There's an analogous case, though, on the financial services side, where firms are really focused on the process of sourcing and origination of business, which is completely analogous to what we're doing in professional services. So I think rather than contrast the two, I would say it's more about the vertical AI solutions, the category of solutions, and how are the firms going to think about AI overall as a program of improving productivity in a compliant way for all of the players inside the organization. That's our focus."
+    },
+    {
+      "speaker": "Koji Ikeda",
+      "text": "Got it. No, that's super helpful. And a follow-up here for David. I focus a lot or we focus a lot on ARR and specifically cloud ARR. And great to see the acceleration there."
+    },
+    {
+      "speaker": "Koji Ikeda",
+      "text": "But I can't help look at my model and notice billings, just looking at kind of mid-high teens growth in total billings, but also a lot of volatility in that quarterly billings, the calculated billings metrics. Maybe help us understand some of the puts and takes there. Is there the potential for billings to start to smooth out here in the coming quarters? Thank you."
+    },
+    {
+      "speaker": "David Morton",
+      "text": "Good question. So yes, we do see it smoothing out. In six to nine months, really getting through. Things such as. Services, which has a lot of fixed fee, getting through some of these licenses, which you get half upfront at times. With ASC 606. And so as those things transition. So too will the noise."
+    },
+    {
+      "speaker": "David Morton",
+      "text": "You also have to, just with respect to Q1 of 2026, if you look at the DRs, right, going from the deferred revenue of almost an all-time high, or actually an all-time high in Q4 of 2025, coming down to Q1 of 2026. 259 down to 239. But then if you look at that year-over-year, the 239 up over the 205, I mean, you are seeing pure growth within that number. And so we think it's on the right trajectory."
+    },
+    {
+      "speaker": "Koji Ikeda",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Next question comes from the line of Terry Gilman with Truist. Your line is open."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Hi, this is Dominique on for Terry. Thanks for taking my questions."
+    },
+    {
+      "speaker": "Operator",
+      "text": "So considering fiscal Q2 and Q4 tend to be the stronger ARR quarters for the client fiscal cycles and the renewal base, as your mix shifts more into enterprise with the new enterprise sales group, do you expect that seasonality to intensify or maybe flatten a bit as your deal sizes grow?"
+    },
+    {
+      "speaker": "David Morton",
+      "text": "Apologies. I was trying to get my phone off mute. No, we view the same seasonal patterns with both of our, whether it be mid-market or enterprise. It just lands naturally with our end clients year-end. And so where you see some of the incremental. Could be budget flush either through the respective calendar year-end and/or through halfway through the year when the budgets are allocated. And so that's kind of what we're selling into at more and more of these enterprise accounts. And so we don't see that deviating."
+    },
+    {
+      "speaker": "David Morton",
+      "text": "We also don't see it intensifying because we have been part and parcel into a lot of these larger enterprise accounts, but now we're just doing it more formally. And so, yeah, we'll continue to maintain that asymptote."
+    },
+    {
+      "speaker": "David Morton",
+      "text": "Got it. And then just as a follow-up, now that Intapp has surpassed $500 million in revenues, entering this next phase of evolution looking toward the billion-dollar revenue narrative, what are the one or two most important execution levers that kind of move the company toward that next major scale milestone? I guess I'm thinking maybe deeper product attach, greater partner leverage, or maybe continued vertical expansion."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "Yeah. So we have a couple of ways to win here. On one hand. We have enough clients today. We talked about this a little bit at our investor day that if we just sold through."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "A percentage of what we have on offer today, we could get the company to a billion dollars and much more. And alternatively, it's a large underserved TAM, and we're landing new clients each quarter and each year. And if we just did that with the deal sizes that we're showing, we could get to a billion dollars that way. So there's actually a very large opportunity for us. This market is very interesting because it's 3% of the global economy and has traditionally been overlooked by the horizontal players. So the vertical strategy across the technology generations has been a key angle for us. And a lot of the capabilities that we've developed, like the compliance point, transcend each of the technology generations. And now we're doing it with vertical AI. So I think there's a great opportunity for us to grow to that number."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "I think some of the execution levers include the continued success of our clients and the cross-sell and the upsell, continued landing of new clients based on our strong reputation and continued innovation. There's a huge opportunity. It's historically for us been very client-driven. We're a bootstrapped company. We have an advisory board of systems people help us understand what it is that if we build for them, they will pay for. And that relationship goes back 15-20 years in some firms. They really do trust us to be the people to bring them to the AI generation. So executing on that, continuing that core capability of innovation directly to this market, I think, will really help us. And then I think just continued talent. As we grow, we've had a great opportunity to bring more and more great talent into the business."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "People who have seen larger and larger scale, people from the firms themselves who really bring the expertise. It's a unique group that we've assembled that really understands how to bring this next generation of technology to this specialized market. So those are some of the key points."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "Great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Next question comes from the line of Alex Sklar with Raymond James. Your line is open."
+    },
+    {
+      "speaker": "Alex Sklar",
+      "text": "Great. Thank you. John, on the international opportunity from the commentary around expanding global reach, you've got the partner in Microsoft globally. What's the opportunity you see internationally broadly versus what's been a string of really strong quarters in the US? And maybe for Dave. How much investment do you think is needed either from a product standpoint or go-to-market side, given some of the partners you already have in place for that opportunity? Thanks."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "Thanks, Alex."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "About 30% to a third of our business has been international historically. That has been a growing footprint around the world. We have a strong business in the UK, obviously, Australia, New Zealand, where we started, Canada where we started. But increasingly, good footprint in continental Europe and Nordics have done a lot recently. We opened a Singapore office last year. The team there, I just visited them this past quarter. Fantastic group of people that have brought on some incredible clients. The huge opportunity there. I mentioned in our partner ecosystem, we've added more and more partners that help us reach into parts of the world that we haven't set ourselves up yet. The one we talked about here was a group that's helping us expand into the Spanish-speaking countries. We're excited about that."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "We have another recent partner that's come on board to help us with the Portuguese-speaking countries. So I think there's a lot of opportunity for us to continue to move in that direction. And it's a huge part of the TAM that we've just begun to kind of enter."
+    },
+    {
+      "speaker": "David Morton",
+      "text": "Yeah. And then with respect to the incremental investment, Alex, it's been pretty nominal thus far. We don't need to get into things like localization or any arduous local statutory from where a lot of our clients serve. And so it's just a matter of if anything, just the opportunity cost of us addressing so many respective opportunities within our SAM and TAM. So it's just a matter of pacing and planning."
+    },
+    {
+      "speaker": "Alex Sklar",
+      "text": "Okay. Great color. Maybe just following up in terms of direct sales hiring, you talked about some of the partner opportunity."
+    },
+    {
+      "speaker": "Alex Sklar",
+      "text": "But you talked about putting more wood behind the fire this year after some of the structural changes last year. Can you just help frame the magnitude of hiring plans this year versus maybe what you did last year? Where are those sales resources going? And then any color on kind of timing of the hiring plans this year?"
+    },
+    {
+      "speaker": "John Hall",
+      "text": "Sure. We are focused on growing the enterprise group that we announced at the beginning of 2025, the organization there that's really showing some traction. I talked about our land of one of the bulge-bracket investment banks this quarter, which we were super excited to be able to do as a direct result of that organizational evolution and putting more density of the team against some of these really vast institutions. We are adding some capacity, continuing to do that during fiscal 2025, leading. I'm sorry."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "During fiscal 2026, leading into fiscal 2027. So there's still an opportunity for us to continue to grow that footprint. We think that there is a large enterprise class set of firms. And as I mentioned earlier in the call, they themselves are scaling through M&A or through hiring or in a very leveraged way through growth of revenue or assets under management. And there's a real opportunity for us to be the strategic vertical-specific compliant AI generation technology partner for these growing enterprise-class firms. So you're just going to hear more and more about what we're doing in that direction."
+    },
+    {
+      "speaker": "Alex Sklar",
+      "text": "Okay. Great. Thank you both."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Next question comes from the line of Steve Anderson with Citi. Your line is open."
+    },
+    {
+      "speaker": "Steve Anderson",
+      "text": "Okay. Great. Thanks for taking the questions here. I want to ask on the Microsoft partnership and appreciate the call-out for the large deal contribution. But."
+    },
+    {
+      "speaker": "Steve Anderson",
+      "text": "I guess with Microsoft, maybe how are the deals that are coming through that partnership, how are they different? Are they creating or unearthing newer opportunities that you weren't in before? Are they bigger? Are they coming in faster? Just how do we kind of think about how Microsoft maybe changes some of those dynamics versus maybe what you would have seen historically?"
+    },
+    {
+      "speaker": "John Hall",
+      "text": "Thanks, Steve. The relationship with Microsoft is an exciting one for us because they've got such an incredible relationship already with these firms in our end market. They have a very strong relationship with IT, and a lot of the firms have committed to Azure as, if not the, a core pillar of their cloud strategy. We have a relationship with Microsoft on multiple levels."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "There's a technology relationship, strong in AI and a lot of the collaboration capabilities that we brought to market over the past couple of years. We have a strong marketing relationship where we work with them and co-present and co-market to all of the clients in the marketplace that really helps us. And then we have a co-selling relationship. There's a lot of components to that. One of them is that all of our offerings are available on the Azure Marketplace so the firms can buy all of Intapp's platform through the Azure Marketplace. That has benefits for them under their Microsoft agreement. If they have a minimum Azure contract spend agreement, they can burn that down by buying Intapp's software through their Microsoft agreement."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "That helps us take the budget issue off the table in our sales because they're already committed to spending X amount with the firms every year. We also are working with Microsoft on many accounts where they will provide Azure credit upfront to incentivize the firms to move. That's really helped us in several situations. And just co-selling with Microsoft has helped us with wins competitively because people feel like we're really tied at the hip in a lot of these key technology areas that the firms need to integrate. And so that's helped us. And then the field, the Microsoft field, gets quota relief when Intapp sells its products. So we have a growing person-to-person relationship across the Intapp field and the Microsoft field when calling on these accounts. To your question, sometimes we are getting leads from those sellers at Microsoft. We're very excited about that."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "Sometimes we find the opportunity with our direct sales force, but we can call the Microsoft seller, and they will come in and endorse us and co-sell with us. So it works in both directions. But overall, it's become a very collaborative process, and we're very excited about the influence that that's having on the funnel in terms of size and speed and deal size and win rate. It's great."
+    },
+    {
+      "speaker": "Steve Anderson",
+      "text": "Okay. That's great to hear. And maybe to follow up, just in terms of. I guess, margin, I mean, good to see the operating margin beat this quarter, but I guess it doesn't look like it's or not much is flowing through to the full-year guide. Just can you help us think through factors that are being included in there? Was there some timing dynamics or some investments maybe getting pushed out this year?"
+    },
+    {
+      "speaker": "David Morton",
+      "text": "We're continuing to invest in, respectfully, our product innovation and go-to-market. We had a really good, strong FQ4. We articulated that we were going to be a little bit front-end loaded with some specific marketing events. We've had great success in this first quarter. And so we're going to continue to invest in the motions that we've been demonstrating to the investment community."
+    },
+    {
+      "speaker": "Steve Anderson",
+      "text": "Okay. Great. Thanks for taking the questions."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Next question comes from the line of Saket Kalia with Barclays. Your line is open."
+    },
+    {
+      "speaker": "Saket Kalia",
+      "text": "Okay. Great. Hey, guys. Thanks for taking my questions and fitting me in here. David, maybe for you, great to see the growth in cloud net new ARR. Can you just talk about how much the on-prem conversions are maybe contributing to that? And from the conversions that you have seen, what's the typical uplift that you've been getting on those?"
+    },
+    {
+      "speaker": "David Morton",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "David Morton",
+      "text": "So we're seeing about a 20%-30% uplift just through more seats and/or the opportunities to continue to cross-sell. So once we get that moved over and contract compliance and all of that other dynamics settle in. And obviously, we're delivering true value for that as well because they are getting inherent different code set that offers a lot more product attributes. So that's one. On the respective cloud net new ARR from this past quarter, it wasn't that material. I think we're going to start seeing more as we continue on through this year. John talked about our Intapp Time that we've been narrating here for the last two quarters. So we'll see a little bit of an acceleration there. It is a heavy, well, I should say it's a subcomponent of some of our respective sales teams to continue to move in that direction."
+    },
+    {
+      "speaker": "David Morton",
+      "text": "And so we're really enticing the whole market to move in that direction."
+    },
+    {
+      "speaker": "Saket Kalia",
+      "text": "Got it. Actually, that's a great segue into my follow-up for you, John. I mean, you're clearly adding more value to your cloud products with new AI capabilities. Intapp Time, of course, was one that we've talked about. What else is on the roadmap, or what else can you do to help drive that sort of conversion and that on-prem base?"
+    },
+    {
+      "speaker": "John Hall",
+      "text": "The progress in the time component of our platform has been awesome. There's a lot of enthusiasm. This is one of the areas, as we've mentioned on the previous calls. Most of our on-prem business is in legal because that's where the company started, and that's when we were still doing some on-prem offerings for them. So that's really the focus of this migration program, and time is a key part of that."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "So we're really excited to see the progress in Time. This year, we've also kicked off a parallel project for all of the compliance capabilities that exist still on-prem in some parts of the legal market. So we've learned a lot of great stuff about how to get folks there successfully and really what are the AI capabilities that will get them to make the move and what style of ROI and what style of licensing and how do you get the upsell. All those lessons we've kind of developed now, and we're bringing that to the compliance group as well. It's an exciting time because there's so much opportunity in AI of various capabilities: generative AI, agentic AI."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "There's a lot of opportunity to bring real value to some of these core processes in our traditional compliance business, which is really a stronghold of the company and is so in demand for these firms. They need to make sure that the way that they operate stays compliant with the regulatory obligations and their professional obligations and their client obligations. And it's just something we're really well known for. So we've been deliberate about how we sequence this, but that's what's coming next."
+    },
+    {
+      "speaker": "Saket Kalia",
+      "text": "Very helpful. Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "text": "And our last question comes from the line of Brian Schwartz with Oppenheimer. Your line is open."
+    },
+    {
+      "speaker": "Camden Levy",
+      "text": "Hi. This is Camden Levy sitting in for Brian Schwartz. Thank you for taking our question."
+    },
+    {
+      "speaker": "Camden Levy",
+      "text": "If you think about the cloud NRR of 121% and the customer expansion motion that you guys are seeing, have you seen the mix shift of the growth algorithm that's coming from product versus seat growth versus pricing change over the last couple of quarters? And from your perspective in F1Q, did any one or two products outperform plan, maybe outside of core DealCloud or Intapp Assist that were big drivers of the SaaS beat? Thank you."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "Hi. Yeah. Just circling back, and I think even intimating the first question. We had, if you think about the NRR, probably the biggest change over the last three to four quarters with our enterprise motion has definitely been the cross-sell motion."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "We've always been doing very well on the upsell more seats, but clearly, as we continue to densify our enterprise accounts and provide the full breadth of offerings, we've seen a little bit tick up on the cross-sell there. So I would say that's probably one to note on that."
+    },
+    {
+      "speaker": "Camden Levy",
+      "text": "Thank you. And then maybe just from a product perspective in F1Q, did anything dramatically outperform plan or were larger drivers of the software beat? Thank you for taking our questions."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "We've had good uptake across the board. The GenAI features in the cloud have been pulling the platform. And as we've brought the capabilities out, obviously, it's been a sequence over time. So we have. More out there with DealCloud, which was the first one that we launched, but we are very excited about the uptake around Assist for Terms and this new Intapp Time Horizon release with GenAI."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "So there's a sequence there. So you can see a pattern that's pretty consistent with that. As we get more people up and the references run, we get more and more folks excited about doing it. And you'll continue to see that roll through the platform as we bring out more capabilities."
+    },
+    {
+      "speaker": "Operator",
+      "text": "That concludes the question and answer session. I would like to turn the call back over to John Hall for closing remarks."
+    },
+    {
+      "speaker": "John Hall",
+      "text": "Okay. Thank you. Thanks, everyone, for your questions and for the attention. We're excited about how we've done this quarter, and we're really looking forward to continuing this year. There's a lot of good progress happening, as you can see in the results. So we appreciate your time, and we're looking forward to talking to you again next quarter."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Ladies and gentlemen, that concludes today's call. Thank you all for joining in. You may now disconnect."
+    }
+  ],
+  "totalTurns": 116
+}

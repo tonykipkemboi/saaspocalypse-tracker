@@ -1,0 +1,322 @@
+{
+  "ticker": "TTAN",
+  "period": "Q1 2026",
+  "eventDate": "2025-06-05",
+  "preparedRemarks": [
+    {
+      "speaker": "Operator",
+      "text": "Thank you for standing by, and welcome to ServiceTitan's First Quarter, Fiscal Year 2026 Earnings Conference Call. At this time, all participants are in a listen-only mode. After the speaker presentation, there will be a question-and-answer session. To ask a question during the session, you will need to press Star 11 on your telephone. To remove yourself from the queue, you may press Star 11 again. I would now like to hand the call over to Jason Rec, VP of Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "Jason Reckle",
+      "text": "Thank you, Operator, and welcome everyone to ServiceTitan's Fiscal First Quarter 2026 Earnings Conference Call. With me are ServiceTitan's co-founder and CEO, Ara Mahdessian, co-founder and President, Bahe Kazzolian , and CFO, Dave Sherry. During today's call, we will review our Fiscal First Quarter 2026 results. We will also discuss our guidance for the fiscal quarter and full fiscal year 2026. Before we get started, we want to draw your attention to the Safe Harbor statement included in today's press release and emphasize that information discussed on this call, including our guidance, is based on information as of today and contains forward-looking statements that involve risks, uncertainties, and assumptions. All statements other than statements of historical fact could be deemed to be forward-looking. Forward-looking statements reflect our views as of today only, and except as required by law, we undertake no obligation to update or revise these forward-looking statements."
+    },
+    {
+      "speaker": "Jason Reckle",
+      "text": "Please take a look at our filings with the SEC for a discussion of the factors that could cause our actual results to differ. We also want to point out that we present non-GAAP measures in addition to and not as a substitute for financial measures prepared in accordance with generally accepted accounting principles. Definitions of these non-GAAP financial measures, along with reconciliations to our GAAP financial measures, are included in our earnings release, which we have furnished with the SEC and is available on our website at investors.servicetitan.com. Unless otherwise stated, all references on this call to platform gross margin, total gross margin, operating income, operating margin, free cash flow, and related growth rates are on a non-GAAP basis. Finally, we've posted an updated investor presentation that can be found on our investor relations website at investors.servicetitan.com, along with a replay of this call."
+    },
+    {
+      "speaker": "Jason Reckle",
+      "text": "With that, let me turn the call over to Ara. Ara?"
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "text": "Thank you, Jason, and thank you for joining us as we update you on our progress against our mission. Our growth formula is simple. We deliver real ROI to our customers, helping them further their success and reach even greater financial outcomes. This allows them to grow their businesses, which drives more technicians and GTD on our platform and leads to higher subscription and usage revenue for us. As they realize the value of our software, they buy more pro products, which continues to drive our growth and allows us to reinvest in more high ROI solutions. I am humbled by the way that our team, in partnership with our customers, performed this quarter to get us off to a good start in FY2026. Year over year, we delivered 29% subscription revenue growth, 27% total revenue growth, and record operating margins, which improved 560 basis points."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "text": "Our sales team delivered consistent performance. Our product and engineering teams are executing well on our roadmap, and I am pleased that several of the largest and most strategic accounts, both residential and commercial, went live this quarter. Against the backdrop of economic uncertainty, this quality and breadth of execution underscores our opportunity to transform the lives of every hardworking contractor in the trades. Our focus on delivering ROI and obsession with the financial outcomes of our customers extends from the sales process to implementation and go-live and to ongoing customer success. Our customers are our most important partners, and I'd like to today share two customer stories to demonstrate how our customer success translates into our own success. In 2016, our software had not yet been built for the garage door industry."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "text": "I received a call from Tommy Mello, who was ready to take A1 Garage Door to the next level. We worked together to augment ServiceTitan for the needs of garage door customers, optimizing workflows that are unique to the trade. Tommy took an early risk on ServiceTitan, but the bet paid off. A1 doubled revenue to almost $20 million in its first year on the platform and has not looked back. With the full capabilities of ServiceTitan, A1 Garage has expanded into 22 states with hundreds of technicians and nine-digit revenues. After recently deploying Dispatch Pro to simplify and automate dispatching, A1 took its most recent step forward in efficiency. With Dispatch Pro, A1 told us they added another 150 technicians to the platform without adding a single additional dispatcher."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "text": "This allowed A1 to nearly double its tech-to-dispatcher ratio from around 10-one to 20-1, while also improving lead conversion at the same time. As a result of this most recent success, A1 shared with us in February that they had just surpassed $21 million in monthly revenue for the first time. \"ServiceTitan has been a game-changing partner in our success,\" Tommy shared. \"This is our model as we expand into new trades. We're pulled by customers. We create outsized value as we build trade-specific workflows on our platform, and that attracts a new industry onto ServiceTitan. The current breakout success of Guild Garage demonstrates this maturity.\" Guild Garage is a national residential garage door services platform founded in 2024 by three young entrepreneurs who saw an opportunity to consolidate what they perceived to be a large, fragmented, and recession-resilient market."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "text": "The team shared the quote, \"The decision to use ServiceTitan products across the entire platform was a no-brainer. ServiceTitan has been our secret weapon since day one,\" end quote to inflect faster growth with higher margins. Guild shared that in 2024 alone, the team completed 14 acquisitions and has since grown to over 20 operating companies, 700 employees, 400 managed technicians, and is on track to surpass $250 million of revenue in 2025. ServiceTitan enables Guild to not only fully integrate their partner companies in less than 60 days, but also continue to achieve high teams' organic growth as the platform has scaled. The team shared that they standardized all operations and all workflows on ServiceTitan across all portfolio companies, which allows them to streamline operations to drive growth, improve decision-making, strengthen the technician experience, and enhance the customer experience. Guild has deployed pro products wall-to-wall."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "text": "Capabilities like Ads Optimizer deliver ROI that dynamically optimizes marketing spend across multiple campaigns for all portfolio companies. With a centralized marketing platform and a model that combines the benefits of local autonomy with centralized leadership, it's no surprise that Guild is one of our fastest-growing customers. From zero to $200 million in less than 18 months is truly inspirational, but we know that the team is only just warming up, and we can't wait to watch what they'll do next. These types of business transformations are all that we care about. I receive texts and calls daily from our customers with similar stories. To build on the foundation of this success, we're building a series of stacking S-curves that will put us in a position to continue to deliver transformative customer outcomes."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "text": "Last quarter, we outlined our four primary areas of focus for this fiscal year: to further expand our enterprise capabilities, to further expand pro product adoption, to go deeper in commercial, and to grow in roofing. We are executing well against each priority, which has established a strong foundation for ServiceTitan to begin FY 2026. I'll now pass it to Vahe, who will share more details on our progress."
+    },
+    {
+      "speaker": "Bahe Kazzolian",
+      "text": "Thanks, Ara. Very proud of the way Titans are helping our customers navigate these unpredictable economic times. The ROI we deliver to our customers continues to be our greatest advantage, and the foundation for why each of our four primary areas of focus are off to a strong start this year. Let's dig into how we are progressing against these goals. Beginning with enterprise, which is increasingly the tip of the spear for our growth. As the industry consolidates and further professionalizes, our largest customers continue to be our fastest-growing cohort, as well as leading the way in our top-down strategy for entering into new markets. They also have a huge appetite for standardizing their businesses around the AI and automation we enable. For all these reasons and more, our enterprise customers attract a major portion of our focus from a product roadmap perspective."
+    },
+    {
+      "speaker": "Bahe Kazzolian",
+      "text": "This quarter, one of the largest and most well-respected residential windows and doors players selected ServiceTitan as the best platform to power their future growth. The customer's private equity sponsor pulled them onto ServiceTitan after realizing demonstrable value with ServiceTitan across multiple residential home services portfolio companies. Shifting to pro products, which continue to perform well. Our largest customers continue to ask me and Ara how to fully automate their operations to both drive faster revenue growth and greater efficiency. Marketing, Dispatch, Fleet, and Schedule Pro are each notable examples. Our newest AI-native products are ramping well and round out our ability to automate our customers' processes. Beyond just passively processing recordings, we have successfully deployed conversational agents that interact with technicians and customers and office staff with strong early signals in terms of validating a broader thesis around the readiness of the core technology."
+    },
+    {
+      "speaker": "Bahe Kazzolian",
+      "text": "Our new Field Assist technology, empowering technicians to ask Titan Intelligence questions from the field, went live during Q1. In April, we launched our new Contact Center Pro virtual agents, native to our platform, unlocking opportunities to automate our customers' CS operations. We were excited to see the first jobs booked on our platform using exclusively AI agents, and our broader AI opportunity is increasingly palpable. In commercial, our focus and roadmap investments are paying off. We today leverage the breadth of our enterprise capabilities and success getting customers live on ServiceTitan. Our progress building the key project management capabilities required to unlock construction use cases we believe will position us to unlock a new set of commercial customers. During Q1, we delivered enhancements to invoicing and dispatch crew scheduling."
+    },
+    {
+      "speaker": "Bahe Kazzolian",
+      "text": "As we work towards the larger unlock and construction workflow, our commercial new deals and customer go-lives are trending in the right direction. We successfully took four major strategic commercial accounts live, including a top five mechanical firm. We remain focused on ensuring that specialty trades subcontractors can run all of their work on our platform: commercial maintenance, on-demand service, replacements, and winning and managing construction projects. Our product capabilities are moving quickly, and we expect to have more updates for you as FY 2026 unfolds. In roofing, a combination of our brand leadership and partnership with the largest enterprise players have increasingly made us the first call for customers as roofing undergoes a wave of professionalization."
+    },
+    {
+      "speaker": "Bahe Kazzolian",
+      "text": "We delivered on our key technology roadmap items during Q1, most notably enhanced estimating functionality, and we were selected by one of the nation's largest residential roofing and exteriors businesses to run their more than 80 locations on ServiceTitan. Looking ahead, we're focused on delivering distributor integrations and adding support for insurance that will allow our customers to automate workflow, manage claims, collaborate with insurance providers, and get paid. We are pleased with the early leads from our GAF partnership, and we are excited to announce the availability of our new partnership with EagleView that will deliver faster, more accurate measurements and streamline bid workflow to contractors. Because of our end-to-end platform and large existing footprint, we are able to help customers turn insights into action that deliver growth and efficiency."
+    },
+    {
+      "speaker": "Bahe Kazzolian",
+      "text": "Our success this quarter in winning new customers, getting the most strategic accounts in our industry live on ServiceTitan, and innovating at an accelerating pace helps position us well for the future. With that, I'll turn it over to Dave to run through the financials. Dave?"
+    },
+    {
+      "speaker": "Dave Sherry",
+      "text": "Thanks, Vahe. I'm proud of the way our customers and business are performing to begin FY 2026. Today, I'll run you through Q1 financial results in detail and provide guidance for Q2 and update our full fiscal year 2026 guidance. For more detailed financial results, please refer to our press release issued earlier today. Q1 gross transaction volume, or GTV, was $17.7 billion, up 22% year-over-year, with healthy growth from both residential and commercial customers. Q1 total revenue was $215.7 million, up 27% year-over-year. This healthy growth to begin the year was led by subscription revenue, which was $162.7 million, up 29% year-over-year, as well as consistent usage revenue, which was $45.3 million, up 22% year-over-year."
+    },
+    {
+      "speaker": "Dave Sherry",
+      "text": "When normalizing for the $1.5 million in one-time subscription items, which positively impacted Q4 FY2025 results, our subscription revenue growth and net new subscription dollars added during Q1 each continued to perform well on a year-over-year basis. Total platform revenue for Q1, the sum of subscription and usage revenue, grew 27% year-over-year to $208 million. Q1 professional service revenue was $7.7 million. Net dollar retention was greater than 110% for the quarter. Q1 platform gross margin was 79.7%, an improvement of over 300 basis points year-over-year, of which approximately 200 basis points was due to the allocation of certain customer success expenses to sales and marketing, which we mentioned last quarter. Total gross margin for Q1 was 73.6%, up 390 basis points year-over-year. Q1 operating income was $16.2 million, leading to a record operating margin of 7.5%, an improvement of 560 basis points year-over-year."
+    },
+    {
+      "speaker": "Dave Sherry",
+      "text": "We're pleased with how we are pacing against our incremental margin goals, especially as we layer in the expected headwind of public company costs. However, we measure incrementals on a full-year basis, and we encourage you not to look at each quarter as the timing of spend may vary from year to year. In fact, the timing of expenses in Q1 this year was more favorable than in prior years. Q1 free cash flow was negative $22.3 million, better than negative $24.6 million for the prior year first quarter in spite of greater cash bonus attainment this year compared to the prior year. As mentioned previously, our annual bonuses are paid in Q1 of each fiscal year. Shifting to guidance. For the second quarter, we expect total revenue in the range of $228-$230 million."
+    },
+    {
+      "speaker": "Dave Sherry",
+      "text": "We expect to generate operating income in the range of $17-$18 million. For the full year fiscal 2026, we expect total revenue in the range of $910-$920 million. We expect to generate operating income in the range of $54-$59 million. As we highlighted to many of you in the past, our business is not a cyclical business, but it is a seasonal business. This has historically been most positively pronounced during Q2 due to weather-driven seasonality in many trades. This leads to typically stronger usage revenue mix in Q2, which carries more variability than subscription. We are cognizant that weather patterns vary from year to year and the fact that last year was quite hot. We have prudently incorporated each of these factors into our Q2 revenue and margin guidance. We're managing the business for a marathon, not a sprint."
+    },
+    {
+      "speaker": "Dave Sherry",
+      "text": "Our goal remains to durably compound growth over many years and expand margins at the same time. Our continued focus on incremental operating margins is the path to delivering on our long-term non-GAAP operating margin target of 25%. We see healthy performance this quarter as evidence that our strategy to become the operating system for the trades is working. With that, I'll turn the call back to the operator for Q&A. Operator?"
+    }
+  ],
+  "qAndA": [
+    {
+      "speaker": "Operator",
+      "text": "Thank you. As a reminder, to ask a question, you will need to press star 1 1 on your telephone. To remove yourself from the queue, you may press star 1 1 again. You will be limited to one question to allow everyone the opportunity to participate. Please stand by while we compile the Q&A roster. Our first question comes from the line of Kash Rangan of Goldman Sachs. Please go ahead, Kash."
+    },
+    {
+      "speaker": "Kash Rangan",
+      "text": "Hi, thank you very much. Congratulations on a fantastic start to the fiscal year. More of a longer term, maybe in the context of tariffs, whatnot. If the tariffs do go through, I'm curious to see how that would perhaps positively and also negatively affect the business. I wonder if you could make a case for extended lifetimes of the equipment that we've all installed that cannot be procured and replaced as cheaply if tariffs do go into effect. That means the servicing opportunity for this equipment and therefore the opportunity for ServiceTitan could be a more longer durable path. Also, at the same time, the transaction volumes also."
+    },
+    {
+      "speaker": "Kash Rangan",
+      "text": "Maybe I'm overanalyzing the effect of tariffs if they do go into effect, but strategically, since you guys have built a business from ground zero, how do you think about this potential structural change as a positive or not so positive? Thank you so much."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "text": "Kash, it's always a pleasure to hear from you. Thank you all for all your continued coverage and support. I think most importantly, our customers have proven the ability to execute through various business environments. This resilience is further enabled by ServiceTitan. There are compound factors from tariffs, which could affect our customers' growth. It's possible that we see a return of supply chain inflation, although I would say in the past, our customers have proven their ability to pass through rising costs. I think because the macro is outside of our control, we elect to forecast pretty prudently, especially on GTV."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Our next question comes from the line of Josh Baer of Morgan Stanley. Please go ahead, Josh."
+    },
+    {
+      "speaker": "Josh Baer",
+      "text": "Great. Congrats on a strong quarter. Thanks for the question. I was hoping you could shed some light on the stacking S-curve strategy. Should we be thinking about entering new trades, new market segments, rolling out new pro products on a planned or consistent basis to drive durable growth? What would you change from that line of thinking? Anything else that you'd add there?"
+    },
+    {
+      "speaker": "Bahe Kazzolian",
+      "text": "Yeah. For us, we're big proponents of focus, and we live in a very target-rich environment. We try our best to stay on the ball on what the priorities are. Today, we're focused on enterprise, commercial, pro, and roofing. Those are the S-curves that are attracting kind of the primary source of attention for us. As we mature in these focus areas, there's a pretty long tail of S-curves that are beyond that. Right now, we should be focused on those priorities."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Our next question comes from the line of Michael Turrin of Wells Fargo Securities. Your question, please, Michael."
+    },
+    {
+      "speaker": "Michael Turrin",
+      "text": "Hey, great. Thanks so much. Appreciate you taking the question. Dave, you touched on it a bit, but maybe just remind us in more detail what you typically see from a seasonal perspective in the first half and the visibility you have into various scenarios that could play out. Maybe as a second part, just touch on, from the broader team, what you're seeing in terms of pro product attach, if there are certain product areas you'd point us towards and how we should think about the contribution from those products over time. Thank you."
+    },
+    {
+      "speaker": "Dave Sherry",
+      "text": "Yes, I'll hit the first one pretty quickly here. GTV is a bigger factor in Q2 than any other quarter of the year. It's a seasonally strong period for our customers, especially in trades like landscape, pest, HVAC, and others. This makes Q2 particularly sensitive to weather, both in terms of absolute temperature, but also the degree of temperature change. Because usage is a larger portion of our mix in Q2, there's a slightly wider range of possible outcomes. This year-ago period I talked about in the prepared remarks was pretty hot. Consistent with our approach to be prudent forecasting GTV internally, this is already captured in the guidance. I think that's the answer on GTV and the seasonality. The only other part I'd say in the first half is bonuses are paid in Q1."
+    },
+    {
+      "speaker": "Dave Sherry",
+      "text": "As you saw in the free cash flow change in Q1, that's mostly driven by bonus payment. Michael, could you repeat the pro product part of the question?"
+    },
+    {
+      "speaker": "Operator",
+      "text": "Actually, Michael's no longer in queue."
+    },
+    {
+      "speaker": "Dave Sherry",
+      "text": "Okay. I think the core question was on how pro products are driving the growth. The pro products are the fastest-growing portion of our business, which is what you're seeing in the subscription growth performance versus prior year. I think what we talked about is some new pro products at Pantheon that did have some, there continue to be strong performers for us in new sales, but there are still not huge drivers to revenue. I think that the pro product contribution continues to be a significant part of our subscription revenue."
+    },
+    {
+      "speaker": "David Hynes",
+      "text": "Thank you. Our next question comes from the line of David Hymes of Canaccord Genuity. Please go ahead, David."
+    },
+    {
+      "speaker": "David Hynes",
+      "text": "Hey, thank you, guys. All right. I'd love to get an update on commercial from you. Just what you talked about for Go Lives in the quarter, that's great to see. I'm curious what you're seeing from a bookings perspective with pure commercial customers, the pipeline on that front. Maybe you could talk a little bit about where you think you are from a product perspective as you look to kind of build out a full complement of capabilities for those buyers."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "text": "Great question. Commercial bookings and customer Go Lives are performing well. Even, as you mentioned about product roadmap, while we continue to build out that dedicated commercial CRM, as well as the key project management capabilities we've discussed before that are required to fully unlock construction use cases that our customers have. Those four major commercial Go Lives in April was a very important moment for us. We activated more ARR in 28 hours than our enterprise commercial team typically does in a month. Successfully standing up all those highly strategic accounts is really a testament to how far we've come on commercial. We remain very much focused on ensuring that these specialty trade subcontractors can run all of their work on our platform. That includes commercial maintenance. It includes on-demand service. It includes replacements. It also includes winning and managing construction projects."
+    },
+    {
+      "speaker": "Bahe Kazzolian",
+      "text": "Yeah. While we're continuing to evolve the full footprint of our commercial offering, the thrust of development right now is focused on construction, specifically around crews, daily logs, RFIs, submittals, change orders, financials, document management, and a better mobile experience. We're pacing well and expect big advancements later this year. Up-leveling commercial service with enhanced service agreements, equipment pull-through agreements, mobile app improvements, and a new customer portal. We need to be in every deal, and we need to nail every customer implementation and onboarding. We're making great progress here. Finally, we need to fully evolve our brand from residential to commercial as the operating system for the trades."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Our next question comes from the line of Scott Berg of Needham & Company. Your question, please, Scott."
+    },
+    {
+      "speaker": "Scott Berg",
+      "text": "Hi everyone. Thanks for taking my questions. A nice quarter here. I guess my question involves moving into new trades. We hosted a customer call with someone from the glass industry, which is not a stated trade that you all are in, but this customer is going to roll your platform out to, I believe, 800 different locations over a period of time, which is kind of fascinating because it is not a stated trade that you are in, but they are able to leverage the platform as is. How do you think about other opportunities or other trades that you do not have this stated kind of target set of use cases for? Are there more that you can move into there or apply to, maybe that you are today, or just trying to understand if there are more opportunities like that? Thank you."
+    },
+    {
+      "speaker": "Bahe Kazzolian",
+      "text": "Sure, absolutely. My assumption is that there's a broader set of verticals that could be using ServiceTitan than there is today. The challenge is, because of the end-to-end scope, it's not always obvious who's going to be a fantastic fit and who's going to find certain gaps in their workflow where it's a problem. Our current approach is to spend most of our energy proactively on areas that we're focusing on along the lines that I mentioned earlier. That's where most of our energy goes into. Now, when we have an existing relationship and there's a new trade or there's something that comes up that's opportunistic and we have a high degree of conviction that we can make those successful, then we may take those on."
+    },
+    {
+      "speaker": "Bahe Kazzolian",
+      "text": "Generally, we try to stay kind of focused on where we're prioritizing dev resources on and making a concentrated effort versus chasing opportunistic deals in kind of areas that may not be in the focus area."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Our next question comes from the line of Tyler Radke of Citi. Please go ahead, Tyler."
+    },
+    {
+      "speaker": "Tyler Radke",
+      "text": "Yes. Hi. Thanks for taking the question. Can you talk a little bit more? I know you're getting a lot of questions on the macro, but I believe in the past you've just talked about average ticket sizes being impacted by macro cycles. Did you see any impact on average ticket sizes across your trades? And then just to clarify on Q2 guidance, I know there's a lot of seasonal impacts in there, be it weather and a lot of sensitivity to GTV. Did you include a wider range because of macro or weather factors than you normally would? Just a quick clarification on those two would be helpful. Thanks so much."
+    },
+    {
+      "speaker": "Dave Sherry",
+      "text": "Hey, Tyler, I'll take this one. You nailed it. The two largest inputs of GTV are the number of jobs that are completed and the average ticket per job. Both these factors were pretty stable in terms of their growth rates through Q1. Though some of the large OEMs have talked about price increases, we're not embedding any change or acceleration in average ticket at this point. Q2 is dependent on macro, like you talked about, I guess, a bit, but it's heavily dependent on the weather. There were a bunch of very hot days last year. That's factored into the guide. I think that there is a bit more variance in the guide, excuse me, in Q2, which we have factored prudently in our GTV forecast. Yes."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Our next question comes from the line of Brent Bracelin at Piper Sandler. Please go ahead, Brent."
+    },
+    {
+      "speaker": "Brent Bracelin",
+      "text": "Good afternoon. Thank you. Great to see another quarter of strong execution here. I wanted to go back to the commercial discussion. It sounds like there is some momentum there. I think you referenced maybe a top five win at a mechanical firm. Could we just step back and maybe frame how much of the commercial market is penetrated today? It sounds like you are investing in the construction part of that market. It sounds like there is some momentum in the mechanical part of it. Walk us through what is your penetration rate today? As you make these investments, how much more of that opportunity does it unlock? Thanks."
+    },
+    {
+      "speaker": "Bahe Kazzolian",
+      "text": "Thanks. I'll let Dave speak to any specific figures. When we take a step back and we look at the overall opportunity, we still believe that we're very early in the commercial story. That is what's driving so much investment and focus, because we see that this is a deep well that we're just getting started in. In terms of what we're disclosing, Dave, do you want to jump in and share on that front? You're on mute. You're still on mute."
+    },
+    {
+      "speaker": "Dave Sherry",
+      "text": "I think you nailed it right. We're still very early days here in terms of our penetration in commercial. We have a lot of success so far, but we're still quite early in the penetration. I think we're making a lot of progress so far."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Our next question comes from the line of Dylan Becker of William Blair. Your question, please, Dylan."
+    },
+    {
+      "speaker": "Dylan Becker",
+      "text": "Hey, gentlemen. Maybe Ara or Bahe for you. I wonder if you could kind of dive into a lot of the conversation around the commercial segment, but maybe in particular, the partnership angle and what we've seen kind of come out with Cobalt and others, maybe how you think about the opportunity for the roll-up opportunity within the commercial side of the equation, which has been so successful and transformative for you as we think about the residential opportunity."
+    },
+    {
+      "speaker": "Bahe Kazzolian",
+      "text": "Sure. Cobalt is a new customer and a very fast-growing commercial consolidator that is backed by Alpine. We have a great relationship with Alpine as a well-known thought leader in the commercial space. Cobalt validating our technology and approach in commercial is a key point of validation for us. They will leverage the full power of ServiceTitan. As a consolidated operating system across 12 brands, we are the software best suited to make them successful over time. Our ecosystem playbook in commercial continues to mature. Private equity awareness and validation is growing, and Alpine Cobalt being a great example. This is where we've seen, as we mentioned before, this customer cohort is the one that's growing the fastest and is the tip of the spear as we enter basically all new markets. A similar play is happening on the roofing side as well."
+    },
+    {
+      "speaker": "Bahe Kazzolian",
+      "text": "We're fully banking on the consolidation trend continuing, particularly in commercial. That's why we have both enterprise and commercial as such big focus areas for us from a dev perspective overall."
+    },
+    {
+      "speaker": "David Hynes",
+      "text": "Thank you. Our next question comes from the line of Jason Celino of KeyBanc Capital Markets. Please go ahead, Jason."
+    },
+    {
+      "speaker": "Jason Celino",
+      "text": "Great. Thanks for taking my question. Maybe just one clarification for Dave. I think last quarter, you talked about seeing earlier than normal linearity. Just wanted to ask if linearity was more normal this quarter. If we think about your subscription sales cycles or pipeline generation, if you've seen any changes to those, either positive or negative. Thank you."
+    },
+    {
+      "speaker": "Dave Sherry",
+      "text": "Hey, Jason. Yeah, linearity was much more normal this quarter. I think last quarter was sort of a one-time exception. In terms of pipeline and new deal volume, it was a strong quarter. Nothing out of the ordinary there to note."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Our next question comes from the line of Parker Lane of Stifel. Please go ahead, Parker."
+    },
+    {
+      "speaker": "Parker Lane",
+      "text": "Yeah, guys. Thanks for taking the question. Vahe, when you look at the opportunity to drive efficiencies for your customers through agentic AI and digital agents, is the contact center the primary area that you would see that benefit first, or do you think there's a broad-based appeal across areas like dispatch, marketing, etc.?"
+    },
+    {
+      "speaker": "Bahe Kazzolian",
+      "text": "Great question. No, this is actually part of the core aspect of our approach to AI that we think is a durable, sustainable competitive advantage. We have a product that operates our customers' businesses end-to-end, from the clicks on the website all the way to when the cash hits the bank. Everything within that range is within striking distance of creating some either AI or specifically agentic experience that adds value, either by replacing work that is being done by humans today, by machines, or by just doing things that are not even possible. Specifically within commercial and construction, we believe that there is a lot of work that is being done today in the back office that can be automated and enhanced. We expect that a big driver of the value that we bring to our customers will be in increasing the productivity in the back office."
+    },
+    {
+      "speaker": "Bahe Kazzolian",
+      "text": "There's also opportunities in the field as well. For us, we look at the entire range that our product touches as being the surface area on which we can innovate from a specifically AI and agentic AI perspective."
+    },
+    {
+      "speaker": "David Hynes",
+      "text": "Thank you. Our next question comes from the line of Terry Tillman of Truist. Please go ahead, Terry."
+    },
+    {
+      "speaker": "Terry Tillman",
+      "text": "Yeah. Hey, guys. Congrats on the quarter. Hey, Ara, Vahe, Dave, and Jason. A lot of my questions have been answered, but I just wanted to go back to I like hearing about customers going live. I think you all talked about a couple of residential key customers or large ones, and then four signature commercial customers going live. I'm curious, though, what kind of visibility does that create going forward on? When they go live, I'm assuming they're not live across the board in all the businesses. What kind of visibility that creates on your subscription revenue and then usage? And then what's their propensity or how quickly they move to pro products? I know there was a lot in there, but just would love to know what that means when they go live and how that affects the model over the next 12 to 18 months. Thanks."
+    },
+    {
+      "speaker": "Dave Sherry",
+      "text": "Hey, Terry. Thanks for the question. I think on the visibility and subscription revenue, it's pretty clear given the ramp and ASU 606 nature of the contracts. That's pretty high visibility when a customer goes live. GTV, we have a view of it, but of course, it will depend on how we use that, as at least we said, as locations go live and how much they actually ramp, which directly flows into usage revenue. Pro product propensity, we focus principally on delivering the ROI of our core product. And as they start to deliver that ROI, we then go and upsell them the pro products. That's generally the model. I think we have a view of when and where we should be pushing for certain pro products."
+    },
+    {
+      "speaker": "Dave Sherry",
+      "text": "I would say at initial go live, our core focus is on making sure that the customer realizes the ROI. That's true for any product. It's when they go live on a new pro product, we're hyper-focused on delivering ROI to them. By delivering ROI, we earn the right to sell them more products. It's the core of our formula."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Our next question comes from the line of Andrew Sherman of TD Cowen. Please go ahead, Andrew."
+    },
+    {
+      "speaker": "Andrew Sherman",
+      "text": "Oh, great. Thanks. Maybe one for Ara or Vahe. Home equity loan applications, HELOC hit a 17-year high this week. Wondering if you think that can drive bigger projects this year. Any sign or indication of that when you talk to customers yet?"
+    },
+    {
+      "speaker": "Bahe Kazzolian",
+      "text": "We do hear from customers that turnover in the housing market is a driver of doing work in the home. I would anticipate that any meaningful change in that direction is going to be positive. It is hard to say the magnitude or the severity at this point."
+    },
+    {
+      "speaker": "Andrew Sherman",
+      "text": "Great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Our next question comes from the line of Igor Tomachev of Freedom Broker. Please go ahead, Igor."
+    },
+    {
+      "speaker": "Igor Tolmachev",
+      "text": "Hi. Thank you for taking my questions. Short question about gross margins. Gross margin performance was quite impressive this quarter, even if we take into account the transition of customer success teams. What was really driving this performance? Was it just a matter of scale or some efficiencies?"
+    },
+    {
+      "speaker": "Dave Sherry",
+      "text": "Hey, Igor. Thanks for the question. As you said, we had a pretty strong gross margin quarter. Total platform gross margins expanded over roughly 300 basis points in the quarter. Of that, about 200 came from the CSM reclassification. And just under 100 basis points came from the organic platform margin expansion. That has to do with scale, product selection, and we look a lot at the incremental gross margins, and those continue to be strong and similar as what they were last year. From here, looking forward, you should probably expect platform gross margin to remain relatively comparable to Q1 through the balance of this year."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Our next question comes from the line of Yun Kim of Loop Capital. Please go ahead, Yun."
+    },
+    {
+      "speaker": "Yun Kim",
+      "text": "Hi. Thank you. I have really a product question. Vahe, agentic AI obviously has been the buzzword for a while. Recently, what's interesting is that that technology is introducing new products for the software vendors, but also gives the software vendors an opportunity to introduce a new type of pricing model, whether that's usage or consumption-based. Obviously, you guys have payment and fintech products. Is there maybe you can give us a quick thought around all these around the potentially introducing a new pricing model based on consumption or usage beyond fintech. When you're thinking about that, if you are, when you're designing a new product, do you have to have a particular, I mean, do you have a particular pricing model in mind? Thanks."
+    },
+    {
+      "speaker": "Bahe Kazzolian",
+      "text": "Yeah. Great question. If you look at our current suite of pro products, we have some that are by seats in the field, seats in the office. Some of them are based on consumption, for example, direct mail. We have a pretty broad range of how we price and package the pro products. We believe that that mechanism allows us to kind of have a monetization path that is familiar with our customers and that kind of fits into how we do business with them. That is the structure that we are going to be using to then capture all the opportunities within the agentic AI space."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. I would now like to turn the conference back to Ara Mahdessian for closing remarks. Sir?"
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "text": "Just want to thank everyone for joining us today. Vahe and I are actually signing off from our office in Armenia. We've been spending time with our teams. We're doing great work to transform the lives of our customers. We are inspired by the quality of our collective execution during Q1. As always, we know we're just getting started. We hope to see many of you soon. We just want to thank you for your continued support for our mission and our journey. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "This concludes today's conference call. Thank you for participating. You may now disconnect."
+    }
+  ],
+  "totalTurns": 78
+}

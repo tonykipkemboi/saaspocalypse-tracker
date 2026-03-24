@@ -1,0 +1,454 @@
+{
+  "ticker": "VERX",
+  "period": "Q3 2025",
+  "eventDate": "2025-11-03",
+  "preparedRemarks": [
+    {
+      "speaker": "Operator",
+      "text": "Good day and welcome to the Vertex third quarter 2025 earnings conference call. All participants will be in the listen-only mode. Should you need assistance during the conference call, please signal the conference specialist by pressing the star key followed by zero. After today's presentation, there will be an opportunity for you to ask questions. To ask a question, you press star and then one on your touchtone phone. To withdraw your question, please press star and then two. Please note that this conference is being recorded. I would now like to turn the conference over to Joe Crivelli, Vice President, Investor Relations. Thank you and over to you."
+    },
+    {
+      "speaker": "Joe Crivelli",
+      "text": "Hello and thanks for joining us to discuss Vertex's third quarter results. David DeStefano, our President and CEO, and John Schwab, our CFO, are also with us today. During this call, we may make forward-looking statements about expected future results. Actual results may differ due to risks and uncertainties. These risks and uncertainties are described in our filings with the Securities and Exchange Commission. Our remarks today will also include references to non-GAAP metrics. A reconciliation of these metrics to GAAP is also provided in today's press release. This call is being recorded and will be available for replay on our Investor Relations website. I'll now turn the call over to David."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "Welcome, everyone, and thank you for joining us. Our third quarter performance demonstrated continued momentum in core strategic areas while managing specific market and customer headwinds. The strength of our strategy was evident in our strong cloud revenue growth, the increased margin leverage driven by automation initiatives, and strong cash flow performance. We also saw accelerating traction in e-invoicing and improved SAP activity. However, offsetting this was the persistence of lower-than-typical growth from existing customer entitlements, as previously discussed in our second quarter earnings call. In addition, the bankruptcy of three large enterprise customers, as well as several accelerated migrations to our new cloud platform, impacted customer retention metrics. I will highlight the specifics of all of this and their impact on certain metrics in a moment. Our revenue results for the third quarter were in line with our guidance, while adjusted EBITDA exceeded expectations."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "Revenue was $192.1 million, up 12.7% year-over-year. Subscription revenue grew 12.7%, and cloud revenue growth was 29.6%. Adjusted EBITDA was a record $43.5 million, exceeding the high end of our guidance by $2.5 million. This represented an EBITDA margin of 22.6%. Free cash flow was very strong at $30.2 million in the third quarter. In addition, annual recurring revenue, or ARR, grew 12.4% to $648.2 million. Average annual revenue per customer increased 12.4% year-over-year to $133,000. Scaled customer count grew 14%. Gross revenue retention, or GRR, remained at 95% in the third quarter, within our targeted best-in-class range of 94-96%. Net revenue retention, or NRR, decreased to 107%, down one point from the second quarter. First and foremost, I want to provide more specific details into the items that impacted customer retention metrics."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "As we have discussed each quarter, we experienced moderate customer turnover at the very low end of our customer base and discontinuation of legacy product usage by customers who have migrated to our new cloud solutions. In Q3, we experienced an unusual impact in these areas. Certain enterprise customers, including Big Lots, Party City, and JOANN Fabrics, canceled licenses due to bankruptcy. This impacted retention metrics by approximately $2 million. Additionally, we had three large customers who had previously migrated to our new cloud platform complete their own internal legacy ERP migrations faster than previously anticipated, which enabled them to downsize that portion of their subscription fees with us. This impacted NRR by another $2 million plus. Beyond these anomalies, management was encouraged by the progress achieved across several of our ongoing growth initiatives. On e-invoicing, ACOSIO had a strong quarter and contributed revenue of $4.1 million."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "This is an increase of approximately 30% from their run rate in last year's third quarter when we acquired the company. We have landed over 100 customers since declaring general availability in late March. All fit nicely into our expected land and expand experience. Additionally, we are seeing success with our integrated product strategy, which includes both e-invoicing and value-added tax compliance in one platform with full end-to-end documentation and audit support. In the third quarter, we continue to see an influx of new customers driven by upcoming e-invoicing mandates, including Belgium, France, and Germany, which we expect to accelerate as those actual deadlines approach. Ongoing cloud migrations with ERP vendors, including our partners SAP and Oracle, remain solid with pipeline build improvements appearing."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "The expense control initiatives we discussed last quarter are driving improving earnings leverage, as demonstrated by our strong adjusted EBITDA and free cash flow results this quarter. This quarter's progress on our long-term growth initiatives validates we still have significant greenfield opportunity with enterprise customers that are currently using legacy homegrown or manual solutions for indirect tax compliance and are migrating to the cloud. We continue to believe we have approximately 3X opportunity with our existing install base, which we will penetrate by expanding usage throughout their organizations or by cross-selling additional products. We have major tailwinds in front of us from the upcoming e-invoicing mandates in major countries like Belgium, France, and Germany. Demonstrating our confidence in Vertex's long-term growth opportunity today, we announced that the board of directors has authorized the repurchase of up to $150 million of Vertex shares in the open market."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "Coupled with our progress on several growth areas, I'm excited with the number of AI initiatives the team advanced in the quarter. We are executing on three fronts to commercialize AI, which are focused on enabling new logo wins and wallet expansion with existing customers, driving enhanced customer retention through targeted ecosystem interoperability, and participating in new segments ripe for disruption. We are seeing ongoing traction with our Smart Categorization offering, and last week at our annual customer conference, we highlighted several new agentic capabilities on our cloud platform. These are focused on workflow capabilities and data management. The customer conference was our largest yet, with strong attendance from alliance and tech partners highlighting the energy around our customer segment and market opportunity. The AI sessions were clearly the most oversubscribed sessions by attendees."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "Additionally, at Exchange, we shared some of the transformational work we are doing, including our pioneering of the first-ever agent-to-agent tax configuration capability for Microsoft Dynamics 365 Finance and Supply Chain. This is another step forward in creating a differentiated experience for Microsoft customers, bringing enterprise innovation to the mid-market. In October, we also launched Kintsugi powered by Vertex, which enables SMBs to automate key compliance functions while providing real-time dashboards for jurisdictional liability and exposure tracking. Powered by the Vertex tax engine, it delivers the same trusted accuracy and global content that enterprises rely on in an AI-native experience built for agility and scale. This is just the first of many such new products and new initiatives that we expect to launch in partnership with Kintsugi."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "Exchange was also a clear reminder of the stark difference in tax compliance precision requirements between the enterprise customer and the SMB segment where good enough is sufficient. These complex global multinational enterprises remain very cautious about how AI is being considered in their departments due to inherent limitations. Several points were clear from our discussions there. Enterprise customers know that our solutions operate in speed and on a scale they must have to support their business embedded in the workflow of the critical order-to-cash process. Our implementations are complex. It's not uncommon for Vertex to be connected to multiple instances of SAP, an instance of Oracle in another division, a legacy ERP solution in still another, as well as multiple billing and CRM solutions. We are providing tax answers across that architecture with no latency and enterprise-level accuracy."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "These enterprise customers cannot afford for a single customer to experience transaction delays as an AI engine spins through scenarios to deliver a tax answer. They rely on the accuracy Vertex provides in every transaction. Enterprise customers are audited constantly by taxing authorities and cannot afford any risk that a probabilistic AI-driven outcome subject to hallucinations delivers an inaccurate tax answer. They need accountable traceability for tax decisions they take in their compliance. In addition, we estimate that as many as 70% of the tax rules in our content database are not easily mined by AI-driven web scraping. In the U.S., below the level of state and county, tax rules for municipalities and tax overlay districts are hard to curate, sometimes embedded in meeting minutes that are not easily sourced on the internet. In some districts, finding the latest tax rules requires a person-to-person phone call."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "All of this requires human judgment and professional curation to codify into the tax content database. In addition, these tax rules are constantly changing at a historic pace, and this is likely to get worse with reduction in federal funding to states as a result of the recently approved tax legislation. I'll now highlight a few business wins. We saw improved momentum in the SAP ecosystem this quarter, driven by ECC to S/4HANA conversions. These transitions created meaningful opportunities for Vertex to expand our footprint with existing customers and win new logos. In the third quarter, we partnered with an existing specialty retail customer on a major ECC to S/4HANA transformation. As part of this initiative, the customer advanced their plan to standardize on Vertex, transitioning additional tax functions from a competitor to our cloud platform."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "This expansion resulted in a mid-six-figure of new revenue and reinforces our role as a strategic partner in their modernization journey. Another long-standing customer in the manufacturing industry launched a company-wide transformation project this year, including a migration from ECC to S/4HANA. As part of their transformation, the customer added VAT calculation across its operating regions and added several SAP tools, resulting in mid-six figures of new revenue for Vertex. This is an example of how our business grows during migration. In addition to receiving a significant like-for-like increase, many customers use this as an opportunity to license additional capabilities. An existing customer that is a leading North American energy services company expanded with Vertex to cover two companies it recently acquired."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "This customer, which is currently operating on a legacy Oracle ERP solution, selected our private cloud solution and will eventually migrate its entire infrastructure to the cloud as part of an Oracle cloud transformation. This customer expansion drove low six figures of new revenue. While our AI-based Smart Categorization product is still in limited availability, we added a major grocery store chain to our customer base for this new product. The customer staff was struggling with the labor-intensive nature of tax categorization in its delivery business and is excited about the ability to automate this process. This cross-sell resulted in six figures of new revenue for Vertex. This gives you an idea of the magnitude of sales opportunities with this AI-driven application. At present, we are focusing on the retail industry, hence the new business win. Over time, we will expand our capabilities to cover other industries."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "A leading aerospace and defense contractor recently selected Vertex as its preferred indirect tax solution for one of its consumer-facing subsidiaries, fully displacing a competitor across its global operations, including Brazil and India. This competitive win underscores the strength of Vertex's tax content coverage in complex jurisdictions and is expected to generate mid-six-figure annual revenue. In addition, a global pharmaceutical company selected Vertex as its first external indirect tax provider to support its S/4HANA transformation. This new logo win was driven by Vertex's proven global tax coverage, deep expertise in the pharmaceutical industry, and ability to manage complex requirements. This new business win, which was brought to us by our partner EY, will also drive mid-six figures of new revenue for Vertex. During the cloud transformation initiative, a global marketing services company replaced an incumbent competitor with Vertex, citing concerns about scalability and infrastructure flexibility."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "The customer valued Vertex's agnostic deployment model, which aligned with the CIO's preference for private cloud and option the competitor did not support. This strategic win, sourced through our partner Grant Thornton, represents a six-figure new business opportunity. During the quarter, we won an e-invoicing opportunity with a global real estate investment trust, which is preparing for upcoming mandates in Belgium, France, and Germany. We will also cover Italy and Spain for this customer. Of note, this customer was driving mid-six figures of revenue for Vertex prior to this new business win. E-invoicing will drive high five figures of new revenue. Before I turn the call to John, let me address my succession that we announced in October. I approached the board of directors in early 2025 and told them of my plan to retire after 26 years at Vertex."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "However, I did not set a specific timeline as we wanted to make sure we had the right candidate in place. We launched a comprehensive search process led by renowned management recruiting firm Spencer Stuart and considered both internal and external candidates. Ultimately, we found an exceptional new CEO in Chris Young, who will officially join the company next week. Our search surfaced outstanding candidates from top companies around the world, but Chris stood out as the clear choice. His strategic vision, experience in our ecosystem through his prior role as executive vice president of business development at Microsoft, and deep familiarity with global enterprises all point to his ability to drive growth and value creation. What truly sets Chris apart, however, is his commitment to fostering a positive, performance-driven culture grounded in respect for people, a quality that aligns closely with our values and leadership philosophy."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "In addition, Chris was at the vanguard of Microsoft's push into AI and helped shape Microsoft's investment agenda in artificial intelligence and other frontier technologies. His forward-thinking perspective in that regard will be extremely valuable to Vertex and our shareholders. As for me, I'm not going anywhere. I'm merely transitioning. I will stay on as non-executive chairperson of the board, where I will bring all my energy in the months ahead to support Chris and his transition. John will now take you through the financials."
+    },
+    {
+      "speaker": "John Schwab",
+      "text": "Thanks, David, and good morning, everyone. I'll now review our third-quarter financial results and provide guidance for the fourth quarter and full year of 2025. In the third quarter, revenue was $192.1 million, up 12.7% year-over-year. Our subscription revenue increased 12.7% to $164.8 million. Services revenue grew at 12.8% to $27.3 million. Our cloud revenue was $92 million in the third quarter, up 29.6%. Annual recurring revenue, or ARR, was $648.2 million at quarter end, up 12.4% year-over-year. Our net revenue retention, or NRR, was 107% compared to 108% in the second quarter."
+    },
+    {
+      "speaker": "John Schwab",
+      "text": "This was impacted in the third quarter by factors David noted in his prepared remarks. Gross revenue retention, or GRR, remained at 95% at quarter end, within our targeted range of 94%-96%. Our average annual revenue per customer, or ARPC, was $133,484, up 12.4%. For the remainder of the income statement discussion, I will be referring to non-GAAP metrics. These non-GAAP metrics are reconciled to GAAP in this morning's earnings press release. Gross profit for the third quarter was $142 million, and gross margin was 73.9%. This compares with a gross profit of $126.2 million and a 74% gross margin in the same period last year."
+    },
+    {
+      "speaker": "John Schwab",
+      "text": "Gross margin on subscription software revenue was 81.4% compared to 80.5% in last year's third quarter and 83.2% in the second quarter of 2025. Gross margin on services revenue was 28.8% compared to 35% in last year's third quarter and 33.1% in the second quarter of 2025. The lower margin was due to investments in automation that are expected to drive higher margins into the future. Turning to operating expenses, in the third quarter, research and development expense was $16.8 million compared to $12.9 million last year. With capitalized software spend included, R&D spend was $40.8 million for the quarter, which represents 21.2% of revenue. Selling and marketing expense was $43.4 million, or 22.6% of total revenues, an increase of $5 million and approximately 12.9% from the prior year period. General and administrative expense was $38.4 million, up $2.6 million from last year."
+    },
+    {
+      "speaker": "John Schwab",
+      "text": "Adjusted EBITDA was $43.5 million, up 12.7% compared to $38.6 million for the same period last year, and exceeding our quarterly guidance. This represents an adjusted EBITDA margin of 22.6%. As a reminder, adjusted EBITDA margins are being impacted in 2025 by accelerated investments to support the two acquisitions we made in 2024 related to e-invoicing and artificial intelligence. On the former, we are investing in ACOSIO, which we acquired in August 2024 to accelerate country coverage and broaden our go-to-market infrastructure. This represents an investment of approximately $16 million-$20 million in 2025. On the latter, we're investing $10 million-$12 million this year to productize our Smart Categorization product and adopt AI technologies in other areas of the business. In the third quarter, operating cash flow was $62.5 million, and free cash flow was $30.2 million."
+    },
+    {
+      "speaker": "John Schwab",
+      "text": "We ended the third quarter with over $313.5 million in unrestricted cash and equivalents, and $300 million of unused availability under our line of credit. As David mentioned, the board has authorized the share repurchase of up to $150 million. Now turning to guidance. Reflecting the factors mentioned earlier, including customer bankruptcies and faster-than-expected legacy platform migrations, we now expect fourth-quarter revenues of $192 million-$196 million. For the fourth quarter, we expect adjusted EBITDA of $40 million-$42 million, reflecting an adjusted EBITDA margin of 21.1% at the midpoint. For the full year of 2025, we now expect revenues of $745.7 million-$749.7 million. Cloud revenue growth of 28%. Adjusted EBITDA of $159 million-$161 million, reflecting a margin of 21.4% at the midpoint. David will now make some closing comments before we open up for Q&A. David?"
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "Thanks, John. I have been in this industry for 26 years. I have seen it go through countless economic, regulatory, and technological cycles. The enterprise segment customer has remained very consistent in their approach to solving their needs for effective tax compliance due to the mission-critical nature of their role. They don't buy on hype. They seek proof. They are focused on mitigating risk and delivering accuracy. They make purchase decisions for the long term based on value. While we have noticed some very specific headwinds to short-term performance the past two quarters, we remain confident that the fundamental drivers for our long-term growth are strong and growing and that Vertex will benefit from them with improved performance as we move into 2026 and beyond. My recent experience at our customer conference reinforced my belief in the strength of our alliance partner relationships as we continue to lean into our partner-first strategy."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "Our leadership position in the enterprise segment certainly requires continued investment given the pace of accelerating regulatory and technological changes, and in doing so, we are positioned to reward our investors as a result. It is this confidence that is the primary driver for our board's authorization of the $150 million stock buyback program announced today. I'm thrilled to now have Chris Young join our team and work side by side with him in our respective roles to ensure the company realizes the full potential of our opportunities and delivers strong financial performance for years to come. With that, we will take your questions."
+    }
+  ],
+  "qAndA": [
+    {
+      "speaker": "Operator",
+      "text": "Thank you. We will now begin the question-and-answer session. To ask a question, press star and then one on your touchstone phone. If you're using a speakerphone, please pick up your handset before pressing the keys. If at any time your question has been addressed and you would like to withdraw your question, please press star and two. At this time, we will pause momentarily to assemble our roster. We have the first question from the line of Joshua Reilly from Needham. Please go ahead."
+    },
+    {
+      "speaker": "Joshua Reilly",
+      "text": "My questions, I wanted to get your latest thoughts on how you expect the SAP ERP cycle to kind of play out from here. Clearly, there's a lot of companies that still need to migrate to S/4HANA to hit the 2027 deadline. Seems like that's a bit of a stretch. Curious, what's your thoughts in terms of the capacity out there to manage these migrations in the industry? What are you hearing maybe that improved the deal flow a bit this quarter versus the last couple of quarters?"
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "Yeah, Josh, thanks for the question. I think industry-wise, I should say, I think the industry has been preparing for this for several years. I know in talking to a number of our partners, they've been ramping up staff in anticipation of sort of a back-end process for the migrations that are ahead. That's what I know. I can't speak to any more in terms of the likelihood of any deviation in the deadline, SAP keeps reinforcing it, so I don't fundamentally see there's a reason changing. I think we've talked about this. The pipeline has remained solid. It's been more the efficiency getting through the pipeline as deals occasionally at a customer level have been slow due to their own migrations slowing down. I think we saw a little bit of a break in that in the quarter, and that's why we had to be able to highlight a number of SAP wins in the quarter primarily."
+    },
+    {
+      "speaker": "Joshua Reilly",
+      "text": "Got it. That's helpful. And then maybe a bit more color on. Was it two customers migrating to their own homegrown solutions, and is that a portion of their business with you migrating to the homegrown system or a full system? And was that built into your prior guidance, or did you find out about that after you put up your prior guidance?"
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "Yeah, no, this came out. These are customers that didn't go to their homegrown system. They migrated to the Vertex Next Generation Cloud Platform. As you know, any companies that are going through a cloud, leading a cloud migration like we are, there's always a moment where you're paying two mortgages, where you're paying mortgage on the new. You've already relicensed with Vertex. We've gotten the uplift from them, and they're shutting down their old system, and it usually lags on for a short period of time."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "These were two companies that were extremely large customers of ours that had already migrated to our cloud at a significant price increase that also were able to shut down their system faster than we had built into our guidance because they made some internal progress on their systems that they had not forecast when we had our direct engagement with them. So yes, we do factor that into our guidance as we look at our numbers going forward, but it's just these two happen to get things done faster than they had previously guided to us."
+    },
+    {
+      "speaker": "Joshua Reilly",
+      "text": "Understood. Thank you. I'll pass along."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. We have the next question from the line of Chris Quintero from Morgan Stanley. Please go ahead."
+    },
+    {
+      "speaker": "Chris Quintero",
+      "text": "Hey, guys. Thanks for taking the questions. And David, let me say, I know you're still going to be around, but it's been a pleasure working with you, and I wish you all the best in this next part of your life here. Maybe on the guidance. I think this is the second time in a row you guys have cut the guide, which I can't remember the last time Vertex has done that. And just at a high level, has the guidance philosophy changed at all? And how are these kind of cuts informing your assumptions that you're putting into the Q4 guidance here?"
+    },
+    {
+      "speaker": "John Schwab",
+      "text": "Yeah, Chris, thanks for the call. No, we have not done this before. You're right. In terms of our philosophy around guidance, this hasn't changed our guidance philosophy one bit. We continue to be thoughtful as we think through guidance. And again, as David had mentioned, there was a couple of things, obviously, this quarter that impacted us a little bit. Some of this BK and migration activity certainly had an impact. We certainly had an impact from some of the timing of deals that closed in the third and what we are expecting to see in the fourth quarter. Again, we continue to focus on that services strategy where we are trying to lead partner for where we are trying to go partner first and sort of de-emphasize that. There were three kind of bigger contributors to what happened, why the change for guidance in the fourth quarter, but there has not been a change in philosophy from our standpoint."
+    },
+    {
+      "speaker": "Chris Quintero",
+      "text": "Got it. Thanks for that, John. It seems like the entitlement growth has been kind of one of the main headwinds on your net retention rate and growth from expanding customers. I am curious, are there any lessons in terms of, or anything we should keep in mind as it relates to, I do not know, renewal cohorts as some of these customers have been renewing over the past few years?"
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "Yeah, Chris, I think it is a fundamental of trying to assess where our customers' growth rates are going to be as they grow through our revenue bands. Obviously, we do not have great visibility in each of our customers' forecast growth rate in terms of whether they are going to continue to just expand usage due to their own growth or not. I think that has been the headwind we have tried to highlight pretty clearly in the data we determined from when we spoke to you in Q2."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "It is something we are trying to see if we can get closer to understanding our customers' actual growth guidance that they are giving to the market to see how that will flip to what we expect for revenue bands. Obviously, it is a little bit of a fine line of how much information we have there and how that actually will show up in our revenue bands based on their own customers' revenue timing. Unfortunately, it is sort of a two-step remove from us."
+    },
+    {
+      "speaker": "Chris Quintero",
+      "text": "Thanks, David."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. We have the next question from the line of Alex Sklar from Raymond James. Please go ahead."
+    },
+    {
+      "speaker": "Alex Sklar",
+      "text": "Great. Thank you. David, my congratulations on a fantastic career at Vertex here. Switching gears, I want to\u2014you hired a new head of sales in Europe as well. Can you just talk about that process? What was behind the change in leadership in Europe? How are you thinking about kind of Europe as an opportunity heading into 2026 versus maybe a couple of quarters ago?"
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "Yeah, thanks for the kind words. I am anxious to partner with Chris Young in the future of Vertex. Certainly, in my transition, I expect to be, as non-executive chairperson of the board, I will be quite active in helping continue to pursue the strategy of this company. I think Europe, it was timing of just a leadership change. We are continuing to expand the complexity of operations that we have over there with the acquisition of ACOSIO. As we push further into the whole e-invoicing marketplace, we had a very good quarter in terms of continued growth there by the ACOSIO team and our team in general. The overall complexity of the opportunity increasing felt like we wanted somebody who had been there and done that at a high level. It is just an up-level opportunity there. We really appreciate the gentleman that led that operation for years. It was a great opportunity with someone we had a good relationship connection to bring in, and we capitalized on it."
+    },
+    {
+      "speaker": "Alex Sklar",
+      "text": "Okay, great. I do not know if you or John want to take this one, but just as we think about the Q4 growth outlook relative to the medium-term growth outlook that you spoke to earlier this year, how much of the headwinds, like the true-ups, the bankruptcies, the early shutting off of on-prem feel kind of 1x from your standpoint versus anything different about the market you are operating in today in terms of just the pace of technology changes or the pace of that SAP transition or e-invoicing adoption broadly? Thanks."
+    },
+    {
+      "speaker": "John Schwab",
+      "text": "Yeah, maybe I will start. I think that from an overall guidance in the midterm, I think the BK migration stuff, again, was stuff that we typically\u2014it was somewhat anomalous to the quarter. I do not think that is something that is going to be a continual thing there. We have those types of things happen every quarter. What we saw, though, was just a real confluence of a number of real big ones happening in the quarter that really drove that. I would say from that standpoint, I think that to me is somewhat anomalous in terms of other things. When we look at how the quarter plays out, and we look at what next year looks like, keep in mind as you compass out to some of our prior year numbers that we did have some very large true-ups in the fourth quarter of last year. Again, we are anticipating very little in the fourth quarter of this year. It really drives certain revenue growth. It mutes a little bit of what the impact truly of this quarter is."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "Right. The actual growth rate for the quarter would be close to 13% if you took out those entitlements. I think that is notable. I do think as you look forward in the invoicing, obviously, we are just getting into the whole land and expand motion we have talked about that we think is really setting us up well as those France and Germany deadlines come on in 2026. That is really what we have been pointing for. I think the timing of those adoptions are pretty much falling where we thought. It will accelerate as we move into 2026 pretty significantly."
+    },
+    {
+      "speaker": "Alex Sklar",
+      "text": "All right, great. Thank you both."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "Thanks, Alex."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. We have the next question from the line of Adam Hodges from Goldman Sachs. Please go ahead."
+    },
+    {
+      "speaker": "Adam Hodges",
+      "text": "Great. Thanks so much for taking the question. And David, echoing my best wishes to you. It's been great working with you. I wanted to touch on the comments you made on your customer conference and AI. What was it that customers, from your perspective, were most interested in from an AI perspective? And where are they from exploratory to actually starting to put some of these things into practice? I thought the SmartCat call on the retail side was interesting. How quickly can you get into other verticals and just get up and running with more customers on that side?"
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "Yeah, I think the approach we're taking with the\u2014thanks for the questions and the comments, certainly. The approach we're taking with AI, with the human in the loop, is an essential part of what the enterprise market is expecting because of the requirements for traceability when they get into audits and they have to justify the positions they took on a tax position. Understanding the logic that's actually inside of the decision-making is really essential to their processes. The fact that we're keeping the human in the loop, number one, is critical. I think some of the agent-to-agent work we're doing, we highlighted."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "The encouragement that we're actually directly working with the systems that they run their businesses on. I highlighted on this quarter. In Microsoft, the first-ever agent-to-agent interaction between our platform and the Microsoft Dynamics 365 Finance and Supply Chain platform is a really encouraging thing for our customers because it lets them know behind the scenes there will be certain things that will be going on to support their ongoing time-to-value requirements. I think that was a really well-received component of what we're doing in the market as opposed to just pushing out AI in terms of direct, like a ChatGPT type, a Copilot, but actually taking it to a next level of where it'll drive efficiency and effectiveness in the market."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "I think SmartCat as an offering is a really exciting one. We started to see some of the green shoots we thought were available to us because of the challenges our customers face in categorization of products. Now we're going to start to focus beyond retail. We have that product ready. We're now moving that into trying to generate more in the retail space while we also start to ingest more data. We'll look at that basically on a quarter-to-quarter basis, to be honest, in terms of how much we can ingest and make it viable for our customer base. Certainly, there's a lot of interest across the customer base for us to do that."
+    },
+    {
+      "speaker": "Adam Hodges",
+      "text": "Okay, great. That's really helpful, color. On investments in e-invoicing and AI, just curious how those are tracking. I know that EBITDA did come in a little bit better this quarter. Are you still expecting that margin inflection? I know that Chris isn't on the call, but just maybe reiterate your confidence level and when and sort of the magnitude of that margin inflection would be helpful. Thanks."
+    },
+    {
+      "speaker": "John Schwab",
+      "text": "Yeah. Great question. Yeah, we continue to be on track with the investments that we talked about, the ACOSIO investments of $4 million-$5 million per quarter, and then the AI investments largely focused around some of the Smart activities that David just talked through. They are tracking very well. We feel good about that. We feel good about the progress that we've seen to date. Again, the plan is to largely have a lot of that behind us as we get into the middle of next year. I think that's\u2014we feel like everything's pointed towards that, and it continues to be pointed towards that."
+    },
+    {
+      "speaker": "John Schwab",
+      "text": "We expect to start to see some of that leverage and some of that realization start to show itself up. We did have a good quarter this quarter from an overall margin perspective, and I think we were pleased with the results that came through that. A lot of that had more to do with some of the leverage we're seeing throughout the rest of our business and just being thoughtful about spend as we entered the back half based on some of the conversations we had at the end of the second quarter. Again, I think we feel very good about the investment programs that are in place. We expect to continue them. We haven't had any significant changes in our plans in terms of timing or in terms of\u2014or level of spend. I think everything continues to move along there nicely."
+    },
+    {
+      "speaker": "Adam Hodges",
+      "text": "Okay, great. Thank you both."
+    },
+    {
+      "speaker": "John Schwab",
+      "text": "You bet. Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. We have the next question from the line of Jake Roberg from William Blair. Please go ahead."
+    },
+    {
+      "speaker": "Jake Roberg",
+      "text": "Yeah, thanks for taking the questions. David, my congrats. It's been great working with you over the past few years. Just on the e-invoicing solution, could you talk about how that product compares to some of your competitors out there just from a country coverage perspective? As we start seeing some of these larger countries like Germany and France go online next year, do you feel like that product's ready for prime time?"
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "Yeah, sure. Thank you for the kind words. Yes. Number one, France and Germany, priority ones. The whole strategy from day one was always to make sure wherever there was a greenfield, meaning there was no competitor had already solved for a given country. That was our priority one in terms of where we've been investing. We're ready for France, Belgium, and Germany to compete on those and very comfortable as those regulations are going into effect with Belgium here in two months and the other two as we move into the middle to back half of 2026, excuse me. Yes, still very comfortable there, number one. Number two, we continue to expand our coverage. As you know, when we made the acquisition, we did not buy a company that had coverage everywhere."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "We have been focused on the primary economies and continue to expand our coverage around the primary economies where e-invoicing is of the greatest import to our customers. Primary economies, meaning we have large economies where our customers are doing a lot of business. Hence, the recent go-to-market partnership we announced with Brenta to accelerate our coverage in some key Latin geographies like Mexico and Brazil, where a lot of our global multinationals have revenue. We want to make sure we had coverage to be competitive in those regions. That continues to be a steady part of our build-out as we go forward. That is the investment cycle that John was just highlighting that is going to run through the middle of next year."
+    },
+    {
+      "speaker": "Jake Roberg",
+      "text": "Okay. That is helpful. There have obviously been some moving pieces over the past few quarters. Just thinking a bit longer term, could you double-click into the competitive landscape? Have you seen any changes to win rates or competitors making more noise that might have been showing up at the edges this year?"
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "It is funny. I literally just made sure, like I always do before these calls, to check with my head of sales here in the U.S. in particular, where we have a lot of competitors. No change whatsoever in the competitive dynamics in terms of win rate. Our strategy to continue to focus on the influencers that impact the market, our tight relationships with the Big Four and other large accounting firms, and the investment we are making to de-emphasize our services revenue, which does impact short-term revenue\u2014we have noted that\u2014is also paying off by securing the win rates that we have enjoyed in the past and we continue to see. Certainly, some of the investments we are now making in areas like AI and Microsoft I actually think are going to improve our opportunities in some of the new segments."
+    },
+    {
+      "speaker": "Jake Roberg",
+      "text": "Great. Thanks for taking the questions. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "We have the next question from the line of Brett Huff from Stephens Incorporated. Please go ahead."
+    },
+    {
+      "speaker": "Brett Huff",
+      "text": "Good morning, and thanks for taking the questions. Two for me. I know you guys have been doing a lot of work given the entitlement changes on Digid and making sure you had more visibility into kind of those entitlement changes. How should we think about those as they roll forward? We have gotten some questions on\u2014we know these entitlements have slowed a little bit. Is there a continued couple-quarter sort of period that we have to get through? Is there anything kind of, bolus or timing-wise, that we need to pay attention to that this may last a little longer? How do you guys sort of frame that up?"
+    },
+    {
+      "speaker": "John Schwab",
+      "text": "Yeah. Thanks for the question, Brett. Yeah. In terms of entitlements and how that plays out, I do not think there is really any timeframe for which this is going to change. There is nothing out there that is going to turn this into a quicker rebound or even a change to rebound too much. I think it is going to just take a little bit of time for that to play out. In the normal course of business, through the normal renewal process, we will see that work out. We try to\u2014we do our best to get in front of some of this visibility and do our best to try to make sure that we have that built into our forecast. I think, as we talked about the last time, some of this stuff comes up soon, only just before the renewal base takes place."
+    },
+    {
+      "speaker": "John Schwab",
+      "text": "Overall, generally, this has, I think, a little bit more to do just with overall economic activity that is going on at customers. Then, again, to a lesser degree, some of their ability to migrate other systems they are using into the Vertex platform. As they are doing other upgrades and other things, they are continually bringing and moving additional systems and additional entities that they have work going through onto our software. If that slows because of other activities that they are doing, sometimes that can take a little longer. I do not think there is really anything out there that is really going to drive or change this dramatically. It is just a matter of the passage of time. Again, as we said, we saw a little bit of that happen back around COVID. Again, as we got a little bit a couple of quarters through that, we started to see that snap back as activity picked up again. I am anticipating we will see the same here."
+    },
+    {
+      "speaker": "Brett Huff",
+      "text": "Great. Thank you. The second question around SAP, thanks for the comments earlier, both prepared and in the answers to questions. Can you maybe just a little bit more unpack that? Any anecdotal kind of conversations, change in tone around SAP migrations? It sounds like they were a little bit better this quarter. What is kind of the anecdotal feedback that you have gotten? I am sure you had a lot of conversations at your user conference. Can you give us any more insight into how those decisions are being made or delayed?"
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "Yeah. I think the exchange was a really good\u2014it was just exchanged at our customer conference. It was just two weeks ago, a week and a half ago. I would say that it was very supportive of what we would expect as we move into 2026. Between our conversations with the large accounting firms that are all there, the many accounting firms that are there, part of this is as well as SAP directly. I definitely think that the activity in 2026 is going to accelerate as we look forward based on what customers are telling us and what influencers are seeing in their growing backlog that they're going to be processing."
+    },
+    {
+      "speaker": "Brett Huff",
+      "text": "Great. That's what I needed. Thank you so much."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. We have the next question from the line of Steve Enders from Citi. Please go ahead."
+    },
+    {
+      "speaker": "Steve Enders",
+      "text": "Okay. Great. Thanks for taking the questions this morning. And David, congrats as well. And I got the prior sentiments on the call. I guess just to start, I want to ask or clarify, I think, a prior comment you made about seeing some. There's some timing of deals that close in the quarter that impacted things a bit. And just want to get a little bit more clarity on. If there were deal delays, maybe how that is manifesting in the pipeline or how you're kind of thinking about the future pipeline from here."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "Yeah. Appreciate the question and certainly the comments, Steve. The quarter closed largely at the back end of the Q3, largely closed at the back end, meaning September was a very large month. I think that's a behavior we expect to see again with good visibility. When we talk about pipeline in a quarter, it means stuff that's already through. It's not caught up in that middle where like, \"Oh, could they get delayed because of their whole ERP process slows down?\" When we talk about guidance, when we're just thinking about guidance in the quarter, it's based on what he has visibility to that's already pretty far down the pipe of we've already been chosen. It's more about legal getting through their process and the normal purchasing process, if you would, to close. I think the process is laid out pretty consistent for the quarter as we look forward to what we expect to be a normal quarter in Q4. It's our largest quarter, and we're typically headed to that way with December being the largest month. I would expect no difference to that whatsoever."
+    },
+    {
+      "speaker": "Steve Enders",
+      "text": "Okay. Sorry, to clarify, there were deals that got pushed out or things that didn't close as you were originally expecting here?"
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "No. I think in Q3, we closed the deals we thought we were going to close. They closed later in the quarter than we expected. For sure. That's why I said September was a very large month, which obviously cost us a little bit of revenue that would have normally been recognized in the earlier months of the quarter. As we look forward to Q4, I think we're seeing the same setup where December is going to be a very large quarter, but the pipeline of activity and the. Is where we forecast to be, and it is built into our thinking about guidance."
+    },
+    {
+      "speaker": "Steve Enders",
+      "text": "Gotcha. Okay. That's helpful. And just on ACOSIO, I appreciate the revenue contribution this quarter. But are you feeling like that is on track for this year now? Did you kind of see the catch-up that you were expecting? And I think on track for the, was it a $16 million revenue number that you previously talked about? Is that still line of sight there?"
+    },
+    {
+      "speaker": "John Schwab",
+      "text": "Yeah. Absolutely. We still have line of sight for that. I mean, I think they've made some real good progress, and we've seen some nice upticks in the business activity over there as well as the momentum that's underlying their pipeline. And so we absolutely still have line of sight to that. Again, between the combination of that and then the continued investment we're making in that business, we're all in on the invoicing. I think, yeah, we expect to see those results come through as anticipated."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "Steve, I think that just dubs to the deadline of Belgium is coming. I think these are decisions that are being made. That's why we have that kind of visibility. I think you're going to see the exact same thing play out as we move next year into the larger economies of France and Germany, where France goes live in September, and I would expect to see a real increase in activity as we get through. Q1, not so much, but certainly Q2 and into Q3, you'll see a real uptick. The same thing as we think about Germany going live in January of 2027 with the back half of Q4, which is pretty much consistent with what we've been telegraphing based on our experience."
+    },
+    {
+      "speaker": "Steve Enders",
+      "text": "Okay. Perfect. Great to hear. Thanks for taking the questions."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "Thanks, Steve."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. We have the next question from the line of Andrew DeGasperi from BNP Paribas. Please go ahead."
+    },
+    {
+      "speaker": "Andrew DeGasperi",
+      "text": "Thanks. David, I'll add my own words as well. It's great working with you over the years, and good luck in the chairman role. Just wanted to, over the last, I guess, Q&A, I'm just getting a message that between the e-invoicing opportunity, the SAP migrations, and then if you add kind of the easier comps relative to this year, I mean, is there any reason why your business shouldn't accelerate from a top-line perspective next year? I know you don't give out guidance. Just trying to get a better sense directionally where we're going."
+    },
+    {
+      "speaker": "John Schwab",
+      "text": "Yeah. Andrew, I'll start with that. Again, as we think about next year, we're not giving guidance now. We'll do that when we have our call in February for next year. We do anticipate, certainly, top-line revenue growth next year. I think there's a lot of fundamental factors that are contributing. Again, as David talked about, the invoicing activity continues to be strong. The SAP pipeline and the activity that's there are going to be big contributors to growth next year. Absolutely, we anticipate revenue growth into next year, significant revenue growth into next year because of those factors that are out there and that are still very prevalent in the business."
+    },
+    {
+      "speaker": "Andrew DeGasperi",
+      "text": "Great. Maybe just one in terms of the, I think you mentioned some comments earlier about some customers are paying two mortgages when they do these transitions. Just wondering how much of that customer base is right now doing that? Because if you look at your cloud versus on-prem kind of revenue, obviously, I guess the question I have is, would we see a much broader dislocation between those two as we look into next year?"
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "No, not at all. No reason to think that. First of all, we always have good visibility, and we work hard to factor that into our guidance so that it doesn't come up as a surprise in terms of what happened in Q3. No, number one, I don't think that. We only see typically, we talk about 2%-3% of our customers migrating every year. I've talked about there's an on-prem base that's never going to go away. Subscription revenue is going to be around for quite some time. We're already up to close to 57 or so percent of our business's cloud, and that's where it's growing. I think we'll see a slower, we'll continue to, the ones that haven't migrated are going to be the longest to take the time to migrate just given the nature of those businesses that we know haven't migrated. No, I see absolutely no reason to think we're going to have that kind of a surprise that occurred. It's just these customers did their shutdown faster than normal. I'm not worried about that actually at all."
+    },
+    {
+      "speaker": "Andrew DeGasperi",
+      "text": "Okay. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. We have the next question from the line of Patrick Val Raven from Citizens. Please go ahead."
+    },
+    {
+      "speaker": "Patrick Raven",
+      "text": "Great. Thank you very much. David, I think you first came to our conference in 2007. It's been a pleasure working with you over the last 18 years. It's probably for Joe, but the prepared remarks didn't address the 2028 targets. Can we just address it head-on? Are you reiterating the 2028 20%+ subscription growth and 30%+ cloud growth today?"
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "Yeah. I think the buyback is a signal by our board for its confidence in the future of this company, 100%. I certainly think we continue to be cloud-first in everything we're doing. I see no reason to fundamentally think that that's going to shift away from the growth we expect in the future. Certainly, with what we're seeing in e-invoicing and what should pick up in 2026 even more so from SAP as their deadline approaches, I don't see a reason to fundamentally shift anything we've said in our guidance. Numbers that you've seen in entitlements pullback, we saw this in COVID, and then it snapped back nicely. I see, once again, just the fundamental nature of who the enterprise customer is. They're going to grow through bands, and we're naturally going to get those entitlements. No, I have no data to suggest a shift in what we've said."
+    },
+    {
+      "speaker": "Patrick Raven",
+      "text": "No, terrific. Terrific. Can I just ask about the bankruptcies? Because I just looked two of them up quickly. Party City and Big Lots, both of those were announced in December of 2024. How does that play out? Yeah. How does that work?"
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "When companies file Chapter 11, sometimes they continue to be in business. They continue to operate for years. As long as you're in business, you have to charge sales tax. We've had customers in the past who've gone bankrupt, and we continue to collect license revenue. It may be on a reduced rate because their revenue's gone down, but we continue to collect revenue from these are ones that officially went away. You don't know when that's going to end. We have no way of knowing that. Just because they filed Chapter 11 doesn't mean we're necessarily going to see an immediate end of that license, that license revenue."
+    },
+    {
+      "speaker": "Patrick Raven",
+      "text": "Okay. Great."
+    },
+    {
+      "speaker": "John Schwab",
+      "text": "Yeah, sure. Thank you. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "We have the next question from the line of Rob Oliver from Baird. Please go ahead."
+    },
+    {
+      "speaker": "Rob Oliver",
+      "text": "Great. Thank you, guys. Good morning. Thanks for taking the questions. David, first one for you is just one of the themes I think at the analyst day back in March was around tax not just as compliance but as business enablement. As part of that, you talked about not just sort of the traditional enterprise channel, which has been a big focus of this call, but also some of the marketplaces like SAP Hybris and Salesforce to Manware. Obviously, Shopify is moving up market, and there hasn't been any comment on the call about this. I really wanted to hear your view on where you guys are today relative to that opportunity where there really seems to be a burgeoning opportunity within the tax software market. I had a quick follow-up for John."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "Yeah, sure. I had Shopify on stage with me at my customer conference, really talking about the partnership and the work we're doing with them, really working in lockstep as they continue to expand. As they continue to expand, and they're rapidly succeeding up market, there's just a natural synergy between our two organizations. Every quarter, I try to pick out a few wins that are notable. Coming out of Q2, there was a lot of questions about SAP pipeline."
+    },
+    {
+      "speaker": "David DeStefano",
+      "text": "We had a really good quarter in SAP wins. I thought I would just highlight a few of those on the call, but we continue to make progress across the entire base. Of our key technology ecosystem partners, number one. And number two, I see no reason that's not going to change. In fact, you may have noticed we launched our Kintsugi powered by Vertex offering, which I think is just going to increase a new opportunity for us to generate growth in the future as we look at their ability to actually work at the lower end of the market, which is really highly suspect or highly appropriate for the type of solution that AI has, that AI can deliver through Kintsugi."
+    },
+    {
+      "speaker": "Rob Oliver",
+      "text": "Great. That's helpful. Thanks, David. And then, John, just I know it seems like the challenge now is more about entitlements true-ups than it is about the ERP opportunity. Just on that topic, with kind of two quarters in a row of the guidance coming down, maybe talk a little bit more about how you factor those expectations into your guide for Q4 and how we might get comfortable with the thought that that's not caught you guys by surprise. I think a couple of quarters here. How to think about that headed into 2026. Thank you very much."
+    },
+    {
+      "speaker": "John Schwab",
+      "text": "Yep. Thanks, Rob. Certainly, when we revised back in Q2, entitlements was a big part of this or entitlements and true-ups were a big part of the story. That certainly was something we took into consideration when we set that guidance. We continue to look at those, monitor those throughout this quarter. Again, a couple of other things that we pointed to this quarter that really impacted Q4 have less to do with the entitlements and the true-ups because I think we feel good about how we've captured that."
+    },
+    {
+      "speaker": "John Schwab",
+      "text": "A little bit more had to do with around timing and as well as some of this BK migration things that have moved along. Again, I feel like the BK migration, as I mentioned earlier, was somewhat anomalous. The timing of the quarter certainly is something that we're going to use and will continue to use as we think about our forecast for 2026 and then beyond as we manage through that. That's what I would say, Rob, in terms of kind of how we're thinking about guidance. I don't think we've changed our we've not changed our philosophy in any way. We'll continue to put our best foot forward and try to ensure that we are giving clear and accurate information out there."
+    },
+    {
+      "speaker": "Rob Oliver",
+      "text": "Great. Much appreciated. Thanks very much."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. We have the next question from the line of Thomas Manna from Jefferies. Please go ahead."
+    },
+    {
+      "speaker": "Thomas Manna",
+      "text": "Hi. Good morning. Most of my questions have been answered. If I just think about the bankruptcies, they were all in the retail space. That might just be probably coincidence more than anything else. John, can you just remind us where your biggest vertical concentrations are in terms of the book of business. If you're at least within the retail sector, taking a more conservative view, given that that's where the bankruptcies were? I have one follow-up."
+    },
+    {
+      "speaker": "John Schwab",
+      "text": "Yeah. Good question, Thomas. Thank you. In terms of kind of where our big verticals are, certainly manufacturing is our largest. Retail kind of comes in soon after. They're a bigger focus. We certainly have taken a look at some of the rest of the customers within our vertical of retail to anticipate if anything is out there. At this point, there's really nothing in there that caused us to pause or adjust our thinking in terms of any exposures there. We feel like we're very well reserved and we're in a good spot."
+    },
+    {
+      "speaker": "Thomas Manna",
+      "text": "Understood. Maybe just on the long-term targets, I know Pat asked the question, but I'll ask it a slightly different way. I mean, with the management transition going on with the headwinds that the business has faced, if I think about the four-view guidance kind of pointing to what looks like about high single-digit growth, it seems like 20% is a very tough lift to get to by 2028. Why not get rid of those targets and make it easier, especially as you go through the management transition? Just help us think about what's the path to getting to 20%?"
+    },
+    {
+      "speaker": "John Schwab",
+      "text": "Yeah. I guess what I might start with, Thomas, is, again, I think we feel like all the overall demand drivers of the business that we've talked about, as David mentioned, are still there, and we feel good about those. There is some transition that's going on here, and we're going to certainly manage through that, as David has articulated over time. I think at this point, we still feel like that all the things that got us to those expectations back in the March timeframe when we gave that are still in place and in play. We expect to see some additional progress towards that as we think about 2026 and then 2027 certainly as well. In terms of what we do with respect to longer-term guidance, I think we feel like it's a bit too early. Again, just given the demand that's in front of us, I don't know that it's the right time now to change anything."
+    },
+    {
+      "speaker": "Thomas Manna",
+      "text": "Great. Thank you for taking my questions."
+    },
+    {
+      "speaker": "John Schwab",
+      "text": "Yep."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. This concludes our question-and-answer session. I would like to turn the conference back over to Joe Crivelli for any closing remarks."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thanks, everybody, for joining us today. If you have any follow-up questions or if you'd like to schedule additional time with the team, please send me an email at investors@vertexinc.com. Have a great rest of your day, and we look forward to speaking with you in the coming weeks. Thank you. The conference has now concluded. Thank you for attending today's presentation. You may now disconnect."
+    }
+  ],
+  "totalTurns": 111
+}

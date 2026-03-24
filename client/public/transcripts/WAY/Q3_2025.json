@@ -1,0 +1,350 @@
+{
+  "ticker": "WAY",
+  "period": "Q3 2025",
+  "eventDate": "2025-10-29",
+  "preparedRemarks": [
+    {
+      "speaker": "Operator",
+      "text": "Good day, and thank you for standing by. Welcome to the Waystar Third Quarter 2025 Earnings Conference Call. At this time, all participants are in a listen-only mode. After the speaker's presentation, there will be a question-and-answer session. Please be advised that today's conference is being recorded. I would now like to hand the conference over to your first speaker today, Sue Dooley, Vice President of Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "Sue Dooley",
+      "text": "Thank you, Operator. Good afternoon, everyone, and thank you for joining Waystar's Third Quarter 2025 Earnings Call. Joining me today are Matt Hawkins, Waystar's Chief Executive Officer, and Steve Oreskovich, Waystar's Chief Financial Officer. This afternoon, we issued a press release announcing our financial results and published an accompanying presentation deck. You can find these materials at investors.waystar.com. Before we begin, I'd like to remind you that this call contains forward-looking statements, which are predictions or beliefs about future events or performance. Examples of these statements include expectations of future financial results, growth, and margins. These statements involve a number of risks and uncertainties that may cause actual results to differ materially from those expressed in these statements."
+    },
+    {
+      "speaker": "Sue Dooley",
+      "text": "For a full discussion of the risks and other factors that may impact these forward-looking statements, please refer to this afternoon's press release and the reports we file with the SEC, all of which are available on the IR page of our website. Any forward-looking statements made on this call are only as of today and will not be updated unless required by law. We will also discuss certain non-GAAP financial measures. These measures are intended to provide additional insight into our performance and should not be considered in isolation or as a substitute for financial information prepared in accordance with GAAP. We have provided reconciliations of the non-GAAP financial measures included in our remarks to the most directly comparable GAAP measures, together with explanations of these measures in the appendix of the presentation slide deck and our earnings release."
+    },
+    {
+      "speaker": "Sue Dooley",
+      "text": "With that, I would like to turn the call over to Matt."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "Thank you, Sue, and good afternoon, everyone. In Q3, Waystar continued its strong momentum, achieving solid revenue growth and profitability. This performance was anchored by healthy client retention and expansion, reflecting our leading position in modernizing the healthcare payment process. Our cloud-based AI-powered software creates compelling value that drives meaningful ROI, strengthens client financial outcomes, and improves transparency in the cost of patient care. Let's review a few key highlights. Reflecting strong execution, Waystar delivered another quarter of double-digit revenue growth and strong margins, outpacing our guidance on both measures. Revenue grew to $269 million, representing 12% year-over-year growth, with an adjusted EBITDA margin of 42%. On October 1, Waystar completed the acquisition of Iodine Software, expanding our reach to more providers, uniting clinical, administrative, and financial data, increasing the total addressable market, and unlocking new opportunities to drive profitable growth."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "We announced innovations across our AI-powered platform and engaged hundreds of healthcare's top technology and industry leaders at Waystar True North, our annual client conference, to foster connection, celebrate success, and ensure our product roadmap continues to meet providers' needs today and in the future. At Waystar, the mission is clear: to simplify healthcare payments. The healthcare financial system is complex, fragmented, and administratively heavy, and Waystar is modernizing it through a cloud-based platform that streamlines the entire process. Our technology helps providers get paid faster, more accurately, and with less administrative burden, so they can focus on what matters most: delivering quality patient care. Purpose-built for healthcare, our platform integrates with more than 500 electronic health records and practice management systems. This extensive integration enables us to serve over a million providers nationwide of all types and sizes. We believe Waystar's impact is unmatched."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "Waystar leads the market in advanced automation and intelligence, leveraging AI-powered workflows, unrivaled data assets, and meaningful innovation. Our powerful software fuels industry-leading client satisfaction and is transforming the financial and administrative engine of healthcare. As the industry seeks greater efficiency, transparency, and value, we believe Waystar is positioned to capture a vast and durable growth opportunity for years to come. Turning to the completion of the Iodine Software acquisition, Waystar has taken a major step forward in our mission. The addition of Iodine expands our total addressable market by more than 15%, accelerates innovation, and strengthens our ability to drive durable, profitable growth. We've also welcomed nearly 150 health systems, representing more than 1,000 hospitals to our client base. Iodine brings proven AI-powered mid-cycle capabilities, including clinical documentation integrity, utilization management, and pre-bill anomaly detection."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "With Iodine now part of Waystar, we're uniting clinical, financial, administrative, and payer data in a single intelligent platform. By infusing these capabilities and data into our software, we're extending and compounding the value Waystar provides before, during, and after care. Our platform and access to this tremendous data spans every stage of the revenue cycle, powering AI insights, automation, and accuracy that enable complete, compliant, and defensible claims, accelerating reimbursement, and strengthening provider financial performance. We estimate that Iodine accelerates portions of our product roadmap by nearly two years as we deliver the next generation of clinically informed AI-powered capabilities. We are pleased to have Iodine founder William Chan now serving as Waystar's Chief AI and Product Officer. In this role, William is shaping the future of the Waystar platform and advancing our innovation agenda."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "He is joined by several senior leaders and domain experts from Iodine who bring deep clinical and technical expertise to accelerate our progress. To give you a sense of what's ahead, we envision a future where AI continuously scans data, identifying anomalies across patients, providers, and payers, automating tasks, validating documentation accuracy, and predicting and delivering financial outcomes. This is the path toward true autonomous AI in healthcare revenue management, and ultimately, we believe these innovations will power the future of the healthcare system. Waystar recently hosted its sold-out client conference, Waystar True North, convening more than 500 revenue cycle leaders, one of the largest gatherings of decision-makers in the industry. At the conference, we highlighted client results that generated meaningful ROI and strong performance."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "A few examples of client impact include reduced Prior Authorization submission time by 70% within weeks of implementation at a large regional health system, achieved a 4x ROI for a major nonprofit health system through lower denials and higher revenue capture, and increased point-of-service cash collections while redeploying the equivalent of 10 full-time employees to higher-valued work at a large Midwestern health system. These outcomes reinforce the scalability and financial impact of the Waystar platform and our ability to deliver sustainable, profitable growth. Also, at Waystar True North, we convened the Waystar Advisory Board, senior executive decision-makers, and early adopters of Waystar software from leading provider organizations who provide invaluable insights that fuel our innovation and help shape our strategy. Our discussions reflected the realities providers face today: rising utilization, accelerating denial rates, and ongoing workforce shortages that continue to pressure margins."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "Many are turning to AI, seeking technology to drive greater efficiency, reduce administrative waste, and deliver the financial transparency that builds trust across all stakeholders. Despite this progress, key barriers remain, most notably data fragmentation. Much of the healthcare data is siloed or locked in unstructured formats such as clinical charts and notes, PDFs, lab reports, and images, limiting the effectiveness of AI. An MIT study found that nearly 95% of AI initiatives rely on incomplete or inconsistent data. The result? Without high-quality data, AI doesn't create efficiency; it creates more work. The second challenge is integration. Providers need technology that operates seamlessly within their current systems and workflows. Without interoperability, the value of AI remains unrealized. Finally, cybersecurity remains critical as AI becomes more deeply embedded in clinical and financial processes. Secure, compliant data management at every point of contact is essential."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "These challenges underscore the need for a unified, intelligent, and trusted platform, and this is where Waystar is uniquely positioned to lead. An independent market study ranked Waystar the number one trusted vendor among top competitors, recognizing a sustained commitment to data protection, client experience, and innovation. Insights from the Waystar Advisory Board and independent studies reinforce our differentiated position and confirm the growing demand for a unified, intelligent, and trusted platform. We continue to build client confidence and deepen relationships that drive expansion, accelerate adoption, and power the next generation of innovation across the platform. At the heart of Waystar's differentiation is innovation. Our platform advances continuously, with hundreds of new capabilities launched each quarter to improve automation, accuracy, and ease of use. Twice each year, new product capabilities are unveiled through the Innovation Showcase, highlighting how the platform is advancing to meet providers' needs."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "Launched at Waystar True North, our fall Innovation Showcase introduced new AI-powered capabilities that address some of the most pressing challenges in healthcare, including denial prevention and recovery and patient financial engagement, driving better outcomes for providers and the patients they serve. The important advancements we announced include denial prevention. Waystar AltitudeAI targets the 60% of denials that are preventable, reducing time related to critical prevention work by 95% for a mid-sized health system and building on our industry-leading 98.5%+ first pass clean claim rate across our client base, accelerating reimbursement and improving cash flow. In denial recovery, Waystar is addressing the $20 billion annual denial problem. Waystar AltitudeAI enables providers to create hundreds of appeal packages simultaneously, more than 90% faster than before, driving double-digit increases in overturn rates for early adopters and improving reimbursement speed and accuracy."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "In patient financial engagement, to address the $17 billion uncompensated care gap related to patient collections, Waystar's cost estimation capability is seamlessly integrated within our patient digital experience to increase pre-service patient payments, accelerate cash flow, and reduce uncompensated care. Client feedback on these innovations has been very positive, validating our roadmap and reinforcing the growing demand for AI-powered automation. This innovation continues to build client confidence and deepen long-term relationships that drive adoption, expansion, and sustained growth across the Waystar platform. Trust remains central to our success. Following Waystar True North, attendees reported a 93% confidence level in Waystar as a trusted partner. That confidence is reflected in our performance with strong Net Promoter Scores and a net revenue retention rate of 113%. The number of clients generating more than $100,000 in trailing 12-month revenue grew to 1,306 in Q3, an increase of 11% year-over-year."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "The market is taking note of our progress. We were proud to receive two prestigious awards during the third quarter: powerful validation for Waystar. Fast Company named Waystar one of the best workplaces for innovators in North America, and the 2025 Stevie Awards named Waystar Healthcare Company of the Year and honored us as the top-ranked payments solution. In closing, sustainable transformation in healthcare requires a strong foundation. We believe Waystar's industry-leading AI-powered platform is that foundation, the essential differentiated choice for providers seeking to simplify healthcare payments and achieve better outcomes. Waystar's momentum is strong and accelerating as we advance our mission and capture a large expanding market opportunity. We are operating with discipline and delivering results, building a rule of 50+ software business with the ability to compound revenue and profitable growth."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "With that, I'll turn it over to Steve to walk through the financial details from the quarter."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "text": "Thanks, Matt. Please note that my comments regarding third quarter and year-to-date results reflect Waystar's performance only, while full-year guidance and implied Q4 guidance include a full quarter of contribution from Iodine. Revenue increased 12% year-over-year in the third quarter to $269 million, driven by healthy client retention and expansion, highlighting our durable, predictable model of low double-digit revenue growth annually on a normalized basis. We also expanded our client base, generating more than $100,000 of LTM revenue by 38 clients in the third quarter to 1,306 at quarter end, an increase of 11% year-over-year. Our net revenue retention rate, or NRR, was 113% for the last 12 months, compared to 15% year-over-year revenue growth over the same period."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "text": "As we've discussed over the past several quarters, NRR benefited from the rapid time-to-revenue from clients impacted by a competitor's cyber event in early 2024 and elevated patient utilization of the healthcare system since early 2024. Subscription revenue of $134 million increased 14% year-over-year and 3% sequentially. Going forward, we expect Iodine to further enrich our subscription revenue mix. Volume-based revenue of $132 million increased 10% year-over-year and decreased 4% sequentially, in line with our seasonality expectations associated with revenue from patient payment solutions. Also, we saw overall patient utilization in the third quarter begin to revert back to historical growth rates. Adjusted EBITDA of $113 million for the third quarter increased 17% year-over-year. Our adjusted EBITDA margin was 42%, above our long-term target of approximately 40%."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "text": "The adjusted EBITDA outperformance was driven by a revenue shift to higher margin solutions, along with ongoing operational cost initiatives outpacing reinvestments in areas such as innovation, cybersecurity, and client experience. Please note that none of the $15 million of expected cost synergies from the Iodine acquisition are reflected in our third-quarter results. We have already notified and acted on approximately 70% of annualized cost synergies. We expect these action synergies to be realized and begin to positively impact results over the next few quarters. We are confident in our ability to achieve the full cost synergies within the previously communicated period of 18 to 24 months post-close. We further believe our track record in M&A will demonstrate, with time and integration, that Iodine's clinical expertise, robust data, and AI-powered capabilities add to our long-term profitable growth profile."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "text": "Turning to cash flow and the balance sheet, we ended the quarter with $421 million in cash and equivalents and $1.2 billion in gross debt. As a reminder, in conjunction with the Iodine acquisition, we issued $250 million of debt and drew on $30 million of our revolving credit facility. We also lowered the interest rate on both facilities by 25 basis points to SOFR+ 200 for the entire debt and SOFR+ 175 for the revolver. Unleveraged free cash flow was $96 million in the third quarter of 2025, with an unleveraged free cash flow to adjusted EBITDA conversion ratio of 85% for the third quarter and 86% year to date, which are both well ahead of our 70% long-term target."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "text": "The trend of high cash flow conversion, coupled with the expansion of our trailing 12-month adjusted EBITDA, generated a 1.9x leverage ratio at September 30, which is down almost a full turn since the beginning of the year, ahead of our previously stated goal of reducing our leverage ratio by approximately one turn annually. If we carry this calculation forward to October 1, 2025, to account for the Iodine acquisition, the leverage ratio would be 3.4x. We are confident in our ability to delever approximately one turn annually. Regarding 2025 full-year guidance, please note that the following includes a full quarter of contribution from Iodine. We are raising revenue guidance for 2025 to a range of $1,085 million-$1,093 million, with the midpoint of $1,089 million, representing a 15% year-over-year growth rate. This is an increase of $53 million or 5% versus the prior guidance midpoint."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "text": "The increase represents a 12% year-over-year growth rate for standalone Waystar and an expectation of approximately $30 million of revenue from Iodine in the fourth quarter. Our expectation for Iodine revenue for the full year 2025 is approximately $120 million, which includes alignment with Waystar accounting policies and is in line with prior expectations. Further, given our approach to rapidly uniting all aspects of Iodine and the significant progress we have made towards organizational alignment, including product development, go-to-market, and cross-selling, we don't expect to separately break out Iodine going forward. We are also raising adjusted EBITDA guidance to a range of $451 million-$455 million, with a midpoint of $453 million, increasing by $31 million or 7% versus the prior guidance midpoint. We now expect an adjusted EBITDA margin of approximately 42% for 2025, driven in part by the outperformance through the first three quarters of the year."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "text": "This guidance assumes $12 million of contribution Iodine in the fourth quarter at its historic adjusted EBITDA margin of approximately 40%. We look forward to providing 2026 guidance on our next earnings call. This concludes our opening remarks. With that, we are ready for your questions. Operator, please open the call."
+    }
+  ],
+  "qAndA": [
+    {
+      "speaker": "Operator",
+      "text": "Thank you. At this time, we will conduct the question-and-answer session. Please wait for your name to be announced. We will take one question per analyst. Our first question comes from the line of Ryan Daniels from William Blair. Ryan, your line is now open."
+    },
+    {
+      "speaker": "Ryan Daniels",
+      "text": "Yeah, thanks so much for taking the question. Congrats on the strong performance. Matt, maybe one for you. Interesting that True North took place right around Iodine transaction close, and I'm curious if you had the opportunity to introduce clients to that and see Iodine clients and just overall kind of what areas were key focus and what the overall feedback Iodine and Waystar from Iodine clients were. Thanks."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "Thanks, Ryan. It was a perfectly timed client conference for us. Waystar True North was fabulous. As we indicated, it was sold out, and we were able to highlight we hosted an Innovation Lab where we allowed clients to get hands-on with our technology advancements and see AI at work. We also had the opportunity to showcase how Iodine, which, you know, again, is this middle revenue cycle, tremendous software set of solutions, how Iodine can really connect Waystar's front-end and back-end solutions effectively together. The client sentiment was 100% positive. We heard feedback from our Advisory Board meeting that we hosted just on the front end of Waystar True North Client Conference, and I noted a couple of particular quotes. One said, \"We're so thrilled about this announcement. This will be awesome for us and for healthcare.\" Another one said, \"I'm actually an Iodine user too."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "I'm very excited about this acquisition, and it feels like a perfect fit for you.\" As we think about the opportunity now to combine these two special companies, we feel like it's a perfect strategic fit, and it's helping us toward our ultimate goal of creating that perfect, undeniable insurance claim. Thank you for the question."
+    },
+    {
+      "speaker": "Sue Dooley",
+      "text": "Operator, can we take our next question, please?"
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Our next question comes from the line of Brian Peterson from Raymond James. Brian, your line is now open."
+    },
+    {
+      "speaker": "Brian Peterson",
+      "text": "Thanks, and I'll echo my congrats on a strong quarter. Matt, maybe a high-level one for you, especially as you think about the platform with Iodine in the fold. How do you think about the cadence of legacy or replacement of legacy processes in RCM? I know some of these sales cycles for health systems can be long, but I'm curious, in kind of an AI-enabled and agentic world, will we start to see customers maybe move faster to tackle this opportunity? Thanks, guys."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "Hey, thanks, Brian. Let me start with maybe just a bit of one more background or two comments on Iodine and then how we're leaning into being able to sell the full Waystar platform. Just as a quick reminder, Iodine sits in the mid-revenue cycle. It is really powerful software that does clinical documentation integrity, utilization management, and pre-bill anomaly detection. These capabilities bring structure to unstructured clinical information. They detect missing codes or incorrect codes before a bill is complete, and they keep a human in the loop, so to speak, as they deploy over 160 different leading AI models within Iodine Software that allow the human to validate what the AI has identified as an accurate code. What that's doing is that's leading to a 70% reduction in the likelihood of a set of codes needing to be re-reviewed before a claim is submitted."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "That fits perfectly into Waystar's next-generation cloud-based platform, and we really feel like this will allow us to continue to demonstrate market leadership and establish us as the next-generation revenue cycle solution of choice. We've cross-trained our sales teams. We noted at the announcement that there was this tremendous cross-sell and upsell opportunity when you do the overlap or the Venn diagram of the portion of clients that are both Iodine and Waystar's. There's only somewhere between 35% and 40% of clients that are using both. Not only have we cross-trained our sales teams, we've introduced Iodine now to Waystar clients, and we're beginning to tell that story and promote some of the incredible capabilities that we'll be able to do together. Conversely, we've been able to introduce Waystar to Iodine clients."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "There are certainly cross-sell opportunities where we'll replace legacy and incumbent software that may have been in place for years. There's also the opportunity for us to increasingly promote the whole platform. When you think about the clinical data access that Iodine brings to Waystar's software solutions, Iodine processes more than 160 million patient encounters annually, and about 34% of all patient discharges in the United States annually. There's a tremendous amount of clinical information that we're already figuring out how to integrate and unite and place into the large language models that we're using to automate Prior Authorizations, for example, or to strengthen our claims processing capabilities, or to further automate the appeal management process where some clinical information is super helpful. Overall, we're headed toward more platform sales opportunities, and we're very excited by it. Thank you for asking the question, Brian."
+    },
+    {
+      "speaker": "Brian Peterson",
+      "text": "Thanks, Mike."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Our next question comes from the line of Adam Hotchkiss from Goldman Sachs. Adam, your line is now open."
+    },
+    {
+      "speaker": "Adam Hotchkiss",
+      "text": "Great. Thanks so much for taking the question. I think, Steve, you mentioned that patient utilization had started to move back to historical levels. Could you maybe just expand a little bit on that? I know that the volume-based business declined 4% sequentially. I think that's a little bit more than we've seen the last couple of years. Could you maybe just expand on what the right way for us to think about seasonality in a more normalized environment going forward looks like? Thanks so much."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "text": "Yeah, certainly. I can share a few thoughts here. Maybe a couple of level-setting thoughts, and then I can specifically address your questions. You know, recall that our solutions help providers become more efficient and effective, so they have the ability to capture utilization upside of the healthcare system, as we've seen in the past several quarters. Also, our mix of revenue is generally 50% from subscription-based and 50% volume-based, with the volume-based coming from both provider solutions, those solutions that help providers interact with and obtain payments from commercial payers and governmental entities, as well as, you mentioned, Adam, patient payments, those that help them interact with and collect from patients. My prepared comment is based on what we're seeing, particularly within patient payments, which, as you noted, has a natural first half, second half seasonality aspect to it based on the timing of patients with high deductible plans."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "text": "Notably, what I was looking at qualifying is we've started to see the timing of patients reaching deductibles occur earlier in the third quarter than we had last year. It's an early indication, though, versus a long-term or a trended expectation. We've kind of taken that into context in how our approach is to guidance, which we believe is prudent. As we set guidance, particularly for the remainder of 2025 and implied fourth quarter, we've taken that into account. What I mean there, Adam, is, you know, if our volume-based outcomes and the patient utilization continue on sort of that same trended rate we've seen for the first three quarters of the year, we would expect to come in at the high side of guidance."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "text": "If we see that those patients that are reaching those deductibles within those high deductible plans continue as we started to see them here in the third quarter and that sequential change versus the third quarter and second quarter, we could be at closer to the midpoint of guidance versus potentially even on the lower end of guidance. Hopefully, that's helpful context."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Our next question comes from the line of Allen Lutz, Allen from Bank of America. Allen, your line is now open."
+    },
+    {
+      "speaker": "Allen Lutz",
+      "text": "Good afternoon, and thanks for taking the questions. At one of your Innovation Showcases several weeks ago, you talked about shifting patients from mail payments to mobile. Can you talk a little bit about discussions with your customers around making that change and how long that would take? How should we think about the relative gross margin delta between those two products? Thanks."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "Thank you, Allen, and thank you for tuning in to our Innovation Showcase, by the way. It is available to anybody on our website. We do it once in the spring and once in the fall. In the fall, we did it in conjunction with Waystar True North Client Conference. it felt like we were at a rock concert. It was really well received. With respect to the digitization of the patient statement and the integration of the patient payment with a well-informed digital statement, it certainly has a different margin profile. We think it has a different impact. One of the things that we foresee overall across the healthcare marketplace and what we are pursuing is a tremendous opportunity to move from analog to digital in several areas. We believe that Waystar can be a market leader in that."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "One of the pain points that has persisted on the analog side of things is the tremendous amount of paper that continues to be used in healthcare, some in faxes in back offices, some in patient statements, where it is a fact that there is a portion of the population that still wants their patient statement in paper form so that they can review it. Waystar is working to make that as intuitive and as easy as possible and to integrate the patient payment capabilities to create transparency, ease of understanding, and facilitate accurate and timely payments to providers. We are doing all that now and making it available in a digital format. Providers are beginning to opt into that strategy. They are beginning to embrace it. They are asking patients if they would like to opt in. We are thinking through the timeline."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "We do not see it dramatically shifting in one quarter or two quarters. This is a long tail of transformation and opportunity as we help providers connect with patients. We know that Waystar can be a market leader there, and that the experience for the patient can be meaningful because we are introducing patient statements that oftentimes do as much educating for the patient as anything, which is really great when you think about that. It is also meaningful for the provider. When you look at Waystar's patient financial care suite of solutions, one of the things that we measure is patient NPS scores, not just provider NPS scores, but patient NPS scores. What we find is that when a patient understands their financial responsibility at the point of care, the Net Promoter Score goes up because they appreciate the transparency."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "They can make appropriate plans for how they will make payment. In fact, Waystar's software helps the provider arrange for payment plans within this integrated software solution within our patient financial care suite. We know that digitization is on the way, and we are a facilitator and a driver of that to help both providers and patients."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. The next question comes from Vikram Kesavabhotla from Baird. Vikram, your line is now open."
+    },
+    {
+      "speaker": "Vikram Kesavabhotla",
+      "text": "Hey, thank you for taking the question. I wanted to ask about the Iodine acquisition as well. I think in your prepared remarks, you said that this could accelerate parts of your product roadmap by nearly two years. I'm just wondering if you can elaborate on that comment a little more. What are some of the best examples of how this is adding to your innovation process? How should we think about the timeline to seeing some of those combined capabilities start to emerge in the product portfolio? Thanks."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "Terrific. Thank you. Thank you, Vikram. Let me give you some tangible examples of why we're so excited and why we think it will accelerate the roadmap by nearly two years, as we've indicated. Let's take a couple of product examples. One is a Waystar product called Prior Authorizations. As you know, and as we've stated and showcased in our Innovation Lab and in our Innovation Showcase, we're automating 90% of the Prior Authorization experience for provider organizations. Sometimes that prior authorization, when a provider is submitting an authorization to perform a service for a patient, they submit that authorization request to a payer. Sometimes the payer comes back and asks for clinical information. They'll ask for, \"Is this medically necessary?\" That is a medical necessity-based prior authorization."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "If Waystar were to go and gather that clinical information itself, we would go out to all of our hospitals that we work with, build appropriate APIs ourselves, and then gather that clinical information. Getting access to Iodine's incredibly powerful clinical dataset, uniting it with Waystar, not only creates one of the most comprehensive administrative and clinical datasets to our knowledge in the United States of America, but we'll be able to use that clinical dataset to do things like medical necessity-based prior authorizations, where clinical information is required by the payer before they'll fully authorize a treatment or a service for a provider to perform for a patient. Another example, when a claim gets denied, and we know that denials are on the minds of all provider decision-makers."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "When a claim does get denied and providers are working to contest or appeal that denied claim, there are 450 million claims that get denied annually. This is a real problem. When they go through the process of appealing the denied claim, oftentimes it's helpful to supplement the appeal letter with clinical information that can be used to help attest for the reasons for why that denied claim should be overturned and successfully adjudicated and payment remitted to the provider. Those are solutions that Waystar has in place. Those are generative AI solutions, prior authorization, and appeal management letters, where we're generating letters very rapidly. We're keeping a human in the loop. As we infuse clinical information into that appeal letter, we believe that that'll drive successful overturn rates and supplement and accelerate an already great product with clinical information. Those are two examples."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "We are very excited about the acceleration and bolstering of Waystar software with this clinical information. Conversely, I would say, as we learn more about Iodine suite of software capabilities, there are, as you know, Waystar processes 6 billion insurance transactions annually. We have a tremendous amount of administrative data that we can use to then also support and strengthen Iodine Software solutions in clinical documentation integrity. We're processing billions of claims. We understand code combinations, and we understand what gets successfully adjudicated and reimbursed. We can use that to train Iodine's AI models. Likewise, with pre-bill anomaly detection, we'll use administrative data there to further supplement Iodine's already strong and tremendously capable solution. Hopefully, those examples are helpful."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Our next question comes from Elizabeth Anderson from Evercore ISI. Your line is now open."
+    },
+    {
+      "speaker": "Elizabeth Anderson",
+      "text": "Hi, guys. Congrats on the quarter, and thank you for the question. You obviously have given us a tremendous amount of detail about how Iodine fits into the portfolio and your view for the fourth quarter. I was wondering, as we have these hospitals who are seeing some margin pressure on the horizon or currently, have you guys noticed, and you have a broad suite of solutions to address all sorts of things, have you noticed any shift in terms of the types of modules hospitals are interested in? Are they going for more things versus other things? Any additional color you can provide on that front would be helpful in understanding the broader landscape. Thank you."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "Thank you, Elizabeth. Speaking of the hospital demand environment, let me start with a high-level idea or two and then speak to solutions that we see being very attractive to decision-makers. We know that decision-makers want efficiency. They want to work with entities or partners that can help them get paid faster, accurately, and efficiently in our side of the world, so to speak. They want cybersecure solutions. There's also, as I mentioned just a moment ago, a greater focus on denial rates and what is actually driving them. These are all areas that completely align with Waystar's value proposition. Our solutions are mission-critical. They help drive efficient cash flows, and we get prioritized amongst decision-makers. In this demand environment, we've been saying this now for a few quarters, we tend to get prioritized because we are mission-critical. We see strong demand for our platform."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "It's interesting, provider decision-makers are now starting to understand the relationship, the compounding benefit of using more than one or two of Waystar's software modules. For example, if they're using Waystar's claims management suite, which already has a tremendously high first pass claim acceptance rate that is greater than 98.5% across our entire network, but denial prevention and denial reduction is on their minds, then we're able to have a conversation with them about eligibility and eligibility automation and insurance coverage detection, which we know statistically reduces the likelihood that a claim gets denied. We are then often talking to provider decision-makers about prior authorization automation. Another sticky point, when a provider doesn't get authorized to perform a health service, that's a reason why claims get denied. We have seen demand across our platform, but we note that there is interest in reducing denials."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "We see we're able to articulate, as we go through the discovery process with these clients and prospects and decision-makers, we were able to understand their current activity rates or metrics and then compare that with what we could do prospectively when they begin to use more of our solutions. Eligibility automation, Coverage Detection, Prior Authorization are seemingly hot areas of product. On the other side of that, denial and appeal management software, where Waystar solutions shine because of the autonomous generative AI work that we're doing there, is also something of interest to providers."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Our next question comes from Daniel Grosslight from Citi. Daniel, your line is now open."
+    },
+    {
+      "speaker": "Daniel Grosslight",
+      "text": "Hi, guys. Thanks for taking the question and congrats on the quarter and closing Iodine. I was at a conference recently, and the most striking thing to me was just the number of vendors that have popped up with AI-powered RCM capabilities. Given what seems to be increasing competitive intensity, can you talk a little bit about how your go-to-market strategy has changed or will change and how bringing William on as your Chief AI and Product Officer may impact this? Thanks."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "Sure. Thank you, Daniel, for that question. Let me speak to our approach and then to competition and growth opportunities as we see them. We have a strong pipeline of opportunities with a very healthy mix of new and cross-sell opportunities. It's interesting to note that we've seen new products that we've launched. Think about some of the AltitudeAI solutions that we've launched now beginning to make a meaningful contribution to our pipeline and our year-to-date results. This is very important. Our go-to-market team, I think, is a fabulous team. This is a fabulous group of leaders. They care a tremendous amount about not just proving results, but actually transforming healthcare. It's a privilege for me to work alongside such a fantastic group of go-to-market people and team members. With respect to our approach, we feel like we have a market-leading approach."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "We're not going to tell the world our secret sauce on this call. We do some things to train and make our team members productive and enrich a discovery process that enables us to understand what's going on at our client sites that then enable us to have an ROI-based discussion and really promote and drive our solutions. What I'd say with respect to competition, we are at the street level. We see what's going on, and we think that imitation may be the nicest form of admiration or flattery, and we appreciate that. There does seem to be plenty of noise in the market with splashy announcements being made. We're focused on executing our business plan. What we see is continued momentum and success in our platform approach. We're driving real ROI conversations. We're moving from AI hype to drive to kind of ROI reality."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "We believe that we're the best platform in the market. We're a platform. We're not a point solution. We're a platform from end to end. We have the lowest total cost of ownership and the highest ROI. Our win rates are consistently high, and they've increased modestly since we've last published them in our S-1. We feel very good about the strong pipeline of opportunity, the continued elevated participation rates in RFPs and sales activities. We note that there's a lot of curiosity and interest in the RCM, revenue cycle management category. We believe that our competitive advantage or edge is the fact that we're cloud native. We have a data-rich and robust rules engine that governs our network. We are AI-enabled and driving automation, and we delight clients with high client satisfaction."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Our next question comes from the line of Saket Kalia. Saket, your line is now open."
+    },
+    {
+      "speaker": "Saket Kalia",
+      "text": "Okay, great. Hey, Matt. Hey, Steve. Thanks for taking my question here. Matt, maybe for you, I actually want to pick up on that thread a little bit. It sounds like there's been a ton of innovation through AltitudeAI, and you just talked about how it's starting to contribute to Waystar. I was just curious how you kind of think about monetization. Some software companies create separately billable SKUs, right, that sort of add an AI layer on top. Some are able to deliver or charge additional value. How do you kind of think about that monetization strategy for Waystar?"
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "Thank you, Saket. For us, monetization comes in multiple forms. We're beginning to monetize it now. It starts with retention and a long, enduring relationship with clients as they use our software and they get the benefit of that, and it shows up in real returns to them. The second is, we have an annual price uplift program that has been in place for several years. We price to value, and we're beginning to price to value where we see incremental benefits as we've begun to introduce autonomous or generative AI-powered capabilities within the various software modules. We're starting to price those to value without disclosing things further. The third is the opportunity to introduce actual new SKUs, so to speak, or new software modules. We've begun to do that in a couple of areas, and we're excited about that without necessarily publicly commenting on what those are."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "We are absolutely focused on introducing those to our clients. Those are the three that come to mind. I might just add that Waystar, as you know, Saket, and this is more of a general comment, but Waystar has been a long-time deployer of AI on our cloud-based platform. I think it's very important in this world where AI may be the biggest opportunity in our lifetime, especially in healthcare, where the technology might be a little bit ahead of where the human factor is. We see that in healthcare provider organizations who are very interested in beginning to consume and get the benefit of AI. For us at Waystar, we're working to set the standard in how we use AI. We want AI to be deployed responsibly and ethically, and we want people to be able to trust us."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "We believe that there's an opportunity for us to use AI for moral good and to advocate for providers and patients to improve access to care and transparency and fairness and empathy and reduce waste and burden. Those are things that excite us. One of the last comments I'll make is, as we monetize AI, one of the things that we hear from providers is they want to use it, but they don't know quite how it fits into their workflow. What Waystar has now been doing for a long time on our platform, please recall that our platform is a workflow platform. We're deploying AI across the platform today. It's intuitive. It's easy for end users. It delights them. What we're doing is we're conditioning end users to consume AI as they use our platform."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "We're bringing the right AI to the right use case, often with a human in the loop where appropriate to validate that the results are accurate. We're making the AI that we're deploying is making the end users that use Waystar software, making their lives easier. They may not even know or fully realize that they're consuming AI because AI is automating tasks in the background, or AI is prioritizing work for them or driving insights to them to make their day easier. That AI hype to ROI reality is our mantra, and we'll continue to monetize it. We're very encouraged by the products that we have launched, the pricing that we are achieving, and the long-term enduring relationships that we're creating with our clients."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Our next question comes from the line of Charles Rhyee from TD Cowen. Charles, your line is now open."
+    },
+    {
+      "speaker": "Charles Rhyee",
+      "text": "Oh, yeah. Thanks for taking the question. Hey, Matt. Just wanted to, you know, obviously in the last couple of months, you've also seen some big announcements from the big EHR vendors. I think Epic at their annual event, as well as Oracle talking about Cerner. You know, they're starting to build more AI into the EHR itself, as well as, you know, talking about solutions for revenue cycle management using agents. Can you talk about sort of how you see that developing? Maybe talk about how the Waystar platform can work with these EHR systems as well and maybe points of difference in maybe doing different things? Or maybe if you could just talk a little bit more about how these will all coexist together."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "Thank you. It's interesting because, you know, in healthcare, we have well over 1,000 hospitals today, and the majority of those are on Epic that are clients of ours. They're using Waystar today. We have many Cerner clients today. We have many Meditech and other practice management and EHR clients today that are delighted to be using Waystar software. You said a phrase that I'd like to just highlight, and that is these organizations are \"talking about RCM.\" Waystar is doing RCM. That's all we do. We have a team of people completely focused on simplifying healthcare payments using modern AI-powered capabilities. We are using every modern LLM that you can envision in the market to do work. We think that the value is actually in the access to data to train these large language models."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "These should really be called large object models because they can do a lot more than just consume language. They're consuming lab charts. They're consuming objects that are in PDF forms and images. Waystar is doing that today. We think we can be a fabulous partner. We could be a linchpin technology for these EHR systems where they become the large monolith and they're focused on so many different things. We've proven that our interoperability and integration to their systems actually delights their clients, and we welcome the chance to partner with these systems. While I'm on this point, this theme of interoperability and connectivity, I would just say from a regulatory perspective that Waystar is an advocate for modern connectivity via APIs to all the payers. We promote that. We're connected to the vast majority of payers in the United States."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "We also connect to more than 500 different instances of electronic health record, practice management, and hospital information system vendors. We think we could be a great partner, and we're demonstrating that as we help them and their clients grow and achieve great results as they use our software."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Our next question, our final question comes from Jailendra Singh from Truist Securities. Jailendra, your line is now open."
+    },
+    {
+      "speaker": "Jailendra Singh",
+      "text": "Thank you, and thanks for taking my questions. Congrats on a very strong quarter. I want to ask about EBITDA margin trends. I know you guys have talked about 40% as being the reasonable long-term target, but what are your views on the sustainability of some of these margin efficiencies and gains you've seen recently? You shared several examples around the ways you're using AI to create value for your clients. Given your expertise, is it fair to assume you're using AI to drive some internal operational efficiencies? What kind of opportunities do you see in that area?"
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "Thank you, Jailendra. I appreciate your question. It's a very important one for us as well. We appreciate all of these questions, actually. What I would say is just start by grounding us in fact. We talk about our business model being an enduring, long-term, normalized, low double-digit revenue growth business. You've also heard us talk about our long-term target of adjusted EBITDA margins of 40%. Those are targets for us. We're very mindful of we know we could run the business at greater than 40% EBITDA margins, for example. We feel like the right range to run it in today is while we invest in innovation, invest in cybersecurity, invest in go-to-market capabilities in this unique period of time in healthcare, it's the right kind of way to run the business at that 40% or so level."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "We're certainly pleased with the recent quarter's results of being slightly higher than that. I suspect we'll continue to find areas to invest in, and we'll be very conscious about that long-term target. With respect to some of the internal initiatives around AI, let me just highlight a couple of things. One, we do have William acting as Chief AI and Product Officer. We're very excited about that because he complements an incredibly talented team of other leaders who are very passionate about driving toward our long-term targets. We also have established an internal AI team. We call it our Kaizen AI team. This is a team that works within Waystar cross-functionally across all the businesses, all the functional teams, to identify use cases where AI could be used to create market-leading experiences, or maybe create more operating leverage by deploying AI instead of people for certain tasks."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "One of the things that we emphasize internally is that we believe that AI is more of a productivity augmentation tool that will allow us to scale future from here as we make our team members even more and more productive in their jobs. This is an awesome group of people. What we've done is we've given every single team member at Waystar a Copilot license. We've taken them through certification and training on how to responsibly and ethically and from a business perspective go Waystar's way of how we'd like them to deploy Copilot."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "We have contests internally where we celebrate individuals and teams who have created novel use cases using Copilot through some prompting or some engineering capability to improve or automate certain tasks that have been done manually previously to make our team members even more productive and to help them delight clients as they do, to help them, you know, write source code and have it be reviewed. Our development teams, for example, are using GitHub and Copilot, and we're starting to see some increased efficiency. As they deploy AI and they're using it to review code and do integrity testing and other types of testing in our software, we're really excited about the opportunity there. I suspect that we'll find future opportunities to advance and drive operating leverage in the business."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "As we find those operating leverage basis points or percentage points, we may not convert that all to adjusted EBITDA because we may choose at this point in our journey as a company to reinvest operating leverage that we find back into the business to drive innovation and drive go-to-market success, drive cybersecurity, and drive a market-leading client experience. That's how we're thinking about the internal use of AI. We've got well over 100 use cases that are actively being explored and pilot-tested within Waystar today on the internal side. We're very excited about that."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. This concludes the question and answer session. Now I will turn the call over to Matt Hawkins, CEO, for closing remarks."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "Yeah. Let me just close here. We thank everybody for participating today and for your thoughtful questions. I hope you'll sense that we're pleased with the performance of the business. There's a sense of momentum. We are raising our full-year guidance on that basis. We're thrilled to have closed Iodine acquisition, and we're well underway and excited to work together as one team to really do some transformational work in healthcare. What I'd say is it's all due to our team. I'm so grateful to work alongside such a talented and dedicated group of people. This is a team that really cares about our mission to simplify healthcare payments, and it's an honor for me to work alongside them. What we're building is a market-leading platform."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "text": "We're beginning to get data and network effects as we process more transactions and we get richer data, drive to smarter automation that creates higher client value and deeper stickiness and retention with our clients. We're excited about the work that we're doing, and we look forward to continuing to execute on our business plan. Thank you very much for the time today."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you, everyone, for your participation in today's conference. This does conclude the program."
+    },
+    {
+      "speaker": "Sue Dooley",
+      "text": "Goodbye."
+    },
+    {
+      "speaker": "Operator",
+      "text": "You may now disconnect."
+    }
+  ],
+  "totalTurns": 85
+}

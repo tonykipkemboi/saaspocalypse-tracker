@@ -1,0 +1,466 @@
+{
+  "ticker": "QTWO",
+  "period": "Q3 2025",
+  "eventDate": "2025-11-05",
+  "preparedRemarks": [
+    {
+      "speaker": "Operator",
+      "text": "Good afternoon, my name is Tyler and I will be your conference operator today. At this time I would like to welcome everyone to the Q2 Holdings third quarter 2025 financial results conference call. All lines have been placed on mute to prevent any background noise. After the speaker's remarks, there will be a question and answer session. If you'd like to ask a question, please raise your hand. If you have dialed into today's call, please press star nine to raise your hand and star six to unmute when called upon. I will now hand the call over to Josh Yankovich, Investor Relations. Sir, please begin."
+    },
+    {
+      "speaker": "Josh Yankovich",
+      "text": "Thank you, operator. Good afternoon everyone and thank you for joining us for our third quarter 2025 conference call. With me on the call today are Matt Flake, our CEO, Jonathan Price, our CFO, and Kirk Coleman, our President, who will join us for the Q&A portion of the call. This call contains forward-looking statements that are subject to significant risks and uncertainties, including, among other things, with respect to our expectations for the future operating and financial performance of Q2 Holdings and for services industry. Actual results may differ materially from those contemplated by these forward-looking statements and we can give no assurance that such expectations or any of our forward-looking statements will prove to be correct."
+    },
+    {
+      "speaker": "Josh Yankovich",
+      "text": "Important factors that could cause actual results to differ materially from those reflected in the forward looking statements are included in our periodic reports filed with the SEC, copies of which may be found on the investor relations section of our website, including our quarterly report on Form 10-Q for the third quarter of 2025 and the press release distributed this afternoon and filed in our Form 8-K with the SEC regarding the financial results we will discuss today. Forward looking statements that we make on this call are based on assumptions only as of the date discussed. Investors should not assume that these statements will remain operative at a later time and we undertake no obligation to update any such forward looking statements discussed in this call. Also, unless otherwise stated, all financial measures discussed on this call, other than revenue, will be on a non-GAAP basis."
+    },
+    {
+      "speaker": "Josh Yankovich",
+      "text": "A discussion of why we use non-GAAP financial measures and a reconciliation of the non-GAAP measures to the most comparable GAAP measures is included in our press release, which is available on the Investor Relations section of our website and in our Form 8-K filed today with the SEC. We also have published additional materials related to today's results on our investor relations website. Let me now turn the call over to Matt."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "Thanks, Josh. I'll start today's call by sharing our third quarter results and highlights from across the business. I'll then hand it over to Jonathan to walk through our financial performance and guidance. In the third quarter, we delivered strong financial results with revenue and Adjusted EBITDA both above our guidance. We generated revenue of $202 million representing 15% year-over-year growth and Adjusted EBITDA of $49 million or a 24.2% margin. We also generated free cash flow of $37 million in the quarter. In addition to the strong financial performance, we had the best third quarter in company history from a bookings perspective. As we shared earlier this year, we expected our larger deals to be weighted toward the second half and we saw that begin to take shape with seven total Tier 1 and Enterprise deals in the quarter."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "This concentration, combined with a solid mix of new and expansion wins, drove the record third quarter bookings activity. Several of the Tier 1 and Enterprise wins were net new, showcasing continued momentum in acquiring new customers, and all three major product lines contributed to the quarter's performance. On the digital banking front, we saw continued success upmarket, including a net new win with a bank exceeding $80 billion in assets that will begin by using our platform for retail and small business. We also signed a major expansion with a $60 billion bank that started with Commercial and will now add Retail. As demonstrated by these wins, our single platform approach unifying retail, small business, and commercial continues to differentiate Q2, help us compete more broadly, and creates meaningful expansion opportunities over time."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "During the quarter we also had two instances where a Q2 bank was acquired by a larger institution and in both cases the acquiring bank selected Q2's platform to serve the combined entity. This is an indicator of our competitiveness and the scalability of our technology, especially as bank M&A activity continues. Our fraud solutions continued to gain traction as well. We signed the largest fraud deal in company history during the quarter, a significant expansion with an existing $200 billion digital banking customer. This win was for our Check and ACH Fraud Solution which continues to see robust demand in the market. With the cost and complexity of fraud growing, customers are increasingly turning to Q2 as a strategic partner to help them manage risk more efficiently and effectively."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "We also had our strongest relationship pricing quarter of the year, highlighted by multi-year renewals with two top 10 U.S. banks. Our Relationship pricing solutions continued to be an important lever for financial institutions seeking to optimize yield, profitability, and growth across both loans and deposits. Beyond our strong sales performance, we also recently hosted Dev Days 2025, our second annual conference for partners, customers, and employees who build on the Q2 platform using our APIs and SDK. While our annual client conference Connect is our venue to showcase production-ready innovation and customer adoption proof points, Dev Days is an event where we share architecture and technology enhancements and explore the next frontier of our platform."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "At this year's event, AI was front and center and we showcased several ways we intend to bring leading AI capabilities to our platform for the benefits of bankers, account holders, developers and our fintech partners. We demonstrated a range of planned AI offerings that illustrate the breadth of our strategy. The first was an AI Co-Pilot that can help account holders and bank staff alike, enabling account holders to receive guidance and manage money through natural language prompts and customer service representatives to retrieve and summarize information. We demonstrated AI-assisted coding in our SDK which makes all of our developer documentation available via conversational developer tools and will help customers, partners and even Q2 go from idea to execution faster."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "We shared a customer-facing extension of our internal AI assistant that indexes the vast archives of our internal Q2 knowledge and makes it available through an LLM, which we believe will help our customers self-serve and get faster customer support outcomes. Finally, we shared a new partner data integration strategy that is intended to enable us over time to turn our wealth of 1,000+ backend integrations and more than 200 FinTech partners into a unified data and capabilities ecosystem that will empower agentic innovation. The key takeaway from Dev Days was our customers need to invest in innovation, which requires mission-critical partners with expertise in handling highly regulated data and managing complex integrations to enable AI adoption."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "We believe we are well positioned to be that partner of choice as we have a proven track record of innovation, can leverage our network of customers, partners and integrations to build new capabilities on our platform, strengthening it with every generation of innovation. Our platform and the ecosystem that surrounds it can facilitate AI innovation in financial services. As technology and financial services continue to evolve, we believe advancements in AI will flow through Q2, not around it. Looking ahead, we feel very good about the success we've had heading into the final quarter of the year. Our pipeline remains solid. We expect demand to remain strong as we close out 2025 and expect, and as Jonathan will share in a moment, we're raising our financial outlook, reflecting our confidence in our ability to deliver on the full year expectations we set earlier this year."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "Before I hand the call over to Jonathan, I wanted to share some exciting updates to our leadership team which we believe will better align our talent and efforts with our long-term strategy. First, Hima Mukkamala has been appointed as our Chief Operating Officer, expanding his role to include our service delivery and customer experience functions. In Hima's time overseeing our engineering team since 2023, he has demonstrated operational excellence and an extreme focus on AI enablement, both to drive internal efficiencies as well as external innovation. In conjunction, Kirk Coleman will continue to lead our go-to-market functions as Chief Business Officer, reinforcing his focus on sales and customer success, leveraging his deep industry expertise to advance our product strategy and next phase of growth."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "I want to thank Mike Volanoski, our Chief Revenue Officer, for his contributions during his time at Q2 and he will remain with us through December 12th to ensure a smooth transition. With that, let me pass it over to Jonathan."
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "Thanks Matt. Our third quarter results demonstrate continued strong execution across several key metrics including revenue and Adjusted EBITDA, both of which exceeded the high end of our previously issued guidance. These results highlight the progress we have made towards our profitable growth strategy, reinforced by the strongest third quarter of bookings in our history and sustained margin expansion. I will now discuss our financial results in more detail and conclude with our guidance for the fourth quarter and full year 2025 as well as an updated financial outlook for 2026. Total revenue for the third quarter was $201.7 million, an increase of 15% year over year and up 3% sequentially. Our revenue growth was primarily driven by subscription based revenues which grew 18% year over year and 4% sequentially."
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "Subscription revenue as a percentage of total revenue continued to increase, ending the quarter at 82%, highlighting the ongoing shift in our revenue mix towards this higher margin revenue stream. The year over year and sequential revenue growth was primarily driven by a combination of new customer go lives and expansion with existing customers. Our services and other revenues increased 5% year over year, reflecting an improvement compared to the prior quarter's year over year trends. This growth was driven by an easier comp versus the prior year as we lapped the impact from First Republic Bank which we indicated on the prior call. In addition to the easier comp, we benefited from higher professional services revenues from core conversions. These increases helped offset ongoing declines in more discretionary professional service offerings which remain under pressure."
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "Total Annualized Recurring Revenue or total ARR grew to $888 million, up 12% year over year from $796 million at the end of the third quarter of 2024, driven by strength in our subscription arrangement which grew to $745 million, up 14% year over year from $655 million in the prior year period. Total ARR growth was fueled by continued strength in subscription based bookings across both new and existing customers. As expected, Subscription ARR growth also benefited from a normalization in churn following a concentration of churn in the second quarter and we continue to expect churn in the second half to be more favorable than the first with full year levels remaining in line with or better than historical averages."
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "Our ending backlog of approximately $2.5 billion increased by $161 million sequentially or 7% and $485 million year over year, representing 24% growth year over year, and sequential increases were primarily driven by expansion with existing customers as well as solid net new activity and was broad based. We entered the year expecting Enterprise and Tier 1 opportunities to be more heavily weighted towards the back half, and that proved out with strong third quarter performance in those segments, which represented the majority of our bookings growth for the quarter, and as we have mentioned previously, the sequential change in backlog may fluctuate quarter to quarter based on the number of renewal opportunities available within that quarter. Gross margin was 57.9% for the third quarter, up from 56% in the prior year period and above the 57.5% we saw in the previous quarter."
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "The year over year and sequential increases in gross margin were driven by an increasing mix of higher margin subscription based revenues. We continue to expect gross margin to expand in Q4 with full year 2025 gross margin expansion of at least 200 basis points. Total operating expenses for the third quarter were $76 million or 37.7% of revenue compared to $73 million or 41.5% of revenue in the prior year quarter and $75 million or 38.2% of revenue in the second quarter. The year over year improvement in operating expenses as a percent of revenue was driven by G&A which benefited from lower personnel related costs and higher revenues which impacted all categories. Total Adjusted EBITDA was a record $48.8 million, up 50% from $32.6 million in the prior year period and up 7% from $45.8 million in the previous quarter."
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "We ended the third quarter with cash, cash equivalents, and investments of $569 million, up from $532 million at the end of the previous quarter. As we indicated on the prior call, the third quarter included a material cash payment which drove the slight sequential decline in cash flow in the third quarter. We generated $46 million in cash flow from operations driven by improved profitability and continued effective working capital management and delivered $37 million in Free cash flow. We continue to anticipate the fourth quarter will be our strongest Free cash flow quarter of the year, consistent with typical seasonality. As announced in our press release, Q2's board of directors authorized a share repurchase program for an amount up to $150 million."
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "Given the significant progress we have made on improving the balance sheet and our cash flow generation, we believe we are in a strong position to exercise all components of our capital allocation strategy. These priorities include investing in the business to elongate our subscription growth trajectory, evaluating opportunities for highly synergistic inorganic growth, retiring our convertible debt, and opportunistically utilizing this share repurchase program over time. Let me finish by sharing our fourth quarter and updated full year 2025 guidance. We forecast fourth quarter revenue in the range of $202.4 million-$206.4 million and we are raising full year revenue to the range of $789 million-$793 million representing year over year growth of 13%-14% for the full year."
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "We forecast fourth quarter Adjusted EBITDA of $47.2 million-$50.2 million and are raising our full year 2025 Adjusted EBITDA guidance to $182.5 million-$185.5 million, representing 23% of revenue for the full year. Looking ahead, we are also providing an updated financial outlook for 2026. We expect full year subscription revenue growth of approximately 13.5%, which is up from the approximately 13% we previously provided, reflecting the strong bookings momentum we've seen year to date and the durability of our subscription model. Total non-subscription revenue is expected to decline in the mid single digits year over year in 2026, driven by ongoing secular pressure in bill pay and discretionary services revenue. In addition, we expect our full year 2026 gross margins to be at least 60%, and we expect Adjusted EBITDA margin expansion of approximately 250 basis points."
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "As a result, we are increasing our 2024-2026 three year annualized average Adjusted EBITDA margin expansion target to 450 basis points, up from our previous expectation of 360 basis points. Finally, based on our performance to date and anticipated second half strength, we reiterate our full year free cash flow conversion outlook of at least 90% for 2026. In summary, we delivered a strong financial performance which exceeded the high end of our previously issued guidance. This performance, coupled with our outlook for the remainder of the year, has given us the confidence to raise our full year guidance on both revenue and Adjusted EBITDA for 2025 and our improved 2026 outlook. We remain dedicated to delivering growth, profitability expansion, and strategic capital allocation and believe that our results to date collectively illustrate our progress and potential as we continue to evolve our business and drive shareholder value."
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "With that, I'll turn the call back over to Matt for his closing remarks."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "Thanks, Jonathan. Before we open it up for questions, I'll close with a few final thoughts. In summary, Q3 was another good quarter defined by strong financial results and record third quarter bookings. The record bookings execution was driven by broad-based sales performance with seven total Tier 1 and Enterprise wins. We also shared some exciting developments in our AI journey, showcasing several solutions in development at our Dev Days event that demonstrated how we're using leading-edge AI technologies to empower our customers, their account holders, and partners in the months and years to come. Looking ahead, our record Q3 bookings performance and the strength of our pipeline gives me confidence that we'll close the year strong and enter 2026 positioned for continued subscription revenue growth and an improved profitability outlook. Thank you. With that, I'll turn it over to the operator for questions."
+    }
+  ],
+  "qAndA": [
+    {
+      "speaker": "Operator",
+      "text": "Thank you. We will now begin the question and answer session. Please limit yourself to one question and one follow up. If you would like to ask a question, please raise your hand. Now, if you have dialed into today's call, please press star nine to raise your hand and star six to unmute. Please stand by while we compile the Q&A roster. Your first question comes from the line of Parker Lane with Stifel. Your line is now open."
+    },
+    {
+      "speaker": "Parker Lane",
+      "text": "Hey guys, good afternoon. Thanks for taking the question and congrats on the quarter. Matt, some changes on the management team that you outlined here. I guess coming off the bookings, a record bookings quarter here for 3Q. Maybe just talk about why now is. The right time to make some of these changes to the structure of that organization and what you expect? The biggest changes we'll see in the near term are under the new leadership here."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "Yeah, thanks Parker. For us it's, you know, you guys live quarter by quarter. We didn't just do this overnight. We've been trying to structure the business in a way to align the technical resources where our delivery support, the people that build the product and host the product are aligned because so much of that is connected to the engineering team and so Hima is a proven commodity for us. Been really impressed with him, Kirk hired him as a big advocate for him and then putting Kirk in position to do go to market and the product side of things where he has deep experience, he's been a buyer, he's been a seller, he's been on our side as well."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "It's just a perfect fit at this time and we wanted to get it done before the end of the year so we could put our plans together for 2026 and beyond. It's, you know, coming off a strong quarter, just happened to be what happened. Really excited about these changes and I think they put us in a position to really accelerate our products and our go to market as well as our initiatives around AI. I'm sorry, what was the other part of the question?"
+    },
+    {
+      "speaker": "Parker Lane",
+      "text": "I think you touched on most of it there, Matt. Maybe just to pick up on AI, you highlighted some of the new development. From the dev days. Obviously AI is a huge focus area for every industry. Just wondering if you look at your end markets, what sort of appetite. There is there, and more importantly, budget there is around AI. How much of a prioritization is this? In your end markets and what are. You expecting the timeline to be there for contributions and benefits to your deal. Cycles as a result of it?"
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "Yeah, keep in mind we've been using AI for fraud and cross selling and products like that for a while. Our buyers are the most conservative business people in the country, arguably the world. They are leaning in and learning. We're having a lot of conversations around it. We're trying to understand the problems they want to solve from a product's perspective. You know, that's how you educate yourself and build the right products. The Dev Days, obviously there's a lot of activity there. Encouraged by their engagement with us, and we think there's a lot of opportunity there when it folds into the revenue and the cost side of things."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "I'm not in a position to share that at this point, but we definitely think there's going to be a lot of opportunity there on both of those lines."
+    },
+    {
+      "speaker": "Parker Lane",
+      "text": "Appreciate the feedback. Thanks again."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "Thanks, Parker."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Your next question comes to the line of Terry Tillman with Truist. Your line is now open."
+    },
+    {
+      "speaker": "Terry Tillman",
+      "text": "Yeah. Hey Matt, Jonathan, Kirk, and Josh, my first question, you actually beat me to it a little bit. I was going to have a lot to ask about AI. You had a lot in your. Prepared remarks and then Parker had a good question on it. I guess maybe another question kind of coming at this AI kind of angle or opportunity is, you know, you talk about a single platform approach and how folks tend to cross pollinate across commercial, small business and retail. Do you see maybe a quickening of the pace of hey, we really need to clean up our digital banking front ends though if we really want to do this AI stuff the right way? I'm not trying to put words in your mouth, but do you see this as potentially helping kind of accelerate some of this kind of brownfield replacement opportunities. For digital banking before they actually buy."
+    },
+    {
+      "speaker": "Terry Tillman",
+      "text": "Some of these AI tools?I had a follow up."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "Yeah, I think a couple things to understand about what I think are differentiators in our space in particular. You know, everybody has horizontal and vertical software in the trash right now. I would point out some things about our industry in particular. Number one, I think incumbency and trust are both factors that provide meaningful and durable advantages for us. We have hundreds of customers, we have thousands of long standing integrations to complicated back office systems that require constant care and feeding. We have 20 years of compliance frameworks around securing the data that is accumulated on our single platform. As you mentioned, for retail, small business and commercial banking workflows, I think financial institutions need and are going to require a trusted partner to help them adopt AI safely and responsibly. When you're talking about the buyers we're dealing with and from."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "There is a data and distribution advantage we have. We have 27 million end users, average of three accounts per user with probably an average of seven years of history. That includes posted transactions, balances, payments, behavioral data, demographic data. We are going to continue to use that data to enhance our customers, user, end user experience, back office operations, fraud prevention, cross selling capabilities, efficiencies for us. You have a vast partner network that we believe will continue to work with us to distribute their AI solutions, focus more on use cases that we will work to integrate into our workflows and complement the digital banking experience. That, coupled with the announcement we made today around the structure of this company in a way that will empower us to capitalize on the strategic advantages over the coming years."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "You know, for us, the customers and Q2 team are excited about this opportunity. We just have to execute on our plans, which we have a track record of doing. There is a lot of opportunity there. We're using it internally, externally, with customers and everything else, and we're seeing real progress in that area. We do not anticipate to sit on our hands and wait for somebody to come do this. I do believe the incumbency and the trust aspect and the data and the distribution capabilities are significant tailwinds for us in this race."
+    },
+    {
+      "speaker": "Terry Tillman",
+      "text": "That's great to hear and I guess I don't know if this is for you Matt or Jonathan and I'm not usually one to start looking at numbers and asking numbers questions on the calls but it does look like it was a pretty substantial uptick versus the prior year on like RPO. And I know the Subscription ARR picked up some and I know some of this was kind of churn timing from last quarter. Where I'm going with this is we knew second half or we thought second half would be stronger than the first half on you know just the seasonality of your bookings but I usually think of 4Q as the big quarter. Is there any tilt that's different potentially this year in 3Q to 4Q bookings? Thank you."
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "No, we are cautiously optimistic about the fourth quarter. We're focused on getting deals done. We have a lot of activity. I see a lot of good indications but I do not think till it is done. We are, the pipeline is strong. We did not drain it in the third quarter and we are gonna, we intend to execute on those and continue to build the pipe for 2026."
+    },
+    {
+      "speaker": "Kirk Coleman",
+      "text": "Right. The only thing I'd add is as we talked about at the beginning of the year, the mix of first half versus second half was going to, we predicted, would be slanted towards Tier 1 and Enterprise in the second half. The third quarter was a great start to the second half in that regard because we did see a really strong performance in that upper tier, in that Tier 1 and Enterprise segment, and you know, saw from a subs ARR bookings perspective, you know, by far the strongest quarter of the year as we expected and as Matt said, no feeling like we borrowed from the fourth quarter. Feel good about the opportunity moving forward, but we got to execute on it."
+    },
+    {
+      "speaker": "Terry Tillman",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "Thanks, Terry."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "Thank you. Your next question comes from the line of Andrew Schmidt with KeyBanc Capital Markets. Your line is now open."
+    },
+    {
+      "speaker": "Andrew Schmidt",
+      "text": "Hey guys, good to be back on the call. Great results here. Great to see the sub ARR acceleration on top of a tougher comp. I wanted to ask about just the 2026 subs ARR, the 13.5% percent you outlined. You know, continue to see good long term growth trends, but I guess you know you have to make some assumptions when you're providing that outlook. Obviously, you have good visibility given the recurring revenue base, but there's cross sells, there is existing user growth and things like that. Maybe talk through just some of the assumptions that are in there. You also commented on the bank M&A environment. Historically, it's been a positive for Q2 and you know, we seem to kind of be in the sweet spot here, you know, given the current environment. Maybe you talk about whether that's layered in to those assumptions or whether that could be incremental. Thanks so much."
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "Yeah, thanks Andrew. To hit the first part of the question, when we think about sort of the 13.5% for 2026 subscription revenue growth, that's mostly informed by the bookings outcomes year to date and the mix of those bookings, which gives us good visibility into 2024. When you think about what we do in the fourth quarter of this year, you know, smaller deals, cross-sale renewal activity, that can have an impact, but the bulk of it we have visibility into based on actual bookings that we've obtained so far year to date. We feel really good about that number, have conviction, and most importantly, the performance in the third quarter gave us the confidence to lift it from what we had predicted and communicated all throughout the year at 13% up to 13.5%."
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "It has assumptions around ongoing performance in line with what we've done when it comes to the near time to revenue levers like cross and renewal activity. There is no sort of incremental impact from the net new stuff that we're expecting significant impact in 2026 from an M&A perspective. That is a little bit different there. We do not really build that in from the standpoint of upside for our subscription revenue base. We do have some visibility and we certainly make assumptions around services work tied to M&A, and I think that is informed a little bit in some of the non-subscription line item guidance we gave on the 2026 front. You know, to the extent that goes more in our favor than it has historically, that would be upside to the plan."
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "You know, we've seen a pretty strong year from an M&A standpoint. I mean, Matt talked about two deals this year where we won up into the acquirer tech stack and for the combined bank, which is a great sign for us. Overall, M&A activity from a services perspective has been pretty high in 2025, and we expect that to continue in 2026, but not necessarily to see the same growth we saw year over year relative to 2024."
+    },
+    {
+      "speaker": "Andrew Schmidt",
+      "text": "Perfect. Thank you so much, Jonathan. If I could just ask about, just quickly on pricing, you know, it's been a topic of conversation with investors and I think typically Q2 has been premium priced just given the value that you bring to clients. Maybe comment if you're seeing anything different in the environment, since it has been a discussion to come up, not specifically Q2, but just broader in terms of the industry. Any comments there would be helpful. Thanks so much."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "No, there's nothing abnormal. I mean, a lot of people that don't have the feature functionality we have, they use price as a tool to try to win deals and sometimes banks go for that. We have a lot of discipline around that. We will walk from a deal if it doesn't fit our economic model and hope to pick them up later. There is no, there is no significant change on the pricing side of things from what we've seen from people."
+    },
+    {
+      "speaker": "Andrew Schmidt",
+      "text": "Got it. Thank you so much, guys."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "Thanks, Andrew."
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "Thanks, Andrew."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Your next question comes from the line of Matt VanVliet with Cantor Fitzgerald. Your line is now open."
+    },
+    {
+      "speaker": "Matt VanVliet",
+      "text": "All right, great. Thank you for taking the question. Curious on, given your recent success of upselling, cross selling your existing customers, how should we think about the renewal cohort over the next five quarters or so? Any differences in sort of the shape or size of the cohorts coming up for renewal? And within that, you know, is there any outsize opportunities where maybe you're already on retail to sell commercial or commercial sell retail and things of that nature?"
+    },
+    {
+      "speaker": "Kirk Coleman",
+      "text": "Yeah, thanks. Thanks, Matt. I'll take that. I mean, to your last point, yes, we have lots of those opportunities and that certainly make up some of the larger, what we call internally, cross sales significance deals that are in the pipeline. When it comes to the makeup of the 2026 renewal cohort, you know, we did, we talked about this earlier in the year, but when you look at the performance on renewals in 2023 and 2024 combined and look at the composition of that cohort and compare it to the 2025, 2026 cohort, it really is very, very similar both in terms of number of opportunities and the mix within them. We feel really good. It's not, and it's not as though the renewal performance so far in 2025 has borrowed from 2026 or anything like that. We feel really good for the fourth quarter of 2025 and throughout 2026, that the opportunity set in front of us both in terms of number of deals and the size and shape of them are comparable to what we've done in recent periods."
+    },
+    {
+      "speaker": "Matt VanVliet",
+      "text": "Great. As you look at the opportunity for Innovation Studio, you know, not needing to build every little agent or a widget out there by leveraging partners seems like a big opportunity. Maybe as banks are a little more willing to accept, you know, AI technology is sort of where we're going. Should we think about Innovation Studio maybe even further accelerating here now that you have at least one product in virtually all your customers? How should we think about the overall revenue contribution, you know, in 2026 versus still being a couple years away from real materiality?"
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "Kirk, why don't you take the Innovation Studio product question and then. JP,"
+    },
+    {
+      "speaker": "Kirk Coleman",
+      "text": "yeah, from an Innovation Studio perspective, really two important points in there. One is that if we sort of think about our existing partner ecosystem and the new partners we're bringing to the ecosystem, you know, continues to be really. Important for them to have a partner."
+    },
+    {
+      "speaker": "Kirk Coleman",
+      "text": "Like us who has great technology, great distribution, but also kind of like this very strong technical backbone on which to build their solutions to. Because you know, you can have these features and functions that these fintechs deliver, but if you don't have all the data, all the APIs, all the integrations that we do, you really can't get as far with them. That continues to be really important. If we think about it from an AI perspective, what we're seeing is, you know, those partners are really kind of continuing to come to Q2 to co develop and distribute their AI solutions. That's not just our existing fintech."
+    },
+    {
+      "speaker": "Kirk Coleman",
+      "text": "Ecosystem, but it's also what our customers are building for themselves and also new players that you might see in. The market, like the services companies and. Others that want to build kind of specialized AI agents that they can distribute into the financial services. Again, all of that is really important for our Innovation Studio because if you think about the legacy financial services infrastructure. If you don't have a partner like. Us, it's really hard to scale any kind of solution into that environment. That's where we see a lot of strength currently."
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "What I'll add from a revenue growth perspective, you know, 2024, 2025, we've seen phenomenal revenue growth from the Innovation Studio ecosystem. You're right, we are seeing some use cases that are pretty exciting in terms of the adopted fintech partners and the entire ecosystem all thinking about AI in terms of their own point solutions and then us getting the benefit of that as there's adoption inside the platform. We're excited about it. We think 2026 will be another great year of growth from an Innovation Studio revenue perspective. As a reminder, that is very high margin revenue. You know, we're only recognizing it on a net basis."
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "It is a valuable revenue stream to us and we are building a go to market apparatus and investing in a go to market team to try and capture that growth opportunity that you are asking about. Matt,"
+    },
+    {
+      "speaker": "Matt VanVliet",
+      "text": "nice job guys. Thanks for taking the question."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Your next question comes from the line of Ella Smith with JPMorgan. Your line is now open."
+    },
+    {
+      "speaker": "Ella Smith",
+      "text": "Good evening. Thank you for taking my question. First I was hoping to ask about seasonal trends. Are there any seasonal trends to note when it comes to cross sell from existing customers? How long does it usually take cross sell commitments to hit your revenue line?"
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "From a seasonality perspective? You know, the fourth quarter is usually our biggest cross sell opportunity. It's the end of the year, people trying to fill out their budgets. I was really happy with the third quarter. Some of that was from the Connect conference that built up and the excitement from seeing the products. And then the fourth quarter should be our strongest cross sell opportunity."
+    },
+    {
+      "speaker": "Kirk Coleman",
+      "text": "Yeah. From a time to revenue perspective, you know, unlike net new, these can go to revenue much, much faster. It just varies depending on the product. Some of this stuff can get live really quick, especially when you're talking about cross selling, let's say an Innovation Studio partner that's already in production to certain products that maybe there is a, call it, three- to six-month timeline on the outside in some cases, if it's not sort of a cross sale of a Digital Banking component like retail to commercial or vice versa. If it's an ancillary product, the timelines are faster."
+    },
+    {
+      "speaker": "Ella Smith",
+      "text": "That's very clear. Thank you. For my follow up, can you speak to the appetite of existing and prospective customers to reinvest in technology? Is it changing given it's a somewhat lower interest rate environment?"
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "The demand environment has been strong and remains strong. I think interest rates, there's still uncertainty about what they're going to do. I think from a customer perspective, whether it's a bank or a credit union, they don't want to be caught in the situation they were in in 2012-2022, which is they were doing the loans but they didn't have the operating accounts. So they learned their lesson and they're trying to get the best digital banking, retail, small business, commercial solutions so that they can get the operating accounts when the lending environment comes back. They want to have the best product and that's why we continue to win in that space. I think we're going to continue to, so demand is strong and I anticipate it continuing to be strong even as rates go down, assuming they will."
+    },
+    {
+      "speaker": "Ella Smith",
+      "text": "Thank you so much."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "Thanks, Ella."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Your next question comes from the line of Chris Kennedy with William Blair. Your line is now open."
+    },
+    {
+      "speaker": "Chris Kennedy",
+      "text": "Yeah, good afternoon. Thanks for taking the question. Just wanted to follow up on the gross margin outlook for next year. Can you just talk about some of. The levers that you have to get. To that 60% target?"
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "Yeah, for sure, Chris. So, you know, the single biggest lever that we will see driving that upside in 2026 is the completion of our cloud migration project on the digital banking side. And so we'll be completing that here at the end of 2025, very early in 2026. And so as we exit the data centers, you see that depreciation roll off, you know, the very clear cost savings coming off. And then as you think about operating in the environments that we're in from a, from a cloud perspective, there's just so much opportunity for learning that environment and operating with more elasticity, more understanding of how to be efficient in that new world. And so we feel really good about the guidance we've given."
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "There is also all the other things that go into that in terms of revenue mix, AI efficiencies, all the things we're doing across support and delivery to become more efficient that are all accruing into that gross margin line."
+    },
+    {
+      "speaker": "Chris Kennedy",
+      "text": "Great, thanks for taking the question."
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "No problem."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Your next question comes from the line of Alex Sklar with Raymond James. Your line is now open."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Hi, this is Jessica on for Alex. Thanks for taking my question. Sort of touching on what you've. Been saying about the strength of your risk and fraud solutions and your cross sell. How should we be thinking about the contribution of risk and fraud as a percentage of bookings year to date relative to previous years?"
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "Yeah, we've never discreetly given projections around risk and fraud because so much of that solution is embedded within digital banking. We can say that the, that business exceeds that of most of the other product lines that we have. You are seeing a greater mix in 2025 than we have historically in terms of the contribution from the fraud tech solutions. I can say as we think about the plans for 2026, we see a demand environment that suggests that will continue."
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "Got it. Also thinking about. We've been hearing some concerns in ED market about credit risk. Over the last couple of months, bank. Earnings have been turning up better than feared. Can you provide some color on what you're seeing from the health of your customer base and any changes, demand patterns in terms of your solutions that may be more focused on the credit side? Thank you."
+    },
+    {
+      "speaker": "Kirk Coleman",
+      "text": "Yeah, on the credit. If you sort of look broadly and we, you know, again we pull all the call reports on all of our customers. You know, we watch this really closely. The banks are really well reserved right now. I think we start to start there and that's if you look back kind of like even on a 10 year basis. What we see is although there's. Been a couple of banks that have."
+    },
+    {
+      "speaker": "Kirk Coleman",
+      "text": "Had to report some losses here recently, if you kind of look more broad based even in those banks, they were well reserved to be able to handle those losses that they reported. Right now credit quality is actually holding up pretty well. Those credit provisions look like they're in a healthy range. What we see in our PrecisionLender relationship pricing line of business continues to be very strong in terms of the demand for that product. As customers are thinking about how do I reprice relationships as the interest rate environment changes, particularly since there's still a little bit of uncertainty in terms of exactly how that's going to play out and as they're thinking about 2026 and. What their growth trajectories look like. do not see any red lights on the credit front yet."
+    },
+    {
+      "speaker": "Kirk Coleman",
+      "text": "Understood. Thank you."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "Thanks, Jessica."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Your next question comes in line of Charles Nabhan with Stevens. Your line is now open. Charles, you may have to hit star six to unmute on the phone."
+    },
+    {
+      "speaker": "Charles Nabhan",
+      "text": "All right. Sorry about that. Thanks for taking my question and congrats on the results. A couple quarters ago you gave some real good metrics around the cross sell opportunity between retail and treasury management. I wanted to revisit that to get a sense for how much runway or wood there is to chop within the customer base in terms of cross selling those two products. Also, I wanted to touch on whether you're seeing more uptake of both commercial and retail solutions on your newer deals. Thank you."
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "Yeah, thanks, Charles. Yeah, no, that's a metric we track closely. It's a huge, we, you call it TAM or SAM opportunity inside our customer base. But when you think about cross-sale of significance, what we call it internally, we still have, you know, call it in a customer, Tier 1 customer base. So financial institutions over $5 billion in assets, only 10% of them have all three of retail digital banking, commercial digital banking, and PrecisionLender or relationship pricing as we call it now. That is a huge cross-sale opportunity. That dovetails well into your second point. We still see a good mix of deals that start with commercial, go to retail. We had a great one like that this quarter, and we, we see that all the time. You also have some really good."
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "We had a great net new win that went for the full platform. It just depends, and both of those were Tier 1 institutions. It just depends on the strategy and the timing and the budget of the financial institution. You know, we feel really good about that. That is why we win a lot. That is a big differentiator for us. Again, from a cross sale perspective, that continues to be a huge opportunity given how few of our Tier 1 institutions have all those different products."
+    },
+    {
+      "speaker": "Charles Nabhan",
+      "text": "Got it. As a follow up I wanted. To talk about your product roadmap and get a sense for how you balance. M&A partnership and organic growth as well as what, what specific products or areas you might look to as a means of either enhancing your existing functionality or broadening your TAM."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "Yeah, I mean I think the platform, we look at it and say on the retail side we want to make it more personalized for users as they log in and they can have things that are relevant to what their day looks like. On a business perspective we want to continue to, we want to add that functionality as well. Plus we want to add deeper commercial functionality that allows people, the banks to go help their, to go acquire larger businesses in their region."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "Fraud, obviously we're investing heavily in that. Innovation Studio gives us a lot of scale in a lot of different products and then also the ability for us to cross sell and market products. You have AI tied to all of this, whether it's operating efficiency for the bank, Agentic AI to help people understand what they need to do. There are all of these products that we have. We have a core modernization strategy with Helix. There are a lot of different things that we're doing that are going to expand our TAM and kind of grow with our customers as they try to get into new areas and sign new customers and gather more deposits. Strategically, we are really well positioned. If Kirk, if you have anything to add, feel free to add. I don't know if I covered it?"
+    },
+    {
+      "speaker": "Kirk Coleman",
+      "text": "No, I think you broadly covered it. I mean, again, what we see from our customers and we've had three really great customer events over the last 45 days and they reinforced this in addition to our customer advisory board that they're really looking to us to help guide them through this current stage of innovation. You know, we brought them through digital to, we brought them through mobile, we brought them through cloud. We're going to bring them now into AI. And so having that trusted partnership and really being very interactive with us in terms of the feedback that they give us and the feedback we give them in terms of what the roadmap should look like is a really powerful kind of flywheel for us."
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "To the first part of your question around build versus buy versus partner, I mean, we think about that all the time. It's an equation where we want to be able to exercise all of those different levers and obviously we're building products and the Innovation Studio ecosystem along with some of our long standing partnerships. Pre Innovation Studio, we have a very robust partner strategy. When it comes to buying, I think it's obviously a part of our long term strategy and one we've exercised in the past. The bar has been raised for what it would take for why we need to own an asset and how we think about valuing the asset and what the financial criteria of those businesses would need to be. All three of them are relevant."
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "Matt and Kirk covered the areas where we would be interested in that would be the same in the context of M&A."
+    },
+    {
+      "speaker": "Charles Nabhan",
+      "text": "Got it. Appreciate all the color, guys. Thank you."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "Thanks, Charles."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. Your next question comes from the line of Dan Perlin with RBC Capital Markets. Dan, your line is open."
+    },
+    {
+      "speaker": "Dan Perlin",
+      "text": "Thanks.I just wanted to touch base on kind of the, Matt, kind of the. State of what's been happening here as of late in that, you know, there's a bit of dislocation, I think, happening with one of the large core providers. They're going to go through a lot. Of, a lot of, I would say, change over the next couple of years in terms of their core consolidation. I know we're not, you know, specifically talking everything on your business, but I'm just wondering how much of, kind of the derivative fallout from that could create some, some really interesting RFP opportunities for you guys over the next couple of years. Just how would you, how would.You frame that in that context?"
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "Yeah, historically, as I've seen core consolidation happen over the last 25+ years, it generates opportunities for us. When a bank is forced to, or credit union is forced to switch off of the general ledger they're running on, it pushes them to go evaluate all their technology and what they want to do because it's such a disruptive thing for them. RFP volume, I looked at it before, is similar to what it was last year right now. This stuff's just kind of hitting the market now, so it's something to watch. Obviously we're paying attention to it. For us, we know all the prospects in banks and credit unions. We're calling on them all the time, marketing to them and, you know, keeping our name in front of them. When they do decide to take a look, hopefully we get called."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "That's the objective. You know, other vendors have different challenges. We've all had challenges, different times, and I expect those to get fixed. We can't rest on our laurels and think some of that stuff can be a problem. We're going to continue to attack the market we're going after and use our product and our customer experience and our culture as a differentiator."
+    },
+    {
+      "speaker": "Dan Perlin",
+      "text": "Yep. No, that's great. Just a quick follow up on the 2026 guide. If I'm just looking at the numbers and they may differ a. Little bit but like it looks like the incremental margin on EBITDA somewhere in. The high 40s-low 50s versus kind. Of in the 60s, kind of where. You are maybe in the land this. Year again, maybe there's a little bit of squishiness in the numbers, but net net looks like it's coming down a little bit. Is that because it's like it's investment opportunity cycle that you're going into, especially given the fact that you've got this. Migration on the, on the gross margin. Side and it does feel like there's plenty of other opportunities for leverage. I'm just wondering what's maybe a little bit more embedded in that. Thank you,"
+    },
+    {
+      "speaker": "Kirk Coleman",
+      "text": "Dan. So let me make sure I'm getting the question right. Are you referring to Q4 EBITDA?"
+    },
+    {
+      "speaker": "Dan Perlin",
+      "text": "No. 2026 guide, EBITDA 250 basis point margin expansion year on year. Just the incremental margin on that would suggest it's probably closer to 50% versus maybe 60% that you're going to land on in 2025."
+    },
+    {
+      "speaker": "Kirk Coleman",
+      "text": "Yeah, I got to make sure I'm following you. When we look at our 2024-2026 financial framework, one of the metrics we talked about was EBITDA margin expansion. What we talked about there was the three-year average. 2024 to 2026 would see 360 basis points of improvement on average. With 2024 in the bag and 2025, the guide we just provided, both well over 500 basis points of expansion each of those years. You know, the implied 2026 EBITDA margin expansion before the color we gave today was quite low. It was sub 100 basis points in terms of the implied 2026 margin expansion. In providing that 250 basis points of expansion, I think what we're trying to show is we actually expect more operating leverage in 2026 than what those numbers implied. Hopefully that helps."
+    },
+    {
+      "speaker": "Kirk Coleman",
+      "text": "I just, I didn't reconcile that to the 40-50 number you were talking about."
+    },
+    {
+      "speaker": "Dan Perlin",
+      "text": "Yeah, no, that, believe me, I'm not knocking on the 250 basis points. That's a great number. I was just referring to the incremental margin associated with that embedded for 2026 versus 2025. We can have that in our follow up call. Thank you."
+    },
+    {
+      "speaker": "Kirk Coleman",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Matt Flake",
+      "text": "Thanks Dan."
+    },
+    {
+      "speaker": "Jonathan Price",
+      "text": "Thanks Dan."
+    },
+    {
+      "speaker": "Operator",
+      "text": "Thank you. There are no further questions at this time. This concludes today's call. Thank you all for attending and you may now disconnect."
+    }
+  ],
+  "totalTurns": 114
+}
