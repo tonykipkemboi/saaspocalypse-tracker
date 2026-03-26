@@ -1,4 +1,5 @@
 import { Switch, Route, Router } from "wouter";
+import { Analytics } from "@vercel/analytics/react";
 
 import { queryClient } from "./lib/queryClient";
 import { QueryClientProvider } from "@tanstack/react-query";
@@ -31,6 +32,7 @@ function App() {
         <Router>
           <AppRouter />
         </Router>
+        <Analytics />
       </TooltipProvider>
     </QueryClientProvider>
   );
