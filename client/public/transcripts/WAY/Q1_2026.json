@@ -1,0 +1,475 @@
+{
+  "ticker": "WAY",
+  "period": "Q1 2026",
+  "eventDate": "2026-04-29",
+  "preparedRemarks": [
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "Good day, and thank you for standing by. Welcome to the Waystar first quarter 2026 earnings call, conference call. At this time, all participants are in a listen-only mode. After the speaker's presentation, there will be a question-and-answer session. Please be advised that today's conference is being recorded. I would now like to hand the conference over to your first speaker today, Edward Parker, Head of Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "Edward Parker",
+      "timestamp": null,
+      "text": "Thank you, operator. Good afternoon, everyone, and thank you for joining Waystar's first quarter 2026 earnings call. Joining me today are Matt Hawkins, Waystar's Chief Executive Officer, and Steve Oreskovich, Waystar's Chief Financial Officer. This afternoon, we issued a press release announcing our financial results and publishing a company presentation deck. You can find these materials at investors.Waystar.com. Before we begin, I would like to remind you that this call contains forward-looking statements, which are predictions or beliefs about future events or performance. Examples of these statements include expectations of future financial results, growth, and margins. These statements involve a number of risks and uncertainties that may cause actual results to differ materially from those expressed in these statements."
+    },
+    {
+      "speaker": "Edward Parker",
+      "timestamp": null,
+      "text": "For a full discussion of the risks and other factors that may impact these forward-looking statements, please refer to this afternoon's press release and the reports we file with the SEC, all of which are available on the investor relations page of our website. Any forward-looking statements made on this call are as of today and will not be updated unless required by law. We will also discuss certain non-GAAP financial measures. These measures are intended to provide additional insight into our performance and should not be considered in isolation or as a substitute for financial information prepared in accordance with GAAP. We have provided reconciliations of the non-GAAP financial measures included in our remarks to the most directly comparable GAAP measures, together with explanations of these measures in the appendix of the presentation Slide deck and our earnings release. With that, let me turn the call over to Matt."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "Thank you, Edward. Good afternoon, everyone. Thank you for joining our Q1 2026 earnings call. Waystar delivered a solid start to the year, reflecting strong execution across the business and our innovation roadmap as we continue to position ourselves as the market leader in delivering an end-to-end healthcare revenue cycle platform. We drove strong performance across the core business, built on our innovation momentum, including our recent innovation showcase, and introduced a new AI-powered recoupment solution. What differentiates Waystar is the tangible value we deliver. Our platform is purpose-built and integrates powerful LLMs into our core workflows to drive meaningful ROI for healthcare providers, improving accuracy, reducing friction, and lowering the total cost of operating the revenue cycle. As requirements expand across payers, policies, and workflows, providers increasingly choose embedded solutions they trust that deliver consistent financial outcomes."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "Importantly, the AI era is expanding Waystar's total addressable market opportunity meaningfully. Historically, revenue cycle technology addressed a roughly $20 billion software market. As we embed agentic AI directly into mission-critical workflows, we're building toward what we believe is the future of this industry, the autonomous revenue cycle platform. That shift unlocks a much larger opportunity, the approximately $100 billion in annual revenue cycle labor services performed across the industry today. We believe we're well-positioned to automate a meaningful portion of this labor pool through new AI-powered capability launches like denials, prior authorization, and recoupment. In healthcare, where regulation and risk define success, this shift is critical, and Waystar is built to win."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "Our AI advantage is anchored in billions of proprietary longitudinal financial and clinical data points, deeply integrated workflows with significant switching and disruption risk, hard-won domain expertise that positions us as the trusted AI partner, and proven ability to operate at scale in an environment with little tolerance for hallucinations. Our first quarter results reinforce our conviction. Revenue of $314 million, representing 22% year-over-year growth. Strong retention supported that performance with net revenue retention of approximately 111% alongside continued adoption of our AI platform and approximately 99% first-pass acceptance rates across the platform. With that context, let me highlight a few key points from the quarter. First, our core growth drivers are durable. Continued expansion across the platform and solid core execution drove our results. We expanded within our installed base and demand signals are strong."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "Second, AI traction is accelerating. AI-powered capabilities drove roughly 40% of new bookings in Q1, and our clients leaned into the platform for prevention, automation, and visibility rather than downstream rework. That shift reflects the value of embedded intelligence across the revenue cycle. Third, we maintain discipline through near-term headwinds. A few factors pressured patient payment volumes during the quarter, reflecting broader macro and weather-related dynamics. We held financial discipline while continuing to invest in innovation. Steve will expand on these dynamics shortly. Let me discuss the quarter in more detail. We continued to expand our client base in Q1, adding 42 new clients with more than $100,000 in trailing twelve-month revenue. Win rates exceeded our historical averages across segments, and we continue to see RFP activity shift toward platform evaluations over point solutions, favoring Waystar's unified mission-critical platform."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "We also delivered strong bookings ahead of internal expectations and building on a record Q4. Demand was broad-based, driven by both new logo wins and expansions within our installed base. We continue to build momentum with larger, complex provider organizations as they consolidate vendors and standardize on a single platform. Our implementation backlog is elevated across segments. We carry what we believe is the largest qualified sales pipeline in our history, reflecting deep multi-year platform commitments from providers and supporting visibility into 2027. Waystar delivered adjusted EBITDA of $135 million in Q1, representing an adjusted EBITDA margin of 43%. Revenue mix elevated the margin slightly above expectations, which Steve will discuss. We continue to balance profitability with targeted investment in innovation and AI. Turning to Iodine, integration is running ahead of plan and continues to validate the strategic rationale of the acquisition."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "Iodine extends Waystar into the mid-cycle, where clinical intelligence plays a critical role in preventing denials and ensuring compliant reimbursement. The convergence of financial and clinical data represents one of the largest unmet needs in the revenue cycle, and new third-party research confirms it. A recent study of 50 mid-cycle leaders found that 86% of organizations have financial and clinical systems that are completely siloed or are reliant on manual data transfers, resulting in a lack of visibility into payer payment and denial outcomes. 100% expressed interest in a single AI-powered platform to bridge the gap from mid-cycle to the final claim. We'll publish the full study in the coming weeks, but these findings reinforce why we acquired Iodine and the demand signal we're seeing in the market. Iodine's AI talent is now fully integrated into Waystar, accelerating AI initiatives across the combined platform."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "We're generating early cross-sell traction in both directions, and go-to-market demand is exceeding our expectations. Last quarter, we outlined the four interconnected pillars that position Waystar to lead in the AI-powered revenue cycle. Now, I'll focus on how those pillars translate into outcomes for providers. First, Waystar is the mission-critical infrastructure providers depend on to get paid, operating at scale in one of the most highly regulated payment environments directly inside live revenue cycle workflows, eligibility, authorization, claims, denials, appeals, and payments. This results in very sticky long-term customer relationships. Second is our proprietary data at scale. We process over 7.5 billion transactions each year, and with Iodine, our models now learn from clinical data on approximately one-third of U.S. hospital discharges annually, giving us visibility into the financial and clinical dimensions of reimbursement. Not just what happened, but why."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "Our models learn across hospitals, physician practices, and ambulatory settings. Every claim, denial, and payment improves performance. Clients benefit from patterns across tens of thousands of similar organizations. Third, Waystar operates a deeply deployed multi-sided network and proprietary data rails between payers and providers. We connect over one million providers to every major payer through 100,000-plus live integrations across electronic health records, practice management systems, clearinghouses, and clinical platforms. We touch roughly 60% of the U.S. patient population each year, yet we only penetrate a small portion of the total transactions those patients generate. As volume increases, our platform delivers better outcomes. Fourth, Waystar combines scale distribution with deep domain expertise. We serve providers across all care settings with low client concentration, creating both resilience and broad reach. Our forward-deployed teams, Product, clinical, revenue integrity, and client success work directly inside real workflows."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "We develop and refine many of our AI capabilities in close partnership with clients, ensuring what we deliver works in production. With that foundation in place, let me turn briefly to how AI is operating and evolving across the platform today. At Waystar, AI is embedded directly inside workflows where decisions are made and dollars move. The platform identifies issues upstream, resolves them inside live workflows, and learns continuously from outcomes. This quarter, we accelerated the shift from task-level automation toward agentic workflows. Each step moves us closer to the autonomous revenue cycle, where the platform absorbs the administrative burden so teams can focus on exceptions, strategy, and patient care. Today, approximately 50% of our solutions leverage AI, and nearly 40% of revenue is generated by AI-embedded workflows."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "At last week's Spring Innovation Showcase, we introduced several net new capabilities that expand AI-embedded workflows across the revenue cycle, including deeper convergence of financial and clinical intelligence to prevent issues before billing and expanded agentic intelligence that assesses documentation, prioritizes opportunities, and guides next steps directly within live workflows. Early deployments are delivering strong outcomes. Our new Prebill Anomaly Detection solution delivers an estimated $3 million in net revenue per 10,000 patient discharges and a 5x return in recovered revenue over three years. New Waystar Altitude AI-powered capabilities within our patient financial experience are expected to drive a 50% increase in collections, meaningful in a market where patients account for more than $556 billion in out-of-pocket spending. Some of the most damaging revenue loss in healthcare happens after providers have already been paid through payer recoupments."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "Payers regularly take back funds from previously paid claims, often months or years later, by offsetting them against future payments with little transparency into which claims are involved, why the funds were recouped, or whether the action is even valid. Based on our industry remittance data analysis, we estimate payers take back over $40 billion from providers each year through these offsets, and recoupments are growing at more than two times the rate of overall claim volume, creating significant accelerating cash flow volatility. Waystar's new recoupment solution, built on Altitude AI, brings transparency to this process. Providers can now detect previously hidden recoupments, understand their root causes, and take action efficiently, all using remittance data at scale. Early results are compelling."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "Providers are reducing recoupment reconciliation time by over 80%, and one early adopter health system matched $32 million in revenue risk, work equivalent to approximately 13 full-time employees. This new SKU integrates quickly for existing clients and demonstrates how we convert administrative complexity into financial outcomes through AI. Looking ahead, our priorities are clear. Execute against our product roadmap with AI embedded deeper into every workflow. Drive cross-sell and platform adoption across our installed base, and maintain operational discipline while investing in the capabilities that widen our competitive advantage. Q1 reinforces that our role in the healthcare ecosystem is deepening. We're operating at the intersection of complexity, scale, and outcomes, and our platform is engineered for exactly this environment."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "Before I turn the call over to Steve, I'm pleased to share that we'll be hosting our first Analyst Day on Tuesday, August 25th, alongside our annual Waystar True North client conference. You'll hear directly from our customers, partners, and leadership team. We hope that many of you can join us. With that, let me turn it over to Steve."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "timestamp": null,
+      "text": "Thanks, Matt. Revenue increased 22% year-over-year in the first quarter to $314 million. Organic revenue grew 11% year-over-year. Performance in the quarter reflects strong execution across the business and expansion within the customer base. Bookings exceeded internal expectations and include a double-digit count of $1 million-plus annual value contracts, which is above our historical quarterly performance. These contracts have both longer lead time to revenue and attractive profitability. Clients generating more than $100,000 of revenue in the last 12 months increased by 42 in the first quarter to 1,433 at quarter end, an increase of 15% year-over-year."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "timestamp": null,
+      "text": "Our net revenue retention rate, also viewed on a last twelve-month basis, was 111% at the end of Q1, slightly above the historical range of 108%-110%. Subscription revenue of $172 million for the first quarter increased 38% year-over-year, 3% sequentially, was 55% of total revenue. On an organic basis, subscription revenue grew 14% year-over-year. The growth and revenue composition are in line with our expectations. Volume-based revenue of $139 million for the first quarter increased 7% year-over-year, 4% sequentially. As we moved through the quarter, we saw some modest offsets within our volume trends that were most evident in patient interactions with healthcare providers and taken together affected volume-based revenues."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "timestamp": null,
+      "text": "These headwinds were primarily concentrated in patient payment solutions, which represent approximately 25% of revenue and include a combination of external and client-driven dynamics. Specifically, we saw accelerated conversion from print to digital patient statements as clients continue to focus on efficient ways to engage with patients. While we've been advocating for the shift to digital for some time, adoption in Q1 was ahead of historical rates, and we have updated expectations for the remainder of the year accordingly. We also saw two factors affecting patient utilization of the healthcare system during the quarter: changes in healthcare coverage and weather-related impacts. Importantly, none of these factors were competitive or product-driven, as evidenced by our strong bookings performance over the past three quarters and a record qualified sales pipeline at the outset of Q2."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "timestamp": null,
+      "text": "Adjusted EBITDA of $135 million for the first quarter increased 26% year-over-year. The adjusted EBITDA margin of 43% was primarily driven by a shift to higher margin solutions. Specifically, provider solutions, which have a higher margins and comprise approximately 75% of revenue, organically grew year-over-year at double the rate of lower margin patient payment solutions. Please see our latest investor presentation for more details on historic growth rates of these two solution sets. Our capital position is strong with healthy cash flows as we ended the quarter with $159 million in cash equivalents and short-term investments and $1.5 billion in gross debt. Unlevered free cash flow was $90 million in the first quarter, and we converted 67% of adjusted EBITDA to unlevered free cash flow."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "timestamp": null,
+      "text": "As of March 31st, net leverage was 2.7 times, compared to three times at the end of 2025, which aligns with our historical ability to de-lever one turn annually. As a reminder, we expect to run the business at or below a three times leverage ratio. We are also pleased with the recognition of our efforts managing our capital structure, as noted by both Moody's and S&P upgrading their ratings of our debt facility in the past couple of months."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "timestamp": null,
+      "text": "Based on the first quarter performance and our current visibility for the rest of the year, we reaffirm our revenue guidance range of $1.274 billion-$1.294 billion, with the midpoint of $1.284 billion, representing 17% year-over-year growth and adjusted EBITDA range of $530 million-$540 million, with the midpoint of $535 million. Our full year guidance at the midpoint continues to assume normalized organic revenue growth of approximately 10%, consistent with our low double-digit long-term growth target. We expect the strong demand in booking activity we saw in the first quarter, along with similar results in the second half of 2025, to provide upside opportunity for growth in late 2026 and beyond."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "timestamp": null,
+      "text": "We are balancing that expectation with the near-term impact of the previously discussed offsets, which we expect adjust the typical first half, second half of the year seasonality curve associated with patient payments to have much less variability in 2026 relative to the past couple of years. While we previously communicated that we expect 1%-3% sequential quarterly growth throughout 2026, with Q3 at the low end, we now anticipate Q2 sequential growth to be flat to 1% and Q3 to be 1%-3%. This concludes our opening remarks. We are ready for your questions. Operator, please open the call."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "Certainly. As a reminder, to ask a question, you will need to press star-one-one on your telephone and wait for your name to be announced. To withdraw your question, please press star-one-one again. In the interest of time, please limit yourself to one question. Please stand by while we compile our Q&A roster. Our first question will be coming from the line of Adam Hotchkiss of Goldman Sachs. Your line is open, Adam."
+    },
+    {
+      "speaker": "Adam Hotchkiss",
+      "timestamp": null,
+      "text": "Great. Thanks so much for taking the questions. I guess, Matt, you spoke about 40% of revenue being associated with workflows related to AI. I think that speaks to the defensibility of the platform as you work AI into the existing solutions. How should we think about the degree to which AI can be additive to your TAM and show up as re-accelerating revenue growth? I guess I'm just trying to marry the stability of the current organic growth rate with some of the AI strength you're calling out in numbers and how we may see AI SKUs impact revenue growth in the future. Thanks so much."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "Thanks, Adam. Appreciate your thoughtful question about AI. One of the things that you heard us just speak to, I believe we've provided a Slide or two this quarter and in the past, is the much larger total addressable market that we're able to go after by deploying AI capabilities that replace manual services. We note that, like, a recent McKinsey report stated that, this ongoing shift in value pools from services to technology and software platforms will expand this incredible addressable market opportunity."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "I think what you see with our recent Spring Innovation Showcase launch, where we are consistently pointing people toward the autonomous revenue cycle platform and then delivering new AI-powered capabilities, whether it's the new recoupment SKU that we highlighted or it's things that show up in our Innovation Showcase, like the Prebill Anomaly Detection solution that replaces manual work from needing to take place. It's going to allow Waystar to pursue a much larger addressable market opportunity. We're very excited about that. We view AI as a tailwind and as the biggest opportunity in our lifetime."
+    },
+    {
+      "speaker": "Adam Hotchkiss",
+      "timestamp": null,
+      "text": "Great. Thank you very much."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "Our next question will be coming from the line of Charles Rhyee of TD Cowen. Your line is open, Charles."
+    },
+    {
+      "speaker": "Charles Rhyee",
+      "timestamp": null,
+      "text": "Yeah. Thanks for taking the question. Hey, I want to ask about the comments you made about volume-based revenues. Obviously, it looks like patient revenue was up only about 4% in the quarter. It's been going up more about 8% the last two quarters prior. You made some comment about accelerated move from print to digital billing. Just curious, why would that necessarily have an impact? You know, you did call out weather, but are you able to sort of isolate how much maybe weather might have had an impact on that? Just trying to understand a little bit what's happening there and how we should think about patient volume-based payments to look as we think about the guidance, particularly at the Q2 commentary on flat revenue."
+    },
+    {
+      "speaker": "Charles Rhyee",
+      "timestamp": null,
+      "text": "Any help there would be helpful. Thank you."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "Thanks, Charles. Let me start, and then I'll turn it to Steve. We certainly work to be transparent with what we observe taking place in the business, and we did highlight a couple of the offsets in the transaction volume. Most of that was a function of this dynamic of the acceleration of conversion from print statements to digital statements. We've talked about this for quite some time. We know that there's this tremendous digital transformation opportunity that exists in healthcare, where we reduce paper and postage and take costs out of the system while we actually increase the patient experience and ensure that we get providers paid accurately and successfully. We view this digital transformation as ultimately being good for providers, good for patients, quite frankly, good for the Earth, and good for Waystar."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "Waystar has digital integrated patient payment solutions that improve transparency, improve the patient payment, plan adherence, and really are also helpful to providers. I guess I'd say one other thing, and then we can comment on some of the quarterly commentary, and I'll ask Steve to help us there. I'd say it's important to note that while we see this trend, and we're kind of factoring that into how we think about 2026, we view this as an opportunity. We view this transformation as something that's good, as you've heard me describe. This offset, if you will, has zero to do with AI competition and more to do with doing what's right for healthcare. With that, Waystar can be an enabler of that. I'll turn it to Steve for added commentary."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "timestamp": null,
+      "text": "Yeah. Hopefully, Charles, when you get a chance, I'd guide you to look at Slide eight of our IR deck. We expanded it to include the split of provider and patient payment solutions revenue by quarter and the historical trends since the first quarter of 2024. You know, transparently, most people could have picked it up from our filings, but we felt that it just made more sense to illustrate it here so you can actually see the same things that we're seeing going on in the business. To Matt's point, right, you continue to see the strength of the business in growing in provider solutions, which are 75% of the total revenue."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "timestamp": null,
+      "text": "We talked about in the past, very high margins when we look at it from a very low direct third-party cost associated with it. Over the past six quarters, that's continued to grow nicely on an organic basis, which we also called out on the Slide, anywhere between on average 13%-14% year-over-year."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "timestamp": null,
+      "text": "The offsets we talk about are in, and as you mentioned, in-patient payments at 25% of the revenue stream where we're helping providers connect with and interact with, and get paid by patients. That's where we're seeing that conversion of from print to digital statements. Transparently, that does impact the top line revenue number on a unit economic basis. When you look at it from a margin dollars or a cash flow, that conversion is neutral. We see positivity long term in the business there because it's going to allow us to see margin accretion in the business overall. A little bit of that which you see in the first quarter here as well, and we called out based on the revenue composition for the first quarter."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "timestamp": null,
+      "text": "Hopefully that's helpful commentary and a good spot to go look and really dive into the details on that impact."
+    },
+    {
+      "speaker": "Charles Rhyee",
+      "timestamp": null,
+      "text": "Okay. Appreciate that. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "Our next question will be coming from Jailendra Singh of Truist Securities. Your line is open."
+    },
+    {
+      "speaker": "Jailendra Singh",
+      "timestamp": null,
+      "text": "Thank you. Thanks for taking my questions. I want to follow up on your comments that about bookings coming in ahead of internal expectations. I think you talked about 40% new bookings driven by AI solutions, and appreciate all the color there. Can you elaborate on the remaining 60% bookings? Are there any particular areas that are seeing outperformance? Considering the race we are seeing between payers and providers, are you seeing an increased urgency from providers which might result in a faster conversion than what we have seen in the past?"
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "Oh, thank you, Jailendra. Yeah, we note that we've just seen nice momentum and I feel like our business is getting better and better every quarter. The bookings momentum is across both new prospects as well as cross-sell and upsell. We are growing across every segment of our business with high quality opportunities. As we, it's interesting, we look at the size of the bookings, just a little color commentary here. We called out in the last two quarters of 2025 that the number of million-dollar bookings were more than two times the quarterly average of the past three years. That trend is continuing. We're seeing more large bookings."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "To us, that validates our platform approach as these bookings are often multi-solution or platform sales, often involving AI, that hopefully can be turned on faster. Generally, cross-sell and upsell bookings, we're able to build in an implementation plan for existing clients. Given the larger nature, whether it's new or existing, if these bookings are larger in size, they're still taking six-18 months to show up in our revenue model. We've noted in the past how larger deals typically take this type of time for full revenue realization. Certainly we have internal teams focused on compressing that time. It's just a balancing act. Sometimes it's what the actual provider organization wants. Overall, we're pleased with the progress that we're making. We start Q2 with the largest qualified pipeline of new and cross-sell, upsell opportunities in our history."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "That gives us a sense of momentum and conviction about the work that we're doing. We also start, you know, with, as you might anticipate, at the start of Q2, a large implementation backlog. Hopefully that commentary is helpful, Jailendra. Appreciate your question."
+    },
+    {
+      "speaker": "Jailendra Singh",
+      "timestamp": null,
+      "text": "Great. Thanks a lot."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "Our next question will be coming from the line of Ryan Daniels of William Blair. Your line is open."
+    },
+    {
+      "speaker": "Ryan Daniels",
+      "timestamp": null,
+      "text": "Yeah. Thanks for taking the question. Matt, maybe one for you. You talked about early adopters of the payment recoupment solution seeing some very good ROI. I heard in your prepared comments you stated that was a new SKU, so it sounds like a new AI-enabled revenue generation opportunity. What I'm hoping you can dive into a bit more is, how long does it take for solutions like this to kinda go broadly across your client base? Also, you know, are you doing any go-to-market changes, given the potential increased value of solutions like this that are new and AI-enabled that can really add value on a rapid basis? Thanks."
+    }
+  ],
+  "qAndA": [
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "Thank you, Ryan. We're sure excited about this new AI-powered recoupment solution. It does represent a new SKU. As you've heard us speak to in the past, these AI-powered solutions have multiple ways to show up into our business model. First, certainly, longevity of clients and sustaining sticky relationships with clients. Second, pricing, AI solutions where we're strengthening, in some cases, existing software with more LLM-based AI capability. We price those to value for clients as we're delivering incremental capability. In the case of a new SKU, like this AI-powered recoupment, and what will soon follow in the Prebill Anomaly Detection solution, if I were to pull back the curtain just a bit, we go through an extensive amount of training for our teams."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "Certainly the product and technology teams are stoked to build these kind of capabilities and to launch them. We do have a robust early adopter program. We're getting great feedback from some of the leading provider organizations in the United States. This is a robust kind of test and learn environment. Once we get ready to launch, we have also brought along our go-to-market teams, our product marketing teams to do a little bit of outbound product marketing to build excitement and webinars and things that will educate provider organizations on the benefits of these types of solutions while we're training our go-to-market teams. Just last week, we were at a growth summit."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "We had several hundred people engaged in hands-on training on making sure that we're able to talk about these solutions, get these solutions into the hands of provider organizations and do ROI calculators, things like that. Along the way, we're training our operational teams as well to be able to implement these solutions. They do a fantastic job, I might add. Depending on the SKU, we're able to turn some of these things on rapidly. To your question, we're always exploring ways for us to turn on new capability in a way that clients can absorb it into the platform and begin to use it and get the benefit of it. That often involves training and some educational component."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "The nice thing about our platform, Ryan, is we're conditioning end users to consume AI in a construct that they understand. As you know, we deliver hundreds and hundreds of capabilities onto our platform each and every quarter. We want people to understand the power that they have. Sometimes the technology is a little bit ahead of where the human factor is. It's not just about turning this capability on and on the platform, it's about making sure that providers can get the benefit that they want as they begin to consume this exciting new AI capability."
+    },
+    {
+      "speaker": "Ryan Daniels",
+      "timestamp": null,
+      "text": "Great. Super helpful color. Thank you."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "Thanks for-"
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "Our next question will be coming from Craig Hettenbach of Morgan Stanley. Craig, your line is open."
+    },
+    {
+      "speaker": "Craig Hettenbach",
+      "timestamp": null,
+      "text": "Great. Thank you. Matt, just had a question. When I think about, you know, how fragmented the revenue cycle management space is, you know, your comments around kind of point solutions versus platforms, what do you think is the tipping point in terms of driving a faster acceleration towards platforms? What are some of the things you're hearing from your customers and seeing in the market?"
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "Thank you, Craig. You know, it's interesting. There's a lot of excitement right now. It's not necessarily a new phenomenon. Our healthcare and the revenue cycle space has had a long history of point solutions, and it was our vision from the very outset that Waystar could create an enterprise caliber end-to-end integrated platform. You know, that came, that vision came from actually showing up and talking to provider organization decision-makers who are, quite frankly, fatigued at using point solutions. The example that I've given recently was I was with a CFO, excuse me, a CIO of a very large system not long ago, and very impressive lady. She said, \"Matt, can you help us? Can your platform help us?"
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "I currently use more than 12 point solutions just to manage our revenue cycle process. Of course, that's where the platform approach really comes to play. What we hear providers want increasingly, they wanna be able to call one person or one organization to help them across the platform to be able to tackle their most persistent challenges. I think that's where you see the momentum and the size of the deals that we're signing, the quality of our pipeline start to show up. The forward demand indicators to us mean that there's more excitement about our platform than perhaps ever before. This is what we were dreaming of eight years ago when we formed Waystar. Hopefully that context is helpful."
+    },
+    {
+      "speaker": "Craig Hettenbach",
+      "timestamp": null,
+      "text": "Helpful color. Thanks."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "Our next question will be coming from the line of Sean Dodge of BMO Capital Markets. Your line is open, Sean."
+    },
+    {
+      "speaker": "Sean Dodge",
+      "timestamp": null,
+      "text": "Yeah. Thanks. Good afternoon. Maybe just kind of staying on this AI and how that likely changes the market. Matt, you talked a lot about embedding more AI in Waystar offerings and that driving more value for clients. You also talked before about pricing to value, so adjusting the revenue model in a way that helps Waystar participate in some of that value creation. I guess, what do you think the timelines are that likely happens over this kind of idea of pricing to value? How near-term of an opportunity is that? Like how big of a paradigm shift is that in your pricing approach? My guess is you guys have always tried to price to value, so this is just kind of what you've always done."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "Yeah, Sean, that's a great question. Let me speak to that. I'd say we've always priced to value that we deliver. As we deliver these AI capabilities in a way that clients can absorb them, we're very excited about it. I think this is a long-term opportunity for us to truly price to the value that these are delivering. When we call out in our prepared remarks on the earnings call, the type of impact oftentimes will associate the reduction of manual work and the number of people involved in historically doing that manual work. We know that there's impact in the solutions that we have to offer. Now, I would say, you know, we're already monetizing AI through our core business model."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "Part of this really isn't a science project by trying to tie it to modules or outcomes or operating discipline in a new way. We're already doing that. You know, this does give us a chance to reflect on the continued effort to price, to value. We know that the human labor factor in healthcare is the most expensive expense line in most healthcare organizations. If we can help them, those people become even more productive and focus on higher order, higher valued work, then we're doing our jobs, and we're delivering AI in a way that can be very constructive to those organizations."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "While we don't wanna disclose too much on our pricing philosophy on a, on a public call, I think what I'd also say is that we've always been a consumption-based pricing model. We've always deployed an amazing software and AI capability that ties to the actual business activity in an organization. We're not a per-seat, you know, fee-based company. We're tied to consumption and successful outcomes for the organizations that we work with."
+    },
+    {
+      "speaker": "Sean Dodge",
+      "timestamp": null,
+      "text": "Okay. Super helpful. Thanks again."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "Our next question will come from Stan Berenshteyn of Wells Fargo Securities LLC. Your line is open, Stan."
+    },
+    {
+      "speaker": "Stan Berenshteyn",
+      "timestamp": null,
+      "text": "Hi. Good evening. Thanks for taking my questions. I wanted to ask about the sales cycle. You obviously called out you have a lot more SKUs. You're generating much larger sales on a per-client basis. And obviously this requires your sales reps to do a bit more learning. Perhaps the clients have to do a bit more educating on what you're offering. How is that impacting the sales cycle? Any changes in the conversion rates as we think about this year and next year? Thank you."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "Thanks, Stan. You know, I wish I could have taken you with me to our growth summit that we hosted just last week. It felt like an NFL mini camp because we take our growth account executives, and we feel like they're the finest, best in the industry. We expect them to be very productive, very focused. These are very well-trained people. Our goal, if we do this right, is we wanna consistently be delivering them new capability to introduce to clients and to prospects. First and foremost, we take a platform approach, and so you can imagine that it becomes really additive to the platform every time we're talking about a new high-value AI-powered solution. You know, our growth team loves that. We have a methodology that we follow."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "We have great people in our training and development and strength and conditioning, if I can use the NFL analogy. We have a really great team of people who want new product. As we give it to them, it shows up in the type of demand statistics that we've talked about. You know, elevated really nice bookings, higher deal sizes, a great qualified pipeline. We work with great sales leaders to qualify that pipeline, and it allows us to get traction and create some longer-term vision toward what can we build toward. Hope that commentary is helpful, Stan. Yeah, they're always eager to get more solutions and we take training very seriously so we can empower these great people to go help us grow."
+    },
+    {
+      "speaker": "Stan Berenshteyn",
+      "timestamp": null,
+      "text": "Just to kinda reiterate, is that impacting the sales cycle at all, you know, given the shift towards more SKUs and larger sales? Thanks."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "Thanks. Let me, let me say that, it is not. We've highlighted that each of the segments that we sell to have different sales cycles. Along the lines of your thoughtful question, hospitals and health systems tend to be 12-24 months, sales cycles. Certainly depending on the size of a non-hospital or an ambulatory type organization, those sales cycles can be smaller, or shorter in length. But we're not noticing a compression of time or any elongation of time. We are also seeing, elevated win rates. So as we're introducing new solutions, if anything, the validating point is that, sales cycles are staying the same, and we're seeing elevated win rates."
+    },
+    {
+      "speaker": "Stan Berenshteyn",
+      "timestamp": null,
+      "text": "Very helpful. Thank you so much."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "Our next question will be coming from the line of Ryan MacDonald of Needham and Company. Your line is open, Ryan."
+    },
+    {
+      "speaker": "Ryan MacDonald",
+      "timestamp": null,
+      "text": "Hi. Thanks for taking my questions. Matt, maybe we'll give you a little bit of a breather on this one. I got one for Steve on margins. Steve, I'm curious, as how we should think about sort of the pacing and magnitude of incremental investment as we go throughout the year. Was there anything in Q1 in terms of investments where you sort of held back or pushed out to later in the year? Reason I ask is obviously Q1 has historically been sort of the low watermark from an adjusted EBITDA margin perspective and"
+    },
+    {
+      "speaker": "Ryan MacDonald",
+      "timestamp": null,
+      "text": "Sort of based on the implied guidance, even if you run rate out Q1 adjusted EBITDA throughout the remainder of the year, we're getting to that sort of $540 million sort of high end of the range. Just wondering if there what the puts and takes there with the reaffirmation of the guidance. Thanks."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "timestamp": null,
+      "text": "Yeah, certainly, Ryan. You know, our, our focus and where we're reinvesting back into the business hasn't changed to start with, right? It'll continue to be in innovation, the clients, the client experience and cybersecurity. No changes to areas of focus. To your question on the 43% margin, adjusted EBITDA margin for the quarter versus 42% overall guide. You are correct, typically Q1 tends to be a little lower. That really truly is what we're seeing in the growth of the sort of the revenue breakdown that I had mentioned earlier with the provider solutions growing at a faster rate and having a much higher, you know, bottom line contribution than patient payments."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "timestamp": null,
+      "text": "Now, the one thing, as we look out to the full year, with some of the offsets we talked about and some of what we're seeing in patient payments and in the interaction in the first quarter of the year, we do expect that that first half of the year, second half of the year variability that we tend to see, just seasonality that we tend to see in that business to be tighter to the, you know, the normal or if I could say a lighter beta than we've seen in prior years. We would expect a little bit of that happening to the shaping throughout the year."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "timestamp": null,
+      "text": "There's nothing from an innovation or an investment perspective that we were light on from where we expected to be at in the first quarter. Good opportunity to continue to drive, you know, exceptional margins throughout the rest of the year."
+    },
+    {
+      "speaker": "Ryan MacDonald",
+      "timestamp": null,
+      "text": "Appreciate the color. Thanks, Steve."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "timestamp": null,
+      "text": "You're welcome."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "Now, our next question comes from the line of George Hill of Deutsche Bank. Your line's open."
+    },
+    {
+      "speaker": "George Hill",
+      "timestamp": null,
+      "text": "Good evening, guys, thanks for taking the question. I'll say, Steve, I've got another one for you, which is, can we unpack the slowdown a little bit more in the Q2 expectations for the volume-based revenue? I think a lot of us in services have seen the slowdown in utilization kind of in the first part of Q1 as it relates to flu and weather. Is this like a paper to electronic conversion process? Is this a claims lag issue, which is why you guys are seeing it in Q2? Is it you guys haven't seen the re-acceleration or the uptick yet? I'd really like just to understand more of the mechanics of the accounting and what you guys are seeing in this, recognizing, you know, it's 25% of the revenue."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "timestamp": null,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "George Hill",
+      "timestamp": null,
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "timestamp": null,
+      "text": "Certainly, George. You know, weather had an impact in the first quarter. We wouldn't expect an impact going forward for the rest of the year. It is primarily the conversion of print to digital statements, and then also a little bit of the utilization of the healthcare system by patients. Now, typically, to your question specifically on the second quarter and the shaping. Typically, the second quarter tends to be one of the stronger utilization quarters historically that we've seen. Right now, what we're seeing with the print to digital conversion and how we're seeing that play out from a rest of the year perspective, we think that largely offsets what we see in sort of the patient visitation uptick."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "timestamp": null,
+      "text": "That's really what we're looking at and how we're how we're sort of giving the guidance for Q2 and then the rest of the year. The rest of the year is an impact of why we're seeing strength there is some of those longer term the larger deals that we've seen and we've talked about in the Q3 and the Q4 timeframe that we've previously said, you know, and still believe on the whole, they tend to take longer lead time to revenue more towards that 18-month side of the 6-18 month transit or sort of full ramping period."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "timestamp": null,
+      "text": "We're also seeing, you know, some good opportunities, as Matt had mentioned, working with clients to move some of those clients and get them up and running and seeing that ROI faster, positively impacting the back half of the year. I know you're familiar with it, George, on the seasonality aspect in patient payments, especially in the processing of collections, tends to be with that segment of patients that are on high deductible plans. That's what generally causes that seasonality aspect. For others on there, did wanna mention that's really why we see in that 25% of the revenue, sort of that first half, second half of the year dynamic."
+    },
+    {
+      "speaker": "George Hill",
+      "timestamp": null,
+      "text": "I appreciate the call. Thank you."
+    },
+    {
+      "speaker": "Steve Oreskovich",
+      "timestamp": null,
+      "text": "Thanks, George."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "Our next question will be coming from the line of Daniel Grosslight of Citi. Your line is open."
+    },
+    {
+      "speaker": "Speaker",
+      "timestamp": null,
+      "text": "Hey, this is Luis on for Daniel. I just had a follow-up. You noted earlier in the call that AI drove 40% of your bookings, and I know that you offer a broad array of AI products and not just LLM products like, obviously, Altitude AI. Can you give more details, if providers are more interested in just the newer, more innovative solutions like Altitude, or is the demand just for AI broad across your portfolio? Thanks."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "Thank you for the question. You know, we know that providers are very interested in the use of AI to help them operate and run their businesses."
+    },
+    {
+      "speaker": "Matt Hawkins",
+      "timestamp": null,
+      "text": "We know they want to use AI, but they're reticent to use point solutions. The vast majority of provider organizations aren't equipped to necessarily stand up their own technology teams, let alone teams that can support AI on a standalone basis in their organizations. They're looking for trusted partners like Waystar. I think as we engage, we note that there's certainly excitement around the new LLM or AI-powered solutions that Waystar offers. There's also broader-based interest in some of our AI-powered solutions. AI is a broad category, so it would include machine learning and some data science that produces intelligence or insight. As you've heard us talk about in our prepared remarks, our deeply deployed multi-sided network, there's just so much learning that takes place on that network as a result of all these different forms of AI."
+    }
+  ],
+  "totalTurns": 110
+}

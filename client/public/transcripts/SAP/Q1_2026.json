@@ -1,0 +1,410 @@
+{
+  "ticker": "SAP",
+  "period": "Q1 2026",
+  "eventDate": "2026-04-23",
+  "preparedRemarks": [
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "Ladies and gentlemen, thank you for standing by. Welcome, and thank you for joining the SAP Q1 Financial Results Conference Call. Throughout today's recorded presentation, all participants will be in a listen-only mode. The presentation will be followed by a question and answer session. If you would like to ask a question, you may press star followed by one on your touch-tone telephone. I would now like to turn the conference over to Alexandra Steiger, Global Head of Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "Alexandra Steiger",
+      "timestamp": "",
+      "text": "Good evening, everyone, and welcome. Thank you for joining us. With me today are CEO Christian Klein and CFO Dominik Asam. On this call, we will discuss SAP's first quarter 2026 results. You can find the deck supplementing this call, as well as our quarterly statement on our investor relations website. During this call, we will make forward-looking statements, which are predictions, projections, or other statements about future events. These statements are based on current expectations and assumptions that are subject to risks and uncertainties that could cause actual results and outcomes to differ materially. Additional information regarding these risks and uncertainties may be found in our filings with the SEC, including but not limited to the risk factor section of our annual report on Form 20-F for 2025."
+    },
+    {
+      "speaker": "Alexandra Steiger",
+      "timestamp": "",
+      "text": "Unless otherwise stated, all numbers on this call are non-IFRS, and growth rates and percentage point changes are non-IFRS year-over-year at constant currencies. The non-IFRS financial measures we provide should not be considered as a substitute for or superior to the measures of financial performance prepared in accordance with IFRS. Before I begin, I would like to highlight our upcoming financial analyst conference at Sapphire taking place in Orlando next month. We look forward to seeing you there. For those unable to attend in person, I would like to invite you to join our webcast. With that, over to you, Christian."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "Yeah. Thank you, Alexandra, and a warm welcome to everyone joining the call. I'm happy to say that we delivered a strong start to the year. Our Q1 results demonstrate the ongoing momentum across our entire portfolio and a continued success of our strategy. We achieved these results against a shifting macroeconomic environment. While our business is very resilient, we are not completely immune to external dynamics. Uncertainty remains high, just as it does for every company. Still, we keep on delivering quarter by quarter, and we are also working on larger announcements for Sapphire, which will set us up to deliver high-value business AI at scale. We look forward to sharing more details with you in Orlando. Let's begin by looking at our Q1 performance. Our current cloud backlog increased 25% to EUR 21.9 billion. Cloud revenue grew 27%, almost crossing the EUR 6 billion mark."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "The strong performance was driven by a 30% acceleration in our cloud ERP suite revenue, bringing total revenue to EUR 9.6 billion for the quarter. This was a strong increase of +12%. Order entry from our public cloud solutions accelerated sharply in Q1, continuing the momentum from Q4. Public cloud order entry accounted for over 70% of our quarterly volume. With that, we keep on gaining market share, especially versus best-of-breed software vendors. Gartner Research just announced that SAP grew 15 percentage points faster versus the global enterprise applications cloud market in 2025. Our strong top-line performance translated directly into our bottom line, with an operating margin of 30%, up 2.9 percentage points. As a result, our operating profit in Q1 increased by 24% to EUR 2.9 billion. Finally, it's great to see that our growing partner ecosystem performed exceptionally well."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "Our indirect channel order entry grew significantly faster than our direct channel, accounting for almost 30% of our total order entry. Now, let me turn to the broader macro environment. Geopolitical tensions, mainly the conflict in the Middle East, have increased. The war is already having an economic impact in the region and on many energy-intensive industries. SAP is, of course, not completely immune against these disruptions, and the economic uncertainty makes it difficult to predict the impact on our total year results. We have seen many, many times in the past that customers are turning towards SAP in moments like these to invest into the resilience of their business. Our strong portfolio, together with our own resilient business model, provides a great foundation for SAP in uncertain times. We see this reflected in a very healthy pipeline coverage for 2026."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "Let's move on to some great customer wins in Q1. Leading companies from various industries selected RISE with SAP. They included ConocoPhillips in energy, Thales in defense, Air Liquide in industrial gases, and Bristol Myers Squibb in biotech. Moreover, PayPal, as well as the European division of automaker Hyundai and Swiss automotive supplier Aptiv, embarked on the RISE journey. Our software and cloud offerings also continued to gain traction with an important win, a defense company deal. Among the net new customers selecting GROW with SAP are the superfood brand OAKBERRY and Adesso, a leading IT service provider. On the AI and data side, we won Red Bull as well as Carl Zeiss, a global leader in optics and semiconductor manufacturing technology. In addition, Knauf, a leader in building materials, German food company Hochland, and Swedish manufacturer SKF, selected SAP Business Data Cloud. We also saw many successful go-lives."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "Samsung Electro-Mechanics completed the S/4HANA transformation as part of their RISE journey. Alibaba Cloud and Fonterra, a New Zealand-based agribusiness, both completed their transformation journeys with RISE. We are also proud to have supported ExxonMobil with a smooth deployment of their workforce ecosystem project. This go live on SAP SuccessFactors now supports more than 60,000 users globally. All of these customer wins demonstrate the confidence in our portfolio. This brings me to the core of our strategy, business AI. There is no doubt that AI will redefine how companies will run in the future. Here are some examples showing how SAP Business AI is already delivering significant value to our customers. At Daimler Trucks North America, SAP Business AI helped transform how the company wins contracts with fleet customers. Bid win rates jumped from 10% to more than 40%, delivering a EUR 70 million financial impact within 12 months."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "Queensland's Department of Transport and Main Roads uses SAP Business AI to predict road surface issues across 33,000 km. Engineers can now run statewide investment optimization in a single day instead of a week. Next to the accelerated speed, this predictive AI use case also generates millions in savings. At German manufacturer H\u00d6RMANN, an AI assistant analyzes complex construction tenders in hours instead of weeks, reducing manual effort by up to 70%. At automotive supplier Mauser Formpack, their invoicing process was accelerated by more than 9x, and product iteration time is now 30% faster. We also see how our AI supports faster and more cost-efficient ERP migrations. For example, our partner KPMG uses Joule for Consultants to accelerate ERP migrations. Project sprints are now completed up to 20% faster. EY uses SAP generative AI app to accelerate how it delivers SAP transformation projects."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "AI agents automate key phases from requirements through testing, reducing project delivery timelines by up to 30%. Bosch Digital equipped 1,500 developers with our AI, including Joule for Developers for their ERP migration. As a result, developer productivity increased by 20%, with unit test creation now 15%-20% faster. All of these AI use cases deliver significant customer value today. At the same time, let's be honest, large-scale adoption of enterprise AI is still in its early stages. Also, we at SAP are learning our lessons every day with our customers about what it really takes to make business AI work reliably, which is key when you run the world's most mission-critical and complex business processes. Agents often don't have yet the full understanding of business data and processes to deliver highly accurate outcomes."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "This is needed to deploy at scale and with high accuracy, agentic AI use cases in the most mission-critical parts of our customers' business. We are learning fast, and we are very confident that SAP has, compared to many other software companies, the right assets to win, very deep domain know-how about business processes and data, as well as enterprise-grade governance and security. SAP's ERP, developed over 50 years, can also be seen as the institutional brain of every company, where data and process domain know-how is getting stored. The launch of SAP Business Data Cloud last year was another important step to enable our customers to further expand the SAP semantic data model to non-SAP data. BDC allows our customers to build an end-to-end data platform, which is key for high-value AI."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "At Sapphire, we plan to announce some fundamental changes to our portfolio to infuse this deep domain know-how into SAP's AI agents, and we will govern the agentic AI layer for our customers. This foundational change will enable SAP AI agents at scale to deliver highly accurate results, to take actions across end-to-end processes in a secure manner. Let me address as well a question many of you have in mind. How will the AI transformation impact the financials of our company? First, SAP solutions as the institutional memory of every company will not disappear."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "On the contrary, we expect to continue to gain market share with our best-of-suite offering, because now more than ever, a harmonized data and process layer is key to harnessing the power of AI. With the infusion of AI across our products and migration tools, you will see an increasing share of consumption-related cloud revenue in our P&L. This shift will happen gradually over the next years with the expansion of business AI in our customer base. The good news is that in line with our system of records, the related subscription revenue will not disappear. Also, it is important to highlight that less than 40% of our 2025 cloud revenue was tied to named users. The remaining subscription cloud revenue is priced via non-seat-based metrics like revenues, memory used, and other value-related metrics."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "Let me emphasize once again that the ramp of consumption-based cloud revenue will be a gradual evolution and by no means a disruption comparable with the transition from on-prem to the cloud. At our financial analyst conference in Orlando, we are going to show you how our AI transformation will expand SAP's addressable market, as well as how both subscription and consumption-related cloud revenue will further drive SAP's growth ambition. Let's now look at how AI influences the way SAP operates itself. Our internal AI transformation starts with our people and their skills. We are executing comprehensive upskilling programs across the entire organization so every team can confidently apply AI in their day-to-day work. Our external hiring is highly targeted, focusing on recruiting top experts in data and AI. At the same time, AI will help us to run SAP as a company more autonomously in the future."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "We act as our Customer Zero, using our own AI across engineering, support, services, and go-to-market, with a direct impact on our top and bottom-line financials. Let me share with you what we have already achieved with some great examples. In our engineering teams, we are using AI to work more efficiently. With Joule for ABAP development and by third-party tools like Claude Code and GitHub Copilot, we are increasing developer productivity already by over 30%. With AI assistance, our service and support teams are handling significantly higher ticket volumes without a proportional increase in headcount. AI assists 100% of support cases, and 20% of our tickets are even resolved by AI, fully autonomous. Thanks to these efforts, we observed a 12% higher productivity in our support function."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "At SAP, we have more than 80,000 colleagues in services, and our consultants save with our AI one day per week by much more efficient system configuration and custom code analysis. This leads as well to faster project delivery and a huge productivity increase. For our go-to-market teams, AI improved our demand generation activities by personalizing and automating outbound campaigns tailored to customer situation. It saved over 83,000 hours and directly influenced the pipeline with additional EUR 50 million of value. Even better, it helps us to target the right customers, identifying real pain points early and replacing guesswork with focused engagement up to six times more effectively. As part of our internal transformation, we have communicated a clear goal to achieve a one-way of around EUR 2 billion in efficiencies by end of 2028, and we will share further details at our upcoming financial analyst conference."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "Let me now summarize. We delivered a strong Q1 in a challenging and uncertain business environment. Whenever tensions and crises occur, our software becomes more essential, not optional. This makes us confident for the remainder of the year. Finally, we are going to make significant progress with business AI in 2026. You will see this come to life at Sapphire. With that, I hand over to you, Dominik."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "timestamp": "",
+      "text": "Thank you very much, Christian, and thank you all for joining us this evening. As Christian stated in his opening remarks, 2026 is off to a strong start, supported by healthy current cloud backlog and total revenue growth, continued strength in cloud revenue, and strong operating profit performance. These results prove the merits of the strategy we've put in place and the cost discipline in managing our business against the backdrop of an increasingly complex and uncertain macroeconomic and geopolitical environment, now further shaped by the ongoing conflict in the Middle East. SAP continues to be a valued partner for organizations of all sizes, pursuing end-to-end digital transformation. As we look ahead, SAP Business AI, the SAP Business Data Cloud, as well as the SAP Sovereign Cloud, continue to play an increasingly important role in customer conversations and are becoming more relevant in their decision-making and deal activity."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "timestamp": "",
+      "text": "We look forward to showcasing the progress we are making across these areas at our upcoming SAP Sapphire in Orlando. Taken together, these results reinforce the trust that leading organizations place in SAP as they pursue complex transformation initiatives at speed and at scale. Now let me provide more details around our financial highlights. Current cloud backlog reached EUR 21.9 billion, up 25%. While CCB growth held up remarkably well in Q1, we continue to expect a slight deceleration in this metric over the coming quarters. Shortly after the escalation of the conflict, governments, as well as other customers and industries directly affected by the consequences in their supply chains and production facilities, reprioritized their activities to what one could characterize as immediate firefighting. Cloud revenue grew by 27%. It was positively impacted by several quarter-specific effects."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "timestamp": "",
+      "text": "As these are unlikely to reoccur, we expect deceleration of cloud revenue growth in the second quarter. Cloud ERP suite revenue increased by 30% in Q1, now accounting for 87% of total revenue growth in cloud. Software licenses revenue decreased by 33%. Finally, total revenue in the first quarter was EUR 9.6 billion, up 12%. Now let's take a brief look at our regional performance. In the first quarter, SAP's cloud revenue performance was particularly strong in APJ and EMEA, and solid in the Americas region. Brazil, France, Germany, India, South Korea, Switzerland, and the United Kingdom had outstanding performance, while the U.S. were particularly strong. Moving down the income statement, our IFRS cloud gross margin in Q1 was 74.6%, and non-IFRS was 75.2%, up 0.1 percentage points and marginally down by 0.1 percentage points at constant currencies. Nevertheless, IFRS operating profit increased by 17% to EUR 2.7 billion."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "timestamp": "",
+      "text": "Non-IFRS operating profit was even up by 24% to EUR 2.9 billion. IFRS and non-IFRS operating profit growth was supported by EUR 135 million decline of share-based compensation expenses. The SaaS apocalypse debate and the related 28% decline in our share price during the first quarter alone left its traces in that position. While we hedged the lion's share of our cash settled grants, the sheer magnitude of the move in the unhedged portion, in combination with related social charges that are not hedged, provided this, I have to admit, unintended relief, adding to continued strong general cost discipline."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "timestamp": "",
+      "text": "The IFRS effective tax rate was 29.1%, and the non-IFRS effective tax rate was 29.3%. Both were driven mainly by tax effects related to non-deductible expenses. Free cash flow in Q1 was EUR 3.2 billion, impacted by a payout of EUR 408 million related to the settlement of a Teradata litigation case."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "timestamp": "",
+      "text": "Finally, IFRS earnings per share increased by 9% to EUR 1.66, and non-IFRS earnings per share increased by 20% to EUR 1.72. Now on to the outlook. As you've likely seen in the quarterly statement issued earlier today, we are maintaining our financial outlook for the full year 2026. The outlook reflects the puts and takes we can quantify as of today with a reasonable confidence based on everything we have observed up to this point. It is based on a scenario of a near-term de-escalation of the conflict in the Middle East. Needless to say, a continuation or even further escalation of the conflict, and most importantly, the continued closure of the Strait of Hormuz would have the potential to materially derail the supply chains of many industries that are important to SAP."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "timestamp": "",
+      "text": "While as of now, the impact is limited to the governments and industries most directly affected, there could be contagion across supply chains on a global level. This in turn could jeopardize business continuity across many sectors, and as a result, weigh heavily on customer sentiment and investment behavior globally, ultimately potentially impairing our ability to meet the current outlook. Given the extremely high level of uncertainty around this, it is impossible to reasonably quantify the impact of such a meltdown scenario, and any speculation at this stage would almost certainly prove to be inaccurate, absent a near-term resolution."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "timestamp": "",
+      "text": "What we can say, however, is that assuming a reasonable resolution and a reopening of the Strait of Hormuz in the coming weeks, mitigation measures on the cost side as well as the expected contribution from the Reltio acquisition, we continue to expect to reach the ranges we have previously communicated for our financial KPIs. While we were able to weather Q1 basically unscathed in terms of direct P&L impact, we did already see war-related business impacts year to date. For the time being, we expect these to have a limited impact on 2026 cloud revenue, but you should not expect us to raise the outlook upon the imminent closing of Reltio. We will need that contribution to secure a reasonable level of confidence to reach the previously guided range for cloud revenue."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "timestamp": "",
+      "text": "With respect to current cloud backlog, we continue to expect a slight deceleration over the course of the year with a clearly wider range of possible outcomes given the current environment, recognizing that the timing and pace of bookings can still move around depending on how the macro develops. We did see some impact on H1 pipeline and bookings forecast from mid-March, i.e., 2 weeks after the beginning of the conflict. If conditions stabilize, we believe there remains an opportunity to close some of the deals that did not close as anticipated in the first quarter. Please keep in mind that the second half of the year typically accounts for the lion's share of our bookings, and visibility remains limited given the evolving environment."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "In summary, while we would have hoped for a more benign operating environment, we are very pleased with our resilience, as evidenced by the solid start to the year and the continued progress we are making against our priorities. The significant market share gains in our cloud business, most recently confirmed by both the most prominent specialized independent research houses, namely Gartner and IDC for calendar year 2025, are therefore solidly sustained into the first quarter of 2026. While the external environment remains dynamic, we stay focused on supporting our customers, executing our strategy, and positioning the business for long-term value creation. We are looking forward to welcoming you to our financial analyst conference in May. Given the myriads of customer testimonials, product and commercial model announcements, we plan for Sapphire in Orlando. We fully trust it'll be very much worth your time."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "timestamp": "",
+      "text": "Thank you, and we are happy to take your questions now."
+    },
+    {
+      "speaker": "Alexandra Steiger",
+      "timestamp": "",
+      "text": "Thank you, Dominik, and I would kindly remind you to only ask one question when prompted. Operator, please open the line."
+    }
+  ],
+  "qAndA": [
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "Thank you. Ladies and gentlemen, at this time we will begin the question and answer session. Anyone who wishes to ask a question may press star followed by one on their touch-tone telephone. If you are using speaker equipment today, please lift the handset before making your selection. Anyone who has a question may press star followed by one at this time. One moment for the first question, please. The first question is from the line of Mohammed Moawalla with Goldman Sachs. Please go ahead."
+    },
+    {
+      "speaker": "Mohammed Moawalla",
+      "timestamp": "",
+      "text": "Great. Thank you. Hi, Christian. Hey, Dominik. Congrats on the strong finish despite the macro circumstances. Can I just kind of dig in a little bit around your commentary around the environment? You talked about some sort of impact that you saw, but clearly were able to manage that, but as you look into that kind of all-important second half, when you talked about sort of customer decision making, there've been various kind of commentary out there around the pace of sort of the migration cycle. Can you perhaps, to isolate the macro from also maybe more product cycle specific factors and your visibility around that sort of second half and more broadly over the midterm around how that product cycle evolves? Thank you."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "Yeah, I can get started, and then Dominik, please add your feedback as well. First, when you, for the first step, actually exclude the macro for a second. I have seen such crises a lot in my career at SAP, and what it always does and leads to is actually that just today I had two customers talking to me about resiliency and supply chains, about the intelligence we can provide for them to operate their supply chain. We talk a lot about transportation and logistics. We see this actually. We have a strong portfolio there, and that combined with the intelligence of BDC and the AI agents we deliver now, step by step, actually makes me confident that that part of the portfolio definitely will see very healthy growth this year. You also heard me talking about AI, and I really want to be honest here to you."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "In the first step, all of the examples I have given to you are real, and we are delivering today significant value to our customers. Now, is there also a learning curve for us here at SAP? Definitely, and I guess every tech company has that because now when you talk about can we deliver these use cases, what I just highlight at scale, obviously there is work to do, work to do on the ontology layer. I always tell my team on the product cycle of AI, it's actually great that we are running the world's most mission-critical business process. You know what?"
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "This ERP, what we are actually owning, has so deep domain knowledge, and now the task is for the remainder of 2026 is how can we infuse this domain knowhow, both from a data but as well as from a business process perspective into the AI agents. Please also, I hope you're going to join us at Sapphire because we will make some very fundamental announcements to really show our customers how we will make this work. Overall, from a product life cycle perspective, also from what I see from a pipeline perspective, actually makes me confident. Obviously, and Dominik, please add your comments. There is no doubt, obviously, that we are, of course, also at some point also impacted by the geopolitical tensions."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "When you can't actually send your salespeople to customers in the Middle East, at a certain point you will see extended deal cycles, and we have a few of those. Obviously, when, especially in the energy intensive industries, when this war now continues and supply chains get further disrupted, I would say we, but as well as every other company, will, of course, also see more challenges over the course of the year. Please, Dominik, add your comments, please."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "timestamp": "",
+      "text": "I would like to maybe add one comment on the fact that AI is not only kind of driving the performance of the products once they're in operations, but also helps us a lot on the transformation now. There is really now the first successes where customers are reducing the effort, the cost, the time to implement transformations, and the big heavy lifting on the transformations is currently still the old ECC to S/4HANA. So sometimes people speculate, \"Well, can customers now wait?\" Recall"
+    },
+    {
+      "speaker": "Dominik Asam",
+      "timestamp": "",
+      "text": "The extended maintenance begins in 2028. At the end of 2030, extended maintenance is over, and then the only kind of way to cope with that is basically our famous SAP ERP, private edition, transition option, which is quite costly. Customers have a big incentive to accelerate, and there are now the tools available. I think also the confidence of customers that this goes easier than maybe in prior times is increasing, and that helps a lot on the migration cycle. Now on the war situation, I've been in complex supply chains and manufacturing, and think about all the petrochemical, food, pharma supply chain and what can happen there. I think it's virtually impossible to understand what will happen if there is some shortages here and there. The shortages might also go hand in hand with some people building buffer stocks, or there might be panic buying."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "timestamp": "",
+      "text": "Once certain parts are not available, the end product could not be built anymore. That's the type of effect where frankly, we cannot say when it's coming. What we can say, though, it's we don't think that any kind of additional week or month of shutting down the Strait of Hormuz will be a kind of X basis point impact on CCP. That's not how it works. It's a slippery slope where at some point in time, supply chains will be shut down, and then we have a massive impact. It's a little bit of a kind of more binary situation."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "The next question is from the line of Adam Wood with Morgan Stanley. Please go ahead."
+    },
+    {
+      "speaker": "Adam Wood",
+      "timestamp": "",
+      "text": "Hi. Good evening. Thanks for taking the question, and also congrats on that good quarter. Can I just come back, Christian? You talked about the challenges of applying GenAI and the learnings you have to take to get companies to adopt. We're seeing obviously some of the labs really build incredible revenue streams very quickly here. Could you just talk a little bit about what you're trying to do as you take over R&D? Is this a pace of innovation problem at SAP? Is this needing to get more people into the companies to understand where the pain points are to bring that back into the products?"
+    },
+    {
+      "speaker": "Adam Wood",
+      "timestamp": "",
+      "text": "Could you just give us a little bit of an idea of what you're doing from the R&D side and what you're doing kind of consulting in with the companies to get that situation to change, and if there's any help you can give us on timeframe to be able to accelerate, that would be really helpful. Thank you."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "Yeah. Happy to share some more insights in what are our priorities also on the R&D side for the weeks and months to come. I would rather talk about weeks. Look, I would say I would rather turn it around and start with the very positive. I don't see one tech company, also not the LLM providers, who actually can actually deliver at scale, at generative AI use cases for the world's most mission-critical business processes. When I actually started to harmonize data modules at SAP five years ago to solve the integration challenge, I never saw that five years later, actually, we are sitting here in front of 7.3 million data fields in our ERP, where you now need to build knowledge graphs to correlate this data to actually solve some of the most complex tasks in the world. For customers, and that is also our lessons learned."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "We deliver those use cases, but today they are 85% accurate, they are 90% accurate. Is this enough when you are touching the payroll, the finance, the financial close, the supply chains of a customer? No, it's not enough. It's not that the customers don't see the value. They see the value, but we have to go the last mile, and that has a lot to do with the ontology. We made some fundamental decisions already a few months ago on how we can also change the architecture of our solutions. You're going to hear some news about our platforms and how can we combine these trends of SAP."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "Again, I really want to emphasize, this is a problem which actually SAP is suited best to solve, because I don't believe that over these 7.3 million data fields and over 120 mission-critical business processes, I don't believe there's any other software company, for sure not the LLM providers, who actually can sort that out, and that's actually our task. We are very confident to do that. In these ERPs, there's 50 years of know-how, and this know-how also sits within SAP. Yeah, we are going to make that work, and that is the main focus now also on the R&D side. You can imagine there is also not one job profile who can sort that out. You need to have the best industry consultants and pair them with the data scientists."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "You need to have product managers who also then understand how these agents work in a real-life environment. When you form these teams, and we call this the All-in on AI program within SAP, and bring them together, great things can happen. This is definitely something what we already changed a few months ago, and since then we are seeing really great progress. Again, I hope every one of you is also coming to SAP Sapphire to see this in real life."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "The next question is from the line of Charlie Brennan with Jefferies. Please go ahead."
+    },
+    {
+      "speaker": "Charles Brennan",
+      "timestamp": "",
+      "text": "Great. Thanks for letting me on. Christian, can I ask one for you if I can? I think you very helpfully clarified that the impact of the consumption model will be gradual over time and less severe than we saw with the transition to cloud. Are there any parts of the AI journey that you think will be actually similar to the cloud transition, whether it's in terms of investment costs and maybe margin implications going forwards or maybe the need to do M&A to onboard skills that you don't currently have?"
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "Yeah. Happy to give some more feedback. Again, I would not compare this transformation to the cloud transformation we started five to six years ago. Especially not from a financial perspective. We are moving from, at that time, an upfront license model to a cloud business model."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "Let's also not forget, consumption is not new to SAP. I'm very happy that already, a few years back, we infused consumption price modules also for certain parts of our platform. The metering, the adoption metrics, also all the incentives, obviously the tools to drive adoption does already exist within SAP. We don't need to transform again certain parts of the company because we have people, we have the tools, we have the systems to make that work. Now, I would say what is, again, our main focus and which is then so key to our success, and I can only emphasize this once again, is five years back, I learned how complex the master data module is of our ERP, and now I'm learning how to not only harmonize data, but how to correlate data. How can such a graph understand billions of correlations?"
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "It's not only the 7.3 million data fields. You need to make sure that the agents understand how to correlate this data, and then actually give the LLMs the context they need to sort out the business queries or actually even take actions in some of the processes we are running. I guess that is the key part. Now, maybe one thing is also important for you, is when we actually started to deliver our first AI use cases, and again, lessons learned. We actually started at, oh, we are now running in the cloud, and we can actually plug and play and actually can scale these AI use cases across our customer base. When you are then sitting in front of a very complex customer landscape, you have hybrid landscapes, you have customized ERPs, you have public cloud solutions."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "It's not that easy then to first get the agents the identity and the authorizations. They need to, first of all, understand what data to access, what data to share. Needless to say, the extensibility layer then in the graph to also then make sure that the customized data fields are understood. Or sometimes customers have very, oftentimes actually, have very individual process requirements. Today I had a customer in pharma, and we talked about GxP compliance. Again, it's sitting in the ERP, but the agent needs to understand GxP compliance. This is the stuff what I mean with lessons learned."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "Trust me, there is also no other AI agent out there who can actually run such processes for a pharma company today at scale, and that's why I'm saying, that's why I'm confident, and that's why I'm saying, hey, to all of our engineers, it's actually a good challenge to have."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "timestamp": "",
+      "text": "Maybe on the margin, first of all, I want to reiterate that, as of today, we see no reason whatsoever to change the envelope we have given in terms of operating leverage. We continue to say that our total expenses will grow in that 80%-90% of total revenue growth. We did say that we want to keep the flexibility how this is exactly allocated, and even if there might be a slight margin kind of implication from what you alluded to, there's other upsides. Think about the sheer explosion of productivity on development. I think what is one of the biggest challenges for SAP, and has been a challenge for SAP, was feature gaps that we took too much time to close, and then even some new competitors were sneaking into these gaps, and now we can really pull in the closure of these feature gaps."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "timestamp": "",
+      "text": "I've not seen customers yet who say, in this record-to-report process, I would love to develop all these scenarios myself. They said, \"If you, SAP, can do that for us, but if you are so slow, we won't wait for you.\" I think that's the discussion we have today. There's manifold levers on productivity, and this is why we're deeply convinced that we can stick to that kind of corridor. Don't forget, when we talk about Foundation Models and Transformer Models, we are not doing the super compute intensive LLM training on unstructured data, on fluffy data, where you have a lot of data to crunch to come to some results. We only do that with RPT-1 in the pre-training phase, and that's a highly structured, very efficient pre-training."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "timestamp": "",
+      "text": "We're not expecting the same type of myriads of investments that other people need to spend on to get these models trained, because we can build on these models being there."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "Yeah. There was a question also around M&A. Take our intent to acquire Reltio. We clearly see the need to govern master data now with BDC, not only for SAP, but the agents need access to non-SAP data. Now, again, access to data doesn't help if it's semantically not governed. That was the reason to hopefully then close soon the acquisition of Reltio. Now with Muhammad and Philipp, we are sitting often together with Sebastian and discussing, of course, where in the AI and data space do we have a few more white spots, both from a technical perspective where we can accelerate certain things, or actually from a skill perspective where we have skills, clearly, with good skills, but maybe where we can also then accelerate certain things because then we have more of those skills."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "This is something what we are now constantly, of course, looking at. There is, of course, the chance that we do a few more of those, I would rather call it tuck-in acquisitions because they are clearly not meant then to acquire revenue. This is then really clearly focused on the data and the AI space."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "The next question is from the line of Ben Castillo-Bernaus with BNP Paribas. Please go ahead."
+    },
+    {
+      "speaker": "Ben Castillo-Bernaus",
+      "timestamp": "",
+      "text": "Hi, good evening, and thanks for having my question here. It felt, Christian, that the message last time out was that, look, we're selling more product to our biggest customers. You called out at Q4, 90% of your top 50 deals containing AI. Has anything changed here so far this year? If we exclude what's going on in the Middle East and perhaps the firefighting that Dominik alluded to. We heard this week from some IT services partners that some customers may be pausing migrations or perhaps changing the priority of their SAP in their overall spend. What are you seeing that would be helpful? Just a quick follow-up, you said that total revenue growth this year is now expected to be broadly stable, but it re-accelerate next year. As far as I can tell, you're reiterating the sort of various line items."
+    },
+    {
+      "speaker": "Ben Castillo-Bernaus",
+      "timestamp": "",
+      "text": "The only one that maybe is missing is services. Is that what's causing that change to this year's outlook? If so, why is that? Thank you."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "I can start with your question on AI, and then please, Dominik, take the question on revenue. On AI, yes, clearly, Q4 was definitely a very good quarter in infusing AI in many deals. Obviously now in Q1 and in Thomas Saueressig's function, obviously, there was a high focus now on making this AI productive, start working on putting those agents into production with our customers. That actually progressed really well. Now, also similar pattern actually now in Q1. Now, what Dominik mentioned is, I guess, very important, especially now in Q1, which was very encouraging to see many existing RISE customers and to those who are now embarking the RISE journey, actually came to us and said, \"Hey, we definitely realize that in order to harness the power of AI, first, I need to have a cohesive and semantically rich data platform."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "I have to do something. With this kind of customized ECC, it's so hard. It will always stay custom, and I cannot build a lot of custom AI agents for mission-critical parts of my business. I can't do that, and I also don't want to run those because actually it also has a compliance challenge coming with it. That is the one thing. Then the second one is what Dominik mentioned is actually what was very encouraging, that the AI tooling for ERP migration, we definitely had a very good quarter. They are selling very well, but even more important than selling is also that we see the adoption is coming."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "That is also something which is then related to our partner ecosystem because I, of course, tell all of our partners, I said, \"Hey, we are transforming, so are you transforming.\" These ERP AI migration tools are a must-have because customers want to see the cost coming down for these ERP migrations now very clearly, which I take actually as a plus for SAP."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "timestamp": "",
+      "text": "By the way, at the risk of stating the obvious, the fact that the increase of adoption of these AI migration tools, of course, that is reducing the budgets for SIs. That is not necessarily a bad sign. If that happens, that doesn't mean that the project does stop. It could simply mean that people are doing more work leveraging these tools. Now on the total revenue discussion, you point to a very important fact. You've seen the services revenues kind of slightly declining. Yes, we have made a deliberate decision to invest more in adoption support for our customers, and we're not kind of chasing every hour to bill, in the environment where also the migration tools play more and more of a role. There is a pivot there, which was not visible at that point in time. That's one explanation."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "timestamp": "",
+      "text": "Frankly, we want to be honest about that we need to include the Reltio acquisition, which is non-organic, to kind of protect the range, so to speak, in light of the setback we just discussed. This enables us to support the guidance for this year. Now why are we then still confident that 2027 should accelerate? First of all, the services setback, so to speak, is a one-off happening this year, so that will be digested. Secondly, if you look at the ramp of our backlog, and we commented on that also at the end of Q4, there is a much bigger increment, so to speak, coming in 2027 out of that backlog than we can benefit from in 2026."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "timestamp": "",
+      "text": "Based on this, so still on the premise that we are not going down in a meltdown scenario on Near East, we think the acceleration is a reasonable assumption."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "The next question is from the line of Mark Moerdler with Bernstein. Please go ahead."
+    },
+    {
+      "speaker": "Mark Moerdler",
+      "timestamp": "",
+      "text": "Thank you so much. Impressive to see how well you executed this quarter and how you delivered on the current cloud backlog. Can you give us any sense for, other than the risks you've already discussed, that there might be some pull forward to make that happen or anything that could create an impact on the future quarters other than the macro issues we've discussed? Also, have you had to do anything relating to discounting or contract duration, whatever, in order to deliver the solid numbers? Thank you."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "Thanks for the question, first of all, Mark. No, I would call this a very clean quarter. Also, when I saw the cost margins of the deals we closed, actually it was just in contrast. We saw a very healthy quarter also from the deals closed with regard to cost margins. The pipeline conversion this quarter was also, again, going rather smoothly, again, except the Middle East. I really want to emphasize that. We are not immune against what is happening in the Middle East. No, it was actually, from a Business Suite perspective, a very well quarter. Definitely there were no further incentives, et cetera. I guess the main focus, especially also in the field in Q1 now, when I look at our top customers, was rather to build the pipeline now up for Q3 and Q4."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "That was, of course, another major focus area now in Q1."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "The next question is from the line of Frederic Boulan with Bank of America."
+    },
+    {
+      "speaker": "Frederic Boulan",
+      "timestamp": "",
+      "text": "Hi, good evening. Quick question. Do you see any companies reassessing their current migration roadmap because of new available tools, using tools like BDC to extract SAP data and try to build agents outside of the SAP ecosystem? There's a lot of concern, as you know, in the market that the agentic layer will capture a lot of value. Is this something you see some customers trying to implement already?"
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "Obviously now, did we talk to customers who are trying and who are developing certain agents in correlation or in conjunction with SAP data and process? Yes. The good news is also that we also talked to many customers, I would say, who also then said, \"Hey, we built a few custom agents,\" but to Dominik's point, who then actually came back and said, \"Hey, when you are building for us this agentic AI use case, there is no reason for us to do this custom or to do this with a large language model provider.\" That is the good news. We rather see it where we are not yet having an offering out there. Obviously, this is why watch out for SAP Sapphire, where you're going to see the acceleration of agents and assistants coming from SAP. Even more important, as I mentioned before, is the underlying platform."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "Yeah, to really not only deliver a high number of agents, but really also deliver the quality and the accuracy coming with those agents. Yes, of course, we see those examples, but nothing where I would say now I have a sleepless night tonight because now customers I see already forming a layer on top of SAP. This is clearly not the case."
+    },
+    {
+      "speaker": "Dominik Asam",
+      "timestamp": "",
+      "text": "There's one thing we should all not forget. The lion's share of what we do in SAP is around hard monetary transactions in complex end-to-end processes. This is a very different business from creating content, like writing a software, writing a text, and being a 95% accurate service agent on a hotline. That is a very different business. In my role as a CFO, assurance that these are precise numbers is ultra high. We see a lot of customers in all these monetary aspects where they say, \"If we can kind of get the rubber stamping from SAP that this will all work and we can trust it, that's worth a lot.\" Don't forget that kind of assurance requirement we have in many of the domains we are catering to."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "The next question is from the line of Michael Briest with UBS. Please go ahead."
+    },
+    {
+      "speaker": "Michael Briest",
+      "timestamp": "",
+      "text": "Great. Thank you. Good evening. Just in terms of, you mentioned there, Christian, about the value of your data fields and workflows. Do you feel you have enough control and value protection around that? Are you considering any changes on third-party access to your systems? I think some competitors have limited or tried to charge for that, digital access rights, I guess it would be called. We've elliptically discussed the \"Financial Times\" article a few times on this call. What was the purpose of your messaging there about no long-term gain without short-term pain? Was that a message to customers to move more quickly to cloud and ERP? Was it to the workers at SAP? Was it to investors in some way? Thank you."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "Yeah. Maybe I start with the last question first. The short-term pain was clearly, of course, correlated to when you look at the software sector overall, and you see how high the pressure is on all of those software companies now to transform. This creates, of course, some short-term pain. It's not like that when you now would look inside SAP that within the All-in on AI program, of course, we are fully aware that we need now short-term a laser-focused execution. Of course, also our employees are asking, \"Hey, is our strategy now, does it give us the right to win?\" We have seen it now. There's a strong belief inside SAP, and we are very proud about the domain expertise, but there is, of course, also some pain when you look at things which is talked about in the market."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "Obviously, we are also now engaging very closely with our customers. Now, on the first part of your question is when it comes to the domain knowledge and the domain knowhow and how we can protect it. I want to say this very clearly in today's call, because I also saw today certain articles out there in the market. I actually was also under my time as the Chief Operating Officer, we actually killed indirect access. Where there was very bad times of SAP where we said, \"Hey, charging customers for accessing their data, that will never, ever happen today."
+    },
+    {
+      "speaker": "Christian Klein",
+      "timestamp": "",
+      "text": "Customer's data is customer's data, and accessing those data, we are not going to charge.\" There is a big difference now in the cloud world and in the AI world about just accessing the data, which we have no plans to monetize at all, versus accessing the IP, the domain knowhow sitting in our ERP. I mean, the semantic data model, the semantic process knowhow. That's, of course, something, the ontology, the maps, the graphs, this is what we of course will actually offer on our platform. We are going to protect that. Then last piece, we will share some further details about that at Sapphire, no partner needs to worry as well. I mean, we love the partners. We will have an open platform where we also go on actually SAP agents not coming from SAP. We will provide those APIs, absolutely, clearly."
+    }
+  ],
+  "totalTurns": 80
+}

@@ -1,0 +1,650 @@
+{
+  "ticker": "VERX",
+  "period": "Q1 2026",
+  "eventDate": "2026-05-07",
+  "preparedRemarks": [
+    {
+      "speaker": "Joe Crivelli",
+      "timestamp": "",
+      "text": "Hello, and thanks for joining us to discuss Vertex's first quarter results. Chris Young, our President and CEO, and John Schwab, our CFO, are with us today. As noted on Slide two, during this call, we may make forward-looking statements about expected future results. Actual results may differ due to risks and uncertainties. These risks and uncertainties are described in our filings with the Securities and Exchange Commission. Our remarks today will also include references to non-GAAP metrics. A reconciliation of these metrics to GAAP is also provided in today's press release. This call is being recorded and will be available for replay on our investor relations website. I'll now turn the call over to Chris."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Welcome, everyone, and thank you for joining us. Vertex delivered strong first quarter results. Revenue was $196.6 million, and adjusted EBITDA was $44.1 million, both above the high end of our guidance for the quarter. Notably, customer retention, usage patterns, and buying behavior were all consistent with what we saw exiting last year, even as the macro environment remains mixed and IT spending scrutiny persists. More importantly, this quarter reinforces the fundamentals of our business. Vertex is at the center of mission-critical, highly regulated workflows that our customers rely upon. We are building upon that foundation as we move forward and as we intentionally reshape Vertex for our next chapter. Over the past several months, I've spent significant time with customers, partners, our team members, and investors. One message came through clearly."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Vertex has extraordinary assets, including trusted data, deeply embedded integrations, and a unique role in global compliance. We need to operate differently to fully unlock that value in an AI-driven and increasingly real-time regulatory world. That understanding is what is driving our change. That brings me to the value creation plan that we announced in April. I want to be clear that this was a deliberate leadership decision to reset how Vertex allocates capital, talent, and attention. We took decisive action to improve our cost structure, free up resources to invest in growth areas, and ultimately improve profitability and cash flow. The outcome was a targeted cost action that included a reduction in force and other efficiency measures to position us for the future."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "This is a reset to reinvest, which will enable us to continue investing behind the highest impact areas of our strategy, including e-invoicing and compliance, our AI roadmap, customer support, and execution speed, all while also improving operating leverage. John is going to discuss the financial impact shortly. Our e-invoicing business continues to perform well in advance of upcoming mandates with very strong growth in both ARR and revenue that is materially above the overall corporate growth rate. Importantly, we expect revenue to ramp later this year after mandates are enacted in France and again in 2027 when mandates in Germany come online. To accelerate our e-invoicing product strategy, in the first quarter, we acquired Brinta, an AI-first compliance and e-invoicing startup for e-commerce that's based in Latin America."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "With Brinta, we gain a very talented technical team that has creatively applied AI and a modern architecture to solve compliance and e-invoicing requirements for companies in countries like Mexico, who have had these requirements the longest. Brinta adds country coverage in Latin America, but it's far more than that. It brings an AI-native architecture built for the most complex real-time compliance environments in the world. That capability includes automation, control, speed, and auditability, which is where global compliance is ultimately heading. Brinta's offerings are focused on eliminating manual work where it creates the most friction, such as onboarding and data mapping, invoice data extraction, and product classification. That combination of automation with control is critical in regions like Latin America, where accuracy, auditability, and regulatory evidence are non-negotiable. I want to spend some time on artificial intelligence and how we're approaching it at Vertex."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "I'd like to explain why I think AI expands Vertex's competitive advantage. There's been a lot of discussion about whether AI will disrupt enterprise software. Our view is that AI strengthens platforms that already function as trusted systems of record, especially in regulated environments like tax and compliance. A February 2026 study by EY-Parthenon entitled AI's Impact on the Software Economy confirms this. The study identifies deep vertical SaaS as one of the most defensible segments in enterprise software. These are companies with software built on domain-specific workflows, complex integrations, and regulated use cases. Vertex squarely fits that profile with durability driven by embedded tax and compliance workflows, broad ecosystem integrations, and longstanding operational data. In an AI-driven world, that foundation ensures AI enhances our platform rather than displaces it, strengthening a system customers already depend upon for mission-critical, highly regulated processes at scale. In enterprise tax, trust is the product."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Tax answers must be 100% accurate, explainable, auditable, and repeatable across tens of thousands of jurisdictions and constantly changing rules. That requires a deterministic core, authoritative content, and a system that can withstand scrutiny, not a probabilistic black box. Vertex is not adjacent to the workflow. We're embedded in the order-to-cash transaction flow. When tax breaks, companies can't transact. That makes switching costs high, not because of licensing, but because the operational risk of disruption is unacceptable at enterprise scale. We are not standing still. We are moving quickly to embed AI more directly into our products and operations, as well as build new ones, but in a way that preserves governed outcomes. To put a finer point on this, today, half the companies named in CIO Magazine's March 2026 ranking of the most powerful AI companies are using Vertex to calculate indirect tax."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "We believe this is a strong validation of our AI moat. Our AI product strategy will be transformational yet pragmatic, with targeted use cases driving measurable impact and responsible governance from day one. Our tax engine remains foundational as the deterministic governed system of record that enterprises depend upon to transact, report, and comply with confidence. Our focus with AI is to modernize how work gets done in and around the core systems, embedding intelligence into the workflows across tax determination and e-invoicing, where most of the manual effort, cost, and operational friction still lives. Processes like onboarding, data mapping, classification, configuration, reconciliation, exception handling, and ongoing change management are adjacent to the core engine, but they determine how effectively that engine can be used at scale."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Our AI strategy is about reshaping that operating layer, reducing manual work, increasing speed, and allowing tax teams to operate proactively while keeping the core outcomes correct, explainable, and auditable. To make this more concrete, our first commercial AI product, Smart Categorization, shows how this model works in practice. On our last earnings call, we discussed Smart Categorization, which automates one of the most manual and error-prone process workflows that sits around the tax engine, categorization of a company's product SKUs for tax. The data we see from live customers' usage of Smart Cat as they have moved to production is very encouraging. Every active Smart Categorization customer is expected to send 100% of their catalog through the platform for categorization. Usage grows week after week, and the productivity impact is substantial."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Observed categorization time drops from more than a minute and a half per product to just a few seconds. Slide 11 provides a visual cue to help investors understand an example customer profile for Smart Categorization. Think about a large retailer with thousands of locations across the U.S. and tens of thousands of SKUs in every store. That retailer is subject to literally millions of iterations of tax rules across their product category. The retailer SKUs and locations and the tax rules they are subject to are constantly changing. The key takeaway is this: Smart Categorization confirms that our AI operating model works in practice. It shows AI applied around the system of record, removing friction from critical workflows while preserving deterministic, trusted outcomes. With production usage established, the next phase is ramping the commercial motion in a disciplined way."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "We are also using AI inside Vertex to change the way the company operates. A good example is our customer support and services organization. Support workflows sit alongside our core tax and compliance platforms. It requires deep domain expertise, consistent judgment, and the ability to triage and resolve issues effectively, especially as our customer base and product portfolio continue to grow. We're using AI to augment that work by summarizing cases, surfacing relevant diagnostics and knowledge, and helping route issues to the right teams more quickly. The goal is straightforward: allow our experts to focus on judgment and resolution while AI handles the repetitive analysis and intake work. Early results indicate that analysts can manage meaningfully higher case volumes with better consistency without sacrificing quality, which has a direct impact on our operating leverage over time."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "The reason I highlight this is that it reflects the same operating model you've seen in our products. AI applied around the system of record, embedded in real workflows, improving efficiency while preserving accountability. I continue to be very energized by the high-quality blue-chip customers that depend on Vertex for indirect tax accuracy. First, notable wins with existing customers. On our February 2025 earnings call, we highlighted a win with 1 of the large leading players in the artificial intelligence large language model space. The initial relationship was for Vertex for e-Commerce, supporting tax determination for their digital marketplace operations. In the 1st quarter of this year, this customer expanded its partnership with Vertex to include e-invoicing across multiple jurisdictions, as well as O Series for global sales and value-added tax determination across several business units."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "This expanded relationship now represents annual recurring revenue in the multiple $7 figures and reinforces a key point. Even for one of the pioneers in the AI space, Vertex is the trusted choice for managing complex indirect tax requirements at scale. In the SAP ecosystem, we won a high six-figure new contract with one of the major airlines. This deal included expansion of their use tax volume, additional tools such as SAP Accelerator and PLUS Tools, and engagement with Vertex Consulting, as well as migration of all on-prem instances of Vertex O Series to the cloud. A leading social media company that is also a major player in artificial intelligence expanded their use of Vertex solutions in the Oracle ecosystem, resulting in mid six figures of new annual revenue."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Turning to new logos, a company in the healthcare industry switched from competition to Vertex for North American sales and use tax, and also engaged Vertex Consulting to assist with the integration with their Workday ecosystem. This resulted in low six figures of new annual revenue beginning in the first quarter. We secured a mid six figure new logo in the chemical manufacturing sector, driven by a customer's expansion into additional business segments and the adoption of Vertex for North American consumer use tax, SAP, PLUS Tools for SAP, address cleansing, as well as Vertex Consulting services. In the fashion and apparel industry, we won a high six figure new deal driven by the customer's transaction volume growth. This engagement encompassed sales tax in North America, as well as global value-added tax calculation."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Before I turn the call to John, I'll wrap by saying that the first quarter was a strong start to the year. I'm encouraged that retention is stabilizing and that we delivered results that were above both investor expectations and our own guidance for the quarter. We are seeing good results from our e-invoicing business and believe that global compliance is one of the biggest opportunities that we have in front of us. With that, I'll turn the call over to John to discuss the financial detail. John."
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "Thanks, Chris. Good morning, everyone. As Chris noted in his remarks, the first quarter results demonstrated stability in the business across revenue growth, customer metrics, and we also saw good early progress on earnings leverage. On Slide 17, total revenue was up 11.1% year-over-year to $196.6 million, above the high end of our guidance. This outperformance was driven in part by higher services revenue in the quarter. As you can see on the slide, software subscription revenue was up 10.9% and services revenue was up 12.2%. Our Cloud revenue was up 20.7%. This was a bit lower in the first quarter than our full-year estimate."
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "However, the shift towards cloud revenue away from on-prem continues to advance, with cloud revenue now approaching 60% of our total subscription revenue. We expect this transition to continue and that we will see acceleration as all of our e-invoicing and compliance revenue is cloud-based. Annual recurring revenue was up 11.2%, essentially flat compared to the growth rate in the fourth quarter. Turning to customer metrics on Slide 18, our gross revenue retention was 95%, and net revenue retention remained stable compared to the prior quarter. Our average annual revenue per direct customer was $140,464 in the first quarter, up 11% year-over-year. Note that the growth rate in AARPC has moderated."
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "However, this is largely due to the continuing influx of new e-invoicing customers, which generally onboarded a lower initial contract amount than our tax calculation customers. Growth in our scaled customer count remained at 12% in the first quarter. Turning to profitability on Slide 19. Overall, non-GAAP gross margins increased 50 basis points year-over-year. This was driven by higher margins in the services business, as you can see on the slide. Our adjusted EBITDA was $44.1 million, up 18.4% from last year's first quarter. As you dig into the income statement, remember that the first quarter expenses are impacted by our sales kickoff, which occurs in January, as well as payroll taxes, which are seasonally higher in the first quarter. Free cash flow was positive $7.7 million."
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "As a reminder, our free cash flow is typically negative in the first quarter due to the same seasonal expenses I just mentioned. This is only the second time that we've been free cash flow positive in the first quarter since we went public. I'll now discuss the April cost actions and how they will impact profitability going forward. Turning to Slide 20, on April 28th, we reduced our workforce by approximately 9%. In addition, we are also significantly reducing the third-party spend across the company. As Chris noted, this decisive action was taken to improve our cost structure, free up resources to invest in growth areas, and improve our cash flow and profitability. In 2026, we expect the following impacts. In the first quarter, we recognized a pre-tax charge of $6.2 million consisting of severance and other benefits."
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "These costs are included in the general and administrative expense line of the income statement and are reflected as severance expense in our adjusted EBITDA reconciliation. We incurred approximately $2.6 million of incremental costs to execute the action. These costs are also included in G&A expenses in our income statement and are reflected as transaction costs in our adjusted EBITDA reconciliation. Cash payments to execute this initiative are expected to be completed in 2026. On a fully annualized run rate, we expect the cost action to save approximately $60 million-$70 million of cash savings per year beginning in 2027, again, net of reinvestments in the business. Obviously, this drives dramatic change in Vertex's income and cash generation profile. Let's discuss how this impacts guidance for 2026."
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "Given the performance of the business in the first quarter and the impact of the cost actions, we expect second quarter revenue of $200 million-$204 million and second quarter adjusted EBITDA of $47 million-$50 million. For the full-year, we expect revenue of $823.5 million-$831.5 million, which is unchanged from our prior guidance. We're increasing adjusted EBITDA full-year guide to $202 million-$208 million from $188 million-$192 million previously. We continue to expect full-year cloud revenue growth of 25%, driven in the back half by ramping e-invoicing revenue from newly launched e-invoicing mandates."
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "Finally, I want to discuss the 2028 targets that were set at Investor Day in March 2025. The value creation program has accelerated the timeline for us to achieve the profitability and free cash flow targets that was set at the time. In fact, we now believe that we will achieve those targets in 2027. However, the business has changed significantly in the past year, and revenue growth is now in the low double-digits. We believe this is the growth rate investors should underwrite for the medium-term. Before I wrap it up, I'll note that we bought back $20 million of shares in the first quarter at an average price of $14.59 per share. With that, I'll turn the call back to Chris for some closing comments. Chris?"
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Thank you, John. To close, the first quarter results were strong and represent a good start to 2026. We are encouraged by the stability we saw in the business across revenue growth and customer metrics. In addition, I'm pleased that profitability is already inflecting even before the results of our April cost actions take effect. It's important to understand that Vertex is changing deliberately and with urgency. We are reshaping the company to be more focused, more profitable, and better positioned to lead as compliance and tax move closer to real time and as AI becomes embedded in everyday enterprise workflows. The actions we've taken improve our financial performance, but they also enable reinvestment into the highest impact opportunities in front of us."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "I'm confident that this reset will produce a stronger Vertex, one that delivers both durable growth and meaningful returns for shareholders over the long-term. Thank you for your time today, and we will now take your questions. Operator?"
+    }
+  ],
+  "qAndA": [
+    {
+      "speaker": "Chris Quintero",
+      "timestamp": "",
+      "text": "Hey, Chris. Hey, John. Joe, thanks for taking the questions here. I'm liking the new format. Thanks for doing this here. Maybe first question. On the value creation plan, you guys mentioned cutting some third-party spend. Can you just provide a bit more color around where you're actually cutting and how you're thinking about doing that?"
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "Yeah, Chris, thank you very much for the question. Appreciate it. No, I mean, spend, again, we talked about, you know, headcount certainly was a piece of it, and then the third party spend, you know, it's a combination of just spend that we have within the organization as well as some contract labor and other costs of things that we use, things we use in our day-to-day space. I mean, keep in mind, you know, we continue to use other labor to support the activities of our personnel that are here, and that's a piece of it as well."
+    },
+    {
+      "speaker": "Chris Quintero",
+      "timestamp": "",
+      "text": "Got it. The change around the 2028 targets, you mentioned that the business has changed significantly. Can you just break that down? What does that exactly mean, and how does that inform the new low double-digit growth rate you're talking to?"
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "Yeah, I'll start with it, and Chris can certainly add. I think as we've seen the business and we gave our guidance, what, back in about a year or so ago, I feel like the macro environment has changed. We were looking at growth rates then in the mid, you know, the mid-teens, and, you know, with acceleration opportunity in front of us. I think we've seen that soften a bit in the back half of last year. I think we feel, you know, kind of where we are right now, we feel good about the progress that we're making on the targets that we've set."
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "We wanted to make sure that we address the targets that were out there for longer-term, which were pointing at the high teen, you know, high teens revenue growth. We wanted to make sure that the investors are underwriting kind of the business as it is today with the opportunities that are in front of us. We feel very good that those opportunities are all still there. E-invoicing demand, the activity, that activity, the AI opportunities that are there, they are good things that we are excited about and that believe are gonna drive our growth. We wanted to make sure that we put numbers out there that we felt comfortable with, the street felt comfortable with, and they could have confidence in our performance in achieving."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Yeah. Chris, thanks for the question. John, I just wanna add a couple of points. We wanna stay very focused on our execution for the year. That's paramount to us. We wanna give you all a sense of what we're seeing. Really strong performance on profitability and cash flow, which should allow us to arrive at some of those 2025 Investor Day targets more quickly. On the revenue side, we want to give you a picture of what we're seeing right now in the business with e-invoicing compliance still to mature, because that starts to come from a revenue perspective to us later. Think of our e-invoicing as more of design wins in some respects with revenue to come online as the mandates happen."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Increasingly as we build out our AI roadmap in the longer-term, we, you know, we have expectations for growth there as well."
+    },
+    {
+      "speaker": "Chris Quintero",
+      "timestamp": "",
+      "text": "Excellent. Thank you so much for taking the questions."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "Thanks, Chris."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Thanks, Chris."
+    },
+    {
+      "speaker": "George Kurosawa",
+      "timestamp": "",
+      "text": "Okay, great. Good morning, gentlemen. I'm on for Steven Enders here. Thanks for taking the questions. Maybe just to start on the cloud revenue guide, you maintained the 25% target. You know, I think you delivered 21% this quarter, so obviously a fairly steep acceleration implied for the rest of the year. If you could help just disaggregate some of the drivers there, what gives you confidence in delivering on that?"
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Maybe, John, I'll start, and I'll ask you to add anything that I miss. As you saw, the way we thought about cloud revenue growth for the year is the following. You start with your e-invoicing design wins. A big part of our growth in cloud will happen as compliance and e-invoicing sales ramp and revenue ramps as transactions flow through the systems later in the year."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "While we start a little bit lower on cloud revenue growth, which is, you know, kinda what we started to see in Q4, we talked about that on the first quarter call as well, we do expect, and we can see line of sight to our 25% target for the year, which we've shared with you all as e-invoicing and compliance sales ramp, and revenue transactions ramp through the course of this coming year."
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "Thank you. I Yeah."
+    },
+    {
+      "speaker": "George Kurosawa",
+      "timestamp": "",
+      "text": "Okay, great. I did wanna touch on the value creation plan. You know, I think you called out $60 million-$70 million in cash savings on a run rate basis. You know, you raised the EBITDA guide here by $15 million. Maybe just to help bridge the gap there, just in terms of maybe there's some timing component, maybe there's conservatism in it, and it sounds like there's a level of reinvestment as well, if you could just help us understand the moving pieces."
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "Yeah, I mean, I think you hit some of the big pieces. Again, we see the ramp coming in, the profitability coming in. Again, we did the action at the end of April, the second quarter doesn't get the full benefit of it, of the personnel reduction. We will see that more fully in Q3 and Q4. Some of the activity that I talked about with respect to contractors really is a bit of a phased approach that'll phase in throughout the year. Again, there's specific Yeah, we've got line of sight to each of those and how they're gonna roll through, it will take time for that to fully map itself through the rest of the year."
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "That's what gives us the confidence in our ability to achieve that $65 million, that $65 million midpoint for next year for sure. That's the timing that's going to be at play. I think one important thing to keep out, and we talked about cash savings, this is real true cash. You know, it includes some of our spend typically gets capitalized, so when we talk about the cash, it's got an impact that is outside of the realm of the adjusted EBITDA. I wanted to make sure we called out what the actual component at $65 million to, or $60 million-$70 million was."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "I do wanna just add one piece that, because you did mention it, George. We are reinvesting in certain areas of the business. Obviously, our compliance and e-invoicing business. The acquisition of Brinta represents one of those reinvestments that we're putting back into the business. We're investing in our AI roadmap in the business, as well as the internal transformation that we're going through for the course of the year. It's very important to note that while we're expecting some improved financial performance, that does include our, you know, with investment bake that back into it, investments in future growth opportunity, as well as further efficiency gains in terms of changing how we work inside the company. That's, it's very important to make sure that's noted."
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "I think just to put a finer point on sort of the phasing in as we talked about, I think that phase in, pardon me, will work out roughly about $4 million or so in Q2, $5 million and then $6 million, $4 million, $5 million, and $6 million to kinda take that $15 million, which was the implied midpoint uptick in guidance for each of the respective quarters."
+    },
+    {
+      "speaker": "George Kurosawa",
+      "timestamp": "",
+      "text": "Okay, that's great color. Thanks for taking the questions here."
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "Great. Thanks, George."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Thanks, George."
+    },
+    {
+      "speaker": "Joshua Reilly",
+      "timestamp": "",
+      "text": "All right, thanks for taking my questions. As you think about infusing more AI into your business, you know, one area I was curious here is your thoughts around implementations. You know, that's still a pretty time-consuming and complex process. How can you use more AI in the implementation process to unlock more of the TAM that's still in that kinda custom homegrown solution area, hasn't wanted to shift because of complexity around making change?"
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Joshua, thanks for the question. You're very right. The AI opportunity for implementations, and frankly across our services business is high. You know, one of the initiatives I've highlighted is that even in our managed services organization, you know, part of what we're doing with AI is going to allow us to unlock a lot of the backlog, you know, that we have in the business. Because, you know, the human sort of process-oriented onboarding mechanism takes us longer today, and as we automate more of that, we'll be able to actually move revenue through the pipeline more quickly. As it relates to our implementation, our Consulting services, you're absolutely right. There's many different places in the process where we could use AI to get more efficient."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Think about just the upfront component of gathering all the requirements, understanding all the system components of a very complex infrastructure for customers. That is a massively time-consuming process. We can automate a tremendous amount of that upfront process using AI, again, which will compress a lot of the early meetings that have to take place, so that you can move forward through it. You know, the second piece is you can actually use AI to do a lot of the pre-build on the connector work that's required for ERP integration."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "One of the other items that we've talked about, not as much in earnings, but in other, in our press releases and in other forums, is some of the agents that we're building on the ERPs themselves. Those agents that we're building, you know, we've announced one for Microsoft as an example. We're working with our other large, major ERP partners to build agents in their ecosystem. That will allow us to have, you know, a much more front-loaded view, if you will, of what's in the ERP system and how that flows down into the tax determination system that we bring to bear."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Those are just some examples of ways in which bringing AI into our ecosystem is gonna help us get our customers up and running more quickly on whether it's working with us on the tax engine side or on the e-invoicing side, or across all of it."
+    },
+    {
+      "speaker": "Joshua Reilly",
+      "timestamp": "",
+      "text": "Got it. Very helpful. Just one quick financial question. You know, how should we think about the conversion of EBITDA to free cash flow now following the value creation plan and, you know, there's obviously some moving parts with that, and Is there gonna be a quarterly impact with those costs as well? Thank you."
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "Yeah, thanks, Josh, for the question. No, from a free cash flow standpoint, again, we feel like we're significantly improving our position because of the cost takeout and how that's going to relate. I think we feel very good about the targets we established, and I think I mentioned that in my prepared remarks around what that means for next year, and we should be kinda converting over closer to that 70% range that we put out there as a target. However, in the near term, right, we certainly have costs to execute some of these transactions, et cetera. On an overall basis, we're significantly improving where we are from an EBITDA standpoint, EBITDA, you know, margin standpoint, as well as free cash flow, 'cause it's both pieces. That savings again, that 65% midpoint is a true cash savings."
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "That's real cash to the business. That is on a full-year run rate, that's not all gonna impact this year. I think we'll see, yeah, we'll see that come through, and we'll see some nice improvement on margins as the year progresses."
+    },
+    {
+      "speaker": "Joshua Reilly",
+      "timestamp": "",
+      "text": "Got it. Thank you very much."
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "You bet."
+    },
+    {
+      "speaker": "Patrick Walravens",
+      "timestamp": "",
+      "text": "Hi, guys. I don't know why it's audio only. Sorry about that. Two questions, Chris."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Patrick Walravens",
+      "timestamp": "",
+      "text": "Congratulations on the start here. Vertex bought ecosio in 2024. They made the investment in Kintsugi in 2025, and now you have Brinta in 2026. I mean, I spent a fair amount of time on this company. I'm a little confused. If you could just walk me through how those things are different, and maybe how the environment changed where those investments made sense, I think that would be really helpful."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Pat, thanks for the question. I appreciate it. The way I think about it, and I'll you know, is the following. When we acquired ecosio two years ago, just about, the goal there was to enter the e-invoicing market. You know, we saw the mandates coming, particularly in Europe, and we saw that that was very complimentary to our value-added tax calculation business. Value-added tax, and then the downstream e-invoicing component to meet the government mandates that were coming online in Europe, were going to be important to our business. That was the initial driver for acquiring ecosio so that we can be in that business. You'll note that there were other, you know, other competitors of ours have also been entered that business around the same time."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "ecosio was really the foundation. The way ecosio started is they were an EDI company. If you think about it, e-invoicing is really just a I would describe it as an expression of one of the core use cases for EDI. You know, it's about taking an invoice, submitting it to the government, getting a response back so that you're able to prove compliance. Ultimately, we're moving towards a world where many governments are gonna in different parts of the world are gonna wanna have almost near real-time access to transaction data as it's happening. Because that allows them to reduce the amount of, you know, VAT, what they call the VAT gap, right?"
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "What gets reported at the end of a reporting period versus what they see and collect, the gap shrinks there, and that's something that's really important. It's one of the reasons why we got into that business, 'cause again, it's very close to our value-added tax calculation business, and that's, that was the initial thinking there. Kintsugi is almost a very different, the next acquisition, as you mentioned, Kintsugi, very different strategy there. The company invested in Kintsugi, partially because of our need and desire to stay very close to the ecosystem of startups that are coming into the market with, you know, AI-driven solutions around tax."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "You know, as we've talked about on previous calls, while a lot of the new entrants into this market, are using AI, they tend to play at the lower end of the market, you know, in much more, much less complex scenarios than we operate in. You know, today, you know, what we see across kind of the startup landscape are companies that are going after the small end of the SMB market and that's where Kintsugi plays. That being said, you know, we have partnerships with Kintsugi. We announced a joint partnership where we're working with them in the CPA.com ecosystem. That tends to service smaller businesses."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "There's a solution that we're working on with Kintsugi and NetSuite, where Kintsugi is working with us in our tax determination engine for sales and use tax to serve a lot of the NetSuite ecosystem as well. We're able to serve them in multiple ways, both directly and in partnership with Kintsugi. The investment in Kintsugi was about moving ourselves forward into the AI landscape, and really keeping close to the ground in terms of what was happening with some of the startups that are in this space. As you know, they're not the only one in the space. Let me bring you to Brinta."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "One of the conversations that was happening last year as the company got going with e-invoicing and compliance, is that for our global multinational customers, when they wanted to do business with an e-invoicing provider, you know, one of the main questions they would ask us is, Well, can you cover us across all the countries where we need to meet these global mandates? Not just in Europe, not just in, you know, Belgium or Poland or France or Germany upcoming, but Latin America, Mexico in particular. Mexico is the first country to have these kinds of mandates. Last year that was something that we determined we needed to add to our portfolio, and I think that led to a partnership with Brinta."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "What we decided, however, as we got to know the Brinta team, is that there's a lot more that they bring to the table. Now, they're solving compliance for some of the most, you know, most challenging environments like Mexico and Brazil that have real-time reporting requirements around e-invoicing. Secondly, they do help us with country coverage. The third piece is they also bring a tremendous amount of AI expertise, got a very talented team that really understands payments in a quite complex landscape. We believe Brinta brings to us technology, it brings a lot of expertise in ecosystems that we value, and in many ways, what they are experiencing is the future of compliance and where this is headed. All that is coming together as part of our solution set."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Long answer to a short question, but there are a lot of moving pieces here, and I wanted to make sure I gave you a holistic answer."
+    },
+    {
+      "speaker": "Patrick Walravens",
+      "timestamp": "",
+      "text": "No, that's fantastic. Thank you."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Thanks, Scott."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Our next question will come from Brett Huff with Stephens."
+    },
+    {
+      "speaker": "Brett Huff",
+      "timestamp": "",
+      "text": "Good morning, guys. Chris, I'll give you my congratulations too on getting off to a strong start. Thanks for the clarity, and the pragmatism on getting after some of the efficiencies. Two quick questions. One is just a confirmation. Did you all say that the $65 million midpoint cash saves were already net of investment, or we should think, we should haircut that by some amount, to think about 2027 EBITDA?"
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "Yeah, Brett, they're net of investment."
+    },
+    {
+      "speaker": "Brett Huff",
+      "timestamp": "",
+      "text": "They're already net."
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "It's already taken out. No haircut needed. Yeah."
+    },
+    {
+      "speaker": "Brett Huff",
+      "timestamp": "",
+      "text": "In any, you know, Chris, I think when we were talking before, you had talked about. You didn't give us a percentage. In our minds, kind of how much of whatever the gross are you now reinvesting, or do you have a sense of that yet?"
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "We're still working through some of the specifics, but we, you know, we've earmarked a good portion. I would say we've earmarked more than 10% of the gross back to investing in the business. The key areas are simple. It's e-invoicing and compliance. I think Brinta would be an example of that. We've been growing our staff and our team, our technology investments in that space, all throughout the year, even prior to the Brinta acquisition. Our AI roadmap is a big piece."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "You know, we're bringing in new people, we're adding our resources around that so that we can, you know, that's something we've talked about, you know, quite extensively is that, you know, my goal is to lean in much harder to our AI roadmap and, you know, some of the investment out of this is to lean into that. The third piece is to lean into investments we need to make in order to become a more AI first company in how we work, which I think in the long run creates even more efficiency. It's not something that we see, you know, in the immediate term, but it's an investment we make today so that as we enter into 2027 and 2028, you can see those efficiencies flow through to how we operate Vertex."
+    },
+    {
+      "speaker": "Brett Huff",
+      "timestamp": "",
+      "text": "Great. Second question is on revenue. Thanks for the clarity on the updated kind of medium-term, long-term. We appreciate that. One of the things you've talked about is kind of the cadence of AI new products, and in my mind, it's probably building this year and starting to sell next year. You know, correct me if that's incorrect, and give us a sense of how that cadence will come out and when you guys see some GAs and things like that."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Brett, it's a important question. In the first quarter, the way I want you to think about our product portfolio for AI. There's three categories of AI first. One category is how we work with AI inside of Vertex. On the product side, there's two categories. First category is AI capabilities that enhance the existing Vertex product experience. Think about that as AI augmentation, you know, for configuration, tax rules, how customers handle the data updates that they get from us. Those are all copilots in our product. Those are all elements of our AI strategy, and we shipped several new agents in the course of the first quarter, and we had a press release around this to announce those agents. That's about making the Vertex product experience better."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Now as you start to think about more elements of our future roadmap, where I believe we unlock more addressable market opportunity, are in parts of our product portfolio that I would say are exemplified by Smart Categorization, where what we're doing there is really augmenting the workflow of our customers, reducing the time spent by our customers in a workflow that happens in and around the tax determination and compliance processes that we support through a lot of our autonomous engines. That Smart Categorization is the first such example. Our roadmap is in that category is something that we'll ramp towards, you know, as we go towards the end of this year and into 2027."
+    },
+    {
+      "speaker": "Brett Huff",
+      "timestamp": "",
+      "text": "Great. Appreciate it. Congrats."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Thank you. Thanks, Brett."
+    },
+    {
+      "speaker": "Speaker",
+      "timestamp": "",
+      "text": "Great. Thanks for taking the questions, everyone. I appreciate the time. I'll ask Brett's question maybe in a slightly different way. You know, how should we think about AI and AI monetization within the context of the revenue targets you laid out today? Is there really much baked in there, or would material monetization of current and near-term products generally be upside? I think it goes to this broader question of how should we expect you to benchmark AI ROI for investors? I know it's early, but should we, from a financials perspective, think about this through pricing power, aiding retention, or could we really start to see you at some point break out in AI ARR? Appreciate it."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Thanks, Adam, for the question. I would answer that in a couple of ways. I'd say, first of all, using AI internally, we expect to get more efficient. You know, while I won't categorize what we've just done as an AI-related move, our expectations are that, you know, we can actually operate more efficiently as we look forward in the business. That's one way in which we're thinking about this. From a product perspective, I'll go back to those other couple categories that I mentioned. I do believe AI is going to help us improve our overall customer experience."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "You know, as we noted in the last call, you know, I talked about opportunity for improvement in terms of the overall customer experience, simplifying the product experience, whether that's how customers have to configure tax rules, how they manage the data updates that we give them, how they think about configuration setup. You know, we've got customers now that are like one of our more technical customers as an example, they were in a 45-question exchange in one example with one of our, you know, our AI copilots as they were looking to actually do a configuration themselves. It was a successful exchange."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "You can imagine, like that is an exchange that in the past would have had to happen with someone either in customer support or maybe our professional services organization, you know, maybe some phone calls, some Webexes. You know, this is something that they, you know, that we're able to solve now in a more automated way with AI. I would put that in the category of improved customer satisfaction, improved time to value for our customers. That's harder to quantify, but it's in our competitiveness equation as we look forward. The third one is really unlocking new market opportunity with, you know, by augmenting our customers' workflow. You know, taking work out of their, you know, off of their plate so they can be more efficient. They can focus on, you know, other elements of their workflows."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "I would tell you that is still nascent, right? Smart Categorization is the early part of that. You know, what's really changed in Smart Categorization since, you know, we talked about it in the first quarter is now our customers are in production with Smart Categorization. We're able to observe them seeing real-time savings. They're all moving towards, you know, putting their entire catalog through Smart Categorization. We're seeing transactions, we're seeing categorizations grow week on week. You know, this is replacing workflow for them. There's also a piece of this where we're learning, how do we work with customers? How does that scale? How do we have the right attach motion, you know, with the rest of our business as we seek to scale that as part of our go-to-market efforts?"
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "We're in that phase with it right now. Then the next piece is to start to layer on other AI solutions like Smart Categorization that again help augment the workflow of our customers, save them time, save them expense. That's where I think as we get into, as we get into some more maturity with those, we'll be able to share longer-term what we believe that will mean for us in terms of revenue and market opportunity."
+    },
+    {
+      "speaker": "Speaker",
+      "timestamp": "",
+      "text": "Okay, great. That's helpful framing, Chris. And then John, I know international revenue, relatively smaller portion for you today, but you do have quite a bit of exposure to the multinational enterprises. I'd be curious how, if at all, some of the macro dynamics in the Middle East have or have not impacted either actual deals or volume-related things like true ups."
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "Yeah, we've not seen a significant impact with what's going on over there in the Middle East, et cetera, with our business per se directly. You know, it certainly hasn't impacted true ups, hasn't impacted that kind of information. We've yet to see a significant impact on sort of the pipeline activity and deal activity because it's, what? A month or so out. You know, again, we'll keep everyone posted on any developments we see there. For now, we've not seen a significant impact."
+    },
+    {
+      "speaker": "Speaker",
+      "timestamp": "",
+      "text": "Okay, great. Thank you very much."
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "You bet. Thanks, Adam."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Thanks, Adam."
+    },
+    {
+      "speaker": "Daniel Jester",
+      "timestamp": "",
+      "text": "Great. Good morning, everybody. Thank you for taking my question. Maybe to go back to the 2028 prior targets and maybe sort of wrap up the conversation there. The lowered growth rate that you suggested today, maybe can you help us think about software subscription growth rate in the new framework and cloud subscription growth rate in the new framework on that sort of longer term perspective?"
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "Yeah, we, again, I think our view of sort of those, you know, kinda low, you know, low double-digit growth in my mind is kinda that 10%-13%. That's kind of the zone that it's in there. You know, in terms of cloud, we didn't pull out a specific cloud piece of that right now. Our guidance for this year is 25%, as you've heard us reiterate. You know, my expectation is that cloud will continue to be a meaningful part of that. Over time, that will start to soften a little bit due to the fact that, again, the base is getting bigger, Dan."
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "I'm not giving, you know, we're not giving a specific target out for that exact piece of it, but that's how we think about it. That's how we think about growth. Software is a big piece of that. We don't see services at this point becoming an out, you know, becoming a more outsized portion of this over time. We continue to ensure that we're being very thoughtful with our partner community from a services standpoint to ensure that, you know, we're supporting them in what they're doing as they support us in the software side of the house. I don't see it changing materially over time in the target period."
+    },
+    {
+      "speaker": "Daniel Jester",
+      "timestamp": "",
+      "text": "Okay. That's really helpful. Thanks, John."
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "You bet."
+    },
+    {
+      "speaker": "Daniel Jester",
+      "timestamp": "",
+      "text": "On the e-invoicing, you know, one of your competitors in this space has sort of built their business through rolling up lots and lots of geographically diverse acquisitions. Maybe just, Chris, on sort of follow up on the acquisition in Latin America, do you, on the e-invoicing side now feel like you have the geographic footprint that you need to solve this for your customers, or should we expect more sort of tuck-ins to fully build out the capabilities on the e-invoicing side? Thank you."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Thanks, Daniel. We do feel we've got adequate country coverage for our global multinational customers. Like the Latin American footprint was absolutely one of the categories where, you know, we wanted to move more quickly to make sure that, you know, as its global customers issued an RFP, that we were able to comprehensively respond to that RFP. We cover Europe, we cover countries in Latin America, we cover countries in Asia. You know, today, based on all the conversations we're having with customers, we're able to cover their needs wherever they are. You know, this business is changing."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "As things change, if there's more opportunities, if we need to move more quickly in kinda building out the entire end-to-end platform, I won't say we'll never do anything else, but I think at this point, we feel very strong about our technology footprint. We feel very strongly that we've got a great network, we've got great AI capabilities, and we've got really strong country coverage. The compliance landscape is moving. You know, we're moving to a very continuous compliance-oriented posture, certainly outside of the U.S. today. Who knows if it makes its way into the U.S. at some point. We feel very, very good about our ability to help our customers manage their global mandate."
+    },
+    {
+      "speaker": "Daniel Jester",
+      "timestamp": "",
+      "text": "Great. Thank you very much."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Thanks, Dan."
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "Thanks, Dan."
+    },
+    {
+      "speaker": "Rob Oliver",
+      "timestamp": "",
+      "text": "Great. Thank you. Good morning. You guys have been busy a lot in a short period of time, so exciting to see all the changes. I have two questions. Chris, I'll start with you. You guys talked about 60% cloud revenue and the growth of that cloud revenue with obviously e-invoicing and compliance being cloud native, so that's gonna be a natural driver, and I think the initial part of that. As you look at the core customer base around sort of tax determination that Vertex has, historically, you guys had been more agnostic towards cloud on-prem. Obviously, that's changing, but I'm wondering how important those contract renewals are over the next year or two."
+    },
+    {
+      "speaker": "Rob Oliver",
+      "timestamp": "",
+      "text": "I know you're not forcing conversions, but whether conversion to cloud becomes more important in a world where the cloud availability of things like compliance, e-invoicing, AI, become more central to the value proposition of Vertex's offering. I had a follow-up."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Rob, thanks for the question. Yes, the answer is we're from a new business perspective, we're very focused on cloud. Like we really, you know, we want our customers to move to a modern platform that allows us to give them more value more quickly. Our new features, our new capabilities as we roll out AI oriented experiences, they're able to take advantage of that much more quickly. Frankly, to get the benefit of an end-to-end platform, that's gonna help them. You know, not just like a tax calculation problem, but really help solve some of their broader compliance requirements. The goal is for customers to move in this direction. I can tell you, like, new customers are very much, you know, coming online as cloud customers."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Even our existing customers. In fact, I just talked to, like, a large pharmaceutical customer of ours the other day who's been around Vertex for, you know, over 10 years. They had, you know, they had an on-premise instance. They're actually adding a cloud instance to it, so they're not gonna decommission the on-prem right away because of some of their own internal IT requirements. They're adding the new is going to the cloud. You can see the direction of travel there is in the right, is in the right orientation, where the new things they're doing with us are gonna be cloud-based. They're not anchoring us to what they've done in the past. That's very much the motion we wanna be with."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "We're trying to meet our customers where they are as much as possible and the cloud direction is really what that's all about."
+    },
+    {
+      "speaker": "Rob Oliver",
+      "timestamp": "",
+      "text": "Okay, great. Helpful. Thanks. Then I guess just a higher level question about the industry and the growth rate, now having been in the seat now for, you know, a quarter plus and having been around, you know, the software industry a long time. Love to hear your perspective. It sounds from our perspective, like talking to many of your competitors, that, you know, everyone's kinda hovering around that kinda low double-digit, just around teens growth. I know when John was asked earlier, he called out kinda macro as kind of a leading industry for the change. There's obviously a lot of changes happening across the industry and within the financial suite. I know you guys just kinda reset the targets."
+    },
+    {
+      "speaker": "Rob Oliver",
+      "timestamp": "",
+      "text": "I'm not asking you to add new targets, but I guess what I would ask is philosophically is that what we should think about where this growth rate is for this industry, Chris? Or is it something where as AI becomes more infused, we're thinking ultimately about a higher top line growth rate potentially for the tax and tax related AI business? Thank you."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "I think the way to think about this is that the base calculation and determination aspect of the business is probably in this territory. The reality is the compliance requirements are expanding and changing where, you know, government Like, this is why e-invoicing and compliance is such an important growth adjacency to our determination business because, you know, governments are asking, they're setting different requirements. They're saying, \"Look, you know, we're not gonna wait for the end of a period for you to file and tell us what you owe us."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "We're gonna tell you what you owe us because you're gonna send us all the invoices in real time. This is outside the U.S. primarily where this is happening today, but, you know, you could see versions of this happening in the U.S. as well, particularly at the state level. We'll see, we'll watch for this kinda change to happen. While we, while I would tell you the traditional calculation part of the business is probably there's higher growth opportunities in the global compliance e-invoicing part of our business. We do think that as we can help our customers automate more of the manual effort that happens in and around compliance and tax, that that does unlock more growth opportunity as well."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "We wanna kind of level set our investors on where we see things today based on the bulk of our business being in the determination part as we mature these other businesses as part of our portfolio."
+    },
+    {
+      "speaker": "Rob Oliver",
+      "timestamp": "",
+      "text": "Great. Thanks for the thoughtful answer. Appreciate it. Nice to see you guys have a good day talking to you."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "Thanks, Rob."
+    },
+    {
+      "speaker": "Andrew DeGasperi",
+      "timestamp": "",
+      "text": "Yeah, thanks for fitting me in. I guess when back to the comments you made so far on this call, I'm just trying to sort of put together the I guess the change in terms of the midterm targets. I'm just curious to know in terms of philosophically, if you look at your strategy today, since you've come aboard, do you think the focus has shifted more towards profitability versus top line growth at a high level? Or is it in fact this is really all due to the macro environment, and that there is potential for top line to accelerate once you once that environment improves?"
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Andrew, thanks for the question. There's absolutely top line growth potential. Like I said, as we're maturing our compliance and e-invoicing business, that should be added, that's additive to our growth rate. As we unlock new opportunity with AI, that will become Again, that's further out, but that will become additive to our growth rate. You know, again, as the global compliance environment shifts, you know, particularly in and around indirect tax. We believe all of that can be a good augmentation to our growth rate. You know, in some ways what we're doing is really just, you know, talking about the growth rate that we've been experiencing. It's not a change in strategy. It is what we're seeing in the market right now while we're maturing these new businesses."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "My focus has been though to make sure that we get, you know, we all grow as fast as we can in our core. We augment these new businesses so they can become meaningful contributors to our growth. We also needed to be more efficient in how we're spending money, and we needed to be able to invest more in these new growth areas. This is a big piece of why, you know, we needed to make some changes to our cost structure, number one, to show that, you know, we can drive incremental value for our investors."
+    },
+    {
+      "speaker": "Chris Young",
+      "timestamp": "",
+      "text": "Number two, we can invest in some of these growth areas and go faster than we've been going, you know, based on kind of what a growth rates we were seeing towards the end of last year into the beginning of this year."
+    },
+    {
+      "speaker": "Andrew DeGasperi",
+      "timestamp": "",
+      "text": "That's helpful. Thank you. Then on, John, on the back half of the year, I just wanna, like mathematically, if the cloud business will accelerate relative to the first half. Since you delivered a top line of 11% in Q1, you're guiding for, let's say, high single-digit Q2, we should see that top line accelerate in the back half of the year, even though the guidance for the year doesn't necessarily imply that. Do you still feel pretty confident about that?"
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "We do. We feel good about the 25% full-year growth rate. We think it's there. We have it in our, you know, in our line of sight. Again, a lot of it is driven, Andrew, by the fact that, you know, that e-invoicing opportunity, the mandates are coming on, you know, for France in the middle of the year. We've got Belgium for the full year. France is coming on, and we're selling into the Germany opportunity in addition to other client opportunities that are out there across the world. There's a lot of activity really focused on, you know, the e-invoicing space and driving that."
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "Plus, you know, the additional opportunity we'll get from continuing to leverage, you know, to continue to leverage our business, you know, reduce attrition, manage all that stuff as Chris was talking about, that's gonna just generally drive the rest of our business along with it."
+    },
+    {
+      "speaker": "Andrew DeGasperi",
+      "timestamp": "",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "John Schwab",
+      "timestamp": "",
+      "text": "Awesome."
+    },
+    {
+      "speaker": "Joe Crivelli",
+      "timestamp": "",
+      "text": "Thanks everybody for joining us this morning. As always, if you have follow-up questions or if you'd like to schedule more time with the team, you can reach out to me at investors@vertexinc.com. With that, we'll adjourn. Thanks for joining us, and have a great rest of your day."
+    }
+  ],
+  "totalTurns": 128
+}

@@ -1,0 +1,545 @@
+{
+  "ticker": "TTAN",
+  "period": "Q4 2026",
+  "eventDate": "2026-03-12",
+  "preparedRemarks": [
+    {
+      "speaker": "Jason Rechel",
+      "timestamp": "",
+      "text": "Thank you, operator. Welcome everyone to ServiceTitan's fiscal fourth quarter 2026 earnings conference call. With me are ServiceTitan's Co-founder and CEO, Ara Mahdessian, Co-founder and President, Vahe Kuzoyan, and CFO Dave Sherry. During today's call, we'll review our fiscal fourth quarter and full year fiscal 2026 results. We'll also discuss our guidance for the first fiscal quarter and full fiscal year 2027. Before we get started, we want to draw your attention to the safe harbor statement included in today's press release and emphasize that information discussed on this call, including our guidance, is based on information as of today and contains forward-looking statements that involve risks, uncertainties and assumptions. All statements other than statements of historical fact could be deemed to be forward-looking."
+    },
+    {
+      "speaker": "Jason Rechel",
+      "timestamp": "",
+      "text": "Forward-looking statements reflect our views as of today only, and except as required by law, we undertake no obligation to update or revise these forward-looking statements. Please take a look at our filings with the SEC for a discussion of the factors that could cause our actual results to differ. We also want to point out that we present non-GAAP measures in addition to and not as a substitute for financial measures prepared in accordance with generally accepted accounting principles. Definitions of these non-GAAP financial measures, along with reconciliations to our GAAP financial measures, are included in our earnings release, which we have furnished with the SEC and is available on our website at investors.servicetitan.com. Unless otherwise stated, all references on this call to platform gross margin, total gross margin, operating income, operating margin, free cash flow, and related growth rates are on a non-GAAP basis."
+    },
+    {
+      "speaker": "Jason Rechel",
+      "timestamp": "",
+      "text": "Finally, we've posted an updated investor presentation that can be found on the investor relations website at investors.servicetitan.com, along with a replay of this call. With that, let me turn the call over to Ara. Ara?"
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "timestamp": "",
+      "text": "Thank you, Jason, and thank you for joining us. This quarter we celebrated the one-year anniversary of our IPO and surpassed $1 billion of annualized revenue run rate. In fiscal year 2026, we delivered $961 million in total revenue, growing 24% year-over-year, led by 26% year-over-year subscription revenue growth. We achieved these results while delivering 36% incremental operating margins and a meaningful change in free cash flow. When Vahe and I founded ServiceTitan, our vision was to transform the lives of hardworking contractors by helping them grow revenue and margins through automation. From day one, we imagined a world where technicians focused on serving customers in the field, owners focused on business outcomes, and ServiceTitan increasingly handled the operational complexity in between. Running a trades business is like optimizing a multi-stage funnel."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "timestamp": "",
+      "text": "Contractors must generate demand, book appointments, dispatch the right tech, diagnose issues, present solutions, follow up on unsold opportunities, manage inventory, process payroll, and constantly analyze performance to improve profitability. We built a singular end-to-end operating system spanning every major workflow in the trades, from demand generation to call booking, dispatch, quoting, payments, inventory, payroll, and supplier integrations. We embedded best practices that drive revenue and profitability directly into the software, including marketing ROI tools to double down on the highest performing campaigns, call analytics to improve appointment booking rates, good better best proposal systems to increase average tickets, pipeline tracking and outbound dialing to recover unsold estimates, and more. Contractors who leverage these capabilities consistently drove significant revenue and profit expansion, but two constraints limited how far we could take them. First, utilization. Customers still had to manually execute many of these best practices."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "timestamp": "",
+      "text": "Second, deterministic software could only automate what was rules-based. Much of the work still happened in ServiceTitan, but it remained manual because it required judgment. AI removes both of these constraints. Because ServiceTitan is already where the work happens and where decisions are made, we are naturally the context layer and the orchestration layer, which allows us to automate work directly inside our platform with AI. Because for more than a decade, nearly every meaningful workflow in the trades has run inside ServiceTitan, we have amassed the deepest end-to-end proprietary data set in the industry, including marketing campaign performance tied directly to revenue and margin, call booking rates by call type and process, tech productivity, close rates and average ticket by job type and quotes generated, dispatch decisions linked to outcomes, and more."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "timestamp": "",
+      "text": "This is structured transactional outcome level data across millions of jobs and over $80 billion in transaction volume over the past 12 months alone. Our execution layer puts this uniquely proprietary data into action, and every additional job improves that intelligence, creating a flywheel where the system continuously learns and gets smarter, allowing us to deliver differentiated customer outcomes. What used to require a group of people manually coordinating across an operation can now be orchestrated by the system itself, with humans and AI agents working together seamlessly where each player does what they do best. An AI agent that detects available capacity and automatically modulates demand generation to fill the board. Virtual agents that answer inbound calls and book appointments with a human call center manager ready to step in with full context exactly when a customer demands it."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "timestamp": "",
+      "text": "A human tech who walks into a home, looks a homeowner in the eye and diagnoses the problem. Armed with an AI agent that automatically generates the right quotes, the work gets done faster, smarter, and more reliably. Not just because you can get AI to do some of the work through point solutions, but because data from adjacent workflows makes each decision smarter, and every handoff between players in the workflow is seamless on a singular platform. This is what an operating system for the trades looks like in this new world of AI. The agentic operating system. First announced as a pilot program at Pantheon last fall, Max is the initial deployment of our agentic operating system, bringing together the power of our core product, our existing Pro Products, and new AI capabilities all orchestrated together."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "timestamp": "",
+      "text": "The results from our first set of customers speak to the potential of Max. A customer in Southern California, Team Rooter, told me that instead of pockets of automation with Pro products, Max delivered an integrated end-to-end automation engine. In three months since migrating to Max, Team Rooter has experienced a 50% increase in average ticket size, leading to an acceleration in total revenue growth, record revenue in December, and greater than 50% year-over-year revenue growth in January. Best of all, Team Rooter told me that they expect further improvements as they reach full utilization of Max. A separate residential plumbing customer told me that only months after going live with Max, EBITDA margins improved from 18% to 30%."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "timestamp": "",
+      "text": "The automated marketing, call booking, dispatching, and capacity planning allowed them to reduce office staff from seven to two for 19 techs in the field, all while increasing technician salaries, eliminating weekend work, and even reducing end customer pricing. These powerful results are possible because we are now automating and orchestrating the work already being done in ServiceTitan. On average, customers on Max will about double their monthly subscription revenue when fully ramped, and it is the power behind these collective outcomes that we plan to meaningfully expand Max throughout the year, starting with the doubling of capacity in Q1. In addition to Max, we are seeing healthy ongoing growth of our existing AI-native pro products and early promising signs from our recently launched virtual agents."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "timestamp": "",
+      "text": "We're leveraging our massive proprietary data set, entrenched and expanding ecosystem, brand leadership, and distribution across more than 10,000 high-performing contractors to capitalize on our largest opportunity yet and bring this reality to life for the best operators. Our internal leverage of AI tooling is allowing us to accelerate development velocity to create more value faster than ever before. This is a landmark value creation opportunity. Bringing all of this to the year ahead, we have three core goals for FY 2027: To continue executing on our multi-year growth factors, to bring our vision to life with the agentic operating system for the trades, and to make a step function change in the velocity at which we execute for our customers. Vahe and I have made ServiceTitan our life's work. With the benefits of AI, our vision is now unfolding faster than we could have ever imagined."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "timestamp": "",
+      "text": "I am inspired by the performance of our customers and by watching Titans execute on the agentic operating system for the trades. Let's hear about this execution from my co-founder, Vahe."
+    },
+    {
+      "speaker": "Vahe Kuzoyan",
+      "timestamp": "",
+      "text": "Thanks, Ara. This really is an exciting time to be in the game. As we build the agentic operating system for the trades, there are some important stepping stones along the way. Today, I will highlight our performance in Q4 and talk about how we're accelerating our organizational velocity. We made substantial progress in FY 2026 against each of our four major growth initiatives. Beyond the updates that Ara shared, I'd like to provide specific updates today on commercial and roofing. The commercial capabilities we introduced at Pantheon, specifically construction and commercial CRM, have been well-received and have laid the foundation for go-to-market execution in FY 2027. We are now positioned to seamlessly optimize the way the platform works together and to enter complementary new trades that we believe will build on progress towards becoming the market standard in commercial in FY 2027."
+    },
+    {
+      "speaker": "Vahe Kuzoyan",
+      "timestamp": "",
+      "text": "In roofing, we made considerable progress over the past 12 months. As summarized by our outstanding partner, Vertex, in a press release this afternoon, we helped a lighthouse customer in this market skyrocket to over $600 million in revenue in less than three years since being founded. Said Vertex CEO Christopher Young, \"ServiceTitan has been a great strategic technology partner that has moved as fast as we do to design, build, and implement a scalable platform that delivers consistent and great customer experience across the country.\" Our roofing implementation playbook, insurance and estimating workflows, and brand within roofing are each maturing as we lay the foundation for durable growth in exteriors. Shifting to our organizational velocity, nothing Ara or I have said will be achievable without us being able to capture the magic of AI, both in how we build our product and generally run the business."
+    },
+    {
+      "speaker": "Vahe Kuzoyan",
+      "timestamp": "",
+      "text": "This is an area I'm very passionate about and personally driving. Over the past few weeks, in particular, I've spent hundreds of hours deep in the matrix. I've touched it, smelled it, wrestled with it, and know it's here and that it's real. Every department and every role is expected to use AI to increase quality, efficiency, and speed. I have personally witnessed mountains being moved when the right people are unleashed on the right problems. I see AI as an opportunity to improve and accelerate every process in the business, ultimately allowing us to accelerate the ROI we deliver to our customers. In fact, the ability to capture the magic of AI was the primary skill we were looking for when searching for our Chief Technology and Product Officer, and I'm thrilled to report that we've brought in quite a wizard."
+    },
+    {
+      "speaker": "Vahe Kuzoyan",
+      "timestamp": "",
+      "text": "Our new Chief Technology and Product Officer, Abhishek Mathur, joined us last month from Figma, where he oversaw AI research and the development of Figma Make and Figma AI. Abhi previously led product and engineering teams at Meta and Microsoft and will partner closely with me to make a step function improvement in our velocity over the course of FY 2027. The continued success that we are seeing in our primary growth vectors, the clear opportunity for ServiceTitan to deliver the agentic operating system for the trades, and the notable improvements I've already seen in our internal velocity each contribute to my excitement for the year ahead. It is inspiring to see the acceleration in our vision, and I want to thank Titans everywhere for delivering value to our customers every day, and our customers for your partnership and trust."
+    },
+    {
+      "speaker": "Vahe Kuzoyan",
+      "timestamp": "",
+      "text": "With that, I'll turn it over to Dave to run through the financials. Dave?"
+    },
+    {
+      "speaker": "Dave Sherry",
+      "timestamp": "",
+      "text": "Thanks, Vahe. I'm proud of our execution to close out our first full year as a public company. Today, I'll run you through Q4 financial results and provide guidance for Q1 and for the full fiscal year 2027. For more detailed financial results, including details for the full fiscal year 2026, please refer to our press release issued earlier today. Q4 gross transaction volume, or GTV, was $19.8 billion, representing 16% year-over-year growth. GTV contribution from new customers remained consistent with prior periods. The combination of one fewer business day and unusual weather led to about 300 basis points slower GTV growth contribution from existing customers against a notably more challenging year ago comparable. Q4 total revenue of $254 million grew 21% year-over-year."
+    },
+    {
+      "speaker": "Dave Sherry",
+      "timestamp": "",
+      "text": "Subscription revenue of $192 million grew 23% year over year, led by strong growth in Pro, commercial, and new trades. As a reminder, Q4 FY25 subscription revenue grew materially faster than prior periods, partially driven by the roughly $1.5 million benefit from atypical linearity and other one-time items. Usage revenue grew 22% year over year to $53 million. Fintech utilization remained strong again this period. We also benefited from monetization of our partner ecosystem, which does not directly correlate with GTV, and from early growth in virtual agents revenue. Looking forward, we believe that growth from these factors could lead usage revenue to grow more quickly than GTV in FY27. Total platform revenue for Q4, the sum of subscription and usage revenue, grew 23% year over year to $245 million."
+    },
+    {
+      "speaker": "Dave Sherry",
+      "timestamp": "",
+      "text": "Q4 professional services revenue was $8.9 million. Net dollar retention was greater than 110% for the quarter. Gross dollar retention was greater than 95% for the full fiscal year 2026, and we exited the year with approximately 10,800 total active customers, up 14% year-over-year. Q4 platform gross margin was 80%, an improvement of 330 basis points year-over-year. As a reminder, roughly 200 bps of this improvement resulted from the allocation of certain customer success expenses to sales and marketing. Total gross margin for Q4 was 73.8%, up 360 basis points year-over-year."
+    },
+    {
+      "speaker": "Dave Sherry",
+      "timestamp": "",
+      "text": "Q4 operating income of $27.1 million resulted in operating margin of 10.7%, an improvement of 740 basis points year-over-year. Our FY 2026 incremental margins of 36% outperformed our target due to the timing of hiring and usage revenue overperformance. Q4 free cash flow was $35 million, up from $11 million for the prior year fourth quarter. FY 2026 free cash flow was $85 million, up from $15 million in the prior year. Due to our expectations for ongoing strength in free cash flow, we paid down the approximately $107 million term loan that was outstanding during Q4 and amended our revolving credit facility to retain and improve financial flexibility. A quick reminder of the seasonality in our business."
+    },
+    {
+      "speaker": "Dave Sherry",
+      "timestamp": "",
+      "text": "We pay our annual cash bonuses in Q1, which leads to negative free cash flow in the period. As always, we expect Q2 to be our seasonally strongest period on GTV, and we will host our annual customer conferences during Q3, which will elevate sales and marketing expenses in that period. With regards to business days, GTV will benefit from one additional business day in Q1 and also from one additional business day in Q2. Q3 will have one fewer business day, and Q4 will have a comparable number of business days with the prior year. Now, shifting to formal guidance. Following stronger than expected incremental margins in FY 2026, we expect to continue our 25% incremental operating margin framework over the full year FY 2027. How we achieve these results this year may differ from prior periods on two dimensions."
+    },
+    {
+      "speaker": "Dave Sherry",
+      "timestamp": "",
+      "text": "First, as we've said before, we don't manage our incrementals on a quarterly basis. Second, the mix of line item expenses may modestly shift relative to prior periods as we invest more aggressively in AI inference and internal tooling. For the first quarter, we expect total revenue in the range of $255 million-$257 million. We expect to generate operating income in the range of $27 million-$28 million. For the full fiscal year 2027, we expect total revenue in the range of $1.11 billion-$1.12 billion. We expect to generate operating income in the range of $128 million-$133 million. Underpinning our outlook is a sustainably high ROI that we deliver to our customers who operate in resilient trades that keep our economy running."
+    },
+    {
+      "speaker": "Dave Sherry",
+      "timestamp": "",
+      "text": "We continue to perform well across our growth priorities while building the agentic operating system for the trades with greater operational velocity than ever before. With that, I'll turn the call back to the operator for Q&A. Operator?"
+    }
+  ],
+  "qAndA": [
+    {
+      "speaker": "Josh Baer",
+      "timestamp": "",
+      "text": "Great. Thanks for the question and congrats on a strong finish to the year. I wanted to ask about weather, which kind of, anecdotally or just from personal experience, pretty extreme so far in 2026. I was hoping you could unpack a little bit of what you saw in Q4 results as far as January, as well as what's in Q1 guidance, how much impact there was from cold weather and extreme weather so far this year?"
+    },
+    {
+      "speaker": "Dave Sherry",
+      "timestamp": "",
+      "text": "Thanks, Josh, and great question. There's really two parts to this. First, overall Q4 this year was quite warm. The NOAA state-level data recorded the third warmest period from November to January as compared to the fifteenth warmest last year. Second, there was a large ice storm in the last week of the quarter across much of the U.S. that kept technicians off the road. While I don't want to get into the practice of discussing in-quarter GTV performance, but what I can say is that the way we size the impact of the storm was in part based on the results in early February as the latent demand from the storms was met."
+    },
+    {
+      "speaker": "Josh Baer",
+      "timestamp": "",
+      "text": "Okay. Got it. Just wanted to follow up on the incremental margin commentary this year, 36%, that's way above the 25% target. I know you mentioned timing of expenses and top-line outperformance. Any context for the mix of the two and really, you know, why shouldn't this level of type of incremental margin continue looking ahead?"
+    },
+    {
+      "speaker": "Dave Sherry",
+      "timestamp": "",
+      "text": "I'll take this one also, Josh. I think the incrementals this year were really driven by, as I said, those two factors, the overperformance in usage and being behind in hiring. I think that there was an interplay between the two of them. By being a bit behind in hiring, it was harder for us to reinvest the capital that came off from the overperformance. As we look forward into FY 2027, I think it's going to be the largest investment yet in R&D, and I think that we have a lot of opportunities to do so with AI. Also with Ara and Vahe, I feel pretty excited about our ability to attract world-class talent to deliver against the massive number of opportunities in front of us."
+    },
+    {
+      "speaker": "David Hynes",
+      "timestamp": "",
+      "text": "Hey, thank you, guys. I'll also offer my congrats on nice quarter. Dave, I'm going to keep pulling on that last thread. You know, Josh asked about incremental margins and CAC payback kind of running ahead of plan. You talked about investments in R&D. I'm going to take the other side and ask about sales capacity, investments that are planned for 2026. Do you feel like the business could grow faster with more sales heads or is there more of an industry-wide limit on growth? I guess what I'm asking is like, are you getting in front of all the deals that you should with the capacity that you have today and kind of how does that inform your strategy for 2026?"
+    },
+    {
+      "speaker": "Dave Sherry",
+      "timestamp": "",
+      "text": "Hey, DJ. I think two things. First, we govern the way we invest in sales and marketing across all go-to-market in a 24-month CAC payback. This last year we overperformed simply because usage overperformed in the year. I think that we have opportunities to continue to invest, particularly against the AI initiatives. With that said, I feel like there is also a natural rate limit in terms of the number of jump balls in a given year. Switching solutions is a major decision, and what we discovered over time is we try to force customers through more go-to-market initiatives to get them to switch. It ends up leading to more churn down the line. We're driving towards that as we think about our go-to-market investments."
+    },
+    {
+      "speaker": "David Hynes",
+      "timestamp": "",
+      "text": "Yeah. Okay. Makes sense. Maybe we'll give you a moment to breathe and bring in the rest of the team. Vahe, maybe you could just give us an update on what you're seeing in the commercial business. I'd love to get kind of current thoughts on competitive dynamics, bookings execution, you know, pipeline opportunity as we head into 2026."
+    },
+    {
+      "speaker": "Vahe Kuzoyan",
+      "timestamp": "",
+      "text": "Overall commercial is on track for what we, you know, big picture wanted to happen when we made the move into commercial. I think we are cementing our position as leaders in the space. The products that we are rolling out are being met with really positive signals from the customer base. We're continuing to see kind of all aspects of the engine humming in terms of whether it's pipeline generation at the top of the funnel or it's successfully being able to onboard customers and actually deliver value, it's executing on all cylinders."
+    },
+    {
+      "speaker": "Adam Hotchkiss",
+      "timestamp": "",
+      "text": "Great. Thanks so much for taking the question. I guess to start, Ara, I appreciate the comments around the Max Program. How do you think about the decision in terms of scaling that program? I think it's pretty notable that you plan to ramp that throughout the year, and the Q1 comments were helpful. What are the limiting factors, if any? I know you've sort of said that you're pairing folks with an executive in the initial cohort. What should the Max Program look like going forward, and how should we start to see that impacting the model as we go into the year? Thanks."
+    },
+    {
+      "speaker": "Vahe Kuzoyan",
+      "timestamp": "",
+      "text": "Yeah. This is a very top-of-mind topic for us. We see this not as some new feature that we're rolling out, but as literally the future of ServiceTitan. We're following a very rigid process that sequentially first establishes product market fit by delivering the ROI to our customers and then focuses on the scaling aspect. Where we're at right now is we're seeing really positive signals on that first part. We feel really confident that we're in a great place there. We are just now, with this next cohort, focusing on the scale aspects, and that really comes down to two factors. Efficiently and quickly and effectively being able to onboard, number one, and then, number two, it's really around scaling the program to all customers within that we serve."
+    },
+    {
+      "speaker": "Vahe Kuzoyan",
+      "timestamp": "",
+      "text": "We're focusing on that efficiency of onboarding as this next phase and, we're going to scale it out as quickly as we can while ensuring the success of the customers. It's about getting it right, and we're playing the long game. We're not trying to optimize for short-term results at this point."
+    },
+    {
+      "speaker": "Adam Hotchkiss",
+      "timestamp": "",
+      "text": "Understood. Really helpful. You ended your prepared remarks with one of your core goals being a step function change in the velocity of what you do for your customers. Maybe talk about the factors on the velocity side that make you feel confident in the step function. Is that just AI internally and AI through Max, or are there other factors we should consider there? Thanks so much."
+    },
+    {
+      "speaker": "Vahe Kuzoyan",
+      "timestamp": "",
+      "text": "Yeah. There's a lot of factors at play. There's the obvious kind of code production revolution that we're all seeing happen in front of our eyes. There's also another aspect of even if you had 1 million programmers, there's just things you could do today that were never possible before that are accelerating our ability to deliver value. What we're seeing is when you mix all of that with the data that we have and the system of record launchpad to then deliver these capabilities, there's kind of a compounding acceleration that's happening. It's hard to say exactly how it manifests into the revenue forecast, et cetera, but personally, I've spent hundreds of hours over the last few weeks directly, writing code, talking to customers, and really being on the front lines with our team to roll these things out."
+    },
+    {
+      "speaker": "Vahe Kuzoyan",
+      "timestamp": "",
+      "text": "I mean, I'll be honest with you, it's real. This is something that I've touched, felt. I mean, it's absolutely real, and we're really excited about how it flows out over the next few quarters."
+    },
+    {
+      "speaker": "Michael Turrin",
+      "timestamp": "",
+      "text": "Hey. Great. Thanks very much. Appreciate you taking the question, and congrats on the end of the year. I'll just ask a two-parter, both up front. For Dave, can you just speak to what sort of assumptions are embedded in the fiscal year revenue guide around just overall demand backdrop, any new trade contribution, and any Max contribution you're initially contemplating? And then for the team, just help us think through the adoption curve you could see with Max. I think you mentioned doubling capacity there. Was that a sales-specific comment? And just help us think through the ramp you could see, as that capacity ramps throughout the course of the year and into next. Thanks very much."
+    },
+    {
+      "speaker": "Dave Sherry",
+      "timestamp": "",
+      "text": "Thanks, Michael, and congrats on the expanded role over at Wells Fargo. In regards to our guidance, the philosophy remains the same this year as the prior years, and I think we're going to continue to drive the business along the same framework. In terms of the macro environment, we have rolled forward what we saw in the last couple of quarters and pulled that there. In terms of Max, I think that we are really excited about the ROI Max is delivering, and that's the foundation upon which we're doubling the capacity. At the same time, still early days here, and we're being quite intentional about it. Vahe will talk a little more about that. But in terms of the guidance, for now, what's baked in is essentially a roll forward what we've seen in our Pro Products."
+    },
+    {
+      "speaker": "Dave Sherry",
+      "timestamp": "",
+      "text": "As we see the efficiencies both for us and our customers in adopting Max increase, we may increase the expectations that it will deliver over time, and I'll keep you guys updated on that."
+    },
+    {
+      "speaker": "Vahe Kuzoyan",
+      "timestamp": "",
+      "text": "To give a little bit more color on the execution against that scaling plan, phase one was really around establishing that the ROI was actually there and verifying it. Super high touch. We had executives involved and so on. The current phase is around delivering that same set of outcomes with this new batch of customers, but doing so in a much more scalable and automated way in terms of getting them activated on Max. Depending on how successful we are in actually doing that, we should see the program scale, we think, in a very exciting way, but we're waiting to see and get some validation before we provide any additional guidance on what that's going to look like."
+    },
+    {
+      "speaker": "Michael Turrin",
+      "timestamp": "",
+      "text": "All sounds good. Thanks very much."
+    },
+    {
+      "speaker": "Dylan Becker",
+      "timestamp": "",
+      "text": "Hey, everyone. All that other congrats here as well. Maybe for Vahe or Ara, on Vertex, I wonder how you guys are thinking about examples of some of these consolidators and their ability to scale rapidly. Maybe if that is attracting more capital. I know there's already a strong PE ecosystem here, but is that shifting any dynamics there? Is that pulling you maybe into new trades that they're trying to front run? Maybe just any kind of shift in the success of some of these models and the pace of success helping kinda contribute to the durability of that PE motion, if that makes sense. Thanks."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "timestamp": "",
+      "text": "Great question. Our goal is to be great partners to both the leading sponsors in the trades as well as the largest operators. Of course, our job is to make them more money. We continue to see strong growth from these customers. We've mentioned in the past that they are the cohort of customers that were the fastest-growing, highest adopters of our product, greatest utilization. They indeed have been great partners in helping us expand into new trades. That is how we entered the roofing market. Lastly, next week we will actually be hosting our largest partners and their sponsors in New York for our PE symposium, to share notes on what we're seeing in the industry, to learn from them, and then also to talk about the future of AI for the trades and the agentic operating system."
+    },
+    {
+      "speaker": "Dylan Becker",
+      "timestamp": "",
+      "text": "Perfect. Thank you. That's helpful. Maybe, Ara, if I can stick with you. I know there's been some emphasis thus far on the capacity angle with Max, but I think you did call out that there's customers that are deploying it today, they're seeing value, but they're kinda just scratching the surface, and there's an expectation for them to ramp to maybe more of an end-to-end deployment over time. I think you said maybe that doubles the revenue base. How you're thinking about kinda balancing the ramping of those customers that are utilizing Max today and going deeper alongside kind of the scaling and the breadth of scope of that project, if that makes sense."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "timestamp": "",
+      "text": "Yeah, certainly there's a lot of excitement around bringing the power and capabilities and the incredible outcomes that we've seen with what Max is today to more customers. As we've said in the past, one of the nicest things about this business is that under every rock is another opportunity. As we think about this vision for the trades that Vahe and I have talked about, automating demand gen through call booking, dispatch, quoting, follow-up, inventory, payroll and so on, there is still more opportunity for us to automate more workflows as well as increasingly automate a larger percentage of the workloads in those workflows. We're excited to do both."
+    },
+    {
+      "speaker": "Jason Celino",
+      "timestamp": "",
+      "text": "Great. Thanks. You know, Dylan kinda stole my question a little bit, but maybe I'll ask it, you know, a different way. I think you said that our customers on Max will double their monthly subscription revenue when fully ramped. Is that mainly from adopting the whole suite, or are you finding that they're getting so efficient that they're able to expand technicians as well?"
+    },
+    {
+      "speaker": "Dave Sherry",
+      "timestamp": "",
+      "text": "Hey, Jason, I'll take this one. It's the average customer when they adopt Max, their subscription doubles at full ramp. That does not factor in the idea of expanded technicians."
+    },
+    {
+      "speaker": "Jason Celino",
+      "timestamp": "",
+      "text": "Got it. Perfect. You know, Dave, I think you also in your prepared remarks, you mentioned that the guidance built in, like, early growth in virtual agents. Maybe can you talk about that a little bit? Is that like a new product or is that part of the Max offering? I just don't know if I've heard you talk about virtual agents before."
+    },
+    {
+      "speaker": "Dave Sherry",
+      "timestamp": "",
+      "text": "Oh, Ara, why don't you talk about virtual agents for a second? I'll talk about what it means in our guidance."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "timestamp": "",
+      "text": "You bet. Virtual agents handle inbound calls for our customers. This is a need that nearly every customer has, particularly in moments where they get a sudden surge of calls that come in, their existing team is unable to handle all the calls or when calls come in after hours. As we all know, these calls represent very significant revenue opportunities. Each call can be between $500-$50,000 in a potential job, and so very important to handle each of these calls. We very recently launched our virtual agents to handle these calls. While the product is very early, the interesting situation for our customers is, number one, increasing workloads of surge volume being handled by our agents, increasing workloads of after-hour calls being handled by our agents."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "timestamp": "",
+      "text": "Because there is very high turnover in the customer support representative function, as our customers are seeing turnover in their CSR base. Many are choosing not to necessarily replace that headcount and allow the virtual agents to handle the incremental call volumes."
+    },
+    {
+      "speaker": "Dave Sherry",
+      "timestamp": "",
+      "text": "I'll chime in a bit on what it means for our financials. Jason, while there are an allocation of this of virtual agent calls are included in some packages. In general, virtual agent sales are part of our usage consumption. They're AI consumption product that is on top of Max. The trajectory of the AI consumption is encouraging. It's still very early, which it makes it hard for us to forecast. I'll be honest, it's very little bit is embedded in our guide today."
+    },
+    {
+      "speaker": "J. Parker Lane",
+      "timestamp": "",
+      "text": "Hey, guys. Thanks for taking the question. Dave, in your prepared remarks, I think you talked about partner monetization benefiting 4Q, and that wouldn't necessarily be correlated with GTV. Could you just go a little bit deeper on what you saw there in the quarter and what the assumptions are going into fiscal 2027 here?"
+    },
+    {
+      "speaker": "Dave Sherry",
+      "timestamp": "",
+      "text": "Absolutely. What I said there is that we have a part of our usage revenue is from partners and in our revenue share from them. That doesn't correlate directly with GTV. When GTV grew less quickly this quarter, it was more pronounced on our usage take rate. This is a growing part of our business, and so is the virtual agent. What I'm saying is that there's a chance that you'll see usage revenue outpace GTV growth this year."
+    },
+    {
+      "speaker": "J. Parker Lane",
+      "timestamp": "",
+      "text": "Got it. Ara and Vahe, when you look at your customer base, obviously you have these customers that are in the Max Program. They seem to be very proactive about AI adoption. Are there a pocket of customers who are maybe in wait and see mode trying to have ServiceTitan bring them along and maybe not as evangelized around the opportunity for AI? Just trying to understand what share of customers are actively looking for automation through the form of AI today."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "timestamp": "",
+      "text": "That's a great question, and there's certainly a spectrum of willingness. As we launched Max, we saw demand for the Max pilot that exceeded the supply that we could offer. There's a very meaningful portion of our customer base that is very eager and very aggressive about adopting AI. Kinda with like every other innovation in the past, we believe that as the customer outcomes are demonstrated, and some of them you heard in my prepared remarks, it will be increasingly exciting for the vast majority of the customer base to benefit from these same outcomes by adopting Max."
+    },
+    {
+      "speaker": "J. Parker Lane",
+      "timestamp": "",
+      "text": "Got it. Thanks for the feedback."
+    },
+    {
+      "speaker": "Terry Tillman",
+      "timestamp": "",
+      "text": "Yes. Sorry for the background noise. Hey, Ara, Vahe, and Dave and Jason. Two questions for me. The first one is, I really liked it a couple of quarters ago when you talked about that autonomous job authoring the tech actually doing the work at the site. I'd love an update on any more anecdotal kind of evidence of that playing out where it's autonomous jobs, or we've even seen where it's autonomous sites, where it's actually there's not even much human labor at the site. Just anything you could share on more kind of data points on how that's coming along, and then I had a follow-up."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "timestamp": "",
+      "text": "That is certainly the experience of the Max Program, is helping generate demand autonomously, book the appointment autonomously, dispatch the right tech autonomously, help generate the right diagnosis and quote, and then ultimately also handle inventory, payroll, and other back-office functions. While what we shared many quarters ago may have been like the first experience of this is increasingly becoming the experience in Max. As for the actual work in the field, I'm not familiar with the specific example you're referring to."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "timestamp": "",
+      "text": "While there may be slight exceptions where the amount of human effort is, you know, small, at the customer site, the vast majority of what needs to be done at a customer's home or office still very much requires a very skilled technician who can build a relationship with the customer, diagnose the issue properly, and then advise the customer through the options for solving that problem."
+    },
+    {
+      "speaker": "Terry Tillman",
+      "timestamp": "",
+      "text": "Yeah, no, that's a good clarification. I actually meant on the contractor site when they add new sites. No, that's helpful. Just a follow-up question is for Dave."
+    },
+    {
+      "speaker": "Dave Sherry",
+      "timestamp": "",
+      "text": "Yes."
+    },
+    {
+      "speaker": "Terry Tillman",
+      "timestamp": "",
+      "text": "It feels like there's a couple things though that could help GTV in one Q versus four Q if I was a good listener. There's one day more in one Q versus four Q, and it sounded like if the techs were off the road like they were where I live in that one week, we could see GTV growth a little bit higher in one Q. Again, I also know usage revenue could be a variance with the GTV growth, but just could you double-click a little bit on GTV in one Q?"
+    },
+    {
+      "speaker": "Dave Sherry",
+      "timestamp": "",
+      "text": "I think you nailed the components. We don't want to get into the practice of giving in-quarter performance, but you nailed it, too. One more business day and the latent demand from the ice storms that was met in early February. You got it right, Terry."
+    },
+    {
+      "speaker": "Terry Tillman",
+      "timestamp": "",
+      "text": "All right. Thank you."
+    },
+    {
+      "speaker": "Billy Fitzsimmons",
+      "timestamp": "",
+      "text": "Hey guys, thanks for taking the question. Given some of the debates in software currently, appreciated the focus in the prepared remarks around how AI enhances the platform. One of the questions we get across our whole coverage list is kind of the extent to which the barriers to entry have potentially come down, whether that manifests in AI native startups going after similar opportunities or whether customers will do it themselves. So on that note, first, it really doesn't seem like it based on the numbers, but have any of those things come up in customer conversations or had any impact on top of funnel demand in recent months? Then maybe second, in the prepared remarks, Ara, you talked about how the on the proprietary data you've amassed."
+    },
+    {
+      "speaker": "Billy Fitzsimmons",
+      "timestamp": "",
+      "text": "Just to help contextualize it for us, can you provide some examples of some of those datasets and or anecdotes around some of the things you're able to do with it that maybe a brand-new AI competitor would not be able to do?"
+    },
+    {
+      "speaker": "Vahe Kuzoyan",
+      "timestamp": "",
+      "text": "Sure. In terms of the barriers to entry declining and the impact it has, we're keeping, as you would imagine, an incredibly close eye on it. We are not seeing it impact, you know, whether it's pipeline conversion, et cetera. The way we're thinking about it is we're not just going to stand still and unilaterally disarm. We're going to take advantage of those same capabilities, and we're also going to be producing a lot more code, a lot more capabilities. I think net-net, it's going to be a positive for us because of the structural advantages that we have and our ability to create value from AI, whether it's through the data that Ara will go into in a second or it's distribution. We think that the net impact is going to be positive."
+    },
+    {
+      "speaker": "Vahe Kuzoyan",
+      "timestamp": "",
+      "text": "Ara, maybe you talk into some of the data aspects that I think are going to make the difference."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "timestamp": "",
+      "text": "Right. You can certainly get some level of outcomes with point solutions. Maybe before Max, that was pretty much all that was possible. There is a very meaningfully higher level of outcomes that is attainable through an end-to-end agentic OS. First, the automation in any particular workflow benefits quite massively from the data in adjacent workflows. Like, you don't want to optimize demand generation based on leads. You want to do it based on expected gross profit, and you can only do that if you have also the sales and margin data and you are the software for those workflows. You can't optimize the quoting process to maximize gross profit if you don't have the visibility into price book and inventory, and so on and so forth."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "timestamp": "",
+      "text": "The neat thing is the manual version of all these workflows have already been executed and orchestrated inside ServiceTitan for the past 10 years, and so we have all the proprietary data across them from, like which marketing campaigns have the highest ROI to what kind of call booking process maximizes call booking rates, to what kind of quotes in the field maximize close rates and average tickets, and so on and so forth. Our thesis is we are the natural place, the natural orchestration, execution, and interface layers where this work gets automated, and we're seeing that in Max, and we're seeing the incredible differentiated outcomes through Max. At the end of the day, in markets where there's intense competition, like in the trades, like there are all kinds of solutions available."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "timestamp": "",
+      "text": "Each solution has a corresponding level of outcomes possible through them. We've seen time and again that our customers want the solutions that have the highest level of outcomes, and hence our excitement around Max."
+    },
+    {
+      "speaker": "Billy Fitzsimmons",
+      "timestamp": "",
+      "text": "Super helpful. Thank you both."
+    },
+    {
+      "speaker": "Tyler Radke",
+      "timestamp": "",
+      "text": "Yeah. Thank you for taking the question. Just curious, as you think about sort of the rank order of trades that you know represent sort of your largest industry exposure, can you just comment on sort of the ones that moved up the most or if there's sort of any change in the top five and how you're sort of rank ordering those as you think about what's embedded in 2026?"
+    },
+    {
+      "speaker": "Vahe Kuzoyan",
+      "timestamp": "",
+      "text": "Sure. I think, I'll take this one, Tyler. On last quarter's call, we talked about, plumbing, HVAC, electrical, and garage on the residential side being the largest grouping of customers. They're not the majority, but they're sort of the largest grouping. That continues to be true today. Commercial continues to be a meaningful growth driver for us, and I think we should expect that to be the case in the year ahead. Roofing is, well, an important growth driver for us. We have a number of other trades, but I think those are the ones I'd call out for now."
+    },
+    {
+      "speaker": "Tyler Radke",
+      "timestamp": "",
+      "text": "Got it. Congrats on the CTO announcement. Just curious, as you think about sort of the investments that need to be made maybe on the platform level to, you know, enable things like Max and some of the future agentic. Like, how do you think about the timeframe for those? Are there certain, you know, modifications or additions you want to do to be able to bring in more intelligence and, you know, other data sources maybe from other systems that your customers have? If you could just kinda talk about, you know, the top sort of products and R&D initiatives under the new CTO."
+    },
+    {
+      "speaker": "Vahe Kuzoyan",
+      "timestamp": "",
+      "text": "Yeah, great question. As Ara mentioned, we see the future as being an agentic operating system, and so there's some foundational elements that you need in order to do that well. There's an entire security and governance layer that you need to have in place to make sure that the AIs are doing what you want them to do and not doing what you don't want them to do. There's also an element of ServiceTitan already today has connective tissue to all these adjacent systems, whether it's accounting or payroll or budgeting data, et cetera. By creating that orchestration layer, that global context, and being able to connect to all those sources, we think that's a foundational element of being able to build the agentic OS."
+    },
+    {
+      "speaker": "Vahe Kuzoyan",
+      "timestamp": "",
+      "text": "A lot of the other infrastructure work is really around hardening the connective tissue and really expanding the data layer to be able to handle not just the structured data that we've historically captured, but an increasing increasingly amount of unstructured data. These things are all happening on a continuous flow type of a thing. We're not waiting for any big bang to occur. We think that the system is going to continue to evolve organically across all these various elements in a way that allows us to continuously ship features to customers, iterate with customers, and understand what really works and what doesn't. As Ara mentioned, we think our magic is the end to end and how some of these details interplay with each other."
+    },
+    {
+      "speaker": "Vahe Kuzoyan",
+      "timestamp": "",
+      "text": "We're taking an iterative approach to the investments we're making to bring forward this agentic OS and to make sure that we've got the right talent in place to execute on that vision."
+    },
+    {
+      "speaker": "Brian Peterson",
+      "timestamp": "",
+      "text": "Thanks for taking the question. I'll keep it to one. Just related to Max, and I know it's very early in the implementation here, but I'd be curious as to how do you think about the evolution of that with smaller customers versus larger customers and any particular verticals that you think would be first to adopt? Thanks, guys."
+    },
+    {
+      "speaker": "Dave Sherry",
+      "timestamp": "",
+      "text": "Great question. We see it as applicable to customers of all sizes across all segments. We're very excited for all of them to see the same level of outcomes that our first pilot group is seeing."
+    },
+    {
+      "speaker": "Vahe Kuzoyan",
+      "timestamp": "",
+      "text": "The sequencing will likely be the maturity of our existing markets. The ones that are the most mature will get it first, the ones that we're earliest in will get it the last. Our goal is to make sure that the time it takes between those two is as short as possible. That's how we're thinking about the overall expansion and scaling strategy, is to nail it with the most mature groups and then scale it out to everybody. We think this is a generalized technology that is relevant for all customer segments."
+    },
+    {
+      "speaker": "Daniel Jester",
+      "timestamp": "",
+      "text": "Great. Thanks for taking my question. Just wanted maybe a follow-up to the last question. If I'm a customer and I want to do Max, but I can't get into the program yet because of capacity, how does that change my calculus to attach Pro products today? Maybe said another way, is there any concern on your part that customers will delay buying decisions for Pro products because they see Max potentially available to them in the next quarter or two or three? Thank you."
+    },
+    {
+      "speaker": "Vahe Kuzoyan",
+      "timestamp": "",
+      "text": "I think that's certainly possible and, you know, there's tough trade-offs we gotta make in general. It's hard to have only a small amount of capacity when we know the demand is much greater than that. I'm sure there's all sorts of second and third order consequences along the lines that you've mentioned. We think net-net, that nailing the product market fit and the ROI story and nailing the ability to consistently execute and deliver that ROI to every new batch is going to be much more important than any potential temporary losses in sales that result from the under capacity."
+    },
+    {
+      "speaker": "Daniel Jester",
+      "timestamp": "",
+      "text": "Great. Thank you."
+    },
+    {
+      "speaker": "Andrew Sherman",
+      "timestamp": "",
+      "text": "Oh, great. Thanks, guys. Maybe for Ara or Dave. We've heard a lot about consumer financing lately, especially in this weaker consumer confidence environment. Are you seeing the mix of financed projects go up? Then can that help drive up your take rate this year and broadly help your customers win more business?"
+    },
+    {
+      "speaker": "Dave Sherry",
+      "timestamp": "",
+      "text": "I'll take this one. You nailed the second part of it. When our customers offer financing, it helps them increase average ticket and increase close rate. It's an important lever for them, and it's why we invest in driving consumer financing to be an integral part of our product. As regards to the macro environment, we've not seen a shift that we can identify to be the macro environment on the consumer finance percent of total. We do think the overall trend is to have more because the impact it has on our customers' businesses."
+    },
+    {
+      "speaker": "Andrew Sherman",
+      "timestamp": "",
+      "text": "Just quickly on the marketing side, have any of your customers seen an impact from Google Search? There have been some other software companies that have talked about this, but any indication from your customers that they want to change their marketing because of AI, and maybe that could even drive more Marketing Pro adoption?"
+    },
+    {
+      "speaker": "Vahe Kuzoyan",
+      "timestamp": "",
+      "text": "In terms of the way in which, you know, trades businesses generate demand, we think that, you know, consumer behavior is obviously going to have a massive impact on how contractors are found. We're not necessarily seeing that be material in today's world based on what we're seeing. As we think about how our product matures and how we enable our customers to be successful, we're very, very intentional about making sure that in this new world where search has fundamentally changed, people have personal agents that are going out and doing stuff for them, that ServiceTitan contractors are the best place to take advantage of that new world."
+    },
+    {
+      "speaker": "Andrew Sherman",
+      "timestamp": "",
+      "text": "Great. Thanks, guys."
+    },
+    {
+      "speaker": "Nick Altmann",
+      "timestamp": "",
+      "text": "Awesome. Thank you. Ara, the comments on Max are super encouraging and how it's enabling customers to grow faster and improve margins. It seems like the real unlock with Max is how it's utilized across the entire platform. My question is kind of the inverse of Daniel's prior question, but when you look at your install base today, are you seeing customers start to expand across the platform, add new products, consolidate their solutions on the ServiceTitan in anticipation of Max? Just any commentary on those customers who are maybe a little bit earlier in their journey and how their behavior is changing in anticipation of Max would be interesting. Thank you."
+    },
+    {
+      "speaker": "Vahe Kuzoyan",
+      "timestamp": "",
+      "text": "Yeah. You know what's interesting is, historically, this industry wasn't necessarily known as being, let's say, on the bleeding edge of adopting tech, and it's been actually really refreshing to see how in the new AI wave, that dynamic has really changed. Just overall, even before Max, there was an incredible amount of interest from our customers to understand how to use AI within their business and so on. That is only intensifying. Max, I think, has brought a lot of attention towards the magic of having an end-to-end agentic layer. We are certainly hearing anecdotes of people saying, \"Okay, well, I can't get into Max, but should I just buy all the products now and get ready for it,\" and so on."
+    },
+    {
+      "speaker": "Vahe Kuzoyan",
+      "timestamp": "",
+      "text": "I don't have much more than anecdotes like that to really share, but what I look at is just the overall demand around Max and the interest around it. That's, I think, the most important signal. It's our job to make sure that we have enough capacity to take on those that are interested. I think largely it's a capacity issue right now that we're focused on. The demand side seems pretty strong, and we anticipate it to stay strong."
+    },
+    {
+      "speaker": "Nick Altmann",
+      "timestamp": "",
+      "text": "Great. Thank you."
+    },
+    {
+      "speaker": "Yun Kim",
+      "timestamp": "",
+      "text": "Great. Given the early success that you're having with the Max Program, is there any thought on revisiting your overall pricing strategy and model? You mentioned per transaction pricing model for the virtual agents. Do you expect perhaps a shift to a pricing model that's more driven by GTV and transaction-based with less driven by the number of service techs?"
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "timestamp": "",
+      "text": "I'll take this one. For now, Max is a single package that's priced like our core solution based on the number of technicians generating revenue in the field. This may evolve over time, but I don't think what will change is how we tie how we get paid to how we deliver value. That's best captured for now as a link to techs in the field, but that could evolve over time."
+    },
+    {
+      "speaker": "Yun Kim",
+      "timestamp": "",
+      "text": "Okay, great. I just have a quick product question to Vahe. I think a couple of months ago, the company introduced an accounts payable automation product. If you can update us on what's the overall strategy around back-office accounting and fintech in general, and should we expect to see more products introduced in that area? Thanks."
+    },
+    {
+      "speaker": "Vahe Kuzoyan",
+      "timestamp": "",
+      "text": "Yeah. The overall thesis is really around creating incremental value that's not possible outside of ServiceTitan. That's the magic behind our money in and credit card business. We can do things not just around processing the transactions, but all of the steps prior to accepting payment and then after accepting payment. We think the same exact situation plays out in money out. In fact, we think that there's actually more opportunities because as you'd imagine, money leaving the bank account probably needs more controls than money coming into it. We're focused on building an end-to-end suite that really does things in a way that are differentiated, that are not possible unless you have that end-to-end visibility. We are planning on making some very exciting announcements around that very quickly or very soon."
+    },
+    {
+      "speaker": "Scott Berg",
+      "timestamp": "",
+      "text": "Hi, everyone. Really nice quarter, one for me in the essence of time here. Most of the Max conversation is seemingly focused on residential trades. How do we think about the opportunities there on the commercial side, if any? My guess is it's probably not in the first phase or two of what you all are thinking, given what the commentary has been. You know, what are the options or opportunities there on the commercial side, maybe over time? Thank you."
+    },
+    {
+      "speaker": "Vahe Kuzoyan",
+      "timestamp": "",
+      "text": "Sure. As we previously mentioned, we think this agentic operating system concept is a universal concept that applies to everybody. The way it would play out in commercial is likely going to be more reflective of the B2B nature of commercial contractors, the fact that their business model is relationship oriented and it involves a different type of go-to-market motion. All of those are still highly relevant to agentification. Whether it's our ability to identify great fit prospects, or it's the ability to generate, you know, complex multi-step communication, whether it's email, text message, phone calls, etc. And then similarly, in the back office, there tends to be more complexity."
+    },
+    {
+      "speaker": "Vahe Kuzoyan",
+      "timestamp": "",
+      "text": "If you're managing a large construction project, and you have a foreman on site who's sending all sorts of detailed notes to a project manager internally, that is the kind of experience we think agents are going to play a bigger and bigger role. If you look at our product development in terms of commercially oriented agentic capabilities, it's still a very target-rich opportunity. It's just a matter of sequencing. You know, obviously, we're going to focus on where we're most mature to, let's say, maximize the value that we could drive. On the commercial side, there are both things that are relevant to AI that are unique to commercial, and then there's also elements like the back office that are applicable to everybody."
+    },
+    {
+      "speaker": "Vahe Kuzoyan",
+      "timestamp": "",
+      "text": "The ability to have a compelling AI native agentic offering to commercial, to construction, to all our non-historically mature trades, we think is pretty universal."
+    },
+    {
+      "speaker": "Scott Berg",
+      "timestamp": "",
+      "text": "Thank you for taking my questions. Congrats again on a nice quarter."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "timestamp": "",
+      "text": "Thank you, Scott."
+    },
+    {
+      "speaker": "Ara Mahdessian",
+      "timestamp": "",
+      "text": "I just want to thank you all for joining us today. We appreciate that you have the opportunity to spend time with the best companies, and so we're honored that you've chosen to spend this evening learning more about our mission and our journey ahead to transform the lives of all these hardworking contractors. want to thank you, and we're excited to speak to you very soon."
+    }
+  ],
+  "totalTurns": 107
+}

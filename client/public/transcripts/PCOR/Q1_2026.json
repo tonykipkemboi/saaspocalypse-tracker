@@ -1,0 +1,440 @@
+{
+  "ticker": "PCOR",
+  "period": "Q1 2026",
+  "eventDate": "2026-05-05",
+  "preparedRemarks": [
+    {
+      "speaker": "Matthew Puljiz",
+      "timestamp": "",
+      "text": "Good morning, welcome to Procore's 2026 first quarter earnings call. I'm Matthew Puljiz, SVP of Finance. With me today are Ajei Gopal, President and CEO, and Rachel Pyles, CFO. Further disclosure of our results can be found in our press release issued today, which is available on the Investor Relations section of our website and our periodic reports filed with the SEC. Today's call is being recorded, and a replay will be available following the conclusion of the call. Comments made on this call include forward-looking statements regarding, among other things, our financial outlook, platform and products, customer demand, operations, and macroeconomic and geopolitical conditions. You should not rely on forward-looking statements as predictions of future events. All forward-looking statements are subject to risks, uncertainties and assumptions, and are based on management's current expectations and views as of today, May 5th, 2026."
+    },
+    {
+      "speaker": "Matthew Puljiz",
+      "timestamp": "",
+      "text": "Procore undertakes no obligation to update any forward-looking statements except as required by law. If this call is replayed or viewed after today, the information presented during the call may not contain current or accurate information. Therefore, these statements should not be relied upon as representing our views as of any subsequent date. We'll also refer to certain non-GAAP financial measures to provide additional information to investors. A reconciliation of non-GAAP to GAAP measures is provided in our press release and our periodic reports filed with the SEC. With that, let me turn the call over to Ajei."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "Good morning, everyone, and thank you for joining us. Continuing our momentum from 2025, Q1 saw strong performance that exceeded the high end of our guidance. For Q1, we delivered 15.7% revenue growth and 17% non-GAAP operating margin, which represents 650 basis points of year-over-year expansion. I'm particularly pleased with these results given the ongoing headwinds from a challenging construction environment. On our last earnings call, I outlined why Procore will be an AI winner. Our flagship products and early investments in AI, including our acquisition of Datagrid, has positioned us well to capitalize on this disruptive technology. Building on our flagship system of collaboration with nearly 3 million active users and a massive proprietary dynamic data set, Procore AI can deliver outcomes simply not possible with traditional software."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "In that call, I walked through a real example of a customer using our AI agents as a digital coworker, capable of executing complex, high-effort tasks with precision, a critical advantage for an industry facing a severe labor shortage. This also opens a meaningful new dimension to our TAM, as Procore AI can access construction labor budgets well beyond the industry's software spend. Our path forward is defined by a powerful economic duality: upside opportunity through AI monetization and downside protection through our volume-based model. I believe Procore will unlock unprecedented value as a definitive winner in the agentic AI era. I would like to begin today's call by discussing the great progress we have made with Procore AI since our last call. Then I want to discuss our continuing success with our flagship solutions."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "Finally, I'll discuss our intention to continue to improve margins and free cash flow per share. Let me start with Procore AI, which includes our recent acquisition of Datagrid. I am pleased that the technology integration has proceeded rapidly, leveraging the foundational security and platform investments we had made earlier in Helix. We have taken the best of both products to provide customers with new capabilities and are now executing on a combined product roadmap for Procore AI. Our solution enables customers to deploy embedded Procore AI agents that can execute tasks such as RFI analysis, submittal cross-checking, and compliance auditing. We recently released agent event triggers, which enable customers to define automated event-driven AI workflows, transitioning from reactive to proactive task execution across their projects. We're piloting a new voice AI interface designed for field workers who want hands-free access to project data on the job site."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "We also recently introduced a specialized contract review agent that can efficiently analyze construction documents and flag any risks in the contract. By building on the foundations already established in Procore AI, we were able to introduce this workflow in fewer than 30 days, and it is already being tested by customers. At the heart of Procore AI is a reasoning engine purpose-built for construction. It understands the language and logic of the project. For example, what an RFI is, how a submittal connects to a drawing, how a change order gets approved. On top of that, it works as a layered system that holds context across multiple steps. It doesn't just answer a question, it understands the thread. For example, why a submittal was sent, what it obligates, and what needs to happen next."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "Think of it as a digital coworker that encodes the logic of construction decision-making. Reasoning about a project the way an experienced practitioner would. This data and context can only be accessed within a system of record and collaboration like Procore. That capability is backed by a tool library of dozens of construction-specific capabilities, including code compliance calculators, drawing analyses, and document cross-referencing engines. It is still early. As we continue to develop Procore AI, going deeper into our proprietary data and broader across project types, the reasoning engine will only become more capable. We expect our solution to continue to improve with every layer we unlock, and we have a long runway ahead of us. Turning to go-to-market, we made a deliberate decision to launch Procore AI through a dedicated specialist team working today as an overlay alongside our core sales force."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "The team is very small and intentionally so. The goal was to learn what the commercial motion looks like before scaling it. We are now working on translating those learnings into enablement for the broader sales force, and we expect much of our sales organization to be selling Procore AI in Q3. I'm excited that customers are adopting our agentic solutions in addition to our flagship offerings. A great example of this is within the estimating department at one of our enterprise customers, Crest Operations. Crest is already seeing transformative ROI from Procore AI. For their most complex projects, bidding is an arduous process involving thousands of data points across massive sets of drawings. By leveraging Procore AI, Crest has turned a manual process that could span weeks of effort down to an automation that can take as little as 20 minutes."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "This isn't just an incremental improvement in speed. It is a fundamental shift in their competitive advantage, allowing them to bid more accurately, respond to opportunities faster, and ultimately drive a level of ROI that was previously unattainable. Moving to our flagship solutions, in Q1, we have driven more innovation at a faster pace than ever before. We expect that these new product capabilities will help to drive sales, increase customer satisfaction, and improve retention. I'll start with the largest and most mature part of our business today, U.S. general contractors. We are focused on improving our platform by enhancing products like quality and safety and by extending Procore Connect to support RFIs in addition to drawings."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "I'm particularly pleased with the general availability of the updated Procore Scheduling, our natively connected scheduling solution that has already been implemented by over 2,000 companies since its February launch, making it one of the fastest adopted products in our history. Together, these releases defend and extend our leadership while opening new expansion opportunities in civil and infrastructure construction. In Q1, TRINITY Group, a longtime GC customer, expanded its construction volume commitment to $1.1 billion, a 6x increase. TRINITY is evolving from a heavy user of siloed tools into a platform-first organization to support rapid growth and the growing complexity of large-scale builds, and is increasingly relying on the Procore platform to help run its business. Now let me move beyond general contractors. On our last call, I focused on owners, including data center operators."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "This time, I would like to discuss new functionality available for specialty contractors as well as international customers. For specialty contractors, we introduced materials management, which provides end-to-end supply chain visibility for self-performed contractors from procurement and vendor management to delivery tracking to the job site. This is part of our broader investment in a purpose-built self-perform platform that unifies resource management, financials, and scheduling for the specialty and self-perform contractor market. This represents a significant step in our strategy to serve the heavy construction market, where equipment costs can be just as material as labor for some projects. Also in Q1, Helm Group, a leading specialty and mechanical contractor in the Midwest, ranked number 61 on the ENR Top 600, significantly expanded its construction volume commitment after 18 months of successful usage."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "The company, which specializes in major projects like data centers and Northwestern University's new football stadium, initially started with only a portion of its construction volume. Following a successful initial rollout of project management tools, Helm Group decided to standardize on Procore. The primary goals of this expansion were to achieve increased labor productivity, mitigate risk, and streamline project management operations in a single location. Moving to international markets, we launched a new BIM Model Federation and Streaming Viewer, which enabled customers to federate and navigate large 3D building information models directly within Procore, a key requirement for winning upmarket in Europe. This is the anchor of our European Common Data Environment strategy, which combines BIM, asset management, document management, and project execution into an ISO 19650 compliance solution. This positions Procore as the connected construction platform for markets where CDE compliance is a contractual requirement."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "In Q1, we signed a new contract with Cullen Construction Limited, a large general contractor headquartered in Dublin. Cullen had been using over 25 disconnected point solutions and has now standardized on Procore's unified platform to solve reporting and mobile access challenges. The customer anticipates saving over 46,000 labor hours over the next three years, the equivalent of more than 13 full-time employees, as well as decreasing non-recoverable change orders by 25%. Moving to strategic partnerships, in Q1, we announced that we are integrating the Procore platform with NVIDIA Omniverse DSX Blueprint to accelerate the building of AI factories and other critical infrastructure. This integration will establish a digital thread throughout the entire construction life cycle to build safer, faster, and smarter infrastructure."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "The combination of Procore and NVIDIA solutions will enable teams to rapidly model design changes using a high-fidelity, physically accurate 3D digital twin, resulting in infrastructure that comes online faster and is optimized for peak performance. This is part of our strategy of developing meaningful relationships with leading vendors that will reap rewards in the long term. I would like to briefly talk about our use of AI to enable us to grow more efficiently in the future, to increase the speed of the organization, and to improve margins. Today, every Procore employee has access to at least one AI platform from the leading vendors. In R&D, we're in the middle of incorporating AI to transform our operating model. The parts of that organization that have already gone through this transition are able to deliver products faster and more efficiently than before."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "The rest of the organization will follow R&D's lead. We expect the speed and efficiencies from these changes to provide our financial model with incremental leverage in 2027 and beyond. Rachel will expand on this opportunity in a moment. Speaking of Rachel, I'd like to take this opportunity to formally welcome her to the team as our new CFO, along with our new CRO, Walt Hearn. Rachel and Walt are business and technology veterans, and each held a key leadership role with me at Ansys. They are highly qualified individuals who have been successful in vertical software. We have all worked together and know how to meet challenges and deliver value as a team. I'm excited they have joined Procore at this critical time."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "I have been CEO of Procore for about six months now, and my enthusiasm for the job, the company, and the construction industry has only grown. I remain optimistic for Procore's future, which is reflected in our financial performance for Q1, where we exceeded the high end of guidance and increased our full-year outlook. A special thanks to my colleagues at Procore for their hard work and dedication to our customers and stakeholders. Looking to the future, Procore plans to grow its presence in the construction industry, become a winner in the AI era, and continue to compound free cash flow per share. With that, I'd like to turn the call over to Rachel. Rachel?"
+    },
+    {
+      "speaker": "Rachel Pyles",
+      "timestamp": "",
+      "text": "Thank you, Ajei, and good morning, everyone. I am incredibly excited to be joining Procore at such a transformative moment. Before we dive deeper into the numbers and the overall business, I would like to briefly touch on why I joined Procore and my approach to the CFO role. Joining this organization represents a rare opportunity to serve as the CFO for a category leader that is digitizing the industry that builds the world. Beyond Procore's established leadership position, I see a compelling financial profile with clear levers for long-term value creation. Furthermore, my prior history with Ajei and Walt ensures strategic alignment from day one, allowing us to move decisively as we scale. I'm thrilled to be part of this journey and look forward to building on the strong foundation already in place. My philosophy as CFO will be anchored in the pursuit of durable, profitable growth."
+    },
+    {
+      "speaker": "Rachel Pyles",
+      "timestamp": "",
+      "text": "Given Procore's market opportunity, this should remain our top priority. The pursuit of durable growth will be underpinned by a disciplined and thoughtful capital allocation strategy. Specifically, to reiterate our capital allocation philosophy, first, we will prioritize high ROI organic growth investments. Second, we will remain targeted with acquisitions that accelerate our strategic roadmap. Finally, we are committed to returning excess capital to shareholders via opportunistic share repurchases. By aligning our investments with this framework, we aim to consistently compound free cash flow per share, ensuring that our category leadership translates directly into long-term value for our shareholders."
+    },
+    {
+      "speaker": "Rachel Pyles",
+      "timestamp": "",
+      "text": "Moving on to our Q1 results. Total revenue in Q1 was $359 million, up 15.7% year-over-year. Q1 non-GAAP operating income was $61 million, representing a non-GAAP operating margin of 17%, up 650 basis points year-over-year, and free cash flow was $56 million, up 20% year-over-year. As for our key backlog metrics, current RPO grew 21% year-over-year, and current deferred revenue grew 17% year-over-year. Turning to commentary on our results. We delivered another quarter of durable revenue growth, driven by healthy demand across our customer base. This performance was underpinned by three primary strengths. First, we secured several significant new logo wins that highlight our increasing market share. Second, we saw a meaningful shift towards larger scale engagements with six-plus figure ARR wins growing 24% year-over-year."
+    },
+    {
+      "speaker": "Rachel Pyles",
+      "timestamp": "",
+      "text": "Finally, we generated strong pipeline in the quarter. This momentum in high-value customer wins and overall pipeline strength gives us confidence in our trajectory and sets up a favorable foundation for 2026. Our strength in the quarter also contributed to strength in cRPO. This metric continues to benefit primarily from longer average contract duration. When normalizing cRPO for this dynamic, the year-over-year growth is consistent with both Q1 revenue growth and ending ARR growth. Once contract duration stabilizes, reported and normalized cRPO growth will eventually converge with revenue growth. Our performance this quarter underscores our commitment to driving long-term shareholder value. By delivering durable top-line growth combined with strong year-over-year margin expansion, we improved our growth in year-over-year free cash flow."
+    },
+    {
+      "speaker": "Rachel Pyles",
+      "timestamp": "",
+      "text": "Those items, coupled with limiting our share count growth via disciplined equity compensation and our share buyback activity, drove meaningful improvement in our North Star metric, free cash flow per share. We believe this approach of compounding free cash flow while managing our share count remains the most effective way to maximize returns for our shareholders over time. Looking ahead, and to expand upon Ajei's commentary, we view AI as a fundamental catalyst for our long-term financial profile. On the top line, we expect AI to serve as a tailwind to revenue growth as we monetize high-value capabilities and deepen platform engagement. Regarding our margin profile, we do anticipate modest headwinds to gross margins given the increased compute expenses to support these workloads."
+    },
+    {
+      "speaker": "Rachel Pyles",
+      "timestamp": "",
+      "text": "However, we expect this to be more than offset by the tailwinds to our operating expenses as we leverage AI to drive internal efficiencies and scale across all functions. Ultimately, the convergence of durable growth and an optimized cost structure reinforces our conviction that AI will be a powerful tailwind to free cash flow per share, creating a highly efficient engine for long-term shareholder value. With that, let's move on to our outlook. For the second quarter of 2026, we expect revenue between $364 million and $366 million, representing year-over-year growth of 13% at the high end. Q2 non-GAAP operating margin is expected to be between 17.5% and 18.5%."
+    },
+    {
+      "speaker": "Rachel Pyles",
+      "timestamp": "",
+      "text": "For the full-year fiscal 2026, we are raising our revenue guide to a range of $1.499 billion-$1.503 billion, representing total year-over-year growth of 13.6% at the high end. We are also raising our non-GAAP operating margin guidance for the year by 50 basis points to be between 18% and 18.5%, which implies year-over-year margin expansion of 390 to 440 basis points. Finally, we are maintaining our free cash flow margin guidance of 19%, which implies year-over-year free cash flow margin expansion of approximately 280 basis points."
+    },
+    {
+      "speaker": "Rachel Pyles",
+      "timestamp": "",
+      "text": "To wrap up, we are pleased with the quarter and are excited about the momentum we have created for the remainder of the year. We are confident that we can continue to provide durable growth, margin expansion, limited share count growth, and compound free cash flow per share. With that, let me ask the operator to open it up for questions."
+    }
+  ],
+  "qAndA": [
+    {
+      "speaker": "Joe Vruwink",
+      "timestamp": "",
+      "text": "Great, thanks for taking my questions. Let me congratulate Rachel on your appointment. I wanted to start with a few things on financials. One is, you know, good to see the upside, the magnitude of upside in revenue and cRPO is, I suppose, a bit less than the prevailing experience where you've been beating by 3%-4%. Anything to read into that? The second is on the outlook. You know, you're bringing up the full-year by more than the 1Q upside, but it looks like that overage or upside remainder is weighted to the second half. Maybe what's informing your expectation there?"
+    },
+    {
+      "speaker": "Rachel Pyles",
+      "timestamp": "",
+      "text": "Thanks, Joe. Appreciate the question. I'm excited to be here. First, what I would say about our overall financials, you know, we were really pleased with the results. If I think about, you know, we had strong pipeline, we had strong new logos, so just overall excited about the performance. In terms of the revenue upside that you saw, you know, that was really consistent with what you saw in Q4 in terms of a beat. Nothing really different there. If you think about our guide, you know, Q2 at the high end is consistent with the street estimate. No change in our guidance philosophy. We're still gonna give you guidance that we feel a high level of conviction in."
+    },
+    {
+      "speaker": "Joe Vruwink",
+      "timestamp": "",
+      "text": "Great, thanks for that. Then, I wanted to ask on Procore Scheduling and maybe a bit more feedback since general availability. I remember there was discussion at Groundbreak just spotlighting this particular area as one that's really differentiated in terms of pulling in the full Procore platform capability and AI to the extent that this gets adopted or maybe serves as a landing point. Does it open richer cross-sell opportunities or maybe give customers more obvious and explicit exposure to what Procore AI can do?"
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "I mean, absolutely, Joe. First, thank you for the question. Look, we're excited about Procore Scheduling. Firstly, we were able to get the product out, and we were able to see very quick adoption because it's essentially natively connected into the platform. That gives customers tremendous benefits when they take advantage of the product. Obviously we're in a position to, as part of our strategy, continue to add more AI capabilities, and that'll obviously reflect in the flagship products as well."
+    },
+    {
+      "speaker": "Saket Kalia",
+      "timestamp": "",
+      "text": "Okay. Hey guys, it's Saket. Thanks for taking my questions here and welcome Rachel."
+    },
+    {
+      "speaker": "Rachel Pyles",
+      "timestamp": "",
+      "text": "Thanks for having me."
+    },
+    {
+      "speaker": "Saket Kalia",
+      "timestamp": "",
+      "text": "Absolutely. Ajei, maybe for you, maybe just to zoom out a little bit, I'd love to get your views on kind of where we are in this construction cycle. There are tons of factors, of course, to consider, but I know you spend a lot of time with customers. What are they saying to you right now just about project starts this year and how they're thinking about the environment?"
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "Hey, Saket. Thanks for the question. I would say that the construction environment has been pretty stable, certainly from the time that I've been with the company now, with the conversations that I've had with customers. It's been pretty stable over the last couple of quarters. What I would say though is that there's different levels of excitement about certain portions of the business. In fact, last time I talked about data centers, and even though data centers represents a relatively small amount of the overall construction volume, there's a lot of excitement about data centers and certainly there we are in the center of the conversations."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "I mentioned, in the script, in the prepared remarks, I mentioned, our relationship with NVIDIA, where we are working with them on a Blueprint, to accelerate the building of AI factories and other infrastructure. Those kinds of activities create a lot of excitement, because there's those, you know, data centers are front and center right now. Otherwise, it's a pretty stable demand environment, and obviously I'm excited about those conversations with customers, because it does reflect their trust in Procore, and their perspective on how we can help them, as we move forward together."
+    },
+    {
+      "speaker": "Saket Kalia",
+      "timestamp": "",
+      "text": "Got it. That makes a ton of sense. Rachel, maybe for you know, it was great to see cRPO growth kind of continue at 20% and of course, you noted the duration benefit there as well. Maybe the question is, how do you think about the glide path for maybe that growth rate starting to converge with revenue growth?"
+    },
+    {
+      "speaker": "Rachel Pyles",
+      "timestamp": "",
+      "text": "Yeah, thanks, Saket. That's a great question. cRPO has remained strong. We are starting to see that average contract duration start to normalize. Between Q4 and Q1, durations stay kind of roughly flat quarter-over-quarter. If you look forward, kind of once that duration does stabilize, you know, it'll probably take around three to four quarters following that stabilization before you see the cRPO and the revenue growth kind of come together."
+    },
+    {
+      "speaker": "Dylan Becker",
+      "timestamp": "",
+      "text": "Hey, Ajei, Matt, Rachel, appreciate the question here. Maybe, Ajei, for you to start. It sounds like in a platform consolidation remains a key theme in kind of the customer conversations and expanding volume. I think that makes sense, right, in the context of leveraging your agents, utilizing more of the platform to deliver more of that or realize maybe more of that value. I guess, to what extent is that AI conversation playing a role in kind of catalyzing adoption from an industry perspective and maybe validating the perception or buy-in into Procore's AI strategy to help those customers solve for productivity, if that makes sense?"
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "Yeah. If I understand the question, let me just, let me sort of address it, then if I've missed the, missed a point, please ask more. When I've had a number of conversations with customers about the overall platform, and about AI, in general, certainly AI in the context of construction. When you talk to customers, many of them, I mean, they don't really have the time or the inclination to become experts for AI in construction. They look to us as being, their technology partner."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "They've worked with us for years, they trust us. Their objective is they just wanna be able to build better projects, that's their business. They wanna make sure that their vendors, their tech vendors and their tech partners are in a position to do their job, which is to bring them the best and the latest of technologies, including, of course, AI, to be able to help them perform what they need to do."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "The fact that we are able to provide agentic AI capabilities that have such compelling value, the fact that we're able to provide these agentic AI capabilities from within the context, within security, within the framework of their system, off record of their system of collaboration, where they store their data, with the area where they rely on to participate with all of their partners in a project, I think that gives them a lot of comfort as we're making these investments. We can have those conversations with them. They see what we're able to do, and that's been very positive for us."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "I'll give you an example of customer engagement. We just had one of our largest customers here in Austin for a hackathon last week. They brought together about 85 of their employees, and it was a multi-day event. We were able to, in the context of the platform, we were able to host their creation of agents. They had built something like 300 custom automation agents that they were able to pull together for their particular use case. That just gives you an example of how customers are able to take advantage of our agentic capabilities under the overall umbrella of the Procore platform."
+    },
+    {
+      "speaker": "Dylan Becker",
+      "timestamp": "",
+      "text": "Very helpful. Thank you, Ajei. Maybe to stick with you or Rachel, I'd love your perspectives here. As an extension of that, you called out some of the commercial learnings and how you're deploying agents maybe being deployed a bit more broadly in the go-to-market muscle in the third quarter. I guess maybe any learnings in receptivity around what the monetization strategy is going to look like? I think you also called out the internal efficiency leverages be felt more into 2027 and beyond, but maybe just reconciling or how we should think about the timing between 2026 and 2027 for some of these benefits to layer in. Thank you."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "In terms of the go-to-market, it's pretty much what I said in the script, which is we wanted to make sure that we completed the or we made significant progress on the technical integration between the projects. As you know, we did the acquisition of Datagrid earlier this year. That the Datagrid platform or the data capabilities were integrated into the Helix work that we'd done earlier. There was a lot of good positive energy there from that integration work."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "Coming out of that, we have obviously an updated product capability, where we're now with a small overlay sales force, as I described, of a very small number of people talking to customers in conjunction with the sales force, but really as an overlay so that we can get the value proposition, the ROI down. Then the expectation, of course, is in Q3 that we'll be in a position to roll it out to the larger sales force. Our expectation is for our agentic solutions that we'd be in a position to be able to monetize that in some capacity-based, consumption-based licensing structures, in contrast with our ACV-based pricing, licensing structures for our flagship offerings. So that's the, that's the path going forward. As far as the, I'll let Rachel address this question."
+    },
+    {
+      "speaker": "Rachel Pyles",
+      "timestamp": "",
+      "text": "Yeah, absolutely. You know, Ajei, I think, highlighted a lot of the top line benefits that we're expecting from AI and from the token-based model as we roll this out, you know, across the sales force and engage our customers. I'll speak a little bit more about kind of the margin impact. You know, I think that as we see more agents deployed, we're gonna start to see some gross margin headwinds that come from that. I think over time, those will really be managed in two ways. You know, first, you know, I'm optimistic that those overall costs themselves will come down kind of over the long term. Similar to, you know, I think about it a little bit like cloud computing."
+    },
+    {
+      "speaker": "Rachel Pyles",
+      "timestamp": "",
+      "text": "When cloud computing, everyone moved to the cloud, cost went up, but then over time, those came down, and I'm optimistic that'll happen here. Even more importantly, on our side, the benefits that we expect from deploying AI within our own workflows across, you know, all parts of our organization, I expect will, you know, more than offset any headwinds that we see from the gross margin. I'm really excited about that opportunity, and it gives me, you know, even more conviction about our margin expansion, you know, kind of over the long term."
+    },
+    {
+      "speaker": "Brent Thill",
+      "timestamp": "",
+      "text": "Thanks, good morning. Ajei, just on the sales changes, I know the sales organization's gone through a tremendous amount of change prior to you coming in now. With Walt coming in, can you speak to, I know it's only been a month, but what you're starting to see ultimately, is this more of a fine tune or do you expect major changes going forward again? Just trying to kind of gauge the approach. Thanks."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "A great question, thanks. You know, as I've been looking at the company, my core takeaway is that we have a really strong foundation. We certainly have great relationships with customers. We have built a great platform on which to be able to build our products, and we've built a great platform on which to be able to sell and support our products. I think we're in a good place, of course, where we are today. The reality is that the world that we're in continues to change. The market conditions continue to change. Technology continues to evolve. I believe that every company needs to be in a position to change to reflect market circumstances and the need to continue to move faster."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "What I felt was important as we go to this next stage was to make sure that I could bring on a couple of executives who I know well, who would allow us to be able to move really fast in a complex business environment, who understand what it means to run a global business. Certainly you have that with Walt and Rachel. I've worked with Walt for a number of years. You know, given where we are with the opportunity, we need to continue to be able to move fast."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "I expect Walt to provide leadership along the different dimensions of growth of our organization, as he has in the past working together with me. I'm excited about his participation with the company. I'm excited about the foundation that we have, and I'm excited about our ability to continue to evolve our business to take advantage of the opportunity in front of us."
+    },
+    {
+      "speaker": "Brent Thill",
+      "timestamp": "",
+      "text": "Just a quick follow on, with Rachel saying the guidance philosophy hasn't changed, but you're seeing decelerating growth, at least in your guide. Many are asking, are you embedding the potential disruption of more changes in this guide in the front half of the year? Is that why it's so conservative on the total year deceleration?"
+    },
+    {
+      "speaker": "Rachel Pyles",
+      "timestamp": "",
+      "text": "If I think about just coming back to our guidance philosophy, you know, we consistently have a beat and raise methodology, that's what you're seeing us do here. Really nothing different than what we've done historically."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "Our expectation is to continue to execute as we improve our business. There isn't any subliminal message here."
+    },
+    {
+      "speaker": "D.J. Hynes",
+      "timestamp": "",
+      "text": "Good morning, team, and welcome Rachel. Ajei, do you think the network effects of the business model get any stronger as AI is increasingly embedded into workflows and collaborators get insight into those capabilities? In other words, like is it only the payer that will realize the benefits of Helix and your AI agents, or does the whole ecosystem equally benefit, which, you know, could be a good thing for generating broader demand?"
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "Well, when you think about Procore is intrinsically a system of collaboration, right? Because, you know, think about the nature of construction. Construction is essentially multiple parties getting together on a project of one with strong commercial relationships between the parties with an ongoing sequence of changes and modifications, etc, based upon the realities of the day-to-day activities that are taking place on the construction site. It is intrinsically a system of multi-parties collaborating in a very safe and secure manner where changes are have financial consequences and therefore need to be audited and managed effectively. That is kind of a very unique, it's a very unique environment."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "It's not a, it's not just a sort of a system of record that's available to just a single party. As such, when we're in a position to take advantage of and create agentic workflows, the benefit accrues to all of the people who are collaborating on the project. Obviously, as we create digital coworkers, for example, which is one way to think about these agents. If you think about digital coworkers helping, that allows people to be able to make decisions faster and more effectively. That creates more speed. That creates more accuracy in the overall collaboration, collaborative effort on the construction side."
+    },
+    {
+      "speaker": "D.J. Hynes",
+      "timestamp": "",
+      "text": "Yep. Okay, makes sense. Then, Rachel, I'm not sure if I missed it, but can you give us a sense for how much Datagrid and FX impacted both revenue and cRPO in the quarter? I think investors are trying to wrap their arms around an organic ex-FX growth rate in the quarter. Anything on that front would be helpful."
+    },
+    {
+      "speaker": "Rachel Pyles",
+      "timestamp": "",
+      "text": "Yeah, absolutely. First I'll start with FX. FX on our overall consolidated business was immaterial. If you think about where you see FX, it comes through in our international business. There was about 2 percentage point impact in that business, but from a consolidated perspective, it was de minimis. On the Datagrid side as well, Datagrid, you know, as Ajei said, we're just finishing the integration and, you know, going into GA shortly with those capabilities. Datagrid was really immaterial to the overall results. Our organic business continues to grow 15%-16%."
+    },
+    {
+      "speaker": "Adam Borg",
+      "timestamp": "",
+      "text": "Awesome. Thanks for taking the questions. Rachel, look forward to working with you. Maybe, Ajei, just on the macro, going back to that, we talked about it being stable over the last six or so months. I'd love to talk a little bit more about the government vertical in particular, especially following the FedRAMP moderate authorization earlier this year."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "Adam, we lost you."
+    },
+    {
+      "speaker": "Adam Borg",
+      "timestamp": "",
+      "text": "Do you hear me okay now?"
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "Yeah, sorry. You said you wanna talk about the government vertical, and then I lost you. I lost the question."
+    },
+    {
+      "speaker": "Adam Borg",
+      "timestamp": "",
+      "text": "Apologies. Yeah, just the government vertical, especially following the FedRAMP moderate authorization earlier this year."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "Okay. Yeah, so look, I think the FedRAMP thing, we were very excited about the FedRAMP authorization that we got earlier. It is fundamentally a longer term play for us because it allows us to participate in some of these government contracts. There is inherently some latency in government contracts, but in order to allow us to participate with them, we need to have that authorization. Government agencies require the authorization. The GCs that build on their behalf require that authorization. We're certainly able to have these conversations with customers, but the impact takes a little bit of time before, from the time of announcements to the time that you can actually see it in the results."
+    },
+    {
+      "speaker": "Adam Borg",
+      "timestamp": "",
+      "text": "Super clear. Maybe as my quick follow-up, you know, earlier this year, you know, Procore began offering four bundled packages, each with three tiers. Just curious how that new packaging and pricing is, or really new packaging has been, receptivity from the customer base. Thanks again."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "We had a chance to roll that out earlier. And, you know, the feedback from customers has been positive. I think it gives us an opportunity from a Procore perspective to really position the right capability for the customer, depending on what they're looking for. And it certainly gives us an opportunity to generate incremental monetization as customers move up that packaging stack. It's still early days, but we're pleased with the capabilities that we have. And frankly, the other point is that the intent behind the packaging was to really streamline the sales cycle."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "It provides a ability for customers to be able to digest kind of a bundled value price as opposed to wondering about multiple \u00e0 la carte items. That gives customers, you know, a very clear path to being able to add and adopt more products. That combination, I think, is something that I think works out well for the customer and frankly works out well for us as well."
+    },
+    {
+      "speaker": "Matthew Martino",
+      "timestamp": "",
+      "text": "Yeah, thank you for taking my questions. Ajei, I wanted to touch on international for a moment. With Walt now in the seat, where do you see the most meaningful opportunities to strengthen the international franchise from here? How do you think about the trajectory of that part of the business over time? I know you announced some new products as well to capture the upmarket in Europe, if you could tie all that together. Thanks."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "On the new products, just to tie it together, we announced a CDE in Europe. In fact, last week, I believe, we had a innovation conference in London where customer feedback on the CDE was very positive. I think we had something like 170 regional customers and prospects. We had strategic partners. I think that continued to help reinforce our central role in the construction tech system. Because certainly in that geography, the CDE is an important aspect of the tech ecosystem. That's one of the reasons why we're very pleased with that."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "I would say that, overall, if I were to think about our go-to-market, I mean, obviously international has been a relatively smaller part of our business relative to the opportunity. It's obviously an area where we will spend some more time. I think the U.K., Ireland, is where we're spending some initial momentum, but we do see opportunities in EMEA. You know, with Walt in seat, I think we'll have an opportunity to continue to accelerate that part of the business, and we're looking forward to seeing that."
+    },
+    {
+      "speaker": "Matthew Martino",
+      "timestamp": "",
+      "text": "Got it. Rachel, for you laid out a capital allocation framework across organic investment, targeted M&A, and opportunistic share repurchases. As the new CFO stepping in, how are you thinking about the relative priority of those three buckets in the current environment?"
+    },
+    {
+      "speaker": "Rachel Pyles",
+      "timestamp": "",
+      "text": "Yeah, absolutely. Thanks for the question. You know, as I think about it, I really view them in that order. First, focusing on organic growth and making the right investments there. To the extent that we, you know, that M&A becomes available, that helps us accelerate our strategic roadmap, you know, we will definitely pursue that. I think about those two things kind of one and then the other. M&A, you can't always predict when it's gonna happen and when it's gonna be available, but certainly we'll look to pursue those opportunities. Finally, you know, third would be the strategic, you know, opportunistic share repurchases."
+    },
+    {
+      "speaker": "Daniel Jester",
+      "timestamp": "",
+      "text": "Great, thank you for taking my question. Maybe Rachel, just starting with you on the seasonality of margin performance this year. I think, you know, last quarter it was suggested that maybe the fourth quarter exit rate of margin expansion this year might be a little bit lower from sort of typical events and things like that. Any updated color on how we should be thinking about the margin trajectory this year effects?"
+    },
+    {
+      "speaker": "Rachel Pyles",
+      "timestamp": "",
+      "text": "Yeah, absolutely. Thanks for the question. You know, we're confident in kind of our overall margin profile. As you would imagine, not all expenses are linear. You know, margin does move around in the quarters. From an overall perspective, feel very confident in our full-year margin expansion numbers."
+    },
+    {
+      "speaker": "Daniel Jester",
+      "timestamp": "",
+      "text": "Okay, thank you. Ajei, just on the comments about specialty contractors that you made, it's great to hear about that. I think, you know, in the past, I think there's a lot of focus on owners and GCs as great opportunities for Procore. Maybe can you just double-click on the specialty contractor opportunity and how you can maybe see that additive to growth this year? Thank you."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "Well, we certainly, you know, with respect to specialty contractors, I think, you know, we've had from a product perspective, incremental releases that we talked about. I talked about materials management on the call. Obviously, I talked about equipment telematics. Both of those are areas of products that I think will help with our specialty contractors. I mean, we give them essentially a place to manage documents, to track labor, to track equipment, to coordinate with GCs, to get paid faster. There's a lot of value that we're in a position to provide to specialty contractors. I'm excited about the area and this is, you know, this is obviously one of the areas of focus for us as we go forward."
+    },
+    {
+      "speaker": "Jason Celino",
+      "timestamp": "",
+      "text": "Great. Thanks for taking my question and looking forward to working with Rachel. My first question is kind of the incremental operating leverage comment that you expect to see in 2027 from AI. When we think about this internal AI adoption, I guess, where is Procore on that journey today? Said another way, to drive that incremental leverage next year, are those AI efficiencies that you've already implemented, or is that based on a roadmap of AI adoption you look to take on?"
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "Let me just jump in here a little bit to talk about kind of where we are today in terms of our, in terms of our use of AI. When you think about, and I mentioned this in the script, I'm excited that within our R&D organization, we're in the middle of transforming our operating model using AI. My expectation is that as we go through that transformation, the rest of the organization will be in a position to follow the lead that the R&D organization has, is driving. To be honest, we are already seeing the benefits of that."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "In the parts of the R&D organization that it has adopted a very different model from a more traditional model, taking advantage of agentic capabilities, we're starting to see increased speed in terms of product delivery, increased capabilities. That value and benefit is something that we're excited about. We're in the middle of that taking place, and obviously the rest of the organization will follow. We expect, obviously, the speed and the efficiencies from those changes are the basis of some of the financial leverage that we talked about for next year."
+    },
+    {
+      "speaker": "Rachel Pyles",
+      "timestamp": "",
+      "text": "To kind of add on to what Ajei said, you know, he mentioned R&D is going first and then the capabilities out to the rest of the organization. I would also note that, you know, we do have AI capabilities in other parts of the organization, and our employees have access to those tools, although, you know, not quite as advanced as on the R&D side. As we go into, you know, 2027, I'm excited about seeing that all come together, seeing the efficiencies really across all parts of the organization. You're not gonna see the leverage coming just from one place. It'll really be coming from all lines across the P&L."
+    },
+    {
+      "speaker": "Jason Celino",
+      "timestamp": "",
+      "text": "Okay, great. Thank you. In prior questions, you've talked about seeing a stabilized macro, but maybe going a step deeper, in your conversations with customers, how are they managing, you know, the increase in oil prices? Obviously, it adds to the project cost, and it doesn't sound like it's affecting near-term project starts, but curious how conversations are going in more recent discussions. Thanks."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "I mean, I think the important thing to think to recognize is the projects that we are involved in working with customers on are all long-term projects. You know, they're it's not, it's not about what happens that's perhaps contained to one quarter or another. No customers have really, in my conversations, have really talked about this as being a long-term consideration. You know, we continue to see a stable demand environment for the products and from our customers."
+    },
+    {
+      "speaker": "Ken Wong",
+      "timestamp": "",
+      "text": "Great, thanks for taking my question. When looking at the shape of the guidance, it does seem to imply second half acceleration from 2Q. I mean, should we think of that as just purely mechanical, or are you guys, as you think about the business, as you look at what's in the pipeline, that there is some business momentum, there is some improvement and an inflection coming in that back half?"
+    },
+    {
+      "speaker": "Rachel Pyles",
+      "timestamp": "",
+      "text": "Thanks, Ken. It's really mechanical. You know, consistent with what you've seen us do in the past. We did a beat and raise this quarter. You know, again, no change in our guidance philosophy. You know, we're continuing to give you guidance that we feel a high level of conviction in."
+    },
+    {
+      "speaker": "Ken Wong",
+      "timestamp": "",
+      "text": "Got it. Ajei, I think it was somewhat alluded to earlier, but again, great to see you pair up with Walt again. As you and Walt look at the current go-to-market, any additional changes you think that needs to be made, whether it's, you know, in terms of the organization or just the approach to selling? Any thoughts there that you can share with us?"
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "Walt has been officially in the seat for a little over a month, I think April 1st. It's still, he's still evaluating the organization, the team, etc. Look, Walt understands the vertical software motion. He spent years in vertical software. Obviously, we worked together in a vertical company, vertical software company. He understands the motion. He understands the customers and how to have those conversations."
+    },
+    {
+      "speaker": "Ajei Gopal",
+      "timestamp": "",
+      "text": "He was frankly with me, working again, we were working very closely together in the journey that we went through in our last company, to be in a position to take the sales organization and continue to scale it both internationally as well as across multiple customer segments, and continue to expand the business. I'm excited about Walt's capabilities. Certainly what I can tell you is that, even as we make changes, and obviously, you know, every sales leader will find areas of ongoing improvement. As we make changes, my expectation is that we will continue to execute as we improve. And I'm excited about that."
+    }
+  ],
+  "totalTurns": 86
+}

@@ -1,0 +1,655 @@
+{
+  "ticker": "BL",
+  "period": "Q1 2026",
+  "eventDate": "2026-05-05",
+  "preparedRemarks": [
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "Day and thank you for standing by. Welcome to the Q1 2026 BlackLine Earnings Conference Call. At this time, all participants are in a listen-only mode. After the speaker's presentation, there will be a question and answer session. To ask a question during the session, you will need to press star one one on your telephone. You will hear an automated message advising your hand is raised. To withdraw your question, please press star one one again. Please be advised that today's conference is being recorded. I would now like to hand the conference over to your first speaker today, Matt Humphries, SVP of Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "Matt Humphries",
+      "timestamp": "",
+      "text": "Good afternoon, and thank you for joining us today. With me on the call are Owen Ryan, Chief Executive Officer of BlackLine, as well as Patrick Villanova, Chief Financial Officer. For the Q&A portion of today's call, we'll also have Jeremy Ung, BlackLine's Chief Technology Officer, join us. Before we get started, I'd like to note that certain statements made during this conference call that are not historical facts, including those regarding our future plans, objectives, and expected performance, in particular, our guidance for Q2 and full year 2026, are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements represent our outlook only as of the date of this call."
+    },
+    {
+      "speaker": "Matt Humphries",
+      "timestamp": "",
+      "text": "While we believe any forward-looking statements made during this call are reasonable, actual results could differ materially as these statements are based on our current expectations as of today and are subject to risks and uncertainties, including those stated in our periodic report filed with the Securities and Exchange Commission, in particular our Form 10-K and Form 10-Q. We do not undertake and expressly disclaim any obligation to update or alter our forward-looking statements, whether as a result of new information, future events, or otherwise, except as required by applicable law. All comparisons we make today on the call will relate to our corresponding period of last year, unless otherwise noted. Unless otherwise stated, our financial measures disclosed on this call will be non-GAAP."
+    },
+    {
+      "speaker": "Matt Humphries",
+      "timestamp": "",
+      "text": "A discussion of these non-GAAP financial measures and information regarding reconciliations of our historical GAAP versus non-GAAP results is available in our earnings release and presentation, which may be found on our investor relations website at investors.blackline.com or in our Form 8-K filed with the SEC today. Now, I'll turn the call over to BlackLine's Chief Executive Officer, Owen Ryan. Owen?"
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "Thank you, Matt. Good afternoon, everyone. At our AI investor session in March, we shared our technology vision in detail and made our case for why BlackLine is positioned to be the trusted governance and control layer for CFOs deploying AI across their financial operations. Today is about sharing with you the momentum we are building as we translate that vision into reality. Our Q1 results demonstrated that our strategy is working, delivering solid top-line growth and profitability. Revenue grew to 9.7% year-over-year, and non-GAAP operating margin improved to 21.6%. These results are underpinned by progress on our key strategic initiatives. The adoption of our platform, Studio360, continues to build, with the metric reaching 13% of eligible ARR, up from 11% in Q4. More importantly, we are seeing this strategy translate into deeper customer commitments."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "This is best reflected in our remaining performance obligations or RPO, which grew 18%, driven by the longer contract terms that are inherent to our new platform strategy. Let me go deeper into our platform strategy and commercial model. Platform adoption maintained a healthy pace following Q4 seasonality, with 94% of eligible new bookings landing on platform pricing, a strong signal that our commercial model is becoming the standard for how customers buy BlackLine. We also saw continued migration activity from existing customers in Q1. Our teams are actively engaged with customers preparing for platform conversion ahead of their upcoming renewals. This new model is also positively changing our deal economics. Average new deal size this quarter was up 85% to $162,000, driven by platform and strategic product sales."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "Our standard offering now includes a broader set of capabilities on Studio360, which naturally increases the initial land. Our platform model allows us to sell units of financial productivity rather than seats, which over time we believe opens access to labor and operational budgets beyond traditional software spend. It also creates the natural expansion path for our agentic AI offerings. The model works like this: As customers adopt our platform, they commit to a platform fee that provides access to the full breadth of our capabilities within a framework of governance, reliability, and control that they and their auditors already trust. As they then deploy Verity agents and automate work that was previously manual, consumption-based pricing layers on top of that base, similar to how we price capabilities like matching today."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "That alignment between how our customers drive efficiency and how we capture value, all within a trusted control environment, is fundamental to what we are building. When we look at the full picture, we believe that a platform that provides broad access, embedded AI driving deeper daily engagement, and Agentic offerings layering consumption on top meaningfully increases the lifetime value of a BlackLine customer. This brings me to what I believe is the most important topic on today's call, AI and our Verity portfolio. Last month at our BeyondTheBlack conference in London, we introduced Agentic Financial Operations, a new operating model that defines how the office of the CFO harnesses AI safely, strategically, and at scale. The response from customers, partners, and the broader market has reinforced our conviction that we are addressing the right problem at the right time and with the right approach. The opportunity is straightforward."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "As an enterprise deploys AI agents across their business in procurement, sales operations, accounts payable, they are creating new uncontrolled financial touch points that need to be governed. Every one of those AI-generated transactions eventually hits the general ledger. Every one must be reconciled, validated, and audited. For a CFO who personally attests to the accuracy of financial statements, that is a responsibility that requires a trusted platform. Agentic Financial Operations is designed to close this governance and trust gap. Every action an AI agent takes within BlackLine leaves a digital footprint identical to a human user, full chain of thought, immutable audit trails, embedded controls. This is what CFOs demand, what audit committees rely upon, and what auditors require. The market reaction from customers and partners since our London launch has been encouraging."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "Customers are telling us they want to leverage what we are building and provide input on our roadmap rather than try to build these capabilities themselves. Their ROI framework is clear. Make their finance operations more durable and competitive, let a trusted partner handle the AI infrastructure so they can focus on running their business. Before I walk you through what Verity is delivering commercially, I want to spend a moment on how we build, because the pace of our innovation is becoming a strength. We are using AI to fundamentally accelerate our own product development. Our engineering teams have adopted AI-augmented coding practices across our development workflows, the results are measurable. The time from idea to production has decreased 22% versus last year. We are shipping capabilities faster, with fewer resources, at a higher quality."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "This is a structural improvement in R&D productivity that we expect to compound over time. That increased velocity is translating directly into how we deliver value. Our customers have benefited from our foundational AI capabilities since last year. We are expanding further into our agentic AI. A year ago, Verity agents were a strategic vision. Today, we have multiple purpose-built agents in market, in preview, are launching in the near term. Combined with our new AI Innovation Hub and a fully integrated AI-native acquisition, we are executing against our AI roadmap with clear, deliberate focus. Let me share what this engine is producing for our customers. Over the past year, we have been building and refining our embedded Verity AI capabilities, like Verity Assist, Verity Narrate, and Verity Flag, in close collaboration with our customers, their auditors, and our partners."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "That feedback loop has been critical, allowing us to validate not just performance, but the trust and governance framework around them. Even before we broadened access, adoption among early users was doubling every quarter. In Q1, with that validation in hand, we made these capabilities standard across most of our customer base. Over 2/3 of our customers are now actively using these tools, a 285% increase in adoption quarter-over-quarter. In Q1 alone, unique users grew 68% and total usage grew 183%. What this tells us is that AI is moving beyond experimentation for our customers and into their day-to-day workflows. As they embed these capabilities into how they operate, it deepens their relationship with BlackLine. Over time, we expect that to support both stronger retention and additional consumption under our platform pricing model."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "Verity Prepare, our AI-powered reconciliation agent, is now available to customers and is deployed with several mega enterprise customers. The validated outcomes customers are seeing are significant. Over 90% reduction in reconciliation processing time. One customer that had been spending three hours manually executing certain reconciliations has seen that fall to 10 minutes, a 95% time savings. Based on their experience, they are now ready to enable Verity Prepare broadly across their business. That progression from pilot to enterprise-wide rollout is exactly the adoption pattern we are building toward. Early usage data shows the cost to serve is efficient at current scale with clear paths to optimize further as adoption grows. Our multi-model architecture allows us to deliver meaningful customer value at margins consistent with our financial targets. Verity Match is now in its early adopter phase."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "Our existing matching solution is a powerful capability as it handles high volume, complex data sets across multiple ERPs and source systems and delivers strong automation rates for our customers. Verity Match builds on that foundation by applying AI to the long tail of complex exceptions like combined vendor payments, transposed invoice numbers, missing remittance details. Rules-based systems have historically left these for accountants to resolve manually. In early customer testing, we see a 64% reduction in transactions requiring manual investigation. By running our models on NVIDIA GPUs, we can process matches up to 25 times more cost efficiently and faster than on prior architectures, improving both the customer experience and unit economics as this scales. Verity Collect will launch this quarter, and the demand signal has been stronger than expected. We had to close our early adopter program because customer demand exceeded our planned capacity."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "The value proposition is direct. Predicting payment delinquency before an Invoice becomes past due and autonomously managing the collections outreach across voice, email, and digital channels. For CFOs, this translates directly to working capital improvement, which in the current macro environment is a top priority. While it is still early, we believe the initial proof points are compelling. In one early adopter scenario, our AI agent completed collections outreach activities in under 30 minutes that would have taken a human team approximately 45 hours. That kind of efficiency gain, freeing collection teams to focus on high-value accounts and complex disputes, is exactly what is driving the demand we are seeing. We expect Verity Collect to be a meaningful accelerant to our broader Invoice-to-Cash momentum as it scales."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "Verity Accruals is seeing a significant acceleration in customer interest and pipeline growth as its value proposition resonates in the market, anchored by initial successes, including closed deals and proof of concepts with key targets in both the enterprise and mid-market. These are largely existing customers looking to expand their footprint, which validates the cross-sell motion we have been building. Customers land on Studio360 and then adopt additional Verity agents as they see results. One advantage worth highlighting is that our customers do not need to build a new governance framework to deploy Verity. BlackLine already is that framework. Verity agents operate within the same SOX-compliant controls, audit trails, and approval workflows our customers have relied on for years."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "Customers can begin deploying AI within a controlled environment they and their auditors already trust, which we believe lowers the barrier to adoption and supports a faster path from pilot to broader rollout. Turning to how this strategy aligns with our Q1 execution, our platform and AI approach is showing consistent progress in the enterprise. This sustained focus is reflected in our metrics. First, we saw an increase in customers with over $1 million in ARR. We closed the first quarter with 86 customers at this level, an increase of 9% year-over-year, along 14% growth in our $250,000+ customer cohort. Second, this strategy is driving deeper adoption and additional cross-sell across our portfolio. Our strategic products represented 37% of sales in Q1, up from 33% last quarter and 27% in the prior year."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "This proves that when we lead with value and outcomes, customers invest more deeply in BlackLine, adopting more solutions with less friction. Third, you can see the strategy in action in key wins from the quarter. Within our existing customer base, we saw significant validation for our AI offerings, particularly Verity Accruals. We secured a major renewal and expansion with a leading billing company, demonstrating their deep loyalty to BlackLine and strong interest in our AI capabilities. We saw similar momentum with a leading global mobility and car-sharing company, which also expanded its footprint with a strategic win for Verity Accruals. Our upmarket motion and governance thesis also continues to resonate strongly in highly regulated and complex environments. This quarter, we welcomed one of the nation's largest healthcare providers as a new logo, replacing an ERP competitor, which is a powerful validation of our trusted control framework and innovation."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "We also saw significant expansion within our enterprise base, including a premier global construction services company that added our Invoice-to-Cash solution. Additionally, we executed a major rip and replace at a leading fintech provider, successfully displacing multiple competitors to consolidate their financial operations onto BlackLine, adopting Studio360, journals, reconciliations, and transaction matching. Last, we delivered highly strategic wins, particularly among companies at the forefront of the AI revolution. We secured a net new agreement with a global leader in memory and data storage for AI, successfully migrating their processes off an ERP competitor and onto BlackLine. Through that same channel, we also expanded our footprint with one of the world's premier data and AI platform companies. The fact that organizations building the future of AI rely on BlackLine for their own financial governance speaks to the strength and trust of our platform."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "We believe our customer base is healthier than our headline retention metrics suggest, and it is getting stronger. The lower mid-market churn we have discussed in prior quarters is running through a finite and shrinking pool of at-risk accounts. At the same time, the changes we have made, platform pricing that creates sticker customer relationships, a broader solution footprint per customer, increasing multiyear renewal commitments, and a redesigned customer success model are fundamentally improving the quality of our installed base. We expect the cumulative effect of these changes to become more visible in our retention metrics as we move throughout the year and into next. Finally, our partner ecosystem and our SAP relationship continue to be meaningful contributors to growth. Our integration with SAP's Advanced Financial Close is now generating pipeline as we are able to sell into SAP's installed base of AFC customers."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "Our Joule Verity proof of concept is also progressing toward a commercial framework. We are actively working to launch platform pricing within SolEx. We are also seeing acceleration in our public sector business through SAP with several active deals in the pipeline. We see our partner ecosystem as a force multiplier across demand generation, delivery, and customer success, and is critical to scaling our growth. In closing, our path forward is clear. AI is creating more financial activity across the enterprise, not less. All of it must be governed, reconciled, and audited. We are the system of record and control that makes this possible. Our customers are telling us they want to move fast with AI. They also tell us that trust, reliability, and security are non-negotiables. This is exactly what 25 years of BlackLine expertise delivers."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "With that, let me turn it over to Patrick for a detailed review of our financial results and our guidance."
+    },
+    {
+      "speaker": "Patrick Villanova",
+      "timestamp": "",
+      "text": "Thank you, Owen. As discussed, our strategy is building clear momentum, and our Q1 financial results reflect that progress. We delivered solid top-line growth, demonstrate the quality and durability of that growth through our key strategic metrics, and showed significant leverage in our operating model. Let me walk you through the details. Total revenue was $183 million, up 10%, with subscription revenue growing 10% and service revenue growing 11%. The acceleration in services reflects the faster implementation timelines and go live activity we are driving through our delivery engine. ARR reached $712 million, up 9%, reflecting the bookings momentum we saw in Q4 carrying forward and continued strength in platform and strategic product adoption. Importantly, we believe the quality and predictability of our future revenue growth is strengthening."
+    },
+    {
+      "speaker": "Patrick Villanova",
+      "timestamp": "",
+      "text": "This is best illustrated by our RPO, which grew 18% to $1.1 billion, fueled by larger deal sizes and longer contract terms inherent to our platform model. Similarly, the health of our near-term pipeline is also reflected in our current RPO growth of 12%, which underscores the solid market demand for our solutions. This momentum is directly linked to the steady adoption of platform pricing, which reached 13% of ARR at quarter end, up from 11% in Q4. Calculated billings growth was 9% in the quarter. Our trailing 12-month billings growth, which helps normalize for quarterly variations, improved to 9%. Turning to the health of our customer base, our key metrics remain solid across our 4,300 customers. Net revenue retention was 105%, which includes an approximate 1 point headwind from FX."
+    },
+    {
+      "speaker": "Patrick Villanova",
+      "timestamp": "",
+      "text": "Underlying expansion within our installed base remains solid, driven by two dynamics. Customers migrating to platform pricing, which naturally expands the scope of their relationship with us, and strong attach rates for our strategic products, which represented 37% of sales this quarter. Customers are investing more broadly in BlackLine, and our platform model is making that expansion easier and faster. On retention, our revenue renewal rate was 93%. Enterprise renewal rates remain strong at 96%, consistent with the durability we have seen in this segment. The lower mid-market headwind we have discussed in prior quarters continued to weigh on the overall rate, though the remaining at-risk pool is finite and shrinking. We expect this drag to diminish as we move through the year. Our SolEx channel delivered one of its strongest new bookings quarters as our joint go-to-market with SAP continues to mature."
+    },
+    {
+      "speaker": "Patrick Villanova",
+      "timestamp": "",
+      "text": "SAP customers now account for over 26% of our total revenue, and we see further opportunity ahead as our broader platform strategy opens new avenues into SAP's installed base of commercial and public sector customers. Now, let me turn to profitability and cash flow. Our non-GAAP subscription gross margin improved to 83%. Our non-GAAP gross margin improved to 80.2%, in line with our expectations. Non-GAAP operating margin was 21.6%, reflecting the continued productivity improvements we are driving across the business. We are seeing meaningful efficiency gains from our own adoption of AI and automation in areas like customer onboarding, implementation delivery, and internal operations. This enables us to grow revenue faster than expenses while maintaining our investment in innovation."
+    },
+    {
+      "speaker": "Patrick Villanova",
+      "timestamp": "",
+      "text": "Non-GAAP net income attributable to BlackLine was $40 million, representing a 22% non-GAAP net income margin, with adjusted earnings per share growing 14% to $0.56. We delivered operating cash flow of $46 million and free cash flow of $36 million, for a 20% free cash flow margin. After paying off our 2026 convertible notes in March, we have approximately $525 million in cash equivalents, and marketable securities versus $667 million in debt. We continue to execute our capital allocation strategy. In the quarter, we returned approximately $47 million to shareholders through the purchase of 1.2 million shares. Before I get into guidance, I want to step back and frame where we are against our multi-year financial targets."
+    },
+    {
+      "speaker": "Patrick Villanova",
+      "timestamp": "",
+      "text": "We entered the year with a clear objective, continue accelerating revenue growth toward double digits, expand operating margin, and do both while increasing our pace of innovation. Q1 demonstrated progress on all three fronts. Revenue growth accelerated, margins expanded, and the pace of our product delivery has never been faster. These results give us confidence to raise our full-year outlook. On the specifics, I want to call out a few dynamics that are important for modeling purposes."
+    },
+    {
+      "speaker": "Patrick Villanova",
+      "timestamp": "",
+      "text": "The first quarter's top line performance included about a $1 million benefit from certain items related to specific customer deployments and timing. These are non-recurring in nature. Looking ahead, we anticipate a modest revenue headwind of roughly $1 million-$2 million over the balance of the year due to FX. After accounting for both of these dynamics, our Q2 and full year guidance reflect continued acceleration in our underlying revenue growth rate as we move through the year. On the macro, we are not immune to the external environment, and we have built our guidance with that in mind. That said, the financial close is a regulatory obligation, not a discretionary spend item. Our customers cannot defer compliance, and the complexity of their financial operations is increasing, not decreasing."
+    },
+    {
+      "speaker": "Patrick Villanova",
+      "timestamp": "",
+      "text": "Combined with our growing RPO, strong multi-year renewal trends, and an expanding enterprise pipeline, we have good visibility into the rest of the year. Our raised guidance reflects both that visibility and an appropriate level of prudence given the uncertainty in the broader environment. With that context, for the second quarter, we expect total GAAP revenue to be in the range of $186 million-$188 million, representing 8.1%-9.3% growth. We expect non-GAAP operating margin to be in the range of 21.5%-22.5%. We expect non-GAAP net income attributable to BlackLine to be in a range of $40 million-$42 million, or $0.57-$0.59 on a per share basis. Our share count is expected to be about 73.3 million diluted weighted average shares."
+    },
+    {
+      "speaker": "Patrick Villanova",
+      "timestamp": "",
+      "text": "For the full year 2026, we expect total GAAP revenue to be in the range of $765 million-$769 million, representing 9.2%-9.8% growth. We expect non-GAAP operating margin to be in the range of 24%-24.5%. Finally, we expect our non-GAAP net income attributable to BlackLine to be $174 million-$182 million, or $2.42-$2.53 on a per share basis. Our share count is expected to be 74.4 million diluted weighted average shares. Operator, we're ready for questions."
+    }
+  ],
+  "qAndA": [
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "Thank you. As a reminder to ask a question, please press star one one on your telephone and wait for your name to be announced. To withdraw your question, please press star one one again. Please stand by while we compile the Q&A roster. Our first question comes from Alex Sklar of Raymond James. Your line is open."
+    },
+    {
+      "speaker": "Alex Sklar",
+      "timestamp": "",
+      "text": "Great. Thank you. Owen, maybe first for you on Verity and some of the adoption you've seen there. You spoke to it being a big factor in the majority of the large deals the last two quarters. What are you seeing in terms of adoption and usage from that new customer cohort specifically as they've gone live on BlackLine? Patrick, maybe can you remind us if there's any consumption revenue embedded in the 2026 outlook?"
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "Yeah. Alex, first of all, good to hear from you. Thanks for the question. I think, you know, whether it's a new customer or even an existing customer, the things that we're hearing from our from that cohort is basically, one, is they wanna move at a good pace with AI, move a little bit faster. What they're also telling us is that they do not wanna compromise anything on trust and governance. What they're trying to figure out with us when we go in and talk with them is they first tell us that the AI that we're rolling out needs to work within an existing controls environment, which is what we have and what they really appreciate."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "They want to make sure that the AI that they're deploying has actually been built by people in the business that understand their business, so they're not necessarily enamored with sort of generic AI. We sit there, and we can talk about the hundreds of billions of transactions that we've processed over for all of our customers over all these years and can show the accuracy and effectiveness and efficiency with which that works, and then the ability, you know, for their auditors to know it, rely on it, and trust it. That all becomes really important in all of the conversation. The last thing that we hear from them, Alex, it's not like, you know, what we bought today on, you know, February 25th is the end all be all."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "What they're really looking for is also trying to understand what is our roadmap, how does it align to their interests, and then how can they potentially weigh in with others in their industry to sort of, you know, move forward. If you know, one of the examples of a big win we had this quarter was with a very, very large healthcare company. Well, if you look at, you know, the largest healthcare company in the United States, we probably have nine out of the 10 at this point in time. Bringing that cohort together to show that experience because they all have those common issues, and they're all trying to figure out how to use AI the right way in that environment. Those are the things that we sort of really hear."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "It's like, yes, we want it to be, you know, cutting edge, but more importantly or just as importantly, they know they wanna be able to trust it. They wanna make sure it's accurate, it's auditable, reliable, and secure. Emerging probably, you know, after the quarter, but there's a lot more conversation now about total cost of ownership and cost certainty because what's happening with AI and other parts of the market where people are consuming tokens at a very, very high level without really understanding what they're getting from an ROI perspective. That's what I'm seeing in those conversations. Patrick, over to you."
+    },
+    {
+      "speaker": "Patrick Villanova",
+      "timestamp": "",
+      "text": "Yeah, Alex, to answer the second part of your question, just to hit the nail on the head, there's a nominal amount of consumption revenue included in the 2026 guide for the remainder of the year. With that said, you should start to see that in our leading indicators. The reason for that, for all the reasons that Owen just said, you know, our customers right now are uptaking these agentic offerings as well as other AI offerings, testing them out, getting comfortable with them, increasing consumption. As they move up through the consumption tiers, we expect to see that show up in our leading indicators, which materializes in revenue in 2027."
+    },
+    {
+      "speaker": "Patrick Villanova",
+      "timestamp": "",
+      "text": "The way we're seeing it now, the pace that we're at, we can reassert that at least 50% of our ARR exiting 2026 will be non-seat based as a result of everything that we just discussed."
+    },
+    {
+      "speaker": "Alex Sklar",
+      "timestamp": "",
+      "text": "Okay. That's great color from both. I appreciate that. Maybe just follow up on the strategic product bookings mix. I think that's a new record. Can you just talk about the commonality you saw in terms of solution adoption? I heard faster adoption of strategic products for those customers under platform pricing. Can you elaborate what you're seeing there with the 13% of the base now on platform, how much of an unlock that is? Thanks."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "I think Alex just, and I wanna make sure I understood your question, which was what's driving the strategic product sales into the platform. I mean, basically, it's the work that Jeremy and his team are doing with Stuart and his team to sort of make sure that the whole system works together seamlessly, but can be implemented by our partners or our teams or sometimes jointly with our customers. We're able to demonstrate, you know, faster time to value for what they're being, what they're asking for. I think, importantly, you know, as we continue to innovate in those products, we're widening the gap, quite frankly, with, you know, anybody that would have been a competitor."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "Those are the things that I think we're seeing in the market so far. Hopefully that was responsive to your question, Alex."
+    },
+    {
+      "speaker": "Alex Sklar",
+      "timestamp": "",
+      "text": "No, that's great. Thanks, Owen."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "Okay. Patrick, you want to talk about the acceleration of 11%-13%?"
+    },
+    {
+      "speaker": "Patrick Villanova",
+      "timestamp": "",
+      "text": "Yeah. Alex, the second part of your question there, I think what I heard was, you know, does our continual increase in the strategic product mix is that derivative of, you know, our platform approach? The short answer is yes, that they are related. We would expect to see a continued increase in mix of our strategic products versus non-strategic 'cause most, if not all of our strategic products are consumption-based. The second part of that, as customers migrate to our platform, that enables a smoother sales motion of our strategic products. It is a connective tissue, connective fiber between all of our solutions, which allows data to flow seamlessly between them, that allows us to sell into that customer base with less obstacles."
+    },
+    {
+      "speaker": "Patrick Villanova",
+      "timestamp": "",
+      "text": "As we see more and more customers move to the platform, we would expect to see that mix of strategic products continue to increase as well."
+    },
+    {
+      "speaker": "Alex Sklar",
+      "timestamp": "",
+      "text": "Perfect. Thank you both."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "Thank you. Our next question comes from Chris Quintero of Morgan Stanley. Your line is open."
+    },
+    {
+      "speaker": "Chris Quintero",
+      "timestamp": "",
+      "text": "Hey, Owen. Hey, Patrick. Thanks for taking the questions here. I wanted to ask about RPO. Really nice growth rate to see there and, you know, at a time when there's so much innovation going on in the space. I'm curious from your perspective at a high level, why are customers existing and you like making these such deep longer-term, you know, commitments and really tying themselves to the BlackLine story and product roadmap here?"
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "Chris, it's sort of what I just said at the beginning, right? We've been, you know, we're in our 25th anniversary, actually officially, June 2nd, for those who are paying attention to that. I think it's when you've been a trusted partner for the world's leading companies for as long as we have been, there's a lot of safety and security when you think about the profile of our customer that buy. There's a confidence in that. When you sit there and you think about the way BlackLine innovates amongst and between our customer base, our partners, staying close to what the auditors are requiring, what BPOs are trying to do, you bring all that together and you have that much more of a collaborative effort."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "That's why we announced the innovation hub that we said we were putting out, I guess about a month ago, we announced that. All of that is sort of giving them a high degree of confidence about what it is that we're doing. Again, I think we're hearing more and more frequently, \"We don't want to have to build this ourselves. We'd rather partner with a company like BlackLine.\" So you're seeing that longer commitment 'cause these things are not, you know, one year, one and done kind of activities. The rollout, the building of AI isn't gonna stop, you know, 12, 18, 24 months in the future."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "You're seeing a lot of that, from a commitment perspective as to our customers wanting to just partner and go on that journey with us. Patrick, anything you'd add to that?"
+    },
+    {
+      "speaker": "Patrick Villanova",
+      "timestamp": "",
+      "text": "Yeah, Chris. You know, for all the reasons Owen just said, our RPO story is a very good story right now. Delivering 18% overall RPO growth, 12% CRPO growth year-over-year, it's indicative that our customers or our new customers that we're landing, they're larger in nature, they're signing up for longer terms right out of the gates, and then coupling that with our existing customers that have been with us for years. They're coming up for renewal, they wanna be with us for several more years. They wanna continue the journey. They're intrigued by the innovation. They wanna be part of this, they wanna partner with us, not, you know, per se go at it alone. It's a very positive story underpinning our RPO growth rate, and it's indicative that our existing and new customers wanna be with us for several more years."
+    },
+    {
+      "speaker": "Chris Quintero",
+      "timestamp": "",
+      "text": "Excellent. Super helpful. Now I want to follow up on Verity. Within that early customer cohort that you have, you know, adopting the product, what are you seeing from a transaction volume perspective for those customers that are adopting it, and how does that compare versus customers that haven't quite gotten there yet?"
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "Okay, Jeremy, you wanna take that question?"
+    },
+    {
+      "speaker": "Jeremy Ung",
+      "timestamp": "",
+      "text": "Yeah. I think we are definitely seeing repeat engagement from customers using Verity, so that's extremely promising. With the customers that are doing this, Owen mentioned the 90% time savings in things like preparations, activities. That's really what's driving the repeat usage of these capabilities, the value being delivered. With the cohort, we definitely see people who are using Verity come back to use Verity again for risk analysis, for narration capabilities, for other analyses. That's what's really driving the usage and the transactions from these customers."
+    },
+    {
+      "speaker": "Chris Quintero",
+      "timestamp": "",
+      "text": "Perfect. Thank you so much."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "Thanks, Chris."
+    },
+    {
+      "speaker": "Jeremy Ung",
+      "timestamp": "",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "Our next question comes from Patrick Walravens of Citizens. Your line is open."
+    },
+    {
+      "speaker": "Patrick Walravens",
+      "timestamp": "",
+      "text": "Oh, great. Thank you, and congratulations, you guys, on the progress here. Owen, I would love to talk a little bit more about SAP and, in particular, when you talk about the public sector opportunity with SAP. There's a couple things there. I mean, I guess I don't usually think about the public sector and BlackLine 'cause a lot of the public sector has kind of different accounting. Secondly, I did notice that one of your SolEx salespeople moved to SAP focusing on the public sector recently, so I figure there's some connection there. Just love to hear your thoughts."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "First of all, the relationship with SAP, in my view, just continues to get stronger and better. I think the collaboration around product roadmap, customer success, work that we're doing around AI together are all things that, from my vantage point, I couldn't be more pleased with that. Obviously, we all wanted to go faster, but that's, you know, that's just par for the course. I will say to you, one of the privileges of working with SAP is they're very professional, and they're very thorough in what they do. I think sometimes you might give up a little bit of speed for that professionalism and the thoroughness with which it's done, but it works particularly well."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "As it relates to public sector, I think we've been signaling now for a couple of years our move to becoming IL2 compliant, then IL4. We've had some wins now in the public sector space. We are gonna continue to invest, and we've got a very nice growing pipeline of opportunities with various federal agencies. DOGE, in many ways, is a bit of a tailwind for us in the sense that the government is trying to modernize. Pat, you know, if you're, as a taxpayer, and I'm gonna say this, you know, the government really has a hard time producing any kind of, quote, \"audited financial statements."
+    },
+    {
+      "speaker": "Patrick Walravens",
+      "timestamp": "",
+      "text": "Right. Yeah."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "And so, no matter the basis of accounting, you still have to get it right. You know, that's where we've been able to find a real opportunity to grow into that organization. Yeah, we're excited about that opportunity."
+    },
+    {
+      "speaker": "Patrick Walravens",
+      "timestamp": "",
+      "text": "Okay. Are there any really big deals in the pipeline on this?"
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "There's always big deals, Pat. I gotta just get them across the finish line. The government spends big when they spend, but they have their selling season, as you know. That's not till-"
+    },
+    {
+      "speaker": "Patrick Walravens",
+      "timestamp": "",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "-the end of the third quarter."
+    },
+    {
+      "speaker": "Patrick Walravens",
+      "timestamp": "",
+      "text": "Yeah. Okay, great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "Thank you. Our next question comes from George Kurosawa of Citi. Your line is open."
+    },
+    {
+      "speaker": "George Kurosawa",
+      "timestamp": "",
+      "text": "Okay, great. Thanks for taking the question. I'm on for Steve Enders. Maybe you could talk about this move that you discussed on the Verity side from PoCs into, you know, more scaled enterprise production. How hands-on is that transition process? As you know, is there a component of forward deployed engineers or some similar construct that's required here? How turnkey is it? Maybe you should talk about what the learnings have been in customers making that migration."
+    },
+    {
+      "speaker": "Jeremy Ung",
+      "timestamp": "",
+      "text": "Yeah. I can take that question. In terms of adoption, obviously, with the earlier capabilities, you know, any of the agentic capabilities, we've been fairly hands-on with our customers. We've always had a forward deployed engineer style motion in terms of how we've used customer engineering resources to customize solutions, to customize journal entry capabilities to fit the needs of businesses. We're taking the same hands-on approach with the earliest cohort of customers adopting these agentic capabilities, we are set up well to expand this to a forward deployed engineer motion in the future based on what we already do today with our customers."
+    },
+    {
+      "speaker": "George Kurosawa",
+      "timestamp": "",
+      "text": "Okay, great. I did wanna touch on the platform pricing cadence here. Apologies if I missed this earlier in the call, but I think if it was, it was 7%, you know, increase in percent of ARR in Q4 and 2% in Q1, you know, I'm sure this is gonna be a bit of a lumpy metric. I'm wondering if you could just comment, you know, maybe there's some seasonality, just the number of at-bats you had and just the dynamics under the hood there and your confidence in doubling the ARR on that, on that pricing model."
+    },
+    {
+      "speaker": "Patrick Villanova",
+      "timestamp": "",
+      "text": "Yeah. Thank you. We're very confident that we're going to reach 25%+ by the end of the year in terms of the amount of eligible ARR we have on the platform model. With that said, you hit the nail on the head. Our largest renewal cohorts are in Q2 and Q4. Q1 is by far the lightest. We did not expect it to be a linear path from 11% to 25%+ by the end of the year. We're right where we thought we'd be coming out of what is traditionally a lighter quarter in this industry."
+    },
+    {
+      "speaker": "George Kurosawa",
+      "timestamp": "",
+      "text": "Makes perfect sense. Thanks for taking the questions."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "Thank you. Our next question comes from Matt VanVliet of Cantor. Your line is open."
+    },
+    {
+      "speaker": "Matt VanVliet",
+      "timestamp": "",
+      "text": "Good afternoon. Thanks for taking the question. Maybe a follow-up on the SolEx partnership and then kind of a broader question on the overall go-to-market. I think coming into the year, or BeyondTheBlack last year, you talked about maybe greater alignment with senior executives at SAP. Curious how much of that is sort of already coming through the pipeline versus being maybe a little bit back half weighted just given the seasonality of that business. Wrapped around that, just sort of the execution that Stuart had talked about coming in to have more accountability on sort of a daily basis. How is that playing out on both sides of the SolEx and the rest of the go-to-market team?"
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "Yeah. A couple things. I will say again, I think we are very pleased with the progress we are making in trying to team with SAP. As I think you know, I think they report something like their second and fourth quarters are very large. I think 40% of their bookings come in the fourth quarter. There is a bit of a tail to this. You are not buying a big ERP system spur of the moment. The sales cycles are even longer than ours, as I understand it. There is great alignment. The teams are working really well. You know, I think you would see it in pre-sales. The incentives are aligned the right way."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "There's just more and more success stories that are being created amongst and between SAP, system integrators, BlackLine, and customers. Those stories become very compelling when you hear them together because, you know, when you're spending the kind of money you have to do an ERP upgrade and then implement BlackLine, you wanna make sure the ROI is there. Feel very, very good about that. You know, as you look at the work that Stuart's driving on behalf of our team, I think it's going well. I think the one thing that we're learning from our own experiences, as our deal sizes get larger, there's a few more people around the table and making sure that we understand the different constituencies."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "CIOs would be a place that a year ago were not necessarily as much of a focus for us. We're having to spend more time with CIOs. Some companies now have the equivalent of an AI czar, we're, you know, having to sort of learn how to work with some of that. Obviously the deal sizes are bigger, it just takes a little bit longer to work your way through that. I think Stuart's the right guy doing the right things with his team to drive the success that we want. I feel quite good about that."
+    },
+    {
+      "speaker": "Matt VanVliet",
+      "timestamp": "",
+      "text": "Very helpful. Then as you look at customers that are either already on the platform pricing or maybe on the next list to potentially migrate over to that, is there any different margin structure that you're assuming in sort of year one, year two of those deals that ultimately sort of maybe builds back up? How does that pricing around both the usage of the platform but also kind of encompassing the size of the organization and the complexity there have a margin profile that maybe differs from the seat-based model?"
+    },
+    {
+      "speaker": "Patrick Villanova",
+      "timestamp": "",
+      "text": "Yeah. So as we just talked about, we're about 13% of our way through. We look at our customer cohorts very carefully, that are coming up for renewal in terms of who's eligible for the platform, in terms of which customers would, you know, are most likely to adopt, and then which customers are going to, you know, consume the platform, and at what rate. We've been looking at data for the last year and early on, but right now we're not seeing any margin compression as a result of adopting the platform. The cost to delivery on day one is not that significant. So we see the immediate uplift, and then we're now monitoring the secondary element of the revenue generation of the platform, which is consumption."
+    },
+    {
+      "speaker": "Patrick Villanova",
+      "timestamp": "",
+      "text": "So far, based upon what we're seeing, we are not seeing margin compression. In fact, I believe if you see in Q1, we had our highest gross margin in years, and that was as planned. That's part of our migration completion to GCP. We still had some redundancy in data centers in Q1. For the time being, we expect gross margin to expand throughout the year, and we're not seeing any data points that are contrary to that. We will continue to closely monitor the impact of AI."
+    },
+    {
+      "speaker": "Matt VanVliet",
+      "timestamp": "",
+      "text": "All right. Great. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "Thank you. Our next question comes from Daniel Jester of BMO Capital Markets. Your line is open."
+    },
+    {
+      "speaker": "Kyle Aberasturi",
+      "timestamp": "",
+      "text": "Hi, good afternoon. This is Kyle Aberasturi on for Dan Jester. Thank you for taking the questions. It sounded like a solid quarter for both Verity and for platform deals. I guess just how do you see customers allocating resources between pure AI products and more broader digital transformation trends?"
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "You know, I would say our customers are not just looking to buy AI for the sake of AI. I mean, I think for our customer base, it's about being part of the digital financial transformation journey that happens to have more power being provided because of AI. People are just not buying the whipped cream without wanting the cake, if you will. There's got to be a real foundation underneath all this as we move forward. I think that, you know, continuing to underline everything we do will be the complete platform across Record-to-Report or Invoice-to-Cash, then further powered by the AI capabilities that Jeremy and the team are building."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "That's my experience with the market right now, but I'm looking at both my other presenters here and seeing if they're hearing anything different from our teams in the field."
+    },
+    {
+      "speaker": "Jeremy Ung",
+      "timestamp": "",
+      "text": "Yeah. I think overall, AI, there's excitement about our roadmap and vision, but it needs to tie to their overall objectives as an organization. It's really in support of the transformation objectives BlackLine has always supported and accelerated. AI is an accelerant to that. It enables that to happen more quickly and with less resources on their side. Ultimately, it ties to the transformation objectives we are already part of."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "I think, Jeremy, it ties to being able to fit into the control environment as well, right? You know, our customers need to understand that there's not gonna be anything introduced into the control structure that's gonna create an issue for them."
+    },
+    {
+      "speaker": "Jeremy Ung",
+      "timestamp": "",
+      "text": "That's right."
+    },
+    {
+      "speaker": "Kyle Aberasturi",
+      "timestamp": "",
+      "text": "Okay, great. Just a quick follow-up. The Middle East was an area of investment last year. I guess just, has there been any impact today hitting the business? Thanks."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "Well, as they like to say, timing in life is everything, right? We, you know, as for those of you who don't know, really sort of opened up operations at the tail end of last year, in Saudi Arabia. We had our first, nice win, in February, if I remember correctly. And then obviously, you know, the war broke out in Iran, the end of February. It has had an impact on the environment in the Middle East. We didn't have lots of big numbers built into our financial plan for this year. I think the thing that Patrick and his team and I are watching very closely is the impact on Europe. That's the one area where we saw some slowdown at the end of the quarter that we're watching to see, you know, if there's going to be much more of an impact in that part of the world, as, you know, the troubles in the Middle East continue to unfold."
+    },
+    {
+      "speaker": "Kyle Aberasturi",
+      "timestamp": "",
+      "text": "Great. Thank you so much."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "Thank you. Our next question comes from Rob Oliver of Baird. Your line is open."
+    },
+    {
+      "speaker": "Rob Oliver",
+      "timestamp": "",
+      "text": "Great. Thank you. Good afternoon. You guys hosted a really cool AI event this quarter, and some longtime customers that, you know, we've talked to over the years like Quest and others like Bristol Myers were there. As you talk about the usage ramp and Verity, maybe provide for us a sense or an update for as you think about the outlook for this year and the next couple of years, how that Verity usage ramps as you move towards your 2027 targets. Within that call, it was fascinating 'cause, you know, one of the customers was like, \"Yeah, we're all in on it.\" The other was like, \"We're still dabbling.\" Just would love to get some more color around the customers that know you and love you, what they're doing with the AI components of the platform. Thanks."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "Yeah. Rob, first of all, good to hear your voice, and thanks for the question. Listen, we have customers that run every end of the spectrum, right? Whether they love us or not, there's still some governance that these companies have in place on how quickly they want to evolve with AI, partly just to their own ability to digest it, part of it just making sure that every, you know, every T is crossed, every I is dotted as they move through the alphabet, if you will."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "I think the thing that we saw out of the first quarter, again, which was important from my vantage point, was we may have taken longer to get everything into the market, but when it went, we had very, very high confidence that it was gonna work, it was reliable, it was trusted because our customers had already kicked the tires as many times as they possibly could. The auditors had sort of, you know, I won't use the word blessed it, but had a high degree of confidence in it. You know, I think that's the approach that we're gonna continue to see. There's gonna be some customers that, you know, Jeremy and his team want to experiment with us."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "I guess maybe the way I would sort of describe it is we got customers that wanna ride in the peloton. Some of them wanna be at the front of the peloton, some of them wanna be at the back of the peloton. They don't wanna be in group two, right? They don't wanna have fallen away from the pack, but some of them wanna drift for a little bit of time just to see how things are unfolding. I think one of the things that we are trying to do is take advantage of our industry capabilities and get some of these customers to talk to one another that are in the same industry sector so that they get a higher degree of confidence of what's being used, how it's being used and why they can rely on it. Jeremy, please add."
+    },
+    {
+      "speaker": "Jeremy Ung",
+      "timestamp": "",
+      "text": "That's also part of why we launched that AI hub. Owen alluded to the fact that we have some customers who really want to be design partners with us and wanna think about be forward-leaning about how they expand usage of AI into their organizations, but also how they define it for finance and accounting discipline as a whole. That's really what the intent behind that hub. It builds upon our narrative from our AI Day, but it's really about pushing the envelope with these customers in a safe, governed, and trustworthy manner. Being able to design together with them is part of what the leaders in these spaces are looking to do."
+    },
+    {
+      "speaker": "Rob Oliver",
+      "timestamp": "",
+      "text": "Very helpful. Thanks, guys. Appreciate it."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "You're welcome."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "Thank you. Our next question comes from Patrick O'Neill of Wolfe Research. Your line is open."
+    },
+    {
+      "speaker": "Patrick O'Neill",
+      "timestamp": "",
+      "text": "Hey, guys. Thanks for taking my question here. Just a quick one for me. Wanted to ask about the mid-market churn, and maybe, can you quantify the growth headwind attributed to that churn, both in the results and then maybe what's factored in the guidance? When that does subside, sounds like towards the end of this year, how should we think about the potential for net retention to expand as we look into next year and beyond? Thanks."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "Yeah, Patrick. A couple data points there. No surprises in terms of where we're going or, you know, the results from a customer account perspective in Q1. You know, we've been signaling for well over a year now that, you know, there's going to be churn in the lower bid market, and we expect that to slow down in the second half of this year. We're tracking that cohort very carefully, and feel very confident that that number will trend down from a customer churn count perspective as this year evolves. It's a good data point to note that it is, you know, a headwind, for lack of a better term, that we've baked into the guide. There's no surprises there. We baked it into the plan. We saw this coming."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "For every customer that we land, the average customer size for new logo is over three times the size of a customer we lose. That's a very key data point, not just in terms of our success of the nature and size of customers that we're landing and landing on the platform, but it also is a good indicator in terms of the general size and nature of the customers that are leaving us. As the year evolves, we would expect, you know, some expansion on DBNRR as well as GRR as we work through that cohort and enter 2027."
+    },
+    {
+      "speaker": "Patrick O'Neill",
+      "timestamp": "",
+      "text": "Super helpful. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "Thank you. Our next question comes from Billy Fitzsimmons of Piper Sandler."
+    },
+    {
+      "speaker": "Billy Fitzsimmons",
+      "timestamp": "",
+      "text": "Hey, guys. Thanks for taking my question and fitting me in here. I wanna double-click. I was gonna ask about kind of the demand environment outside of North America and the opportunity there. It came up in one of the prior questions, and in the answer, there was a commentary kind of around Europe and some of the macro impacts there. Can we please double-click on that? What was kind of the impact there, if any, in 1Q? What are you kind of seeing positive or negative in 2Q since then? It's come up in investor conversations about the potential for maybe elevated pushup relative to other geos. Thanks, guys."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "Well, first of all, broadly, pipeline in the business continues to grow at a very healthy pace all around the globe. We're not really seeing, you know, a significant difference in between one geography versus the other. That bodes well for what we are trying to do in the marketplace. That said, you know, as we said, you know, the end of March was a little bit less than we would have expected, and some pretty large deals did get pushed out. I would say to you that business throughout North America looks very solid. Asia Pac, you know, there's parts of it that look really good. Japan is, it seems to be doing well for us. Then Europe is okay."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "I think the thing that I worry more about, you know, than the war, because as the war gets way through and businesses still need to implement BlackLine as we move forward, is the tension, the geopolitical tensions between the U.S. and Europe and what that might mean for us for infrastructure we have to build in Europe compared to what we have in North America now. I know Patrick and Jeremy have been sort of modeling that out. If data sovereignty becomes a bigger, more pressing issue, we're ready to deal with it. We know how to deal with it. We just obviously built something in Saudi Arabia. That is the one thing that I am watching. I think we can work our way through the macroeconomics, you know, pretty well."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "What I, you know, wanna make sure we also don't lose sight of is the geopolitical issues that could have an impact on the investments we would need to make in the business maybe later this year or into 2027 or 2028."
+    },
+    {
+      "speaker": "Billy Fitzsimmons",
+      "timestamp": "",
+      "text": "Super helpful. Glad to hear about some of the momentum in specific geos like Japan."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "Thanks, Billy."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "Thank you. Our next question comes from Adam Hotchkiss of Goldman Sachs. Your line is open."
+    },
+    {
+      "speaker": "Adam Hotchkiss",
+      "timestamp": "",
+      "text": "Great. Thanks for taking the questions. Patrick, I just wanted to start with you. I think you mentioned the $1 million non-recurring benefit to Q1. Could you just maybe help us understand that a little bit better, what that was and why that's not recurring?"
+    },
+    {
+      "speaker": "Patrick Villanova",
+      "timestamp": "",
+      "text": "Yeah, Adam. That has a little bit to do with the timing of implementations, the timing of delivery. It's one time in nature. I think, Adam, the key takeaway is, even though we had $1 million of one-time benefits in Q1 from a top-line perspective, we're passing along all of that into the guide less FX headwinds. Overall, we did not view it as a headwind to, you know, the update and increase of the guide for the full year. Of the $2.1 million beat, we're passing about half of that into the full year guide. The other half being an FX headwind from where rates were at the time we established the guide for the year."
+    },
+    {
+      "speaker": "Adam Hotchkiss",
+      "timestamp": "",
+      "text": "Okay. Yeah, that's helpful color, Patrick. Owen, just any updated thoughts on win rates or the broader competitive environment? I know, way down market there are some AI native full stack ERPs that are getting a lot of funding that are probably serving companies nowhere near the size of where you are. Curious just broadly for the enterprise players and sort of where you stand, how that's going."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "I'm gonna say this and I'm probably gonna regret it in some ways, but it feels to us like, you know, our ability to compete at the enterprise, we've distinguished ourselves even more from our traditional competitor set. I think the robustness of which Jeremy has built, the completeness of the roadmap, the work that we've been able to do to improve time to value, provide more certainty around cost of ownership, continuing to be viewed as a very collaborative player as to what we do, has been good to see in the enterprise space. You can see that in our pipeline as it's growing."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "You know, the number of opportunities isn't necessarily growing very large, but the dollar size of them is increasing nicely, and that's, you know, in the enterprise space. You know, we're pretty encouraged by the number of seven-figure deals that we have in front of us for this year and next year."
+    },
+    {
+      "speaker": "Adam Hotchkiss",
+      "timestamp": "",
+      "text": "Great. Thank you both."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Patrick Villanova",
+      "timestamp": "",
+      "text": "Thanks, Adam."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "Thank you. I'm showing no further questions at this time. I'd like to turn it back to BlackLine CEO, Owen Ryan, for closing remarks."
+    },
+    {
+      "speaker": "Owen Ryan",
+      "timestamp": "",
+      "text": "Thank you. Thank you all for taking the time to listen to our call today and ask questions about our company. We appreciate your interest in us, and we look forward to catching up and talking more soon. Thanks, everybody. Have a great night."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "This concludes today's conference call. Thank you for participating, and you may now disconnect."
+    }
+  ],
+  "totalTurns": 129
+}

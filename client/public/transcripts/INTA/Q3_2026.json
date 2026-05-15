@@ -1,0 +1,425 @@
+{
+  "ticker": "INTA",
+  "period": "Q3 2026",
+  "eventDate": "2026-05-05",
+  "preparedRemarks": [
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "Hello, everyone, and welcome to the Intapp 2nd quarter fiscal 2026 earnings webcast. At this time, all participants are in a listen-only mode. After the speaker's presentation, there will be a question and answer session. Please be advised that today's conference is being recorded. Now it's my pleasure to turn the call over to Senior Vice President, Investor Relations, David Trone. The floor is yours."
+    },
+    {
+      "speaker": "David Trone",
+      "timestamp": null,
+      "text": "Thank you. Welcome to Intapp's fiscal 3rd quarter 2026 financial results. On the call with me today are John Hall, Chairman and CEO of Intapp, and David Morton, Chief Financial Officer. During the course of this conference call, we may make forward-looking statements regarding trends, strategies, and the anticipated performance of our business, including guidance provided for our fiscal 4th quarter and full year 2026. These forward-looking statements are based on management's current views and expectations, entail certain assumptions made as of today's date, and are subject to various risks and uncertainties, including those described in our SEC filings and other publicly available documents that are difficult to predict and could cause actual results to differ materially from those expressed or implied by such forward-looking statements. Intapp disclaims any obligation to update or revise any forward-looking statements except as required by law."
+    },
+    {
+      "speaker": "David Trone",
+      "timestamp": null,
+      "text": "Further on today's call, we will also discuss certain non-GAAP metrics that we believe aid in the understanding of our financial results, including non-GAAP gross margin, non-GAAP operating expenses, non-GAAP operating income, non-GAAP diluted net income per share, and free cash flow. Our GAAP financial results, along with reconciliations of GAAP to non-GAAP financial measures, can be found in today's earnings release and its supplemental financial tables, which is available on our website and as an exhibit to the Form 8-K furnished with the SEC prior to this call, or a supplemental financial presentation, which is available on our website. With that, I'll hand the conversation over to John."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "Thanks, David. Good afternoon, everyone. Thank you for joining us. Q3 was a strong quarter, one that reflects both the health of our core business and the momentum building behind where Intapp is headed. Today, I'll share our Q3 results, reflect on what we put in motion at Investor Day at Amplify in February, and walk through the client wins and early signals that speak to the opportunity ahead. First, the numbers. We achieved solid quarterly results in Q3, supported by the addition of new clients and the expansion of client accounts around the world. Our Cloud ARR grew to $459 million, up 31% year-over-year. Cloud now represents 82% of our total ARR of $560 million."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "In the quarter, we earned SaaS revenue of nearly $108 million, up 27% year-over-year, and total revenue of $146 million, up 13% year-over-year. February was a significant month for Intapp. We brought Amplify, our annual client and product showcase, to New York and London, and we hosted our second Investor Day. Together, those events put a single thesis on the table. Intapp is entering its most consequential chapter with strength, and we have a tremendous roadmap ahead to unlock new value for our clients. If you weren't there, I'd encourage you to watch the recordings. I want to use the next few minutes to revisit that thesis. Demand for the professional firms we serve is growing, and we expect that to continue."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "As the economy expands, companies need outside counsel for high-stakes litigation, bankers for acquisitions, and auditors for assurance. These firms provide functions that are fundamental to capitalism, expert advice, and accepted third-party accountability that clients can't replicate internally. Their core economic value has nothing to do with technology, but their staying competitive does. These firms must transform. The opportunity to use AI to become more efficient, more capable, and more competitive is significant. The firms that move decisively will be the ones that win. They're also learning something after experimenting with first-generation horizontal tools. Generic AI wasn't built for how these highly regulated firms actually work or for the professional trust and compliance standards they're required to uphold. For these firms, professional compliance is an existential issue. That's why we built Celeste, an AI-native agentic platform designed from the ground up for professional firms."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "Celeste delivers expert agents directly into the workflows that drive firm performance, business origination, deal and asset management, business intake and compliance, and revenue management. Built for firms, not adapted from tools built for everyone else. Celeste works as a standalone platform and as a context and compliance layer that makes other leading AI tools more effective inside a firm, giving them the firm specific context and professional compliance protections they need to operate in a highly regulated environment. Leading AI companies joined us on stage at Amplify as we launched Celeste. We are re-architecting our core business applications to run as expert agents powered by Celeste. We demonstrated expert agents for deal development, professional compliance, and revenue management, all grounded in Intapp data and systems, all running on Celeste. These innovations expand our addressable market meaningfully."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "As AI automates knowledge work inside firms, Intapp can move beyond competing for software budgets and capture a larger share of overall personnel budgets, pricing for the value that expert agents create and for the volume of activity flowing through the platform. Matters opened, deals managed, engagements resourced, compliance actions approved. Celeste enables consumption-based pricing alongside our existing enterprise and seat models, giving us more ways to grow with our clients as adoption deepens. We're entering the agent market from a position of significant structural advantage. With thousands of firms already running on Intapp, we manage their end-to-end business workflows, their most critical data, and their professional compliance programs now with a trusted, professionally compliant agentic platform. No competitor can match that position. We grow as the firms do, and there is no one better positioned to lead this next chapter."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "At Amplify, three of the most consequential companies in AI spoke publicly about why they're building with Intapp. Our strategic alliance with Microsoft continues to deepen. On stage, Microsoft was direct about what enterprise AI actually requires for professional firms. Quote, \"AI is becoming part of the enterprise backbone. In order to make this really work at the enterprise level, especially for sensitive firms, we really need to think about walls to make sure that the data only shows up for the right people at the right time.\" Winston Weinberg, CEO of Harvey, discussed their collaboration with Intapp as a way to help clients succeed."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "Quote, \"Intapp has been working on this for so long, and you have built such an incredible structure and trust with all the clients, making sure that we can integrate with all of your systems and making it the best for the end user.\" Eleanor Dorfman, Head of Industries at Anthropic, articulated why our two platforms are built to work together. Quote, \"We're very ecosystem driven. We build primitives that we then work with our partners like Intapp to deliver so customers experience customized value inside of these products. This is exactly the way we want to deliver AI into regulated enterprise environments.\" This is what it looks like when the market validates your position, and the signals we're seeing from clients and prospects back that up. Let me share a few highlights."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "Amplify drew over 40% more client attendees than last year with an 80% increase in digital impressions and more than a 110% increase in client and partner engagement across social and digital channels. The appetite for Celeste is clear. Celeste content is generating 3x the average engagement across our channels, and the Celeste overview is averaging over nine minutes per individual visit, the highest in our portfolio. Our April webinar series featuring Celeste, one for each industry vertical, set company records for both registrants and attendees. Sales development meetings in April exceeded monthly goals by over 65%, a new high watermark. That momentum runs alongside a business that continues to execute and now with Celeste."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "Q3 growth came from all three of our core motions: new clients, expansion within existing accounts, and cloud migrations while we continued building traction across newer verticals, products, and geographies. In our legal vertical, we saw a continuing trend of firms seeking to modernize and expand their technology while continuing to require the trust and professional compliance expertise we provide. We mentioned last quarter that Ropes & Gray, an Am Law 100 firm, chose our compliance solutions to modernize intake and conflicts. This quarter, they decided to add to those solutions, choosing DealCloud to help accelerate their business development activity and Celeste to drive their agentic agenda. PLT, a current client utilizing conflicts, chose to further modernize their solutions and migrate to the cloud with Intapp Time. They also purchased Intapp Terms with Assist and Walls as they work to simplify their tech stack via a single provider."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "Kobre & Kim chose Intapp Time to increase overall efficiency and provide enhanced features to improve compliance. An Am Law 100 firm chose Intapp Time for its trusted AI capabilities after a well-funded AI startup competitor fell short of what their firm actually required. This is a pattern in the market. In the accounting industry, technology purchases continue to be driven by both the need for AI capabilities and the continuing competition resulting from PE investments and mergers. Among the firms that turned to Intapp for AI-driven modernization this quarter, Mauldin & Jenkins, an Accounting Today Top 100 firm, needed a central place to track, monitor, and review engagements. They chose Intapp Employee Compliance to deliver reliable confirmation with regulatory requirements. U.K.-based Sumer Group looked to Intapp to solve inefficiencies from multiple systems brought together from acquisitions."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "Using Intapp Collaboration, they will be able to streamline operations and improve collaboration across the firm. The European offices of two major accounting firms chose Intapp as well. One purchased Intapp Collaboration to increase internal productivity and satisfaction. The other purchased both Intapp Collaboration and Walls to assure greater control over data with geographic sensitivities. In our financial services verticals, firms continue to choose our purpose-built solutions for their industry specificity. A global private investment firm replaced a competing platform with Intapp DealCloud, choosing industry depth over a generic solution in order to drive adoption and value firm-wide. We also added new clients and real assets. A leading residential builder chose Intapp Properties to consolidate their workflows into one centralized repository. Essential Properties, an internally managed REIT, chose Intapp Properties to meet their growing demand for modern technology solutions."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "Q3 was a strong quarter, and it came at a defining moment. We launched Celeste in limited availability. Our clients are engaged, and the early signals are strong. Our ecosystem is aligned, and our core business continues to execute across new logos, expansions, and migrations. What comes next is what we've been building toward. Professional firms are transforming. The firm AI market is growing, and as Celeste moves toward broader availability, no one is better positioned to lead it than Intapp. To our clients, partners, investors, board, and the global Intapp team, thank you. This is the result of your trust and dedication. David, over to you."
+    },
+    {
+      "speaker": "David Morton",
+      "timestamp": null,
+      "text": "Thank you, John, and thanks to everyone for joining us today. I'd also like to acknowledge those who participated in our Investor Day in February, both virtually and in person. Alongside our annual Amplify event, it marked an important step forward in articulating Intapp's firm AI strategy. We highlighted three key areas: the introduction of Celeste, our agentic AI platform, purpose-built for professional firms, and the incremental TAM it unlocks, the strength of our enterprise go-to-market motion, and our framework and line of sight to $1 billion in total ARR. We remain confident in that trajectory, underpinned by our differentiated position, serving highly regulated professionals with professional trust, compliance-native, workflow-critical, industry-specific AI solutions. Turning to the quarter, we delivered strong fiscal 3rd quarter results, reflecting continued momentum in our cloud business and growing market adoption of our AI offerings."
+    },
+    {
+      "speaker": "David Morton",
+      "timestamp": null,
+      "text": "Alongside strong quarterly performance across our growth, compliance, and profitability offerings, our Celeste AI offering is now translating into meaningful contribution. Just a few months removed from our Celeste product announcement, over 15% of net new bookings in the quarter was driven by our Celeste AI solutions, including early monetization from firm AI pilots. We're seeing strong enterprise adoption across land, expand, and vertical motions, reinforcing AI as a durable driver of cloud growth. Following our Amplify event, we also saw a meaningful uptick in demand generation, not just for Celeste, but across our broader product suite, driven by increased customer engagement with our AI capabilities. Cloud ARR grew 31% year-over-year to $459.3 million, supported by expansion within our 100,000+ ARR client base and a 123% cloud net revenue retention rate."
+    },
+    {
+      "speaker": "David Morton",
+      "timestamp": null,
+      "text": "We continue to operate the business with discipline. Growth and operating margins expanded year-over-year. Q3 marked a record free cash flow quarter, and we continued executing on our share repurchase program. Together, these results reflect our focus on driving operating leverage while investing for long-term growth. Our SaaS revenue was $107.9 million, up 27% year-over-year. It now represents nearly three quarters of total revenue, driven by both new client wins and expansion within the installed base. License revenue was $24.8 million, down 22% year-over-year, consistent with expectations as clients prepare for migration to the cloud. Professional services revenue totaled $13.4 million, up 7% year-over-year, supported by increased partner-led implementations. Total revenue was $146 million, up 13% year-over-year."
+    },
+    {
+      "speaker": "David Morton",
+      "timestamp": null,
+      "text": "Following the completion of our initial repurchase program, our board authorized an additional $200 million in January. During Q3, we repurchased $100 million or approximately 3.9 million shares, bringing fiscal year-to-date repurchases to over 7 million shares. This reflects both our confidence in the long-term value of the business and our continued focus on managing dilution. Our partner [audio distortion] the important growth lever. Our co-sell motion with Microsoft continued to gain traction in Q3 with strong alignment and expanding Azure marketplace participation and MACC utilization driving improved deal velocity, larger transaction sizes, and reduced execution risk in the enterprise engagements. At the same time, our broader partner network is scaling alongside our AI roadmap. As highlighted at Amplify, we are building a targeted ecosystem around Celeste to expand both capability and reach."
+    },
+    {
+      "speaker": "David Morton",
+      "timestamp": null,
+      "text": "Non-GAAP gross margin was 78.8%, up from 77.9% a year ago, driven by cloud mix and efficiency gains. Non-GAAP operating expenses were $89.3 million, compared to $80.3 million in the prior year period, reflecting continued investment in go-to-market capacity, pipeline generation, and scaled client and partner events, including Amplify. Our non-GAAP operating income was $25.7 million, up from $20.3 million last year, and non-GAAP diluted EPS was $0.29. Free cash flow was $63.4 million, a record quarter, and we ended Q3 with $146.8 million in cash and cash equivalents. Some of our key metrics include Cloud ARR grew 31% year-over-year to $459.3 million, and total ARR increased 23%."
+    },
+    {
+      "speaker": "David Morton",
+      "timestamp": null,
+      "text": "Remaining performance obligations were $791.4 million, up 27% year-over-year, providing strong forward visibility. Clients generating at least $100,000 in ARR reached 858, representing more than 100 net adds year-over-year. We exited the quarter with over 1,375 clients at the $50,000+ ARR. This cohort represents approximately 95% of total ARR and will be a go-forward quarterly disclosure. Turning to our guidance, for the fourth quarter of fiscal 2026, we expect SaaS revenue to be between $113.1 million and $114.1 million, total revenue between $149.1 million and $150.1 million, non-GAAP operating income between $28.4 million and $29.4 million, and non-GAAP EPS between $0.36 and $0.38 based on approximately 79 million diluted shares."
+    },
+    {
+      "speaker": "David Morton",
+      "timestamp": null,
+      "text": "For the full fiscal year, we expect SaaS revenue between $421 million and $422 million, total revenue between $574.3 million and $575.3 million, non-GAAP operating income between $102.7 million and $103.7 million, non-GAAP EPS between $1.22 and $1.24 based on approximately 82 million diluted shares. Thank you. I'll now turn the call back to the operator."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "We will now start the question and answer session. I would like to remind everyone, in order to ask a question, press star then the number one on your telephone keypad. Your first question comes from the line of Kevin McVeigh with UBS. Your line is open."
+    },
+    {
+      "speaker": "Kevin McVeigh",
+      "timestamp": null,
+      "text": "Great. Thanks so much, and congratulations on the continued execution. Hey, I wonder if you could give us just any initial feedback on Celeste and whether or not, you know, that's what's driving some of the uptick in, you know, the average client size? 'Cause clearly you're seeing pretty good momentum there, and just maybe help dimensionalize that a little bit."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "Thanks, Kevin."
+    },
+    {
+      "speaker": "Kevin McVeigh",
+      "timestamp": null,
+      "text": "Sure."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "The feedback on Celeste has been tremendous. We had a very exciting set of programs at Amplify, where people got to see us for the first time. We released it in limited availability, so we've been managing the number of clients that we're engaging with. The list of people who have looked at it, had us come and talk to them about what it can do is off the charts. We're very excited about how well it's been received. What's been really interesting to hear back from the prospects is they've really struggled with some of the first-generation tools in exactly the areas that we designed Celeste to address. MCP is an important technology architecture for this generation, but it is revealing and creating a lot of new repositories of business information that are essentially ungoverned by the firm's professional compliance requirements."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "What we've done with the Celeste architecture is exactly what addresses this core point. There's a lot of excitement about the opportunity, and we've been working with several of the limited availability clients on some really exciting solutions already. We were able to share with you all that Ropes & Gray bought the product in the quarter. We have a group that is in the pipeline to do more. I think there's a really exciting opportunity for us to enter into this agentic space here. Obviously, we announced the product 2/3, 3/4 of the way through Q3. It was a small part of the time that we had been marketed in the quarter."
+    },
+    {
+      "speaker": "Kevin McVeigh",
+      "timestamp": null,
+      "text": "That's helpful. Really helpful, John. Just to follow up there, as the clients have started to season some of the LLMs, have they shifted preference in terms of any specific LLMs, or they kinda stayed the course?"
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "That's also interesting. We're seeing a wide range across the market. There are people who had committed to OpenAI and ChatGPT early. We're seeing folks who have adopted Claude and like the Anthropic models. We're seeing a big footprint for Microsoft's Copilot because this is such a Microsoft-oriented market, and the overall relationship they have with Microsoft and the ability of Copilot to work with that whole environment is important to them. It's a very interesting mix. We're even seeing some clients asking us about some of the other systems like xAI and Google. I think that there is a rich competition going for those models out there. Celeste is importantly designed with a lot of feedback from our clients to be model-agnostic."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "We will allow clients to use whichever of the models fits best for their firm or even for each solution, because some people prefer certain models for certain solution areas versus others, and they want to have a mix inside their firm. We provide the professional compliance capability and the agentic orchestration for all of those across multiple solution types and multiple models at the same time. People really like that design."
+    },
+    {
+      "speaker": "Kevin McVeigh",
+      "timestamp": null,
+      "text": "Thank you so much."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "Your next question comes from the line of Alexei Gogolev with JPMorgan. Your line is open."
+    },
+    {
+      "speaker": "Bella Camaj",
+      "timestamp": null,
+      "text": "Hi, this is Bella Camaj on for Alexei. Starting with the adjusted EBIT guidance, it looks like the full-year guidance raise was smaller in magnitude than the 3Q beat. Is that mainly just a product of expense timing with 3Q spend being pushed into 4Q? Or are you planning to step up an investment next quarter into Celeste or other initiatives?"
+    },
+    {
+      "speaker": "David Morton",
+      "timestamp": null,
+      "text": "Hi, thank you for the question. Yeah, you know, if you step back over two years ago when we started framing the conversation in and around the leverage that we'll be driving towards the 300 basis points-500 basis points, clearly the first year, we drove over 600 basis points. This past year, the implied guide will land you around the 300 basis points while letting us continue to invest ratably across our go-to-market efforts with everything that we've announced in the last Amplify event. We're getting really good traction, as well as, in our product, our rate of pace of innovation has been nothing but spectacular. When you think about not having a 100% leverage per se of all your incremental revenue, that's kind of how we've been scaling the company appropriately."
+    },
+    {
+      "speaker": "David Morton",
+      "timestamp": null,
+      "text": "You get into a little bit timing, and what I mean by that is in Q2, you provide an annual guide that's across, you know, $4 million versus now we're very centered in, of course, the last quarter of the fiscal year. That guide, midpoint is across only $1 million. You get into a little bit of rounding there too. Obviously, we're gonna continue to drive our top-line growth and continue to scale appropriately the company as we've guided both in our long-term and near-term targets."
+    },
+    {
+      "speaker": "Bella Camaj",
+      "timestamp": null,
+      "text": "Got it. That's helpful. Just a follow-up question. Looking at the impressive Cloud NRR performance, could you quantify the mix between the drivers there, such as CDD, module attach, or AI-related expansion? How should we think about NRR normalizing over the next two quarters?"
+    },
+    {
+      "speaker": "David Morton",
+      "timestamp": null,
+      "text": "Yeah. We gave some windows of near-term success of kind of what's added to that, both with some incremental disclosures at Investor Day. I would say those trends continue both through our cross-sell and up-sell matter. You know, our NRR of the 123%, 124% cadence that we've been operating at, you know, has some durability. We're continuing to see the cohort that we're selling to, this enterprise motion, which also ties into the 50,000+ ARR cohort ads that we saw over this past quarter. All in all, the team executed really strong, and they're driving both the actions, both on incremental up-sell as well as cross-sell across the board."
+    },
+    {
+      "speaker": "Bella Camaj",
+      "timestamp": null,
+      "text": "Great. Very helpful. Thanks for taking our questions."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "Your next question comes from the line of Terry Tillman with Truist Securities. Your line is open."
+    },
+    {
+      "speaker": "Luke Radissian",
+      "timestamp": null,
+      "text": "Hi, team. Thank you for taking my question. This is Luke Radissian for Terry. I know you mentioned the revenue monetization for Celeste will come, what are some key milestones and KPIs in terms of integrating Celeste are you looking for in the coming quarters and years?"
+    }
+  ],
+  "qAndA": [
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "Thanks for the question. We have a strong roadmap for the rollout of Celeste through this limited availability period and into general availability. There's a whole series of engagements with our clients that we're doing across our target markets. In addition to Celeste as a standalone platform, you can buy each of our products now with Celeste integrated into it. DealCloud with Celeste, Compliance with Celeste, et cetera."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "There's a set of solutions that clients have already asked us to help them build out with agents, which gives us access to a whole new value proposition and TAM inside the firms. In addition to the traditional opportunity to sell our software into the IT budget, the firms are creating a second budget for AI solutions specifically, which we're now able to sell into. We're looking increasingly at the conversations with firms about their personnel budget, because part of the promise of the agentic strategy is can you offset some of your hiring in the future with agents rather than additional headcount as your firm continues to scale? If you look across our solution areas, we're bringing agents into each of them, and the key milestones will be the extension of our products into agentic workflows in each of those key areas."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "The value for that is enormous. We've had some very positive experiences with a lot of the engagements that we've had since the limited availability launch. You'll see more news from us as we grow and roll out more of the agentic solutions inside each of the areas that we serve."
+    },
+    {
+      "speaker": "Luke Radissian",
+      "timestamp": null,
+      "text": "Awesome. Thank you. I was hoping for a follow-up going into the compliance officer hiring that you mentioned within your client base. If you could just double tap into that and potentially share any use cases from there."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "Yeah. The compliance officer, they go by several titles, but that role is an increasingly sought out role across the firms in our market because of their unique professional compliance obligations. Intapp has always had a very strong business being the system that enables the firms to run strong professional compliance programs, avoiding conflicts of interest, meeting their duties of loyalty, meeting their duties of independence, managing material non-public information across deals and across clients and across investors in a way that the firms really trust us to have the deep understanding of what this existential risk is to their firm. The compliance officers that are being hired are increasingly getting involved in the AI strategy of these firms because there's such a risk as AI rolls out of these firms of creating ungoverned repositories of new information."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "Many of these systems encourage the users to drag documents and information into them so they can do really exciting analysis. What's happening is larger and larger pools of ungoverned information are being formed inside these firms as they try these first generation AI tools."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "They've been in the market long enough now that the compliance officers, the risk officers, and the AI leaders are getting together and saying, \"We need to start looking at how to manage the information governance risk, the professional compliance risk that goes along with all these tools.\" The experience that they've had these first couple of years has really set them up well to meet us when we come to talk to them about the Celeste design, and they appreciate what we've built in from the ground up in this AI native agentic platform that is designed to help manage and govern the AI from the Intapp systems, but also from the other AI systems that they're adopting."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "We're the trusted provider in this category, and there really isn't a great counterpart for it in the competitive arena where we face a lot of competition. I think this is an area where we have a lot of ability to affect the risk profile of these firms in a way the compliance officers are gonna be delighted with, and which they need to do. We're excited about this, and the growth in that role is something that we're really targeting in our go-to-market."
+    },
+    {
+      "speaker": "Luke Radissian",
+      "timestamp": null,
+      "text": "Thank you. Very helpful. Congrats on the quarter."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "Your next question comes from the line of Parker Lane with Stifel. Your line is open."
+    },
+    {
+      "speaker": "Parker Lane",
+      "timestamp": null,
+      "text": "Hey, guys. Thanks for taking the questions here. John, as you look at the different use cases and workflows for Celeste, be it compliance or intake or business origination, are there any particular areas that the clients are looking to tackle first here, with the launch of Celeste and the initial bookings momentum? Is that relatively representative of the existing apps that people have or anything that has hit the ground running that you'd call out?"
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "Yeah. Thanks, Parker. We have focused initially on the areas that the firms are already working with us. Obviously, that's gonna be the fastest go-to-market for a general purpose compliant agentic platform is to work with them in the areas that we can demonstrate value very quickly and then grow from there. The first areas would be intake, business acceptance, all the compliance issues that are associated with how firms onboard new clients, key to their growth, business origination, sourcing and origination, and all the work that firms do sourcing fundraising or sourcing opportunities to deploy funds. It's also in the lateral area. A lot of the firms grow by hiring lateral partners and bringing books of business or bringing particular areas of expertise with them. This is a very complex maneuver, but is central to a big part of the market's growth strategy."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "There's also the private equity trend coming into accounting and consulting, the area of helping firms with mergers and getting through the compliance issues of bringing these larger and larger accounting firms together. Then in the time area, we have incredible opportunity to deploy agents in the whole realm of business utilization. How are firms using the resources they have? How are they starting to use AI in place of people, and how are they going to capture that and the activity as a way to figure out what their pricing and profitability management needs to be? All the business of the firm areas that Intapp has built such a strong position are perfect for us rolling out Celeste."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "It's complementary to a lot of the areas in the practices where the firms have deployed other tools, but they really haven't had a great solution for the business side. It's, you know, 1/2 to 2/3 of the population of the firm spends most of their time on these things. It's a huge area for us, and we're very excited about how that's rolling out."
+    },
+    {
+      "speaker": "Parker Lane",
+      "timestamp": null,
+      "text": "That's great feedback. David, I think you mentioned that 50% of net new bookings were from Celeste. I'd love to hear how the initial conversations have gone around the monetization of that and the business model there. Obviously, you haven't priced on seats fully in the past, but this is even a different business model altogether. Can you just give us some initial impressions of how those conversations have gone?"
+    },
+    {
+      "speaker": "David Morton",
+      "timestamp": null,
+      "text": "Yeah. I'll add some and then invite John to as well. Just, so we're clear, it was 15% of the approximately 15%. I thought you might have said 50%, but, you know, everything rose last quarter, so it was really successful. You know, no, it's been after Amplify, you know, just the demand and outreach directly from our key clients as well as net new. It's been kind of pulling everything through, not only within just those specific SKUs or that platform, but along a lot of our other products that we offer as well, 'cause they would like that whole suite. You know, it's been more of a portfolio conversation."
+    },
+    {
+      "speaker": "David Morton",
+      "timestamp": null,
+      "text": "You know, they'll continue to engage with us as we look forward to future deployments. Everything we've seen thus far has been very, very positive. John, I don't know if you wanted to add any other notes on some of those as well."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "No. I gave a few stats in the prepared remarks about the engagement that we have across the client base. It's incredible the volume that we're dealing with of people who are interested in getting engaged with Celeste. I think it really is speaking to one of the limitations of the general horizontal models that people have been trying to work with, and they really appreciate the architecture and the compliance design that we're bringing in. I also, you know, am super excited because we were only in the market for four or five weeks of the quarter there at the end, and these are generally enterprise engagements, so people need a little time to go through, work with the product, and come to conclusion they want to come on board. For us to get to this progress in just four or five weeks, I'm thrilled."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "Moreover, the pipeline going forward is very strong. I think we're really tapping into an area here. It's still early, obviously, but I think we're really tapping into an area of need. Firms are trying to figure out how to get the best value and leverage out of this AI strategy, but they need to do it in a industry-aware, compliance-aware way. I think the opportunity here is huge."
+    },
+    {
+      "speaker": "Parker Lane",
+      "timestamp": null,
+      "text": "Thanks, guys."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "Your next question comes from the line of Steven Enders with Citi."
+    },
+    {
+      "speaker": "Palak Chandak",
+      "timestamp": null,
+      "text": "Hi. This is Palak for Steven Enders. Thank you so much for taking our questions. I think my first question is you mentioned winning over very well-funded generic LLMs. As your customers become, you know, more cognizant of token costs, how does this benefit or impact Intapp and Celeste adoption?"
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "Thanks for the question. I think your question is about how do firms react as they start to look at their scaling token costs."
+    },
+    {
+      "speaker": "Palak Chandak",
+      "timestamp": null,
+      "text": "Correct. Yes."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "I think one of the things to realize is that firms have been experimenting in a lot of different ways with these tools. One of the things that they've discovered is that generic MCP creates a lot of traffic because they have to try things over and over, or the system, the agent, the tool has to try things over and over to try to find the right answer, and it takes a few iterations or several iterations each time. One of the design principles in Celeste with our semantic layer, our context engine, is to really understand the deterministic information inside the firm that so many of these solutions on the enterprise side and on the firm side are designed to go get and serve up as part of a general business workflow in many of these different functions inside the firm."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "What they're discovering is the Celeste architecture is actually much better at getting truer facts, more reliable facts out of the business systems as part of the workflows in a more effective and efficient way than a lot of the things that they were trying to develop or put together in a DIY model. This is one of the deeper arguments for why I think there's a huge opportunity for these vertical companies with deep expertise to build solutions for this LLM and agentic generation in a way that really understands how the correct architecture should be put together, and particularly for highly regulated industries like this one, it's not just a token cost issue, although that is certainly something that they need to manage."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "It's an information risk issue which has serious implications for the firm's reputation and standing and compliance generally with their clients and with their regulators and with the courts. I think there's a real argument here for a vertical specific program and architecture like Celeste. I think it plays to our favor."
+    },
+    {
+      "speaker": "Palak Chandak",
+      "timestamp": null,
+      "text": "Perfect. That's very helpful. Thank you so much. My next question is just trying to understand the contribution of AI to net new. You said Celeste is at about 15% of new ARR, and if I'm not wrong, I think Assist last quarter was about 10% of net new. Is the math right that at this point AI contributes to about over 25%? Or how to think about the overall contribution from AI?"
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "So it is-"
+    },
+    {
+      "speaker": "David Morton",
+      "timestamp": null,
+      "text": "No, we don't."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "-growing Yeah, go ahead, Dave."
+    },
+    {
+      "speaker": "David Morton",
+      "timestamp": null,
+      "text": "No, go ahead, John. Sorry."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "It's growing rapidly. We did incorporate the Assist technology into a new generation when we released Celeste. This quarter, you had a period when we were selling Assist because we had not announced Celeste yet. In the last month of the quarter, we were selling and marketing and delivering Celeste, but only in limited availability. What you're seeing is an evolution of the mix there."
+    },
+    {
+      "speaker": "Palak Chandak",
+      "timestamp": null,
+      "text": "Got it. Okay, perfect. That's very helpful. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "Your next question comes from the line of Alex Sklar with Raymond James. Your line is open."
+    },
+    {
+      "speaker": "Johnathan McCary",
+      "timestamp": null,
+      "text": "Hey, guys. Thank you. This is Johnathan McCary on for Alex. I'll start with John. You alluded to winning against a well-funded startup in a bid for time. I'm actually just curious on the back of that, how often are you seeing those sorts of competitors in bake-offs, and then in which areas of the platform is that most common? How important are the partnerships with the likes of Anthropic and Microsoft when you're going into a competitive conversation like that with a prospect?"
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "Thank you for the question. In several areas, there have been venture-backed companies that have started in spaces that we've had a long history in. We've actually been very excited about the fact that we have such a rich enterprise position with strong data and strong compliance and strong trust in these firms, that we're able to offer a very compelling case for why we have an enterprise class system versus something that some of the smaller companies have put together. There's no question that competition has grown over the years inside the space, but one of the things I'm very impressed by what the team has done is that we've actually seen firms who have tried some of these newer tools for a little while and then turn them off and come back."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "A lot of the opportunity here, I think, is to build on the enterprise-grade capabilities that we have developed over so many years and bring the Celeste technology in to meet the client's needs. I think the partnerships, certainly with Anthropic more recently, but in this area, Microsoft has a huge influence. Our ability to build on the Microsoft relationship overall, I think really helps us, particularly with the enterprise class firms for whom this is a core business function where they want to trust a scaled vendor. We have to keep up with the competition in certain areas, but we also have set the pace in many areas of the product that is keeping everybody else on their toes too. It's a vibrant market, but I'm very impressed with how well the team has developed our offering here."
+    },
+    {
+      "speaker": "John Hall",
+      "timestamp": null,
+      "text": "I gave a lot of examples in the script about our time win specifically on this point so that you all have some insight into how that's actually going out there."
+    },
+    {
+      "speaker": "Johnathan McCary",
+      "timestamp": null,
+      "text": "Yeah, very, very helpful. Thanks, John. I'll pivot to one for David Morton. We heard about this at the Investor Day a bit, but on the increased focus on the 2,800 named accounts, I'm curious what you think is left to do there from a hiring perspective. Now in AI world with Celeste out there in the market, what go-to-market adjustments do you think are needed now to kind of succeed and enable those clients, you know, the largest accounts with your AI offering? Thanks, guys."
+    },
+    {
+      "speaker": "David Morton",
+      "timestamp": null,
+      "text": "Yeah, no, good question. We're gonna continue to drive scale and efficiency with our sales and marketing motions, specifically on densifying those key enterprise accounts. We still have a lot to go, but we like the progress we've done thus far. You know, we're already busy at work thinking about FY 2027 and what that portends and the, you know, massive amount of opportunities in front of us that we're really excited about. More to come on that, but we like how everything is being set up thus far."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "Your next question comes from the line of Saket Kalia with Barclays."
+    }
+  ],
+  "totalTurns": 95
+}

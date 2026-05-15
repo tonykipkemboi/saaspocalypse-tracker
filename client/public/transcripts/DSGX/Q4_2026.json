@@ -1,0 +1,720 @@
+{
+  "ticker": "DSGX",
+  "period": "Q4 2026",
+  "eventDate": "2026-03-11",
+  "preparedRemarks": [
+    {
+      "speaker": "Scott Pagan",
+      "timestamp": "",
+      "text": "Thanks, and good afternoon, everyone. Joining me in person on the call today are Edward Ryan, CEO, Allan Brett, CFO, and Ed Gardner, EVP Corporate Development. I trust that everyone's received a copy of our financial results press release that was issued earlier today. Portions of today's call, other than historical performance, include statements of forward-looking information within the meaning of applicable securities laws. These statements are made under the safe harbor provisions of those laws. These forward-looking statements include statements related to our assessment of the current and future impact of geopolitical, trade, tariff, and economic uncertainty on our business and financial condition."
+    },
+    {
+      "speaker": "Scott Pagan",
+      "timestamp": "",
+      "text": "Descartes' operating performance, financial results and condition, cash flow and use of cash, business outlook, baseline revenues, baseline operating expenses and baseline calibration, anticipated and potential revenue losses and gains, anticipated recognition of revenues and incurrence of expenses, potential acquisitions and acquisition strategy, cost reduction and integration initiatives, timing of management changes, the approval and potential share purchase under a normal course issuer bid, and other matters that may constitute forward-looking statements. These forward-looking statements involve known and unknown risks, uncertainties, assumptions, and other factors that may cause the actual results, performance, or achievements of Descartes to differ materially from the anticipated results, performance, or achievements implied by such forward-looking statements."
+    },
+    {
+      "speaker": "Scott Pagan",
+      "timestamp": "",
+      "text": "These factors are outlined in the press release and in the section entitled Certain Factors That May Affect Future Results in documents filed and furnished with the Securities and Exchange Commission, the Ontario Securities Commission, and other securities commissions across Canada, including our management's discussion and analysis and annual information form filed today. We provide forward-looking statements solely for the purpose of providing information about management's current expectations and plans relating to the future. You're cautioned that such information may not be appropriate for other purposes. We don't undertake or accept any obligation or undertaking to release publicly any updates or revisions to any forward-looking statements to reflect any change in our expectations or any change in events, conditions, assumptions, or circumstances on which any such statement is based, except as required by law. With that, let me turn the call over to Edward."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Thanks, Scott, and welcome everyone to the call. Today, we're reporting record quarterly and annual financial results across the board. We're ahead of our annual plans and finished the year extremely strong. These are great results that I'm looking forward to walking through in more detail. However, first, let me give you a roadmap for this call. First, I'll start by hitting some highlights of last quarter, provide some comments on how artificial intelligence impacts our sector and business. I'll then hand it over to Allan and Ed Gardner, who will go over the Q4 annual financial results in more detail. After that, I'll come back and provide an update on how we see the current business environment and how our business was calibrated for Q1. We'll open it up to the operator to coordinate the Q&A portion of the call."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Let's start with the fourth quarter and year that ended January 31st. Key metrics we monitor include revenues, profits, cash flow from operations, operating margins, and returns on our investment. For this past quarter, we again had record performance in each of those areas. Total revenues were at a record high of $192.8 million, up 15% from a year ago. Record high services revenues were also up 15% from a year ago, with our continued focus on generating recurring revenues. Record net income was up 22% from a year ago. Record income from operations was up 25% from a year ago. Record adjusted EBITDA was up 18% from a year ago. Our adjusted EBITDA margin is at a record high level of 46%."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "We generated a record high of $76 million in cash from our operations, up 25% from a year ago. Strong record results across all these key metrics. For the year, the results are equally impressive. Record revenues up 12%, with service revenues up 15%. Record net income up 14%. Record income from operations up 16%. Record adjusted EBITDA up 16%. Record cash from operations up 21%. As I said, all results for the year were ahead of our plans. At the end of the year, we had $356 million in cash, and we were debt-free with an undrawn $350 million line of credit. We remain well-capitalized, cash generating, growing, and ready to continue to invest in our business."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "We also have a normal course issuer bid that allows us to purchase up to 8.6 million shares before December 2026. We made some small initial purchases before we went into a trading blackout in January, so a tool that we have, that we've already used, and that may be used again as we monitor rather volatile recent market conditions. I'm not gonna spend much time talking about the operating results for the quarter or year. As I said, they were very strong. The reasons why are similar to what we've done in the past in the previous two quarters. First, we saw strength in the global trade data and intelligence from a chaotic tariff and sanctions environment. Second, we saw strength in real-time visibility and shipment tracking as we continue to leverage AI tools and agents to have the industry's leading shipment tracking rates."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Third, we saw strong e-commerce imports in the United States, which was good for us as we have the market's leading solutions for helping with high-volume rapid customer clearances. We also completed a tuck-in acquisition in our e-commerce pillar earlier today. U.K.-based OrderMine is a current partner of Descartes, with its solutions already working alongside our Peoplevox e-commerce WMS for U.K. customers. We're particularly excited to introduce OrderMine's core product, ForecastMine, to our e-commerce customers around the world. ForecastMine is a strategic step forward in our e-commerce AI investments, accelerating our AI-powered forecasting and demand planning, particularly for e-commerce sellers using Shopify. E-commerce sellers are focused on freeing up cash, protecting margin, and scaling without operational drag. We've got a huge pool of rich inventory, order, supplier, fulfillment, and returns data that ForecastMine can train on to help sellers do this."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Specifically, it helps convert e-commerce signals into clear, actionable insights that reduce excess inventory, prevent stock outs, improve forecast accuracy across channels and seasonality, automate purchasing, and shorten planning cycles from days to minutes. I'd like to welcome the OrderMine team to Descartes. I'm happy to answer questions on any aspect of our operations or the acquisition later in the call or afterwards. However, I wanted to spend some time today with some comments about what I'm getting asked the most questions about the impact of artificial intelligence on our industry and on our business. I've heard market commentators raise concerns about the impact of artificial intelligence technologies on the long-term prospects and terminal values of technology businesses. Specifically, that if AI can generate software code, then coding becomes commoditized and established technology companies are vulnerable to new entrant competitors or companies taking software coding in-house."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "In short, the headlines are, \"AI could kill existing technology companies.\" I don't buy any of that. Those commentators are fundamentally misunderstanding the value technology companies bring to customers. I believe AI technologies will make businesses like Descartes even more valuable to customers. At their heart, technology businesses do not exist to just make software code. This is not the value they deliver to customers. Instead, they deliver a comprehensive service to customers. A service that includes security, trust, stability, compliance, infrastructure, operational and customer support, workflow and domain expertise, proprietary data, connections, scale, innovation, cross-pollination of valuable ideas, and yes, technology functionality that is powered by software. Generative AI doesn't replace all those things. Generative AI is a tool that allows tech companies to make many of those things better and deliver them faster."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Tech companies will leverage AI to make their businesses more secure with AI tools that help identify, diagnose, and prevent attacks. They'll make their service availability more reliable with AI tools across their infrastructure, and they'll enhance operational support for customers with AI-powered agents to address routine inquiries. Generative AI companies know the market is making a mistake by questioning the long-term prospects of technology companies. They're admitting that publicly, and they're running their own businesses by relying on specialist technology businesses rather than using their own AI tools to build an inferior quality enterprise system. The market's fears don't match reality. I've also seen market commentators paint many technology businesses with the same brush, that the impact of AI will be the same for everyone. That's also not true. The impact of AI will vary significantly by industry, business model, scale, pricing model, and investment commitment."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Let me talk to Descartes specifically. What we are, what protects us, the moat around our business, and the opportunities that AI brings to our business. First, what we are. Descartes is a network services business. We run the Global Logistics Network. It's the world's largest connected community of supply chain and logistics participants, formed over more than 30 years. It's relied on by the community every day to process billions of transactions per year. We use technology to help our customers solve complicated inter-enterprise supply chain and logistics problems on the GLN that require the cooperation of multiple parties and communities on the network. We're not an enterprise software company. Now, let me describe the huge moat we have protecting our business."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "I'm going to try and help you wrap your arms around how broad it is by putting it into some key categories. First, we're a critical network relied on by the world. As I said, the Global Logistics Network is relied on by the community every day to process billions of transactions per year. Its unparalleled uptime, breadth, speed, and specialization make it critical to the operations of our more than 30,000 customers. It's difficult and time-consuming for another company to replicate that. It's challenging for our customers to find something as reliable, relevant, and comprehensive to switch to. It's the major moat for our business. Two, we help solve complicated inter-enterprise challenges. Supply chain and logistics challenges are not enterprise issues. They can't be solved with just a customer's internal people and data."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Supply chain and logistics challenges require interaction with external parties beyond the enterprise, whether they be drivers, warehouses, customs authorities, governments, shippers, carriers, logistics intermediaries, or banks. If you use AI to create tools or applications to help you still need to connect to the supply chain and the logistics world. That means you either connect once to the GLN or you connect and maintain hundreds or thousands of connections to external parties by yourself. The inter-enterprise nature of our business keeps us relevant and makes us a better choice for our customers than trying to do it themselves. Third, we process transactions. Descartes is primarily a transaction processor. As things are processed by the GLN, such as tenders, bookings, loads, invoices, bills of lading, customs filings, security filings, et cetera, we charge for our services."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Our value is generally tied to the service we provide rather than the number of employees our customers may have now or in the future. Our model is not reliant on seat-based or user licenses. Four, we help with compliance. Many of our customers use our GLN to help them comply with various laws and regulations. This could include customs filings, security filings, tariff classification, foreign trade zone, warehouse operation, denied party screening, or public freight rate management. Customers are often wary of taking compliance burdens on solely themselves, especially given the pace of change of regulations and the financial and other consequences of getting it wrong. If we earn our customer's trust to reliably help them comply, then there's not much financial or other benefit to them changing something that's already secure, timely, and accurate."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "This helps protect our business from new entrants and customers considering taking on compliance burdens themselves. It also helps us grow because when we're a trusted and reliable partner for one compliance initiative, our customers are much more likely to trust us with other initiatives in the future. Five, we're a system of record. For many of our customers, our systems are the official trusted source of truth for their critical supply chain and logistics data. Using the Global Logistics Network, we help them ensure data integrity, accuracy, and security of key supply chain and logistics information that they rely on for daily operations. This makes these customers very reluctant to switch to another provider or to do it themselves. Six, we're supply chain and logistics experts. We're in a very specific market. Our team lives, eats, and breathes supply chain and logistics every day."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "When changes happen, and they happen quite often these days, you want to know that you're doing business with an expert that's on top of things. Our customers consider this expertise a part of our service offering, and it makes them dedicated Descartes customers. Finally, we're trusted, financially stable, and transparent. We have a very good reputation. We've worked for many years to cultivate trust with our customers through reliable service, fair pricing, secure operations, and continued expansion and innovation. We've built a financially stable business that our customers can be confident will be here for the long term. They have access to our public quarterly financial reports to monitor the strength of the business. All these things protect us from customers considering switching to companies with less operational history, reliability, or financial stability. Our customers value our success."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Now to the huge opportunities for Descartes with AI. We're actively investing and delivering results to our customers. Let me hit the three biggest areas of opportunity for Descartes. Our biggest opportunity with AI comes from the data on the Global Logistics Network. Descartes has the largest trove of real-time supply chain and logistics data in the world. We process billions of transactions a year. We have massive amounts of clean, historical, and real-time information on the sourcing, storage, classification, transportation, tracking, pricing, service history, and financial settlement of most transactions in the global logistics and supply chain markets. AI technologies need data to function. AI technologies are trained and learn from consuming massive amounts of data. AI technologies are only as effective as the data they consume and only as relevant as the timeliness of the data they get."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Most AI technologies are all trained on the same publicly available information on the internet. The real value is being able to train AI technologies using non-public information, which is exactly what information we have on our Global Logistics Network. Our Global Logistics Network data is rocket fuel for AI. We'll continue to grow and cultivate data on our GLN in a responsible way that allows our customers to benefit from the collective intelligence of the network. For us, our key focus going forward is respecting, anonymizing, and protecting the data we have while preparing for how our customers may want to use it with newer AI technologies. Secondary, is, that we believe, AI agents will change the future of who uses our technology. We think it will change both what we sell to some customers and how we support them."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "We think of an AI agent as a digital coworker trained to do a specific task. AI agents are excellent for reducing human workload by automating repetitive tasks. They're also helpful to handle matters that aren't affordable to have humans do. Historically, our services have been designed to only be used by human workers, often clicking on icons and entering data. However, that isn't the future. We're preparing our services to be used by either human or digital workers. Our customers expect value from digital workers. They don't want inefficiencies in their business from humans doing low value or repetitive tasks that could otherwise be automated. Rather, they want AI agents performing tasks and supporting humans who are making decisions. We believe this is real and current customer demand for us to meet. I believe our business will shift in three ways."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "We'll provide customers the ability to get AI agents and digital workers through Descartes. We're already doing this in areas of our business like MacroPoint. In MacroPoint, you can hire a digital worker to call drivers and get a location check on where the shipment is, another digital worker to gather missing shipment documents for you, and yet another worker to address data integrity issues. Each of these AI agents grow our network, improve the quality of the data the GLN has, and reduce costs for our customers. We'll arm human workers with the information they need to make decisions rather than to perform tasks. User interfaces are going to change. Screens with complicated series of clicks and reports will change to specific information needed by human eyes to help make a decision. Finally, services will be designed to be consumable by AI agents."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Whether they are Descartes agents for our customers' own AI agents, our services need to be consumable in a machine-to-machine format. This may include providing AI agents access to different types of data in novel ways or enabling AI agents to interact with our own digital workers or technology. We believe AI agents will be part of the future for Descartes and our customers. We're already delivering value to our customers with AI agents and investing in delivering suites of digital workers that can help our customers. In addition to the AI agents I described with MacroPoint, these include natural language searches and AI agents for our Descartes GLN Datamyne US import business. AI agents to help deal with challenging match scenarios for denied party screening on parties with ambiguous names and addresses."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "AI agents helping determine free trade eligibility based on past practices, helping our customers reduce their tariff bill. AI agents making automated tariff classification suggestions for goods, and using AI agents to interpret lengthy carrier rate agreements and present optimal selection recommendations. There's many more. Finally, the third opportunity for Descartes is to make our business more efficient. We run a multinational, multicurrency, multi-pillar business. We operate an enormous distributed technology infrastructure that can be a target for attack from bad actors. We operate and monitor hundreds of products and services at elite availability levels. We provide support to and bill more than 30,000 customers. We grow our business 10%-15% a year and have historically added 3-4 new businesses to the Global Logistics Network by acquisition every year. With that footprint, there are opportunities to improve our business with automation."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "We've invested into AI technologies to do this. Key examples are AI tools helping our software engineers with initial coding, customer support automation to enable customer self-help for routine inquiries, advanced AI technologies to harden our network security posture, and new tools to monitor network performance. We're investing in AI technologies to help our team. We will get more efficient. However, our customers expect that we can reinvest savings generated by AI technologies into further improving the GLN and/or reducing our need to hire at the levels we have historically. That seems like a sound approach to me. Overall, AI is a tremendous opportunity for us. We believe it'll spur further demand for our trusted real-time, clean, formatted GLN data and the collective intelligence of the network."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "It's already allowing us to deliver additional value to our customers with AI agents, and it's helping make our business more efficient. We believe that the inter-enterprise scaled network infrastructure of our business puts us in a much better position to benefit from AI than legacy or emerging point or enterprise technology solutions. Finally, to wrap up. Q4 and FY 2026 were very strong financial results for us. I'm excited about how the business is performing and the opportunity we have in front of us. I'm now gonna hand the call over to Allan in the CFO role for the last time on one of these calls as we conclude the year. The good news is that Allan is gonna remain a part of our business, and it's a privilege to be able to keep working with him."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Ed Gardner will be the new CFO following this call, and he also gets the benefit of Allan's experience and wisdom as we make this transition. Ed Gardner is also on this call and available for investor and analyst questions afterwards, along with both Allan and me. With that, I'll turn the call over to Allan to go through the financial results in more detail. Allan?"
+    },
+    {
+      "speaker": "Allan Brett",
+      "timestamp": "",
+      "text": "Thanks, Edward. As indicated, I'm gonna walk you through our financial highlights for our fourth quarter and year ended January 31, 2026. We are pleased to report record quarterly revenues of $192.8 million this quarter, an increase of just over 15% from revenues of $167.5 million in Q4 of last year. Our revenue mix in the quarter continued to be very strong, with services revenue increasing again over 15% to $180.1 million from $156.5 million last year in the fourth quarter, with services revenue representing 93% of total revenue this quarter, consistent with Q4 last year."
+    },
+    {
+      "speaker": "Allan Brett",
+      "timestamp": "",
+      "text": "Removing the impact of both recent acquisitions as well as the positive impact from changes in foreign exchange rates, we would estimate that our growth in services revenue from new and existing customers, that is our organic growth, would have been approximately 8% this quarter when compared to the same quarter last year. This is up from approximately 7% organic growth in services in Q3. Overall, our organic services revenue growth in the fourth quarter was the strongest we saw all year. Professional services and other revenue, including hardware revenue, came in at $12.6 million or 7% of revenue, up 18% from $10.7 million in Q4 last year. Due to increases in both professional service assignments as well as slightly stronger hardware revenue this quarter when compared to the same quarter last year."
+    },
+    {
+      "speaker": "Allan Brett",
+      "timestamp": "",
+      "text": "For the year in 2026, we recorded record revenue of $729 million, up 12% from revenue of $651 million in the previous year. For the year, services revenue came in at $677.2 million, or 93% of revenue, up from $590.2 million last year, as revenue from new and existing customers as well as from acquisitions both contributed nicely to our growth, our revenue growth this year. Gross margin came in at 78% of revenue for the fourth quarter and 77% for the year in our fiscal 2026. A solid increase from gross margins of 76% realized in both the fourth quarter and entire year last year."
+    },
+    {
+      "speaker": "Allan Brett",
+      "timestamp": "",
+      "text": "The increase in gross margin for both the quarter and the year was primarily due to operating leverage from our organic growth in services revenue, as well as a decrease in low margin hardware revenue compared to last year. For the fourth quarter and the entire year, our operating expenses increased primarily related to the impact of the three acquisitions completed during the year, including the 3GTMS acquisition we completed early in FY 2026. The increases in operating costs from acquisition were partially offset by savings realized from the restructuring efforts we undertook early in fiscal 2026, wherein we reduced our labor force by approximately 7% as we reacted to the uncertainty from tariffs and the changing freight market at that time. Overall, our operating expenses increased by approximately 11% compared to the prior year."
+    },
+    {
+      "speaker": "Allan Brett",
+      "timestamp": "",
+      "text": "As a result of solid revenue growth, improved gross margin, as well as controlled growth in operating expenses, adjusted EBITDA came in at a record $88.7 million in the fourth quarter, or 46.0% of revenue, up 18.3% from adjusted EBITDA of $75.0 million or 44.8% in the fourth quarter last year. Looking back to the annual results, again, we continue to see strong adjusted EBITDA growth to a record $329.5 million or 45.2% of revenue, up 15.7% from $284.7 million or 43.7% of revenue last year. From a GAAP earnings perspective, net income for the fourth quarter came in at $45.6 million, up 22% from net income in the fourth quarter last year."
+    },
+    {
+      "speaker": "Allan Brett",
+      "timestamp": "",
+      "text": "For the year, net income was $163.8 million or $1.87 per diluted common share, up 14% from $143.3 million or $1.64 per diluted common share last year. With these operating results and strong collections from customers, cash flow generated from operations came in at a record $75.9 million or 86% of adjusted EBITDA in the fourth quarter, an increase of 25% from operating cash flow in the fourth quarter last year. For the year, cash flow from operations was $266.2 million or 81% of adjusted EBITDA, up 21% from $219.3 million or 77% of adjusted EBITDA last year."
+    },
+    {
+      "speaker": "Allan Brett",
+      "timestamp": "",
+      "text": "Overall, as Ed mentioned, we are extremely pleased with our operating results in the fourth quarter and in fiscal 2026 overall. After a period of some concern last spring when the uncertainty around tariffs was at its peak, our operating leverage from continued strong revenue growth in the second half of the year has allowed us to achieve 15.7% growth in adjusted EBITDA. We also improved our adjusted EBITDA ratio to 45.2% of revenue for the year and also achieved 21% growth in our cash flow from operations for the year. If we turn our attention to the balance sheet, our cash balances totaled $356.5 million at the end of January."
+    },
+    {
+      "speaker": "Allan Brett",
+      "timestamp": "",
+      "text": "As mentioned earlier, for the year, we generated operating cash flow of just over $266 million, while we deployed approximately $152 million in capital towards three new acquisitions. After ending the year with just over $356 million of cash and an undrawn line of credit of $350 million, we are clearly well capitalized and positioned to consider all acquisitions opportunities in our market consistent with our business plan. With that, I will turn it over to Ed Gardner, our incoming CFO, to provide an update on a few items as we turn our attention to our current fiscal year, our FY 2027."
+    },
+    {
+      "speaker": "Ed Gardner",
+      "timestamp": "",
+      "text": "Thanks, Allan. As we look to the current year, FY 2027, we should note the following items. We expect to continue to see strong operating cash flow conversion north of 80% of our adjusted EBITDA, subject of course, to unusual events and quarterly fluctuations, including potential adjustments related to future earn-out payments that exceed our estimates made at the time of an acquisition. After incurring approximately $5.7 million in capital additions this past year, we expect to incur approximately $6-$8 million in capital expenditures this coming year, mainly related to IT equipment purchases. After incurring an amortization expense of $81.2 million this year, we expect the amortization expense will come in at $69.1 million for FY 2027, with this being subject to adjustments for foreign exchange changes and any future acquisitions."
+    },
+    {
+      "speaker": "Ed Gardner",
+      "timestamp": "",
+      "text": "After paying contingent consideration or earn-out payments of approximately $1.7 million on past acquisitions last year, we currently anticipate that we could make additional earn-out payments of up to approximately $9 million in FY 2027. Our income tax rate in the fourth quarter came in at approximately 25.6% of pre-tax income, resulting in a tax rate for the year of 24.6%. This is lower than our blended statutory tax rate of approximately 26.5%, mainly as a result of the benefit of certain one-time tax items realized in FY 2026. Looking forward to FY 2027, we're expecting the tax rate will be in the range of 24%-28% of our pre-tax income, which means it'll be something on either side of our blended statutory tax rate."
+    },
+    {
+      "speaker": "Ed Gardner",
+      "timestamp": "",
+      "text": "Finally, we currently expect stock compensation to be approximately $17.2 million for FY 2027, subject to any future equity grants as well as any future forfeitures of stock options or share units. I'll now turn it back over to Ed Ryan to wrap up with some closing comments and our baseline calibration for Q1."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Hey, thanks, Ed. I wanted to comment on two areas that are impacting global trade right now and impacting our thoughts as we plan for the quarter and year ahead. Tariffs and the ongoing Middle East military conflict. On the tariff front, there have been plenty of headlines about the U.S. Supreme Court's decision invalidating IEPA tariffs. That was followed by the president implementing a 10% global import tariff that may go to 15%. That can be in place for 150 days unless extended by Congress. Separately, several court decisions are considering the process for refund of the more than $150 billion of invalidated IEPA tariffs. Here are some tariff-related things we've noted in monitoring the GLN and speaking with our customers."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "In the several days where there were no valid U.S. import tariffs in place, we saw an influx of imports to the United States and companies taking action in free trade zones to move goods from international to domestic status. The current new tariff regime is temporary, and its legality is already being challenged. This leaves our customers in a further period of uncertainty, with difficulty making decisions about pricing, cash flow, and import levels. The U.S. issued its 2026 trade policy that reinforced its commitment to using tariffs despite the Supreme Court IEPA ruling. This includes further investigations in specific sectors with a view to implementing further tariffs beyond the current structure. The tariff landscape is volatile and compliance is becoming more complex. Rapid shifts in tariffs are likely to continue to come. The process for recovery of IEPA tariffs is still unclear."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "However, our experienced tariff and duty recovery team that has been in place for many years is working with customers already. Recovery processes may require volumes of revised electronic filings to be made to the U.S. customs systems, and we're working with customers to be ready for that potential influx. It's unclear how intermediaries like customs brokers will compensate shippers for tariffs if the intermediary receives a refund. This becomes even more of a challenge for high-volume intermediaries serving thousands of independent shippers. For our customers, this all means that tariffs are no longer a static compliance test. You don't think about them once a year and then go run your business. Instead, trade exposure, tariff modeling, and regulatory change are dynamic risk management challenges."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "It's critical to have a global trade management system supporting real-time global tariff data, trade intelligence, and trusted partners like Descartes to share intelligence and manage the complexity. Overall, right now, the invalidation of the IEPA tariffs is a source of further instability and uncertainty for our customers. However, it's confirming the value that our tariff management, duty recovery, and customs filing solutions bring to our customers in meeting these challenges. The second ongoing matter impacting global trade are the ongoing military events in the Middle East. From a supply chain and logistics perspective, the impact includes the Strait of Hormuz is effectively closed, trapping many vessels in port and blocking further traffic. Suez Canal remains a risky sea route, and ocean carriers have rerouted to sailings that travel around the tip of South Africa. This has caused ocean rates to increase substantially."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Some airspaces have been closed or are deemed too hazardous for safe flight, impacting the movement of air cargo and existing capacity. There's been an increase in fuel prices, which impacts both international and domestic shipping activity. We anticipate changes to the existing sanction framework impacting Iran, which will require further shipping scrutiny. Things are more volatile and complex for our customers than ever. We see them adjusting their supply chains to establish new relationships to keep goods flowing, adjusting pricing to reflect unplanned shipping costs, and updating delivery expectations with customers to reflect longer voyage times. We also expect an increase in inquiries for our optimization solutions that help decrease vehicles used and miles driven, something we usually see as fuel prices spike. The first two months of 2026 have been chaotic, volatile, and uncertain for our customers."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Shipping has proven to be resilient over time, but we're monitoring our network for trends with the latest developments. For now, we approach the year as our customers are, cautiously with the expectation that rapid adjustments to more unforeseen circumstances will be necessary. We keep this in mind as we consider how we're calibrated as we start the year. In our annual report, we provide a comprehensive description of baseline revenues, baseline calibration, and their limitations. As of February 1, 2026, using foreign exchange rates of 73 cents to the Canadian dollar, $1.19 to the euro, and $1.37 to the pound, we estimate that our baseline revenues for the first quarter of fiscal 2027 were approximately $164 million, and our baseline operating expenses were approximately $99.5 million."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "We consider this to be our baseline adjusted EBITDA calibration of approximately $64.5 million for the first quarter of fiscal 2027, or approximately 39% of our baseline revenues as at February 1, 2026. We're currently operating above our expected adjusted EBITDA operating margin range of 40%-45%. Our margin can vary in any period, given such things as revenue mix, foreign exchange movements, and the impact of acquisitions as we integrate them into our business. For now, we're keeping our target range 40%-45%. However, we'll monitor how we're performing over coming quarters to consider whether any upward adjustment is appropriate. These remain uncertain times for our customers. It's a challenge for them to know what they can rely on in this global trade environment."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Our goal is to continue to show our customers and other stakeholders that one thing they can rely on is Descartes. Thanks to everyone for joining us on the call today. As always, we're available to talk to you about our business in whatever manner is most convenient for you. With that, operator, I'll now turn it over to you to handle the Q&A portion of the call."
+    }
+  ],
+  "qAndA": [
+    {
+      "speaker": "Dylan Becker",
+      "timestamp": "",
+      "text": "Hey, gentlemen, really appreciate the question and nice job here. Maybe, Edward, appreciate a lot of the color on kind of the AI conversation and the AI narrative. I think you did a good job talking about the value of the multi-sided network and your capabilities there. If we're to kind of double-click and maybe dig deeper into the use cases you're seeing and how your customers are kind of asking you and actively deploying AI, I wonder if you could give us a couple of examples on maybe one where the value of the network is enabling you to kind of see context and quantify value that might be a little bit more difficult if it were something more like a point solution that was trying to solve this problem."
+    },
+    {
+      "speaker": "Dylan Becker",
+      "timestamp": "",
+      "text": "how you're maybe thinking about the quantification or monetization of that value and what that can look like from a revenue perspective for the business going forward. Thanks."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Well, there's a ton of them. I'll just give you a broad example. You know, we process shipments all day long, and invariably, we get information over the course of the day that says that something's happened to that shipment. IoT data comes in, other news comes into us, maybe a status message that tells us something's wrong. Sometimes it doesn't tell us if something's wrong. It just tells us it's been in the same place for too long. We can use AI to identify that problem. We can use AI to figure out what to do about that problem. And the important part for us is we know what the customer was trying to do in the first place. This may be happening in the middle of the night for the customer."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Like, they might not try to figure this out manually until they get in the next day, and they probably have lots of problems that might be caused by the same port problem or whatever might be out there. During the night, we can have AI agents go in and fix those problems, right? Say, \"Hey, this shipment is going to be late, and it's gonna be late by several days if we don't do anything about it.\" We may be able to go into that shipment, find out that something's wrong, know what was supposed to happen, and rebook them on a series of new ships or planes or trucks that puts them in a situation where it's only late by an hour or two or a couple of hours."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "You know, for what might cost them, you know, $1 or 2 on our network, we might save them hundreds of dollars and days' worth of time trying to figure this out. You know, that example I just gave you could encompass lots of different AI solutions, but all of them aimed at trying to find out where problems exist and help a customer solve it before they even know that it's a problem. We're just coming back to them the next day, and they say, \"What happened to the shipment?\" You know, \"Oh, it's 5 hours. It's gonna be 5 hours late.\" Then they look a little further, and they go, \"Well, it was gonna be 5 days late.\" In the middle of the night, Descartes fixed this automatically for $2, whatever."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "We see all kinds of opportunities for that all over our network."
+    },
+    {
+      "speaker": "Dylan Becker",
+      "timestamp": "",
+      "text": "Perfect. No, that's very helpful. Then maybe I also appreciate the color on kind of the evolution and kind of dynamics relative to tariffs in the Middle East. If we were to kind of step back, traditionally, global trade complexity tends to serve as a net positive, to your point, for the business. Is there any way that you would kind of contextualize the puts and takes of any kind of prolonged scenario here and what that looks like, if some of those shipping channels continue to be blocked for extended period of time, the implications on volumes, the importance on more subscription? Just any way to kind of think about the puts and takes between the two segments of the business there. Thank you."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "I mean, you know, most of the time the cargo still has to go, and it's just a matter of how it's gonna get there. You saw several examples over the past 10 years where when it takes longer, we get more bookings because people book both ways around the world. Our customers' prices go up for their customers, and it creates a lot of supply chain disruptions. That has traditionally benefited Descartes because we help them sort through those complexities. We help them go see what all the options are. We help them make new bookings so that they may get cargo in from two different places."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "In the future, they maybe, you know, have several factories around the world and they decide to do something else, to get the cargo in, and they have to figure out what the tariffs and duties are when they do that. Maybe it's more money, but you also get the cargo there a week earlier. All kinds of things like this where customers use our network and databases more frequently because these problems occur. I think that's what we're gonna see here too. I don't know how long this is gonna go on. I don't know how long that strait's gonna be closed. There's talk of mines being laid in it right now. There's also talk of escorting ships through it, you know. So we're just gonna have to see what happens."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "In the meantime, our customers have a lot more to think about, and a lot of the times they have to think about it, they go into our systems to figure out what to do, and that's usually good news for us."
+    },
+    {
+      "speaker": "Dylan Becker",
+      "timestamp": "",
+      "text": "Very helpful. Thank you very much."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "Chris Quintero",
+      "timestamp": "",
+      "text": "Hey, Edward, Allan, and Ed Gardner, welcome to the call here, and congrats on a solid set of results here, guys. I wanted to ask about how you are thinking about capital allocation given where the stock is now and obviously how you all feel about the defensibility of the business and the opportunity on the AI front, and what does that mean for potentially organic growth versus reported growth and the delta there?"
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Okay. There's a couple questions in there. One, on the acquisition front, you know, we're starting to get to a point where prices had come down and we were getting more deals done, and now you see, you know, what's going on in the public markets and you know that has to translate into the private markets. That causes another reset and, you know, a set of negotiations that occur. You know, when the value of public companies go down, you know, that's what private equity firms would, you know, look to typically to say, \"Hey, that's, you know, that's what these things will be worth eventually."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "That's why you should buy this company or that company. That puts us in a situation where we may be able to buy assets for lower dollar amounts than we have in the future or have in the past, excuse me. You know, that'll be good news for us. As I mentioned in the beginning of the call, we're sitting on a lot of cash. We're sitting on a lot of excess capacity to borrow, and we probably have even more than that if we wanted to. You know, we're $350 million now. It's like 1x EBITDA, so we could probably get more if we wanted to, if we wanted to expand that to get more deals done."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "You know, we think we're in a very good position. Ignoring what the stock price is and the value of the stock, and we can't help what people think, we get lumped into technology companies like made a whole argument in the beginning of this call that we that might not be appropriate to lump us in the same with these guys. Maybe the problem's being overblown to begin with. We keep making a heck of a lot of money, and we keep making more money than we did the quarter before for, you know, for 20 years in a row now. We use that money to buy companies up."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "When, you know, markets are in turmoil and we keep making a lot of money and we use that money to buy companies, you know, we think we're gonna be in a very good position to be able to do that, and we're just waiting, you know, looking, trying to make good decisions. You know, we would like our stock to be up, but, you know, that's not really what's material every day. We're running this business and we keep making the business bigger, and we keep making the business make more money, and we use that money to go buy companies. We don't think that game's changing. We figure, you know, that's what we're gonna continue to do."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "When I look back at some of the worst times in the financial markets and think about what happened to us, those were some of the best times for us. You know, in the financial crisis, in the pandemic, we really benefited. I think we may see that again here, and we're certainly gearing up to be in that position. We're healthier than the other companies. You know, that puts us in a good position to buy them. Also some of the things I mentioned in the beginning of the call, the fact that we're, you know, our network is a great place for this AI technology. There's a lot of AI companies out there. Now almost everyone I look at in our space, they're all small. They all look like features to me that would be great on top of our network."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "I think, you know, that's gonna put us in a good position as those companies, some of them succeed, you know, and they wanna go further. We're a good place for them to combine because we have 30,000 customers, and they're using our network to do some of the things that would be great fit for some of the AI features that come out from small companies. We wanna be in a position to either merge those companies into ours or if they're real small and they, you know, the technology looks cool, but, you know, because of the way AI works right now, it might not be hard for us to replicate that functionality, and we might have a decision to make about whether we want to buy the company or just build the functionality ourselves."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "You know, it used to be that building functionality took a long time, and as it gets, you know, to be easier and easier to build it and it happens faster and faster, you know, you might see us make more decisions where we say, \"Hey, we're just gonna build that ourselves.\" We'll see what happens, but I like the position we're in for sure."
+    },
+    {
+      "speaker": "Chris Quintero",
+      "timestamp": "",
+      "text": "Got it. Thanks, Edward. Then just as a quick follow-up on professional services, how should we think about the GroundCloud business and the safety retraining that needs to happen? Is that gonna be a tailwind for fiscal year 2027? How should we think about how much of a benefit that could be?"
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Well, you know, as FedEx and you know, more and more companies like them start to outsource drivers, we think that GroundCloud business is gonna be more and more valuable. Some of the stuff that they're doing right now, you know, I think that's likely to help us anytime they announce it. You know, you have to do more stuff, and we're the dominant service provider in that business. You know, it's an opportunity for us, so we're excited about that."
+    },
+    {
+      "speaker": "Chris Quintero",
+      "timestamp": "",
+      "text": "Excellent. Thank you so much."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Paul Treiber",
+      "timestamp": "",
+      "text": "Oh, thanks for taking the question. Congratulations on the solid result."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Thanks."
+    },
+    {
+      "speaker": "Paul Treiber",
+      "timestamp": "",
+      "text": "Just a question on next quarter baseline. Does baseline include the acquisition of OrderMine? Also related to baseline, are you assuming strengthening in inorganic growth or consistent organic growth compared to this quarter?"
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "I believe, and Ed, correct me if I'm getting this wrong, but I think it does as of February first, so OrderMine's not in there. It's a small deal though, so I wouldn't imagine it'd be material. Maybe, Ed, you can take the second part of that question."
+    },
+    {
+      "speaker": "Ed Gardner",
+      "timestamp": "",
+      "text": "Yeah. I think generally as we come across into any given quarter, we expect or at least plan for a similar organic growth rate in that quarter. We normally see a variation of 1 point either way. Obviously, it can be bigger either way. That's what it can come in at."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "A lot of uncertainty out there, Paul, so it's hard for us to. We're happy it's going back up to where it was, you know, we hope it stays here and maybe even grows a little bit. I don't see anything out there that's gonna get us to the 15% that we were at in the middle of the pandemic, and I don't see anything that's gonna drop us back down considerably."
+    },
+    {
+      "speaker": "Paul Treiber",
+      "timestamp": "",
+      "text": "Okay. Well, nice to see the improvement this quarter. Second question, just on the M&A team and with Ed moving into the CFO role, you know, to what degree can you speak to, like, the M&A team, you know, the composition there and if you're backfilling Ed's role?"
+    },
+    {
+      "speaker": "Ed Gardner",
+      "timestamp": "",
+      "text": "I can probably take that."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Yeah. Yeah. Go ahead, Ed."
+    },
+    {
+      "speaker": "Ed Gardner",
+      "timestamp": "",
+      "text": "Yeah, I was gonna say. Look, yeah, we've got some internal movement as a result. We've been getting ready for this for a while, as you can imagine. You know, part of that has been in more people internally in M&A as well. We've got a general manager structure. We've got GMs that are involved in helping shepherd the business for each of our pillars, and those GMs have been getting more and more involved in the negotiation with founders and being the front person as they really understand the business, and that's been really helpful us. It's actually allowed us to increase our capacity without growing the team as much as we'd expect over the last, let's say, three, four, five years."
+    },
+    {
+      "speaker": "Ed Gardner",
+      "timestamp": "",
+      "text": "I think moving forward, we're planning to do more of that. We do have some openings. We do have an opening in the corporate development team, but we've got someone stepping in to lead it right now from internally."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "By the way, Paul, I mean, one of the reasons Ed's sticking around is not only to help with the transition for Ed, but to help in M&A deals, which he was always quite involved in as well. You know, Allan moving back towards that just to help out and make sure we're getting all the deals that we wanna get done is comforting for us 'cause he's been doing it for a long time for us."
+    },
+    {
+      "speaker": "Paul Treiber",
+      "timestamp": "",
+      "text": "That's great to hear. I'll pass this on. Thanks for taking the questions."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Thank you, Paul."
+    },
+    {
+      "speaker": "John Shao",
+      "timestamp": "",
+      "text": "Thanks for taking my question. Congratulations on a strong quarter. Could you maybe give us an update on the mentality of your customer at this point? I know you guys are pretty close to them. Do you see them actively requiring AI features or just early-stage conversations?"
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Did you name a specific customer in there, or did you say in general?"
+    },
+    {
+      "speaker": "John Shao",
+      "timestamp": "",
+      "text": "Just in general, let's say we are having a conversation with a customer, do they often require the AI as one of the important features, or is it just something nice to have?"
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "No. I think a lot of our customers. They may be well behind our thinking in it, but they're still starting to say, \"Oh, these things can help me. Do you guys have agents that we can use to solve some of these problems? Can you just take it over and solve some of the problems for me?\" You know, our sales reps are telling the AI agents that we currently have and the ones that we're in the process of building so that they can figure out how to incorporate it into their processes. I think it's early days for our customers in this, for most of them."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Some are a little more advanced than others, but you know, we're well ahead of that and trying to build and anticipate the agents that we would be providing to them to help them get jobs done in their back office. Maybe even have agents that help communicate with some of the agents that we're going to have internally that can provide them information. You really have agents talking to agents, AI agents talking to AI agents. Just using their employees to make decisions, you know, one step above that, but a lot of the work's been done to make that a faster decision to make."
+    },
+    {
+      "speaker": "John Shao",
+      "timestamp": "",
+      "text": "Thanks. That's great color. My second question is, could you maybe help us break down your service organic growth this quarter? How much is coming from upselling and how much is coming from market share gains? Because I do remember, you were talking about some market share gains last quarter. Thanks."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "I mean, we're getting it from both. I don't know if Ed or Allan have specific numbers on it, but it's coming in both directions, and it has been for a while. We're, you know, you hear with a lot of the AI functionality we're rolling out, you know, that's starting to visibly produce revenue, which is great. You know, new organic growth. We also have, you know, in several instances, we have situations where we've done a whole lot better than our competitors 'cause, you know, we're bigger company that maybe had better thoughts on how to solve bigger problems in the market. We also have lots of different products, so it's easier for the customers to switch to us."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "In a lot of cases, you know, I think some of our competitors have indicated, foolishly I think, that they might end up being a competitor to our customers one day and jump out of the technology business and into, you know, being a broker or a forwarder or some other type of middleman. You know, we've made it very clear over the years that's not what we're doing. We're out here to provide technology, and if there's money to be made doing your job, I'm gonna sell you technology and let you make the money. You know, I'll take $10 a transaction to provide a technology solution that helps you make $200 a transaction, Mr. Customer, and I'll be happy about it."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "you know, I think we've had competitors that have made overtures towards, \"Well, maybe I'll just take the $200.\" I thought, you know, now you're not a technology company anymore. Now you're a freight broker or a freight forwarder or whatever. We have never made that leap, and we will never make that leap. We provide tools and software and a network to solve problems, and if there's a lot of money to be made by our customers in doing that, our experience has been that's great because they use our stuff more and more and more, and they're happier and happier with us for giving them the opportunity to do it."
+    },
+    {
+      "speaker": "John Shao",
+      "timestamp": "",
+      "text": "Great color. Thanks again. Top of the line."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Thank you, John."
+    },
+    {
+      "speaker": "Stephanie Price",
+      "timestamp": "",
+      "text": "Thank you. Just sticking to the AI topic, I was hoping you could talk a little bit more about the AI opportunity around data on the GLN. Do you expect you can eventually monetize the data? Are you seeing it more in terms of selling additional products? Like, do you have some customer use cases at this point that you can kinda point to?"
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Using the data, remember, it's our customer data. I'm not selling their data to anyone. To the extent I can anonymize it and use it to help them make better decisions, then I may be able to anonymize everyone's data and use it to help specific customers make better decisions, 'cause I know things that are going on generally in the supply chain. I think you're gonna see us do that all over the place. I mean, we have. The example I gave a minute ago, right at the start of the call, or at the start of the Q&A section is a great example of that. You know, we see a problem in a port, and we may, who knows, how we hear about that."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "We may hear about it from one carrier, and then we're helping 30 freight forwarders fix the problem because we go, \"Oh, God, there's a problem in Rotterdam right now. We need to get all this cargo, you know, out of Rotterdam.\" They might have to wait to come in the next morning, at which point they're well behind in the process of doing that and, you know, maybe the solution is moving everything to Antwerp or whatever. You know, we could do that without any human intervention, and we can do it very quickly."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "The reason we're able to do it is because we found out about it quickly because several customers may have it happening to them, and we find out from watching their data and then do something about it because we know what they were each attempting to do in the first place. You know, we knew where they wanted this shipment to be 20 days from now. That might require several new bookings, right? I gotta tell, \"Hey, we're coming into a different port.\" I gotta get different trucking companies. I gotta get different railroads. I gotta get different dray haulers at the end of these moves, all coordinated together and working on what is effectively an effective new shipment."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Our customers will be quite happy to hear we did that overnight to solve a problem for them and still get the cargo there on time or roughly on time, and we did it for just a couple of hours, and there were no humans involved. You know, we see opportunities for that significantly increasing over the years and expanding the size of our network as a result, and really helping our customers solve problems that required a lot of manual intervention, you know, just two years ago."
+    },
+    {
+      "speaker": "Stephanie Price",
+      "timestamp": "",
+      "text": "Okay. That's great color. Thanks. Maybe on the margin side, obviously very strong margins in the quarter, trending above your 45% target. Are there any metrics you can point to around AI in terms of potential cost savings or productivity improvements you've seen from AI so far? Or should we think of these more just in terms of the 7% headcount reduction and the flow through from that?"
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "I mean, there's a couple components to it. The 7% reduction was a long enough time ago that it was already in our numbers, you know, in previous quarters. We always have on our network and our data content businesses, as we get new revenue, our costs are relatively fixed, so there's a constant push up in those businesses. They're some of the most profitable businesses we operate, and they get more profitable every quarter. You know, then you add AI into that, where we're able to do more stuff more efficiently, handle more customer support calls, develop more lines of code, answer calls more quickly, things that, you know, one, make customers happier, two, deliver functionality to them faster, and cost us less to do it."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "It's a win all the way around, and I think that's. When I talk to my friends independent of Descartes, I've been talking to my friends about what happens in this day and age. I think all the time, I go, \"Everyone's job may change, but I think there's still gonna be work for everybody.\" You might have to, you know, get a different job or do something different in your job every day, and that might be frustrating to some people. Just like when the internet came out, I remember Alan Greenspan talking about the massive changes in productivity that it created, and I think we're about to see that all over again."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "I would look and go, \"It's hard for me to imagine that the world's economies wouldn't expand significantly because of this.\" I see what's just going on in my company, and I think we're at the tip of the iceberg in this right now. It's gonna be massive for us and a lot of other companies in terms of either cost savings or increased productivity or in, you know, increased dollars that we're able to bring or increased customer satisfaction. It's probably gonna be all of those things together. If every company is able to do that, you're gonna see the whole world productivity picked up massively, and that's gotta be good. It's gotta be good for the world economy."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Might be a little frustrating for people, you know, that have to change their job, but they will. You know, internet changed a ton of stuff too. Mobile phones changed a ton of stuff too. This is the next big one that's coming along, and it is, you know, to me, it's probably in line with the internet coming out. A massive change that's gonna make every company more productive. You know, for companies like ours that are in the middle of it can provide us a lot of opportunity to expand and help our customers do much more sophisticated things that they couldn't have imagined 10 years ago. You know, for us to be able to do for them, and now it's gonna be possible."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "I think that's gonna be great news for everyone."
+    },
+    {
+      "speaker": "Stephanie Price",
+      "timestamp": "",
+      "text": "Thanks for the color."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "Cole Couzens",
+      "timestamp": "",
+      "text": "Hey, guys. I know you're not reliant on seat-based pricing models, but I believe there's some small exposure in your software business. Is there any way to quantify, like, what % of revenue-"
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker": "Cole Couzens",
+      "timestamp": "",
+      "text": "is currently seat-based? Is there any chance-"
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Yeah. It's"
+    },
+    {
+      "speaker": "Cole Couzens",
+      "timestamp": "",
+      "text": "that you could change this? Is there any chance you could change this going forward like some of your competitors?"
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "It's about 15% of our business is seat-based, and without question, we will change it. It's changed. Over my lifetime, I've seen the pricing mechanism change probably 10 times. Always aimed at, you know, what are we doing for you, and how much is that worth, you know? I'm sorry if I'm charging you per seat to do that. All of a sudden, if there's an AI agent doing it and we can't measure seats anymore, we're going to find another way. Transaction-based pricing. You know, how many bookings, bill of lading, whatever did you do in a month? Everything has minimums in our business anyway, so it's just gonna be a new mechanism."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "You know, you may be referring to some of our customers or competitors that have done some stuff to move it, to change it, and we're perceived to be doing it unfairly. I mean, I think one of the things our customers have come to expect from Descartes is that we're always pretty darn fair about how we price stuff. You know, when we put something out for them that changes the way that we do it's a fair way to do it. Again, it's a small part of our business and not something I'm particularly concerned about."
+    },
+    {
+      "speaker": "Cole Couzens",
+      "timestamp": "",
+      "text": "Okay."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Yeah. Sorry, I was just gonna add to that in case it was hard to hear. It's 15.15, so just under 15. Yeah. In case it sounded like 50."
+    },
+    {
+      "speaker": "Cole Couzens",
+      "timestamp": "",
+      "text": "Nope, I got that. Maybe just on the organic growth in the quarter, it sounds like it came from both market growth and share gains. Maybe if you can just expand more on what's driving these share gains and how sustainable this is going forward."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "I talked about it a little bit before, but you know, we're a big company with a lot of solutions and a lot of customers, and we're a safe choice. I spent some time talking about that in the prepared comments. As things get complicated, I think, you know, people look to go to the safe guide they know is gonna handle a problem. We have some businesses where our competitors fell on their faces a little bit. We had some competitors that have jacked up prices on customers and, you know, made some customers angry. You know, all of those things, you know, seem to benefit us."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "You know, sometimes I was just saying it to Stephanie a minute ago, you know, sometimes it's tough to sit there and be the guy that's, you know, more than fair all the time, and you know, you go, \"Well, I could take advantage of this situation and make more money, you know, in the short run.\" I, you know, we never do that. We're always playing for the long-term relationship with these customers. I'll just pick on one of them, but I would always say to people, \"There's only one FedEx. Don't get in a fight with them.\" Right? Or UPS or Kuehne+Nagel or whatever else, right?"
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "We, you know, we've gone to great strides at our own cost to us, 'cause we could have been pigs about it at various points and chose to take the customer-friendly route because, you know, if I have 40 contracts with them, I would like to sign the 41st and the 42nd and the 43rd too. If you start doing stuff that makes them think you're not a great guy to do business with, they are not going to sign those next contracts with you. We've taken the approach that's like, \"Hey, play the long game for all these things.\" It's been paying off over time as we get bigger and bigger."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Everyone always told me it would get harder as we got bigger, and I think because of the approach we've taken to it's always gotten easier. You know, they come to treat us like partners as we have more relationships with them. But when we're fair with them, they're very comfortable signing up new contracts with us. You know, some of that's playing out now and to our benefit as we get bigger and bigger."
+    },
+    {
+      "speaker": "Cole Couzens",
+      "timestamp": "",
+      "text": "Helpful color. Thanks, Ed. I'll turn it back."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Thanks, Cole."
+    },
+    {
+      "speaker": "Robert Young",
+      "timestamp": "",
+      "text": "Hi. Good evening. First question for me would be on the trade data intelligence and real-time tracking. They've been top one or two drivers of growth for a number of quarters now. Just thought it'd be interesting to get some insight on the degree of penetration into the GLN user base. Like, are we still very early in the deployment? There's been a lot of, you know, world shakeups to drive that. How far are you into the user base?"
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "We think there's still a long way to go. You know, a lot of competitors in that space were bought up by people that don't really serve the supply chain. They serve banks and legal, you know, law firms and things like that. A lot of our competitors kind of slowly walked away from the business, and that's been great for us. You know, we've become the absolute global leader in it. When other companies have come up for sale in that space, we've bought them and become a more dominant player in that industry and therefore the place that everyone always turns to."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "You know, the more governments come out and change these tariffs all the time, and the more they change the sanctioned parties or add to the sanctioned parties, the more people have to pay attention to that and buy more access from us. There's a long way to go. It's gonna keep coming. You know, you may see us get into related businesses with it. You also may see us using AI to combine some of our real-time data off of our network, anonymized, to supplement that data and make it more valuable. You know, we like that business in the long run. I've also heard people, you know, say, \"Hey, will AI, you know, let somebody else get into that business?\" And I go, \"There's not a chance.\" There's so much going for us there."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "We have to do so much to get that data, even though it's publicly available, to get it from all 140 countries and then all of the different agencies within that country that are able to identify sanctioned parties, you know, or add to the tariffs or duties regime. We then put all that data in, normalize it, put it all in one database. We then distribute to our customers in whatever format they want, SAP, NetSuite, whatever they wanna use it in. Then we don't charge that much for it, right? It doesn't make any sense for anyone to try and replicate this because I'm charging you $20,000 a year. It's just, you know, it's like it's practically free."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Maybe the most important part is, you can't go to the government and when they say, \"Hey, why did you ship to this guy you weren't allowed to ship to?\" say, \"Oh, well, I built my own AI tool.\" The government's gonna look at you and go, \"Well, it didn't work.\" You know? It's a lot safer to say, \"Well, I got it from Descartes.\" The government goes, \"Well, Descartes is usually right about these things.\" You know, I wonder who's actually right here. We're a safe choice. For a very low cost, we think that's puts us in a very defensible position. For someone to try and replicate that in the long run, I think it's a fool's errand."
+    },
+    {
+      "speaker": "Robert Young",
+      "timestamp": "",
+      "text": "Okay, thanks for that. I mean, my second question, this agentic opportunity for self-healing logistics that you keep coming back to as an example, it sounds like you're framing it as a future state, but when you've got the data and you've got the signaling from the network, and so I'm curious, is there a technology gap or is that just execution and engineering to roll something like that? Like, how far realistically and is that from-"
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "We're doing some of it right now. It's going very fast. The most interesting part of that, we haven't talked about it much yet. I've alluded to it a couple times. It's going very fast right now. Our ability to come up with new ideas and roll them out is now weeks and months versus months and years. We're coming up with new ideas, and the ideas are coming so fast, and I'm shocked at how fast we're building these things, using, you know, off-the-shelf AI tools that we're adding to our network and using against our data, as I mentioned in the prepared comments. It's going very, very fast. In, I'd say half the cases, I don't even have to sign the customer up to a new product."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "They're already signed up to have me go in and manage shipments. They pay a certain price to do that. If I have the opportunity to go in and change their shipment to their benefit, it works out great for me. It works out great for them too. You know, for a couple bucks, I'm solving a very big problem for them. You know, I think we keep thinking of more things we can do. It's like every week there's more things coming out where someone in our organization is talking to a customer goes, \"Hey, you know, we could do this for the customer.\" When we used to have those concepts or those things happen 10 years ago, it was like, \"Yeah, we can do that for the customers."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "It could take us 10 years to code, a year to code that. Well, now it's like three weeks, and there's no coding involved. We're solving a problem for the customer. You know, this is a huge opportunity for us and a big benefit for our customers. It's a head-scratcher to me right now what people are saying about the, you know, lumping us in with these companies that are, you know, enterprise software companies. I go, I don't even think I believe that they're in the same kind of trouble that everyone else does. I don't think we're like them either."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "I mean, I think we have this network with all this proprietary data, and our customers are helping us, or we're helping our customers manage things, and AI can help us do it better. I think we're in the catbird seat. All we gotta do is execute. If I compliment our company at anything, it's we're very action-oriented, and we're pretty good. When we get an idea, we go after it hard and make it happen. Now it's a lot easier to make it happen. We're excited about the opportunities ahead of us."
+    },
+    {
+      "speaker": "Robert Young",
+      "timestamp": "",
+      "text": "All right. Thanks for taking the questions. Great working with you, Allan Brett."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Thank you very much, Robert. Appreciate it."
+    },
+    {
+      "speaker": "Robert Young",
+      "timestamp": "",
+      "text": "Thanks."
+    },
+    {
+      "speaker": "Mark Schappel",
+      "timestamp": "",
+      "text": "Hi, guys. Thanks for taking my question. Just one here. You know, during your prepared remarks, you called out areas of strength in your business. You know, global trade was one, visibility, customs, and regulatory. What parts of your business maybe weren't quite as strong as you would have liked?"
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "I mean, most of the businesses you can see put up stellar numbers. Every part of our business was performing better than we hoped. I don't know if there's anything I'd call out. I don't know if you have any thoughts on anything that was not great. I mean, yeah. I'd love it if the trucking volumes were better, and funny enough, they're getting better right now. Even in that business, we look pretty well because we were able to take a bunch of business from our competitors, so that business was up. I don't know if there's any that you would say underperformed, Ed."
+    },
+    {
+      "speaker": "Robert Young",
+      "timestamp": "",
+      "text": "No, I think you hit it. The network volumes in general are still not, you know, where we'd love to see them. Whether that's, you know, air's been growing reasonably well. I think you'll see from the information available out there. Ocean varied depending on the country, and the U.S. freight market is in, you know, has been in a freight recession for a while. We'd love to see those volumes pick up. Generally, yeah, we're really happy with the performance."
+    },
+    {
+      "speaker": "Mark Schappel",
+      "timestamp": "",
+      "text": "Great. Thank you."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Yeah. Thank you."
+    },
+    {
+      "speaker": "Edward Ryan",
+      "timestamp": "",
+      "text": "Hey, great. Thanks, everyone. We appreciate your time on the call today, and we look forward to reporting back to you on Q1 in June. Have a great evening. Thank you."
+    }
+  ],
+  "totalTurns": 142
+}

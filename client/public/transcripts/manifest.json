@@ -1,6 +1,14 @@
 {
   "ADP": [
     {
+      "period": "Q3 2026",
+      "eventDate": "2026-04-29",
+      "file": "ADP/Q3_2026.json",
+      "turns": 102,
+      "prepared": 27,
+      "qa": 75
+    },
+    {
       "period": "Q1 2026",
       "eventDate": "2025-10-29",
       "file": "ADP/Q1_2026.json",
@@ -18,6 +26,14 @@
     }
   ],
   "APPF": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2026-04-23",
+      "file": "APPF/Q1_2026.json",
+      "turns": 15,
+      "prepared": 14,
+      "qa": 0
+    },
     {
       "period": "Q4 2025",
       "eventDate": "2026-01-29",
@@ -37,6 +53,14 @@
   ],
   "BILL": [
     {
+      "period": "Q3 2026",
+      "eventDate": "2026-05-07",
+      "file": "BILL/Q3_2026.json",
+      "turns": 75,
+      "prepared": 33,
+      "qa": 34
+    },
+    {
       "period": "Q1 2026",
       "eventDate": "2025-11-06",
       "file": "BILL/Q1_2026.json",
@@ -54,6 +78,14 @@
     }
   ],
   "BL": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2026-05-05",
+      "file": "BL/Q1_2026.json",
+      "turns": 129,
+      "prepared": 31,
+      "qa": 98
+    },
     {
       "period": "Q4 2025",
       "eventDate": "2026-02-10",
@@ -73,6 +105,14 @@
   ],
   "BLKB": [
     {
+      "period": "Q1 2026",
+      "eventDate": "2026-04-29",
+      "file": "BLKB/Q1_2026.json",
+      "turns": 49,
+      "prepared": 19,
+      "qa": 30
+    },
+    {
       "period": "Q4 2025",
       "eventDate": "2026-02-10",
       "file": "BLKB/Q4_2025.json",
@@ -90,6 +130,14 @@
     }
   ],
   "CRM": [
+    {
+      "period": "Q4 2026",
+      "eventDate": "2026-02-25",
+      "file": "CRM/Q4_2026.json",
+      "turns": 249,
+      "prepared": 182,
+      "qa": 67
+    },
     {
       "period": "Q1 2026",
       "eventDate": "2025-05-28",
@@ -128,6 +176,14 @@
   ],
   "DOCU": [
     {
+      "period": "Q4 2026",
+      "eventDate": "2026-03-17",
+      "file": "DOCU/Q4_2026.json",
+      "turns": 127,
+      "prepared": 29,
+      "qa": 82
+    },
+    {
       "period": "Q1 2026",
       "eventDate": "2025-06-05",
       "file": "DOCU/Q1_2026.json",
@@ -145,6 +201,14 @@
     }
   ],
   "DSGX": [
+    {
+      "period": "Q4 2026",
+      "eventDate": "2026-03-11",
+      "file": "DSGX/Q4_2026.json",
+      "turns": 142,
+      "prepared": 45,
+      "qa": 97
+    },
     {
       "period": "Q1 2026",
       "eventDate": "2025-06-04",
@@ -164,6 +228,14 @@
   ],
   "GWRE": [
     {
+      "period": "Q2 2026",
+      "eventDate": "2026-03-05",
+      "file": "GWRE/Q2_2026.json",
+      "turns": 138,
+      "prepared": 26,
+      "qa": 111
+    },
+    {
       "period": "Q1 2026",
       "eventDate": "2025-12-03",
       "file": "GWRE/Q1_2026.json",
@@ -181,6 +253,14 @@
     }
   ],
   "HUBS": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2026-05-07",
+      "file": "HUBS/Q1_2026.json",
+      "turns": 90,
+      "prepared": 27,
+      "qa": 63
+    },
     {
       "period": "Q4 2025",
       "eventDate": "2026-02-11",
@@ -200,6 +280,14 @@
   ],
   "INTA": [
     {
+      "period": "Q3 2026",
+      "eventDate": "2026-05-05",
+      "file": "INTA/Q3_2026.json",
+      "turns": 95,
+      "prepared": 41,
+      "qa": 42
+    },
+    {
       "period": "Q1 2026",
       "eventDate": "2025-11-04",
       "file": "INTA/Q1_2026.json",
@@ -217,6 +305,14 @@
     }
   ],
   "INTU": [
+    {
+      "period": "Q2 2026",
+      "eventDate": "2026-02-26",
+      "file": "INTU/Q2_2026.json",
+      "turns": 112,
+      "prepared": 42,
+      "qa": 70
+    },
     {
       "period": "Q1 2026",
       "eventDate": "2025-11-20",
@@ -236,6 +332,14 @@
   ],
   "JKHY": [
     {
+      "period": "Q3 2026",
+      "eventDate": "2026-05-06",
+      "file": "JKHY/Q3_2026.json",
+      "turns": 157,
+      "prepared": 28,
+      "qa": 112
+    },
+    {
       "period": "Q1 2026",
       "eventDate": "2025-11-05",
       "file": "JKHY/Q1_2026.json",
@@ -253,6 +357,14 @@
     }
   ],
   "MANH": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2026-04-21",
+      "file": "MANH/Q1_2026.json",
+      "turns": 107,
+      "prepared": 40,
+      "qa": 40
+    },
     {
       "period": "Q4 2025",
       "eventDate": "2026-01-27",
@@ -272,6 +384,14 @@
   ],
   "MSFT": [
     {
+      "period": "Q3 2026",
+      "eventDate": "2026-04-29",
+      "file": "MSFT/Q3_2026.json",
+      "turns": 102,
+      "prepared": 42,
+      "qa": 60
+    },
+    {
       "period": "Q1 2026",
       "eventDate": "2025-10-29",
       "file": "MSFT/Q1_2026.json",
@@ -289,6 +409,14 @@
     }
   ],
   "NCNO": [
+    {
+      "period": "Q4 2026",
+      "eventDate": "2026-03-31",
+      "file": "NCNO/Q4_2026.json",
+      "turns": 148,
+      "prepared": 43,
+      "qa": 105
+    },
     {
       "period": "Q1 2026",
       "eventDate": "2025-05-28",
@@ -308,6 +436,14 @@
   ],
   "NOW": [
     {
+      "period": "Q1 2026",
+      "eventDate": "2026-04-22",
+      "file": "NOW/Q1_2026.json",
+      "turns": 133,
+      "prepared": 32,
+      "qa": 101
+    },
+    {
       "period": "Q4 2025",
       "eventDate": "2026-01-28",
       "file": "NOW/Q4_2025.json",
@@ -325,6 +461,14 @@
     }
   ],
   "OKTA": [
+    {
+      "period": "Q4 2026",
+      "eventDate": "2026-03-04",
+      "file": "OKTA/Q4_2026.json",
+      "turns": 147,
+      "prepared": 19,
+      "qa": 128
+    },
     {
       "period": "Q1 2026",
       "eventDate": "2025-05-27",
@@ -344,6 +488,14 @@
   ],
   "ORCL": [
     {
+      "period": "Q3 2026",
+      "eventDate": "2026-03-10",
+      "file": "ORCL/Q3_2026.json",
+      "turns": 70,
+      "prepared": 25,
+      "qa": 45
+    },
+    {
       "period": "Q1 2026",
       "eventDate": "2025-09-09",
       "file": "ORCL/Q1_2026.json",
@@ -361,6 +513,14 @@
     }
   ],
   "PAYC": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2026-05-06",
+      "file": "PAYC/Q1_2026.json",
+      "turns": 101,
+      "prepared": 11,
+      "qa": 74
+    },
     {
       "period": "Q4 2025",
       "eventDate": "2026-02-11",
@@ -380,6 +540,14 @@
   ],
   "PAYX": [
     {
+      "period": "Q3 2026",
+      "eventDate": "2026-03-25",
+      "file": "PAYX/Q3_2026.json",
+      "turns": 154,
+      "prepared": 17,
+      "qa": 137
+    },
+    {
       "period": "Q1 2026",
       "eventDate": "2025-09-30",
       "file": "PAYX/Q1_2026.json",
@@ -398,6 +566,14 @@
   ],
   "PCOR": [
     {
+      "period": "Q1 2026",
+      "eventDate": "2026-05-05",
+      "file": "PCOR/Q1_2026.json",
+      "turns": 86,
+      "prepared": 24,
+      "qa": 62
+    },
+    {
       "period": "Q4 2025",
       "eventDate": "2026-02-12",
       "file": "PCOR/Q4_2025.json",
@@ -415,6 +591,14 @@
     }
   ],
   "PCTY": [
+    {
+      "period": "Q3 2026",
+      "eventDate": "2026-05-07",
+      "file": "PCTY/Q3_2026.json",
+      "turns": 116,
+      "prepared": 22,
+      "qa": 94
+    },
     {
       "period": "Q1 2026",
       "eventDate": "2025-11-04",
@@ -445,6 +629,14 @@
   ],
   "QTWO": [
     {
+      "period": "Q1 2026",
+      "eventDate": "2026-04-29",
+      "file": "QTWO/Q1_2026.json",
+      "turns": 136,
+      "prepared": 60,
+      "qa": 60
+    },
+    {
       "period": "Q4 2025",
       "eventDate": "2026-02-11",
       "file": "QTWO/Q4_2025.json",
@@ -462,6 +654,14 @@
     }
   ],
   "ROP": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2026-04-23",
+      "file": "ROP/Q1_2026.json",
+      "turns": 139,
+      "prepared": 30,
+      "qa": 109
+    },
     {
       "period": "Q4 2025",
       "eventDate": "2026-01-27",
@@ -481,6 +681,14 @@
   ],
   "SAP": [
     {
+      "period": "Q1 2026",
+      "eventDate": "2026-04-23",
+      "file": "SAP/Q1_2026.json",
+      "turns": 80,
+      "prepared": 29,
+      "qa": 51
+    },
+    {
       "period": "Q4 2025",
       "eventDate": "2026-01-29",
       "file": "SAP/Q4_2025.json",
@@ -498,6 +706,14 @@
     }
   ],
   "SHOP": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2026-05-05",
+      "file": "SHOP/Q1_2026.json",
+      "turns": 105,
+      "prepared": 25,
+      "qa": 80
+    },
     {
       "period": "Q4 2025",
       "eventDate": "2026-02-11",
@@ -517,6 +733,14 @@
   ],
   "TEAM": [
     {
+      "period": "Q3 2026",
+      "eventDate": "2026-04-30",
+      "file": "TEAM/Q3_2026.json",
+      "turns": 70,
+      "prepared": 7,
+      "qa": 63
+    },
+    {
       "period": "Q1 2026",
       "eventDate": "2025-10-30",
       "file": "TEAM/Q1_2026.json",
@@ -534,6 +758,14 @@
     }
   ],
   "TOST": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2026-05-07",
+      "file": "TOST/Q1_2026.json",
+      "turns": 138,
+      "prepared": 64,
+      "qa": 72
+    },
     {
       "period": "Q4 2025",
       "eventDate": "2026-02-12",
@@ -553,6 +785,14 @@
   ],
   "TTAN": [
     {
+      "period": "Q4 2026",
+      "eventDate": "2026-03-12",
+      "file": "TTAN/Q4_2026.json",
+      "turns": 107,
+      "prepared": 24,
+      "qa": 83
+    },
+    {
       "period": "Q1 2026",
       "eventDate": "2025-06-05",
       "file": "TTAN/Q1_2026.json",
@@ -570,6 +810,14 @@
     }
   ],
   "TYL": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2026-04-30",
+      "file": "TYL/Q1_2026.json",
+      "turns": 111,
+      "prepared": 8,
+      "qa": 80
+    },
     {
       "period": "Q4 2025",
       "eventDate": "2026-02-12",
@@ -589,6 +837,14 @@
   ],
   "VEEV": [
     {
+      "period": "Q4 2026",
+      "eventDate": "2026-03-04",
+      "file": "VEEV/Q4_2026.json",
+      "turns": 146,
+      "prepared": 4,
+      "qa": 142
+    },
+    {
       "period": "Q1 2026",
       "eventDate": "2025-05-28",
       "file": "VEEV/Q1_2026.json",
@@ -606,6 +862,14 @@
     }
   ],
   "VERX": [
+    {
+      "period": "Q1 2026",
+      "eventDate": "2026-05-07",
+      "file": "VERX/Q1_2026.json",
+      "turns": 128,
+      "prepared": 24,
+      "qa": 104
+    },
     {
       "period": "Q4 2025",
       "eventDate": "2026-02-11",
@@ -625,6 +889,14 @@
   ],
   "WAY": [
     {
+      "period": "Q1 2026",
+      "eventDate": "2026-04-29",
+      "file": "WAY/Q1_2026.json",
+      "turns": 110,
+      "prepared": 46,
+      "qa": 47
+    },
+    {
       "period": "Q4 2025",
       "eventDate": "2026-02-17",
       "file": "WAY/Q4_2025.json",
@@ -642,6 +914,14 @@
     }
   ],
   "WDAY": [
+    {
+      "period": "Q4 2026",
+      "eventDate": "2026-02-24",
+      "file": "WDAY/Q4_2026.json",
+      "turns": 112,
+      "prepared": 28,
+      "qa": 84
+    },
     {
       "period": "Q1 2026",
       "eventDate": "2025-05-22",

@@ -1,0 +1,345 @@
+{
+  "ticker": "BILL",
+  "period": "Q3 2026",
+  "eventDate": "2026-05-07",
+  "preparedRemarks": [
+    {
+      "speaker": "Jack Andrews",
+      "timestamp": null,
+      "text": "Good afternoon, everyone. Welcome to BILL's fiscal third quarter 2026 earnings conference call. We issued our earnings press release a short time ago and filed the related Form 8-K with the SEC. The press release can be found on our Investor Relations website at investor.bill.com. Joining me on the call today are Ren\u00e9 Lacerte, Chairman, CEO, and Founder, and Rohini Jain, CFO. We also have John Rettig, President and COO, joining us for the Q&A portion of the call. Before we begin, please remember that during the course of this call, we may make forward-looking statements about the future business, operations, targets, products, and expectations of BILL that involve many assumptions, risks, and uncertainties. Actual results could differ materially from those expressed or implied by our forward-looking statements."
+    },
+    {
+      "speaker": "Jack Andrews",
+      "timestamp": null,
+      "text": "In addition to our prepared remarks, please refer to the information in the company's press release issued today, our Q3 2026 Investor Deck, and our periodic reports filed with the SEC, including our most recent annual report on Form 10-K and quarterly reports on Form 10-Q. We disclaim any obligation to update any forward-looking statements. On today's call, we will refer to both GAAP and non-GAAP financial measures. Please refer to today's press release for a reconciliation of GAAP to non-GAAP and additional information regarding these measures. With that, let me turn the call over to Ren\u00e9."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "Thanks, Jack. Good afternoon, everyone, and thank you for joining us. Our Q3 results extended our strong track record of delivering strong revenue growth while significantly improving profitability. Core revenue grew 16% while our non-GAAP operating margin approached 20%. We also achieved another important milestone of GAAP profitability. This combination of durable growth and expanding profitability has been an important focus at BILL. The operational rigor we apply across the company has translated into consistent results and increasing operating leverage. During the quarter, we made strong progress against our key priorities, which we will walk through shortly. The work I am most intensely focused on and energized by is the AI transformation we are accelerating across the company. AI provides us a unique opportunity to further unlock what financial operations means, deploying the scale and capabilities we have built."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "The work we are doing in this area will be a catalyst across the industry as we build new customer experiences that dramatically reduce SMB friction by going deeper into the financial operations stack that underpin every business. We firmly believe this because of the success we are seeing. As we shared on previous earnings calls, innovating with AI is one of our top three priorities for the fiscal year. The tangible proof points we have seen rapidly deploying new agents to create more value for customers and driving greater productivity for employees have made it clear that this is no longer one priority among three. It is our number one priority. Over the last few quarters, we built powerful AI infrastructure, leveraging our data assets to launch a suite of agents."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "These agents are already in the hands of tens of thousands of customers, automating hundreds of thousands of invoices, executing card payments end-to-end without human touch, and scoring customer interactions in real time. Let me share some updates regarding our AI momentum. We have accelerated the adoption of our AI agents. To date, we have had well over 100,000 customers using our agents to improve their financial operations. These agents are making a significant impact in creating real value. From our touchless transactions agent to managing suppliers with our W-9 agent to our Invoice Coding Agent that has automated approximately 1.2 million invoices across over 9 million data fields, we are changing the game. We are unlocking the power of AI for our customer experiences and are excited about the breadth of additional capabilities we are building."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "In addition, AI is helping us automate how we execute payments across the platform. Last quarter, we discussed our Pay For You agent, which autonomously executes card payments based on each supplier's preferences. Streamlining a multi-step human workflow into an autonomously executed agent enables significantly lower per transaction costs and a better card accepting experience. Following the Pay For You agent beta launch in early Q3, the agent has completed tens of thousands of card transactions without any human interaction. Internally, we are harnessing AI to drive efficiencies and improve execution across the entire company. For example, we recently launched a new quality assurance agent that scores 100% of all customer interactions compared with our prior practice in an employee manually pulling a 1%-2% sample set for review. This provides an automated data-driven evaluation to every interaction."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "Furthermore, this agent also provides real-time feedback and live cues to support staff during calls, which we believe will result in stronger customer value through stronger retention and more efficient customer management. The results we are driving with AI are just some of the examples that give us the conviction that with the intense focus and urgency we are applying to AI, we have the opportunity to once again reinvent the category we created. This is a galvanizing moment for BILL. We are aggressively moving our company to become AI native end-to-end and rapidly changing how we work. We are building AI so it will not just be a feature or function, but will serve as the fundamental core of our platform experience. In the near future, as a business joins BILL, our agents will onboard, connect, transact, understand, and optimize cash flow while keeping humans in the loop."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "Customers will not only be adopting software when they join BILL, they will be bringing on a team of expert agents that learn their financial back office and run it. They will collect W-9s and invoices before the customer even thinks to act. They will connect them to their business partners in our proprietary network. They will autonomously identify which bills to pay, when to pay them, and how to route the cash, optimizing in real time against the business' actual financial position. They will flag the decisions that need a human and will then autonomously execute the rest. The value of our AI compounds rapidly because it learns the business and improves. Inside BILL, AI is no longer just assisting our teams. It is executing real work. We are seeing our engineers ship faster, our customer operations team handle greater volume, and our go-to-market teams execute with greater leverage."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "Seeing this in action enables us to transition to completely new ways of operating. I started the company to solve pain points for SMBs that no one else was addressing or cared about. We have built unique assets that position us to lead our category. Our integrated platform, our proprietary network of millions of connected businesses, and now the AI capabilities we are embedding at the core. Essential to driving this AI transformation is the foundation we have built over two decades. Complex money movement, cash flow management, and financial operations are critical functions where accuracy, reliability, and trust are paramount to SMBs. To be successful in serving SMBs at scale requires a broad platform with sophisticated payment infrastructure and scale distribution. Let me discuss each of these in more detail. First, we have a powerful platform that operates where software meets money movement."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "Our platform has moved over $1 trillion in payments and processed over 1 billion financial documents. This makes us a data company. We have unique data assets in the B2B payments landscape derived from the behaviors and context generated by hundreds of millions of B2B transactions. This proprietary data set is structurally hard to replicate, creating a durable compounding advantage for our AI solutions. Second, we have created a scaled and diverse partner-led distribution ecosystem. We partner with nearly 10,000 well-known accountants, banks, software companies, and have one of the largest B2B payment networks with over 8 million members. Together, this extends our market reach to serve the Fortune 5 Million, solving their mission-critical problems. This distribution asset allows us to efficiently acquire new customers and deliver innovations to SMBs. Through our platform and ecosystem assets, we have established trust at scale, which is a critical and tangible."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "In payments, trust is non-negotiable because this is a 100% precision world. The consequences of less than perfect accuracy can potentially put SMBs out of business. This is one of our key modes. We enforce the right way to handle money, which involves domain-specific guardrails, compliance logic, operational controls, and proprietary context that generic AI does not have. All of these assets enable us to deliver one-of-a-kind solutions to solve problems that our customers and partners have long faced. Those solutions create tremendous value for our customers. One good example is Quist Group, a large accounting firm that serves thousands of businesses. Greg Christopher, Managing Partner, said, \"BILL's platform enables the kind of controls and AP visibility that most small businesses just don't have, but desperately need. We've tested some competitor options, but they never deliver in the way BILL does."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "It's a win for our team and our clients. The strength of our platform, our network, and the moats we have built position BILL for our next phase. This phase requires focus. We will be very select in the opportunities we pursue. We will concentrate our resources and attention entirely on the priorities that drive the most value. The time and distance between vision and execution has shortened dramatically. We will meet this reality head-on. It is clear that the team required to operate a company at scale that captures the opportunity ahead is now structurally different than what was required in the past. It's flatter, leaner, and faster. We have chosen to align to this new structure now. By the end of Q4, we will reduce the workforce by up to 30%. This is a hard decision, and I want to be direct about that."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "The reduction will involve colleagues who have helped build BILL, and we will treat them with the care and support they deserve through this transition. We are making this decision from a position of strength. A smaller, more focused organization working closer to the customer with AI embedded in how we build and operate will equip us to move with the precision and speed this opportunity demands. Our strong financial performance and cash generation, combined with confidence in our business trajectory, gives our management team and the board strong conviction in the value creation opportunity ahead for BILL. Our board has authorized a significant increase to our share repurchase program."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "The new authorization, now totaling $1 billion in aggregate, provides us the opportunity to create meaningful shareholder value while continuing our disciplined approach to capital allocation. Since the founding of BILL, we have constantly delivered new ways to create value for our customers and partners. The value we have created for them has translated into strong and consistent financial results. We believe the convergence of this paradigm shift that AI represents, combined with our foundational assets such as expertise, data, distribution, trust, network, and leadership, positions us to set a new standard for how businesses do their financial operations. We are extremely focused on our future. With that, I'll turn it over to Rohini to share more details on our financial performance."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "timestamp": null,
+      "text": "Thanks, Ren\u00e9. Our strong Q3 results extend the durable trajectory we've been building all year. Core revenue grew 16% year-over-year. Operating discipline and rigorous execution not only drove a strong non-GAAP operating margin of 20%, but also GAAP profitability this quarter. We are building a larger and more productive enterprise with a resilient operating model as our foundation. As Ren\u00e9 announced, our board of directors has authorized the purchase of up to $1 billion of common stock. This decision is supported by our conviction in our growth, our ability to generate sizable free cash flow, and the opportunity to return value to the shareholders. Before turning to detailed financial results, I'd like to provide a progress update on our other two strategic priorities. First, I would like to update you on growth from our integrated platform."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "timestamp": null,
+      "text": "One of our main focus areas has been multi-product adoption across our customer base, and we are pleased with the progress we have made. Our integrated platform strategy is working, and we now have over 20,000 businesses leveraging both our AP and Spend & Expense solutions. The number of joint customers accelerated to 39% growth year-over-year. They exhibit both higher retention rates and faster revenue growth on our platform. In addition, we continue to introduce new enhancements for our BILL Supplier Payments Plus portfolio. We have streamlined the processing of B2B payments for suppliers, providing automated reconciliation capabilities directly and through their service providers. We are doing this across all their transactions from ACH to card. We have also extended BILL's digital payment capabilities for enterprise suppliers to receive payments from their SMB customers, both inside and outside the BILL network."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "timestamp": null,
+      "text": "It is important to note that SPP has a longer enterprise sales cycle. We are continuing to mature our go-to-market motions to support this offering. Early indications remain positive as the number of suppliers under contract in Q3 doubled from Q2 and includes the largest supplier signed to date. Our other priority is to expand and penetrate our addressable market. In Q3, we broadened our ecosystem through product enhancements, our partner channel relationships, and deepening sync capabilities. These moves further enable us to move upmarket. On the product side, we launched new international capabilities for BILL Spend & Expense customers. BILL Divvy Cards can now be used globally wherever cards are accepted. In addition, we recently launched BILL Travel, a new Spend & Expense product to manage travel and spend in one single connected workflow."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "timestamp": null,
+      "text": "By streamlining the process from booking to reconciliation, we estimate that businesses on our platform can reduce the time spent on their travel workflow by more than 85%, saving more than 100,000 hours each month in aggregate. Turning to our embed channel, we continue to work on enabling both product and go-to-market motions. One of our key assets that partners want to leverage is our deep payment expertise. We have built this capability into our embed offerings and are seeing progress in payment adoption. To illustrate, all three of our latest partners have activated a number of our ad valorem payment modalities, with one of them enabling four of these payment types. Now let's dive into the financial results for the quarter. In Q3, we delivered $371 million in core revenue, growing 16% year-over-year."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "timestamp": null,
+      "text": "For non-GAAP operating margin, we surpassed the top end of our guidance range. Non-GAAP operating margin was 20%, expanding 176 basis points sequentially and 475 basis points year-over-year. Non-GAAP net income was $77 million, representing a 5% improvement sequentially and a 32% improvement year-over-year. This magnitude of margin expansion is a direct reflection of the efficiency initiatives we have been executing against. Moving to product performance. Within our integrated platform, growth in both AP/AR and Spend & Expense continued to be resilient, driving a healthy double-digit growth rate. AP/AR core revenue grew 12% year-over-year. In Q3, we added approximately 4,100 net new customers. This was above our expectations, driven by strength in wealth management category."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "timestamp": null,
+      "text": "We continue to estimate that net new customer adds will tend below 4,000 in near term as we focus on landing larger customers. Early indications of this upmarket move are starting to positively impact our financials as subscription ARPU grew over 3% sequentially. AP/AR transaction revenue was $122 million, up 13% year-over-year. AP/AR take rate was 16.5, which expanded 0.5 basis points sequentially and 0.3 basis points or 2% year-over-year. Transaction revenue per transaction was $10.14, reflecting 8% growth year-over-year. We believe transaction revenue per transaction better demonstrates our progress on payment monetization as it removes the impact of large ACH ticket sizes. Turning to volume trends, similar to last quarter, TPV on a same-store sales basis grew 4% year-over-year."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "timestamp": null,
+      "text": "By industry vertical, we saw increased spending in manufacturing, services, and utilities driven by an increase in energy prices. We saw decreased spending in wholesale and retail trade. In Spend & Expense, Q3 revenue totaled $167 million, up 21% year-over-year. This performance was fueled by sustained momentum in card volume and take rate that slightly exceeded our expectations. Card payment volume grew 23% year-over-year, led by strength in shipping, advertising, and travel sectors, which helped offset a deceleration in healthcare and retail spend. Our take rate for the quarter was 254 basis points, benefiting from favorable mix of high interchange verticals. On the expense side, our rewards rate was 130 basis points, a sequential improvement of 3 basis points."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "timestamp": null,
+      "text": "This reflects our disciplined approach to managing rewards while maintaining a competitive value proposition for our customers. I will now detail our guidance for the fourth quarter and FY 2026. For fiscal Q4 2026, we expect total revenue to be in the range of $425 million-$435 million and core revenue to be in the range of $392 million-$402 million, reflecting 13%-16% year-over-year growth. Here are a few key assumptions that underpin our Q4 revenue guidance. First, on volume, we expect AP/AR TPV growth to be in line with what we saw in Q3. For Spend & Expense, we are assuming volume growth of approximately 20% year-over-year in Q4."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "timestamp": null,
+      "text": "Second, turning to monetization, we expect AP/AR take rates to be in line with Q3 as we enhance our focus on the quality of growth. Moving to Spend & Expense, we expect the take rate to be slightly above 250 basis points. On the bottom line, for Q4, we expect to report non-GAAP operating income in the range of $81.5 million-$86.5 million. We expect non-GAAP net income in the range of $78 million-$82 million and non-GAAP EPS to be between $0.69-$0.72. We are raising the midpoint of our full-year revenue and operating income guidance to reflect the impact of overperformance we saw in Q3 flowing through."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "timestamp": null,
+      "text": "For fiscal 2026, we now expect core revenue to be in the range of $1.496 billion-$1.506 billion, reflecting a 15%-16% growth year-over-year. We expect float revenue of $145.7 million, an increase of $4.2 million compared to the prior guidance driven by higher expected yields on funds held for customers. We now expect total revenue to be in the range of $1.642 billion-$1.652 billion. Turning to the bottom line, we now expect non-GAAP operating income in the range of $303.6 million-$308.6 million. This represents a non-GAAP operating margin of approximately 19%."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "timestamp": null,
+      "text": "Our updated operating income guidance implies a year-over-year margin expansion of more than 460 basis points, excluding the benefit of float. Relative to our initial fiscal 2026 guidance, this updated outlook reflects more than 270 basis points of additional margin improvement. We expect non-GAAP net income in the range of $298.7 million-$302.7 million and non-GAAP EPS to be between $2.61 and $2.64. For fiscal 2026, we now expect stock-based compensation expenses to be below $250 million. Looking ahead, I want to provide additional context on the workforce optimization Ren\u00e9 referenced. As we transform BILL into an AI-native organization, we are aligning our cost base to that future."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "timestamp": null,
+      "text": "We expect this initiative to generate approximately $110 million in gross annualized savings with approximately $20 million-$30 million reinvested in critical growth areas in FY 2027. These net savings will deliver further margin expansion and provide capacity to scale our highest return opportunities, reinforcing our ability to drive growth with operational discipline, as we've demonstrated throughout the year. Separately, we want to provide you with an update regarding our Investor Day. Given the material changes to our strategic priorities and organizational structure, it is imperative that we are 100% focused on delivering strong outcomes for our customers, employees, and shareholders. Consequently, we are pushing out the timing of our Investor Day. We look forward to providing additional color on our framework for Rule of 40 and GAAP margin expansion opportunity during our August earnings call."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "timestamp": null,
+      "text": "In closing, we delivered a strong Q3 with accelerating margin expansion and GAAP profitability. The changes we are making position us to compound efficiency gains and deliver durable growth in the years ahead. Now we'll open up the call for Q&A."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "We will now begin the question-and-answer session. Please limit  yourself to one question and one follow-up. If you would like to ask a question, please press star one on your telephone keypad. To withdraw your question, press star one again. Please pick up your handset when asking a question. If you are muted locally, please remember to unmute your device. Please standby while we compile the Q&A roster. Your first question comes from the line of Tien-tsin Huang of JPMorgan. Your line is open. Please go ahead."
+    },
+    {
+      "speaker": "Tien-tsin Huang",
+      "timestamp": null,
+      "text": "Hi, thanks so much for taking the question. Just guys, I wanted to ask on the workforce optimization. I know, Ren\u00e9, it's not an easy decision like you said. I'm curious, can you just comment on why is 30% the right magnitude? What should we track to see if the restructuring is working beyond the cost savings that you laid out? You know, what are the risks in doing this? I know it's been a theme for the group. You talked about AI, just love to hear a little bit more on the decision and where you landed."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "Thanks, Tien-tsin. Appreciate the question. This is a pivotal moment and opportunity for BILL. We've been working a long time building financial solutions that solve the operational problems that businesses have from top to bottom. We've got tremendous scale, we've got tremendous assets, which I'll talk about, and there's an opportunity with AI to extend that to the Fortune 5 Million in ways we've never seen. I'll get to why AI is a part of it because I want to answer your question, you know, first. The summary is that building in an AI world where the distance and time between ideation and execution is shrinking rapidly and compressing requires a different organizational structure. We have to drive focus and clarity across the organization at a speed that we haven't had to do in the past."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "AI enables that, and it also requires a different structure for that. When we look at what it is that we want to accomplish with AI, we have big dreams. We understand the reality in these dreams because we've been successfully rolling out agents and seeing strong adoption. Over 100,000 customers have adopted some of our agents already, and we're just getting started. We see efficiencies across the organization, which you see in the bottom line results that we produce quarter in and quarter out. Those dreams require that we align the organization with where it is that we're going. You're right, this is an exceptionally hard decision. These are colleagues that I care deeply about. Having to part ways with people that have contributed to our success today is not easy."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "When we get to the size, this is all about what is the structure of the organization that's required to execute in an AI world? What is the investment that we think we need to put back into the company? It's also a combination of just understanding where we are in our journey as a company. We, you know, we have been public now for a few years. We are driving, you know, strong profitability, but we also know that balancing growth and profitability is central to the success of any company. When we look at the opportunity for us to drive that, to help ensure the success of the company going forward in such a transformative period, we know and decided that we needed to have more profitability as part of the overall financial picture for BILL."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "I think in summary, I would say like this is us leaning into AI. It's us seeing the successes that AI has already enabled inside of BILL, and it's getting the structural components of how you build product, which will be very different, already is different. We already see that in an AI world and having that align with the team that we have. You know, I think it's, you know, it's what we'll be able to do is exciting, and like you said, it's a hard decision."
+    }
+  ],
+  "qAndA": [
+    {
+      "speaker": "Tien-tsin Huang",
+      "timestamp": null,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Tien-tsin Huang",
+      "timestamp": null,
+      "text": "No, sorry, I didn't want to cut you off. I respect the answer. Did you have another thought?"
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Tien-tsin Huang",
+      "timestamp": null,
+      "text": "I had a quick follow-up."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "Yeah, no, I, Yeah, quick follow-up's fine."
+    },
+    {
+      "speaker": "Tien-tsin Huang",
+      "timestamp": null,
+      "text": "No, I, like I said, I respect the answer there. Ren\u00e9, I'm sure you'll get some other questions, but maybe just a quick follow-up on, unrelated, just on the share repurchase, just to get it out the way. I'm getting some questions. Just $1 billion, obviously a big number. Is that a programmatic buyback that you're announcing? Is it gonna be more opportunistic? Just talk to us a little bit about how you plan to execute that share repurchase."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "Yeah. I'll start, and then I'll let Rohini add to some of the details. I mean, I think the first thing that I wanna make clear, you know, when we at the company, the management team, the board, when we look at the success that we've been able to drive across the past year and achieving the initiatives that we set out, the financial results that we're producing, the cash flow that we're producing, and we look at, you know, where the share price is today, we think it's a significant opportunity to actually return value to shareholders by essentially retiring some shares."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "When we as a board talked about this, you know, we wanted to make sure that we would, you know, be able to go as big as we could to make sure that people understood our intentions and that we would get into market, I think, as soon as possible. Rohini, kind of talk to that."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "timestamp": null,
+      "text": "Absolutely. All I would add to everything Ren\u00e9 said is, you know, when we make these big capital allocation decisions, we do them very thoughtfully. We analyze the available cash, the strength in our balance sheet, and not only the free cash flow we generate today, but the opportunity of what we would do in the next few years gets us really comfortable to be able to do this size of a buyback. You know, we've created a set of parameters in which we are ready to execute on it, Tien-tsin, as soon as we can. That's all I would add."
+    },
+    {
+      "speaker": "Tien-tsin Huang",
+      "timestamp": null,
+      "text": "Understood. Thank you both."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "Your next question comes from the line of Bryan Keane of Citi. Your line is open. Please go ahead."
+    },
+    {
+      "speaker": "Bryan Keane",
+      "timestamp": null,
+      "text": "Hey guys, congrats on the solid results here. Ren\u00e9, obviously the lean in on AI is apparent here, and we can think about the productivity gains obviously that'll help the bottom line. What about the top line? any call-outs that AI could help accelerate the core revenue growth of the business?"
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "Great question, Bryan. The short answer is absolutely. There's a couple of ways that we see, you know, AI leveraging the overall business that we've built. First would be just in building amazing, great products. We have a massive market in front of us, and you just look at the adoption that we've had, that the market has, it's still in the very early days. I think, you know, one of the key things there is that the approach, if you will, that we've taken to date in building our solution has been what I would call a do-it-with-you approach. We help customers figure out their financial operations. We guide them through the process. AI is gonna change that from a guide to actually a do."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "It's gonna become a do it for you, and we think that will you know, dramatically expand the market. One way is we will drive more customers onto the platform because of AI. The other way is we will be creating more value, and that will create more monetization, you know, opportunities that we haven't even, you know, put out there yet. It's not just gonna be subscription and transaction revenue. You know, as we move from task-based kind of capabilities to jobs and roles, there will be opportunities to kind of monetize those agents differently than we've seen before. You know, let me just step back because I think it's super important to think about, you know, how it is that BILL's going to win in this space."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "You know, the first thing I would just say is we invented this category, and we are disruptors at heart. AI represents an opportunity to accelerate that disruption in ways others can't easily replicate. We're playing offense here. The SMBs that we care about, they're tired of managing their back office. They want the work to get done, and they want it to get done better. Our ability to kind of go serve that market, to be able to deliver that promise to the SMBs, is predicated on two critical factors. One is knowing what to build and how to build it. Those are the two things. How to build it comes down to the assets that we as a company have built carefully and methodically over the last few decades here."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "I think there are some unique advantages that we have in an AI world that others don't have readily. Those advantages divide into kind of three key pillars. The first I would say is we have proprietary context. We have a data repository that has tremendous amounts of data, whether you think of that as transactions or documents or collaboration or connections to your network members, and that data provides a depth of insight that nobody else has at this point. The second thing we have is we've productized the operational complexity that is across the financial operations of every SMB in this country. We make it so that it's essentially click wrap. You sign, click, and you point buttons. We have, you know, dozens of payment capabilities. We have obviously the 8 million entities in our network that we connect to."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "This is and represents the last mile of execution that's required to actually move to a do it for you environment. Again, nobody else has what we have. Finally, in an AI world and any new technology, the thing that is the linchpin for adoption is trust. We are trusted across our partners, across close to half a million customers, and that trust is because of the things that we do around money movement. It's a regulated area. It should be, in my opinion. Customers need to be able to trust how their money moves, when it moves, and where it's going. Our ability to prioritize the decisions that involve AI, because we have the trust of our customers, of our partners, and of our providers at the size and scale that we have, again, nobody else has that."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "You know, we have these capabilities that generic AI has that nobody else has, and we use that in how we build the capabilities. This is the second point that I was making, which is knowing what to build. Knowing what to build comes down to great product management. To me, great product management is all about falling in love with the customer and then obsessing over their pain points, and especially the ones that nobody else cares about or even understands. Then you have to persistently build solutions that address those pain points. We've been doing that. We've been doing that a long time, 20 years, and that persistence is something that leads to knowledge and understanding of what the customer's experience is and their pain points, and that allows us to build solutions that nobody else is even thinking about yet."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "We have advantages with the data that we have and the platform we build, but we also have an advantage in really understanding our customer and the SMBs and the mid-market customers we serve so that we can build the best AI capabilities that will help them move into the do-it-for-you world that is coming. AI is going to accelerate the market. Like I said, it's going to dramatically shrink the time it takes to actually move between idea to execution. We know that this is a game changer, which is why we've made these decisions today."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "These are big decisions, they weren't taken lightly. When you see what we see across our customers, you see the opportunities, you see the complexity and solutions that we've built that solve that complexity for our customers, you get pretty energized about extending this to everybody out there that needs it. That is the source of our decision. Bryan Keane, you're right, there will be plenty of opportunities to drive revenue because of AI, whether it's bringing customers in or adding monetization capabilities for the agents we release to our customers. Thanks for the question."
+    },
+    {
+      "speaker": "Bryan Keane",
+      "timestamp": null,
+      "text": "Thanks so much. Thanks for the thorough answer."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "Your next question comes from the line of Chris Quintero of Morgan Stanley. Your line is open. Please go ahead."
+    },
+    {
+      "speaker": "Chris Quintero",
+      "timestamp": null,
+      "text": "Hey, Ren\u00e9, Rohini, John. Thanks for taking the question here. I wanted to ask on the restructuring. Just curious where within the organization you're really making these changes, and within that $20 million-$30 million that you are reinvesting back into the business, could you provide a bit more color on what exact areas you're looking to double down on?"
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "Thank you, Chris. You know, the first thing that I would say is that, you know, as we become an AI-native company, AI is gonna be a part of every role and every job that's inside of BILL. To your first question, we will be looking across all teams, all levels to actually drive the right structure so that we can, you know, move faster. What we would say is if you step back and think about what I was sharing earlier on AI and how you develop software in AI, it is, it's much faster. The time compression, the distance between ideation and execution, vision execution, it requires a leaner, flatter organization. To your first question, it will be, you know, across the organization."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "It definitely obviously, makes it hard. It is something that we believe is the right structure for the company. I think on the second question, I'll let Rohini take that one."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "timestamp": null,
+      "text": "Absolutely. As Ren\u00e9 had fairly emphatically mentioned, the number one priority for us is going to be the AI-native experience build, which we have to do most efficiently, effectively, and fast. That is going to be one of the key areas of our investment, getting the right talent, the tools, the infrastructure around it. Chris, that's where we will invest most in."
+    },
+    {
+      "speaker": "Chris Quintero",
+      "timestamp": null,
+      "text": "Understood. Thank you very much."
+    },
+    {
+      "speaker": "Ren\u00e9 Lacerte",
+      "timestamp": null,
+      "text": "Thank you, Chris."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "If you would like to ask a question, please press star one on your telephone keypad. To withdraw your question, press star one again. Your next question comes from the line of Darrin Peller of Wolfe Research. Your line is open. Please go ahead."
+    },
+    {
+      "speaker": "Speaker",
+      "timestamp": null,
+      "text": "Hey, guys, this is Josie on for Darrin. Thank you for taking my question. I just wanted to ask on your AP/AR customer net adds, so that came in a little bit better than we had expected at 4,000. I know you mentioned that as you kinda move up market, this may come down. Just wondering how we should think about that metric versus, you know, TPV per customer or ARPU as you move up market. Thank you."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "timestamp": null,
+      "text": "Yeah, I can take that question. Thank you for the question. We had earlier in the prior earnings said that, you know, we'd given some color on the NNAs, it'll be slightly below 4,000. We actually got some good results with the wealth management firms as the teams went after that set of the customers and got some uptick in Q3, which got us to the 4,100. Now, those are lumpy acquisition and not as consistent quarter-over-quarter. What we are saying now is we continue to believe we will be, you know, a little below 4,000 number, and that's the color we'd like to add for the NNAs. On the TPV per customer and TPV metrics, we're fairly stable where we are in Q3."
+    },
+    {
+      "speaker": "Rohini Jain",
+      "timestamp": null,
+      "text": "We expect to see similar results going forward in Q4."
+    }
+  ],
+  "totalTurns": 75
+}

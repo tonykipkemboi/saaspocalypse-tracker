@@ -1,0 +1,79 @@
+{
+  "ticker": "APPF",
+  "period": "Q1 2026",
+  "eventDate": "2026-04-23",
+  "preparedRemarks": [
+    {
+      "speaker": "Lori Barker",
+      "timestamp": "",
+      "text": "Thank you operator. Good afternoon everyone. I'm Lori Barker, Investor Relations for AppFolio, and I'd like to thank you for joining us today as we report AppFolio's first quarter 2026 financial results. With me on the call today are Shane Trigg, AppFolio's President and CEO, and Tim Eaton, AppFolio's CFO."
+    },
+    {
+      "speaker": "Lori Barker",
+      "timestamp": "",
+      "text": "Before we get started, I would like to remind everyone of AppFolio's safe harbor policy. Comments made during this conference call and webcast contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 and are subject to risks and uncertainties."
+    },
+    {
+      "speaker": "Shane Trigg",
+      "timestamp": "",
+      "text": "Thanks, Lori, and welcome to everyone joining us today. AppFolio is off to a strong start in 2026. First quarter revenue reached $262 million, a 20% year-over-year increase, and up from the 16% year-over-year increase we delivered in Q1 2025. non-GAAP operating income grew 36% and was 27.3% of revenue, and GAAP operating income increased 50% and was 19.4% of revenue. We had the best first quarter in company history for residential new business unit acquisition."
+    },
+    {
+      "speaker": "Shane Trigg",
+      "timestamp": "",
+      "text": "Units on platform grew to 9.5 million, in line with our expectations and typical seasonality. This is an exciting time for our business and our industry. AI is powerful, and we're putting it to work across every dimension of our business, accelerating performance for our customers while driving greater efficiency across our own operations."
+    },
+    {
+      "speaker": "Shane Trigg",
+      "timestamp": "",
+      "text": "At our annual Future Conference last year, we introduced Real Estate Performance Management, what we call RPM, a new way of thinking about value creation in real estate. RPM represents a fundamental shift from reactive, task-oriented property management to a holistic practice of delivering value across the entire real estate ecosystem."
+    },
+    {
+      "speaker": "Shane Trigg",
+      "timestamp": "",
+      "text": "Achieving that requires a performance platform that provides the harness for intelligent AI orchestration in real estate. With an AI-native architecture of three interconnected systems, a system of record, a system of action, and a system of growth, all accessible through one unified experience."
+    },
+    {
+      "speaker": "Shane Trigg",
+      "timestamp": "",
+      "text": "There's a unique advantage in operating a mission-critical platform in a vertical market, sitting at the center of how our customers operate their business. Compliance is embedded in how our platform works, not layered on after the fact, and the domain knowledge we've encoded across residential real estate is sharpened by tens of thousands of customers. Our Realm-X Performers are fully operational AI agents built directly into the platform, taking ownership of entire workflows and doing the work with and for our customers."
+    },
+    {
+      "speaker": "Shane Trigg",
+      "timestamp": "",
+      "text": "Our first strategic pillar is differentiate to win, starting with our system of action. Our AI strategy is producing measurable commercial outcomes at scale. More than 99% of our nearly 23,000 customers are now using some form of our AI-powered Realm suite. AI actions are up 7x year-over-year, and Performer adoption has grown almost 500% quarter-over-quarter. The Business Intelligence Group has recognized this momentum, naming AppFolio a 2026 Artificial Intelligence Excellence Award winner in the Agentic AI category."
+    },
+    {
+      "speaker": "Shane Trigg",
+      "timestamp": "",
+      "text": "Maintenance Performer is a good example since it tackles a workflow that's universal in property management. Resident issues don't stop at 5:00 P.M., and neither does AppFolio. Over half of all work orders are submitted after hours, and Realm-X Maintenance Performer is there to respond to residents in an average of six seconds, triaging and troubleshooting the issue, and automatically creating a work order when needed."
+    },
+    {
+      "speaker": "Shane Trigg",
+      "timestamp": "",
+      "text": "We're successfully attaching AI products when customers sign, expand, or renew with us, reflecting the growing value they see in our platform and continuing to drive growth for AppFolio. That value is rooted in how AppFolio is built. A unified platform that tightly connects the system of record and the system of action provides the harness for intelligent AI orchestration. Our AI agents operate directly on governed real-time data in transactional workflows, reducing latency, avoiding connector fragility, and improving accuracy and security. AppFolio's AI data architecture gives agentic capabilities native access to the underlying data model and execution layer, enabling more reliable automation, better orchestration, and faster results."
+    },
+    {
+      "speaker": "Shane Trigg",
+      "timestamp": "",
+      "text": "AI-native engineering is changing how we build. We're compressing the time from concept to deployment, enabling our teams to design, code, test, and refine products with greater speed and precision. That means more value in the hands of our customers faster. This shift is freeing our engineers to pursue the work that compounds long-term platform value, including market and customer opportunities that otherwise may have taken us longer to address. Our growing efficiency is reflected in our financial performance as we reduced R&D as a percentage of revenue year-over-year."
+    },
+    {
+      "speaker": "Tim Eaton",
+      "timestamp": "",
+      "text": "Thank you, Shane. I am pleased with our first quarter results and strong start to 2026. In the first quarter, we delivered revenue of $262 million, growing 20% year-over-year compared to $218 million in Q1 2025."
+    },
+    {
+      "speaker": "Tim Eaton",
+      "timestamp": "",
+      "text": "Subscription services revenue grew 18% year-over-year to $58 million. This growth was driven by winning new customers, growth in total units under management, and an increasing number of customers upgrading to our Plus and Max premium tiers. This tier upgrade trend reflects the growing value customers are finding in Realm-X Flows, our AI-powered workflow automation engine."
+    },
+    {
+      "speaker": "Tim Eaton",
+      "timestamp": "",
+      "text": "First quarter revenue from value-added services grew 22% year-over-year to $201 million. Resident Onboarding Lift and Realm-X Performers, comprising our leasing, maintenance, and resident messenger AI agents, are also increasing their contribution to value-added services revenue."
+    }
+  ],
+  "qAndA": [],
+  "totalTurns": 15
+}

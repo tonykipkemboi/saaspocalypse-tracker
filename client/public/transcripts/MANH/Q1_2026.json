@@ -1,0 +1,410 @@
+{
+  "ticker": "MANH",
+  "period": "Q1 2026",
+  "eventDate": "2026-04-21",
+  "preparedRemarks": [
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "As a reminder, ladies and gentlemen, this call is being recorded today, April 21st, 2026. I would now like to introduce you to your host, Mr. Michael Bauer, Head of Investor Relations of Manhattan Associates. Mr. Bauer, please go ahead."
+    },
+    {
+      "speaker": "Michael Bauer",
+      "timestamp": null,
+      "text": "Great. Thanks, Joe, and good afternoon, everyone. Welcome to Manhattan Associates 2026 first quarter earnings call. I will review our cautionary language and then turn the call over to our President and Chief Executive Officer, Eric Clark. During this call, including the Q&A session, we may make forward-looking statements regarding future events or Manhattan Associates' future financial performance. We caution you that these forward-looking statements involve risk and uncertainties, are not guarantees of future performance, and actual results may differ materially from the projections contained in our forward-looking statements. I refer you to Manhattan Associates' SEC reports for important factors that could cause actual results to differ materially from those in our projections, particularly our annual report on Form 10-K for fiscal year 2025 and the risk factor discussion in that report and any risk factor updates we provide in our subsequent Form 10-Q."
+    },
+    {
+      "speaker": "Michael Bauer",
+      "timestamp": null,
+      "text": "Please note that the turbulent global macro environment could impact our performance and cause actual results to differ materially from our projections. We are under no obligation to update these statements. In addition, our comments include certain non-GAAP financial measures to provide additional information to investors. We have reconciled all non-GAAP measures to the related GAAP measures in accordance with SEC rules. You'll find reconciliation schedules in the Form 8-K we filed with the SEC earlier today and on our website at manh.com. Now I'll turn the call over to Eric."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "Great. Thank you, Mike. Good afternoon, everyone, and thank you for joining us as we review our first quarter results and discuss our increased full year 2026 outlook. Manhattan is off to a strong start to 2026, navigating a volatile global macro, reporting record better than expected results. On solid demand, our Q1 revenue growth accelerated, highlighted by 24% growth in cloud revenue, and our services revenue growth also continues to steadily improve. Throughout 2025, we spoke about the strategic investments that we're making to improve our go-to-market effectiveness and accelerate our selling velocity. While results from these initiatives will certainly not be linear, these investments have started to pay off in the first quarter and contributed to RPO increasing 24% to $2.35 billion."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "New customer bookings remain strong as over 55% of new cloud bookings were generated from net new logos, with the largest Q1 deal influenced by Google Cloud Marketplace. We also experienced notable deal volume improvements across all deal types, as well as a larger contribution from products beyond Active\u00ae Warehouse, including Active\u00ae Omni, Active\u00ae Transportation, and Active\u00ae Planning. We had strong bookings from all regions. Our win rate metric continues to be consistently above 70%, and our renewal performance was solid and supportive of the plan that we highlighted last quarter. All of this provides a glimpse into the large opportunity that we have across all of our industry-leading solutions. In summary, bookings momentum continued in Q1, aligning with our goal of accelerating both ramped ARR and cloud revenue growth."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "From a vertical sales perspective, our end markets are diverse, and we have healthy established footprints across numerous sub-sectors, which include retail, grocery, food distribution, life sciences, industrial, technology, airlines, third-party logistics, and more. For example, Q1 deals included a global retailer that became a new logo Active\u00ae Warehouse and Active\u00ae Transportation customer. One of the world's largest retailers became a new logo Active\u00ae Omni customer. A large auto parts distributor became a new logo Active\u00ae Warehouse and Active\u00ae Omni customer. An HVAC-focused distributor became a new logo Active\u00ae Warehouse and Active\u00ae Transportation customer. A global wellness retailer converted from on-prem to Active\u00ae Warehouse, and a multinational food distributor that was an existing Active\u00ae Transportation customer expanded to become an Active\u00ae Warehouse customer. In addition to several other impressive Q1 deals, our Active Agent pilot program is off to a better than expected start."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "As I mentioned last quarter, our Active\u00ae Agent offering consists of two primary elements, a set of base agents ready to be activated immediately, and our Agent Foundry offering, which enables our customers to quickly build and deploy their own agents within the Active\u00ae Platform. Because we build all these agents directly into the Active\u00ae Platform, our customers don't need to implement costly and complex external data lakes to make them work. Our unified cloud-native API-first architecture enables us to deploy agents with almost no configuration or additional upfront effort, embedding AI agents directly into the workflow. No data lakes, no latency, deployed in minutes, not months, creating value for our customers in real time."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "Although our AI product set has only been in the market for one full quarter, we have an impressive list of pilots and paying customers that stretches across our diverse end markets and includes some of the world's most distinguished and identifiable organizations. For perspective, these customers include a global manufacturer and distributor of engineered components, a global 3PL, a global energy management and industrial automation company, a global manufacturer and distributor of beauty products, a global healthcare services company, as well as several more tier one retail brands, grocery chains, and others. We're very excited that these existing active customers are interested in beginning their agentic journey with Manhattan, and we're focused on helping them drive higher productivity, ROI, and improve levels of customer satisfaction as we expand Active\u00ae Agents across our customer base."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "For this quarter's product update, I'd like to go a bit deeper on our Active Agent Foundry and some of the strong deployment results, which provide a bit more insight into why we believe AI is a significant opportunity for Manhattan and why we are uniquely positioned to win. Core to our agentic AI philosophy is the concept of embedding both interactive and autonomous agents directly within the workflows of our key users. Rather than wave planners and shipping supervisors trying to incorporate standalone, disconnected AI platforms, our Active\u00ae Agents meet them where they live all day, within our waving screens, within fulfillment progress monitors, and within labor planning UIs. By making AI ever present and highly available, our AI capabilities feel natural. They're steeped in both domain expertise and real-time operational data, always making suggestions and ready to take action autonomously."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "Our teams of forward-deployed engineers assist our customers to activate our base agents and to build their own agents using our Agent Foundry. As we look across the early success stories, we see an even balance in the value created by base and custom agents, and we believe that trend will persist. One of the real advantages of building with Foundry is the ability to quickly target specific pockets of opportunity within a particular customer operation. For example, one of our retail customers here in the U.S. saw a 5% improvement in order cycle times and reduced labor requirements in their largest distribution center via the use of a Foundry-developed custom agent. In this case, the agent dynamically reallocates resources to ensure replenishments are completed in time for orders to be fully picked and shipped."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "The continual matching of work to be completed within the requisite resources available is one of the most challenging issues a DC operator deals with nonstop each day. Unlike a manufacturing facility with a steady and predictable flow of work, DCs experience continuous peaks and valleys of different types of activity. This variability is driven by the inherent unpredictability of customer ordering and the high variability of what actually makes up those orders. In this case, the Active Agent looks both upstream and downstream, dynamically determining the work that needs to be done in each zone, and continuously optimizes the assignments to ensure orders are complete and to maximize order shipment volume. The next example of a Foundry-created agent comes from one of our healthcare customers. From an operational standpoint, it's often just a few unfilled units which stand in the way of large orders being ready to ship."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "This customer worked with our forward-deployed engineers to create an agent which actively seeks out these aging units, ensuring that tasks are created and prioritized to get shipments completed faster. The use of this agent resulted in a double-digit % reduction in loading times and improvement in on-time shipment departures. On the base agent front, a number of our customers are using our Wave Coordinator Agent to make sure orders are effectively turning into executable tasks. This agent finds and repairs any data conditions within items, orders, tasks, or users, which prevent the optimal flow of work to the floor, ensuring every unit on every line on every order has a path to clean execution. Specifically, this agent resulted in improved on-time shipments for one of our food distribution customers, as exceptions requiring triage were reduced by up to 75%."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "For one of our industrial distribution customers, this very same agent increased line shipped by over 30% and improved order cycle times by over 25%. Now, these are meaningful improvements that drive revenue and ROI for our customers. By leveraging case studies like this, in Q1, we saw strong demand for Active\u00ae Agents. We now have dozens of customers in various stages of AI maturity, exploring and realizing benefits as we leverage our FDE teams to continue to build additional agents for these customers and introduce the Active\u00ae Agent Foundry to more of our Active customers. As you'd imagine, Active\u00ae Agents will feature prominently at our Momentum user conference next month. Each of our product tracks will feature the latest in our agentic AI capabilities, and we'll have a number of customers giving testimonials to the power of our embedded Active\u00ae Agents."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "One of the important additions to this year's conference will be an Active\u00ae Agent Boot Camp. The day before the conference begins, we'll host an interactive session where customers can get hands-on experience with Foundry. They'll choose a relevant issue from their own operations and work in a live sandbox, guided by our FDE team, to build and test their agents. This hands-on experience is key to moving quickly from interest to production use cases. We're happy to give as many customers as we can an opportunity to experience the ease and power of our Active\u00ae Agent Foundry. We can't wait to see what they come up with in Las Vegas next month. I'll close out my product updates by providing a bit more detail on two important wins that I highlighted earlier. First, we closed a substantial new logo order management deal with one of the world's largest retailers."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "This deal represents our largest ever OMS bookings deal and speaks to the ongoing power of having the most capable and scalable OMS product in the industry. While historically, this customer chose to build their e-commerce tech stack in-house. Their e-commerce business grew in scale and complexity to the point where they no longer believed it made sense to build the back-end intelligence layer on their own. We're proud to welcome them into the Manhattan family. Finally, the power of solution unification continues to deliver for us, both during the sales process and in our implementation results. We're bringing solutions to life only possible when warehouse and transportation are truly unified. We closed a large unified warehouse and transportation deal at a major retailer in Q1, in large part due to the power and simplicity of running a single application for distribution and logistics."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "That unified approach lowers integration complexity and accelerates time to value. This win adds to the growing list of customers recognizing the value of the unified active platform. Next month at Momentum, our customers and prospects will hear directly from one of our large retail customers as they share the valuable benefits they're already achieving from having warehouse and transportation live together on the active platform. With a strong pipeline across our product suite, numerous opportunities to drive growth, and our unique ability to consistently deliver leading innovation to the supply chain commerce universe, we're very optimistic about our long-term growth opportunity. That concludes my business update. As you all know, we have a new Chief Financial Officer. Before I introduce Linda, I'd like to thank Dennis Story for all of his contributions over the past 20 years."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "Now I'd like to introduce you to our new Chief Financial Officer, Linda Pinne. As many of you know, Linda previously served as our Global Corporate Controller and Chief Accounting Officer, and with her 20+ years of experience right here at Manhattan, she brings a wealth of company-specific industry and financial expertise that I'm sure all of you will appreciate. With that, I'll hand it over to Linda to report on our financial performance and outlook, and then I will close out our prepared remarks before we open it up to Q&A. Linda, over to you."
+    },
+    {
+      "speaker": "Linda Pinne",
+      "timestamp": null,
+      "text": "All right. Great. Thanks, Eric. Before I jump into the numbers, I'd like to thank Eric and the board for the opportunity to lead our talented finance team. I look forward to helping Eric and the rest of the team execute on the enormous opportunity in front of us. Regarding Q1, our global teams continued to perform well, delivering better than expected top and bottom line results in a volatile macro environment. FX volatility continues to impact us. In Q1, it was a 2-point tailwind to year-over-year total revenue growth, which was in line with the outlook we provided last quarter. However, it was an approximate $5 million headwind to sequential RPO growth and about a $25 million tailwind to year-over-year RPO growth. Now to our results. Our growth rates are reported on a year-over-year basis unless otherwise stated."
+    },
+    {
+      "speaker": "Linda Pinne",
+      "timestamp": null,
+      "text": "For the quarter, total revenue was $282 million, up 7%. Excluding license and maintenance revenue, which removes the compression driven by our cloud transition, our total revenue was up 13%. Cloud revenue increased 24% to $117 million. The better than expected performance was driven by a combination of strong execution, catch-up overage fees, and lower than modeled churn rates of our renewal portfolio. Services revenue was also better than expected and increased 4% to $126 million. We ended Q1 with RPO of $2.35 billion, up 24% compared to the prior year and 5% sequentially. As Eric previously highlighted, the strong Q1 performance was driven by a good mix of both sales from new and existing customers. This includes renewals, which were in line with our 2026 annual plan that we discussed last quarter."
+    },
+    {
+      "speaker": "Linda Pinne",
+      "timestamp": null,
+      "text": "Contract duration remains at about five in a half to six years, resulting in 38% of RPO to be recognized as revenue over the next 24 months. Q1 adjusted operating profit was $91 million, with an operating margin of 32.4%. The better-than-expected performance was driven by strong cloud revenue growth, which offset some of the increased go-to-market investments we highlighted in Q4. Turning to EPS, we delivered better than expected adjusted earnings per share of $1.24, up 4%. GAAP EPS was $0.82, down 4%, and was adversely impacted by higher than expected tax expense due to a decrease of stock-based compensation benefits. Moving to cash, Q1 operating cash flow increased 12% to $84 million, resulting in a 28.3% free cash flow margin and 33.1% adjusted EBITDA margin. Turning to the balance sheet. Deferred revenue increased 20% year-over-year to $356 million."
+    },
+    {
+      "speaker": "Linda Pinne",
+      "timestamp": null,
+      "text": "We ended the quarter with $226 million in cash and zero debt. Accordingly, we leveraged our strong cash position and invested $150 million in share repurchases in the quarter and have $350 million remaining in the share repurchase authority we announced in March. Moving to our 2026 guidance. As noted on prior earnings calls, our goal is to update our RPO outlook on an annual basis. Also, as previously discussed, our bookings performance is impacted by the number and relative value of large deals we close in any quarter, which can potentially cause nonlinear bookings throughout the year. With that, we continue to target RPO of $2.62 billion-$2.68 billion, which represents a range of 18%-20% growth. Moving to the P&L, our long-term and long-standing financial objective is to deliver sustainable double-digit top line growth and top quartile operating margins benchmarked against enterprise software comps."
+    },
+    {
+      "speaker": "Linda Pinne",
+      "timestamp": null,
+      "text": "These are drivers to our best-in-class return on invested capital as we maintain a balanced investment approach to growth and profitability. As Eric highlighted, the macro environment remains volatile. While clarity from external variables remains limited, given our strong Q1 performance, we are raising our full year total revenue, operating margin, and EPS outlooks. This guidance is also provided in today's earnings release. For total revenue, we expect $1.147 billion-$1.157 billion, with the $1.152 billion midpoint comparing favorably to our prior outlook and representing 11% growth, excluding license and maintenance attrition, and 7% all-in. This continues to include a one-point tailwind from FX. For Q2, we continue to target total revenue of $285 million-$289 million. For the rest of the year at the midpoint, our targets remain at about $296 million for Q3 and, accounting for retail peak seasonality, $287 million for Q4."
+    },
+    {
+      "speaker": "Linda Pinne",
+      "timestamp": null,
+      "text": "For adjusted operating margin, we are increasing the midpoint to 35%, up from our prior midpoint of 34.75%, which includes 100 basis points headwind from our license and maintenance revenue attrition to cloud. At the midpoint, we continue to expect adjusted operating margin to be about 34.7% in Q2, 36.9% in Q3, and accounting for retail peak seasonality, 36.1% in Q4. Our full-year adjusted EPS range is increasing to $5.29-$5.37. On a quarterly basis, we are targeting Q2 EPS of $1.30, Q3 of $1.43, and accounting for retail peak seasonality, $1.36 in Q4. For full-year GAAP EPS, our midpoint increases by $0.14-$3.59, and we are targeting Q2 GAAP EPS of $0.86. Here are some additional details on our 2026 outlook."
+    },
+    {
+      "speaker": "Linda Pinne",
+      "timestamp": null,
+      "text": "We are increasing our cloud revenue midpoint to $495 million, representing 21% growth, and continue to target $121.5 million in Q2, $126 million in Q3, and $130.5 million in Q4. We expect services revenue to increase 3% to $518 million, which continues to assume $131.5 million in Q2, $137 million in Q3, and accounting for retail peak seasonality, $124 million in Q4. On attrition to cloud, we expect maintenance to decline 17% to about $108 million, and we continue to target $27 million in Q2, $25.5 million in Q3, and $25 million in Q4. We expect license to be about $1 million per quarter and hardware to range between $6 million-$6.5 million per quarter. Finally, we expect our tax rate to be about 22% and our diluted share count to be about 60 million shares, which assumes no buyback activity."
+    },
+    {
+      "speaker": "Linda Pinne",
+      "timestamp": null,
+      "text": "In summary, a great start to the year and solid execution by the Manhattan team. Thank you, and back to Eric for some closing remarks."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "Great. Thank you, Linda. We're very pleased with our strong start to 2026 and our continued business momentum. Manhattan's business fundamentals are solid, and we have numerous opportunities to continue to accelerate profitable growth and reduce time to value for our customers. Thanks to everyone for joining the call, and thank you to our global team for the great execution. That concludes our prepared remarks, and we'd be happy to take any questions."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "Thank you. Ladies and gentlemen, at this time, if you would like to ask a question, please press star one on your telephone keypad and a confirmation tone will indicate your line is in the question queue. You may press star two if you would like to remove your question from the queue. For participants using speaker equipment, it may be necessary to pick up your handset before pressing the star keys. Our first question comes from the line of Terry Tillman with Truist Securities. Please proceed."
+    },
+    {
+      "speaker": "Terry Tillman",
+      "timestamp": null,
+      "text": "Hey, good afternoon. Hi, Eric, Linda, Mike, and Dennis. Nice job on the bookings. Good to see that. I'd be remiss if I didn't say something about Dennis, though. I think that was almost 80 Manhattan calls that I think you've been on. Congrats to all your accomplishments and best of luck in retirement. Linda, congratulations to you as well as the new Chief Financial Officer."
+    },
+    {
+      "speaker": "Linda Pinne",
+      "timestamp": null,
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Terry Tillman",
+      "timestamp": null,
+      "text": "I have two questions. Yep. I had two questions. First, I definitely wanted to ask about Agentic, and Eric, you gave a lot of good color there. I appreciate that. My two-parter on Agentic is, if you look through the rest of the year, how do you see the progression from these pilots and POCs into potentially scaled revenue? The second part is, I saw a demo at NRF going back what seems like months ago, and there is the opportunity to actually let this run autonomously then, like Wave Coordinator Agent. How many of these early adopters are actually just letting it ride and just operate autonomously? I had a follow-up."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "Okay. Yeah. In terms of scaling and monetization, as you know, we launched in Q1, and our primary go-to-market is through a 90-day pilot. That is a paid pilot, and at the end of that pilot, we have the conversation about converting to subscription. In Q2, while we continue to sign up additional pilot customers, we'll also be having conversations with the Q1 customers about conversion to subscriptions. And in fact, those conversations have already begun with many of them. We expect this to continue to scale as we go throughout each quarter, and I think we'll have more clarity on what that means as we go throughout each quarter. We continue to take a conservative approach to the monetization, and we expect to have a bigger impact, obviously, in 2027 than we'll have in 2026."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "In terms of the second part of autonomous agents, all of our agents are designed to be. Well, I shouldn't say that. Most of our agents are designed to be autonomous if they so choose. They can be working alongside a user and providing suggestions to a user, and then when the user feels comfortable, they can allow the agent to work autonomously. Again, you go back to our architecture, that's all microservices, all API-driven. This concept that's been kicked around in the AI space here recently about headless, we're set up for headless. Our user interface can be the screens that we build, or our user interface can be an AI agent."
+    },
+    {
+      "speaker": "Terry Tillman",
+      "timestamp": null,
+      "text": "Yep, got it. It's helpful. Thanks, Eric."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "Yeah. Thank you, Terry Tillman."
+    },
+    {
+      "speaker": "Terry Tillman",
+      "timestamp": null,
+      "text": "Yeah, follow-up question just-"
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "Go ahead."
+    },
+    {
+      "speaker": "Terry Tillman",
+      "timestamp": null,
+      "text": "I don't know who this is for, so I'll throw it out there. On cloud subscription revenue, it was 24% growth. That's acceleration. How much of that, though, was FX? I think you all called out total revenue had about 2-point benefit. Yeah, I'm just curious how much of the revenue acceleration is kind of core versus FX. Then for the full year, maybe an update on FX impact to subscription revenue. Thank you."
+    },
+    {
+      "speaker": "Linda Pinne",
+      "timestamp": null,
+      "text": "Yeah. For the quarter, it was a little bit over 1% tailwind on the cloud revenue. For the full year, we're also expecting about a 1% overall tailwind on our revenue."
+    },
+    {
+      "speaker": "Terry Tillman",
+      "timestamp": null,
+      "text": "Great. Thanks a lot."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "Thank you. Ladies and gentlemen, we do ask that you limit yourselves to one question and one follow-up. Thank you. The next question comes from the line of Brian Peterson with Raymond James. Please proceed."
+    }
+  ],
+  "qAndA": [
+    {
+      "speaker": "Brian Peterson",
+      "timestamp": null,
+      "text": "Thanks. Congrats on the strong quarter. Dennis, it's been really great working with you. I wanted to ask on the RPO, obviously that was much stronger than we expected. The net new mix at 55%, it looks like that held steady. Is there any commonality in the deal timing or the deal sizes that drove some of that net new? Eric, I'd love for you to unpack that a little bit."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "Yeah. I think one of the really good signs that we're seeing, and I mentioned it a bit in my prepared remarks, is the investments that we made and the strategy that we put in place last year to increase deal volume across all of those deal types is paying off. Our deal volume across all these types was up in Q1, so not nearly as dependent on large deals. In fact, our largest two deals we closed in the quarter came from Europe and APAC. We saw a good variation of deal size, and that allows us to, I think, to be more aggressive in that space as well. When you look at the 55%, that kind of continues from the success that we had in new logo last year."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "I've always said, over a period of time, it's kind of going to go back to thirds. We looked at that data, and if you go back three years, over the past three years, it is in thirds. We've been really, really strong the past five quarters of bringing in new logo, and we continue to see great pipeline, and we continue to have great win rates against our competitors. We expect that to continue."
+    },
+    {
+      "speaker": "Brian Peterson",
+      "timestamp": null,
+      "text": "That's great to hear. Eric, I'd love to get an update on some of the fixed services aspects that you were talking about. I know last quarter you mentioned there was some interest in that. Any update on the uptake there, and how should we think about that impacting services in 2026? Thanks, guys."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "Yeah. That kind of goes back again to increase in deal volume, just the number of deals that we closed in Q1, and also increase in deal volume and dollar volume across cross-sells and up-sells. We've got the team actively engaging, looking for those opportunities to expand within our customer base, and we're seeing good success there."
+    },
+    {
+      "speaker": "Brian Peterson",
+      "timestamp": null,
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "The next question comes from the line of Joe Vruwink with Baird. Please proceed."
+    },
+    {
+      "speaker": "Joe Vruwink",
+      "timestamp": null,
+      "text": "Great, and I'll also extend my congrats to Dennis and Linda. More of a thematic question maybe, but when it comes to software categories that still have a fair amount of on-prem deployments, there seems to be a growing appreciation that that's maybe not well suited to take advantage of AI, and so we're starting to hear more anecdotes and feedback that modernization campaigns need to pick up. Obviously, Manhattan kind of has its own irons in the fire to accelerate conversion activity, but are you starting to see the customer mindset change and maybe their planning windows are shifting forward on this idea that they need to pick up the pace?"
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "Yeah. We talked about that last year as well. We started to see some of the tone and the pace changing when we were able to go out and offer fixed fee, fixed timeframe deployments, when they saw a way to get there quicker. Then the fact that we can offer them, once they get to the active platform, we can offer them base agents that they can turn on and use day one. All of these are absolutely creating more interest. I also agree with your point that we've moved up now to about 23% of our on-prem customer base has converted or started the conversion to the cloud, but we still have a large install base and a large opportunity to go do additional conversions. I agree with your point that those probably aren't ripe for AI takeover."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "Those are conversions that are going to happen within our ecosystem."
+    },
+    {
+      "speaker": "Joe Vruwink",
+      "timestamp": null,
+      "text": "Okay. Understood. Just on the strong RPO addition in 1Q, and it seems like that was driven by the new logo performance, even though I appreciate a lot of the good volume there, but I guess the dollars skewed more towards new logos. How much of that maybe relates to this dynamic around ERP upgrades still happening? If you're on maybe in an attach with your ERP vendor historically, you're starting to see that be a feeder and the conversion on that getting upgraded into a Manhattan solution being high?"
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "Yeah, that definitely continues to be a tailwind for us, and we see significant pipeline in that space. I think, same answer that I gave last year when we talked about this, an even bigger tailwind is some of our competitors in the industry that haven't made the investments in cloud and haven't made the investments in a unified platform, we continue to have just off-the-chart win rates when we compete for their incumbents, and we're taking a lot of business from our competitors."
+    },
+    {
+      "speaker": "Joe Vruwink",
+      "timestamp": null,
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "Yep, thank you."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "The next question comes from the line of Dylan Becker with William Blair. Please proceed."
+    },
+    {
+      "speaker": "Dylan Becker",
+      "timestamp": null,
+      "text": "Hey, everybody. Appreciate it, and all our congrats to Dennis and Linda here as well too. Maybe, Eric, starting for you, if we go back to the agentic deployments conversation, I thought it was pretty impressive some of the statistics you disclosed and value those early pilot customers are seeing. I guess to one, maybe the first aspect, how that's maybe driving or fueling your expectation of scaling that proof of concept cohort, if you will, right? Just tied to the value and reference ability that those customers are seeing, as well as maybe layering in conviction on that conversion or their willingness to pay for those agents over time. I understand the conservatism in the framework, but how that's layering confidence in the contribution here over, obviously, 2026 and into 2027."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "Yeah. There's a lot of excitement about the opportunity here. In terms of customers being willing to pay for it, in some of the early conversations we've had around moving from pilot to subscription, there have been customers that have justified the entire ROI just by reduction in overtime. When they look at all the different ways they can get value out of these AI agents, we aren't seeing customers have a problem justify the ROI of what they're getting. That gives us pretty good confidence. Again, we're early, so we're still very conservative in what we're putting in terms of revenue for this year."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "I think you look at what we did in terms of number and volume of deployments and agents that we put in in Q1, in the very first quarter this was available, and I expect that to continue to grow and build as we go through the next three quarters. I think when we start talking about outlook for 2027, there should be a meaningful impact from AI."
+    },
+    {
+      "speaker": "Dylan Becker",
+      "timestamp": null,
+      "text": "Very helpful. Thank you. If we do stick on the topic of accelerated deal volume and velocity attributable to a lot of the structural changes that have taken place over the last year or so, if you will, I think it's impressive to see that the services piece is stepping up, in light of the fixed contract dynamic, I guess. How should we think about or how are you guys thinking about the implications of that relative to the broader software or subscription and services mix shift as you're layering on more cloud contracts and maybe those customers are realizing value faster, that pull forward implication, if you will, to subscription revenues? Thank you."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "No, thank you. It's a great question because, as we've talked about in previous calls, we've got a lot of focus and investment on speed and simplicity and making it faster and easier for our customers to deploy and faster and easier for them to recognize, reduce that time to value. In doing that, obviously, that makes services projects shorter. When you look at our revenue growth, it's because we're doing more services projects. Some of that is the active selling that we're doing into our install base. Some of it is this newfound opportunity around forward deployed engineers. You look at what's happening in the AI space and some of these large foundation companies and model companies are creating partnerships with all of the consultancies out there because they don't have forward deployed engineers."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "Even some of the large cloud companies that have very small services teams, they've got to go create partnerships with those same consulting companies to try to create interest in deploying their AI agents. I think what we're seeing is this services team that we have here at Manhattan has become a massive advantage for us because we are skilling and tooling teams of forward deployed engineers that are made up of people from R&D and services engineers that can very quickly get these agents active and productive and adding value to our customers, and we can do that at scale. I think, again, one of the things that our customers love hearing from us when we're having these AI conversations, because by the way, as you know, they're having AI conversations with every one of their partners and everybody else trying to get in the door."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "We're the only people that can come and say, \"We can turn these on and have you actively using them and getting value on day one."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "The next question comes from the line of George Kurosawa with Citi. Please proceed."
+    },
+    {
+      "speaker": "George Kurosawa",
+      "timestamp": null,
+      "text": "Okay, great. Thanks for taking the questions here. I wanted to touch on the cloud revenue upside, a lot stronger than what we've seen in recent quarters. You called out some components of that in terms of improving churn in the renewal book, I believe, and then something on the overages side. Maybe if you could just double-click on some of those dynamics and how we should think about how sustainable those drivers are going forward."
+    },
+    {
+      "speaker": "Linda Pinne",
+      "timestamp": null,
+      "text": "Yeah. As you mentioned, we mentioned three drivers. One, of course, was just strong execution in the quarter. We also did have some one-time cloud overage fees that would not be recurring. As you noted, we had lower than modeled churn on our renewals. Again, as far as going forward, we're continuing to take a conservative position on our outlook for Q2 to Q4, keeping those metrics in line with what we previously disclosed last quarter, just given the volatility in the macro environment right now."
+    },
+    {
+      "speaker": "George Kurosawa",
+      "timestamp": null,
+      "text": "Okay. That's great color and makes sense. I wanted to touch on this forward-deployed engineer concept you just touched on, Eric. Maybe if you could talk about, as that's a concept you guys have been leaning into in the most recent quarters, what you had to change structurally, if there's any specific hiring that you had to do, just how you've sort of put that group into place and maybe if you could just talk a little more about the impact that you're seeing there?"
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "Yeah. As I mentioned a quarter ago, we were hiring early in Q1, and to date, we've added about 120 headcount into our services team, and we've got another roughly 70 either pending start or open. We continue to add talent into our services team. Really, that's just based on demand. When you look at what we're doing with forward deployed engineers, the bulk of those FDEs are coming from people that have experience here at Manhattan across the services engineering team and the R&D team, because we want people that are deep in our product and deep in understanding supply chain and deep in understanding our customers' needs so that we can quickly create those custom agents within the foundry."
+    },
+    {
+      "speaker": "George Kurosawa",
+      "timestamp": null,
+      "text": "Great. Thanks for taking the questions."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "The next question comes from the line of Guy Hardwick with Barclays. Please proceed."
+    },
+    {
+      "speaker": "Guy Hardwick",
+      "timestamp": null,
+      "text": "Hi. Good afternoon."
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "Hi."
+    },
+    {
+      "speaker": "Guy Hardwick",
+      "timestamp": null,
+      "text": "A question on the pilot. Once the 90-day pilots are completed, what kind of uplift are you seeing in terms of percentage uplift to the SaaS subscription contracts?"
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "Yeah, it varies. We're not disclosing price list information on that, but it varies based on how they're using it, where they're using it. All of AI has a cost, right? How many times are you hitting LLMs and how many APIs and et cetera? It's a unique conversation with each customer."
+    },
+    {
+      "speaker": "Guy Hardwick",
+      "timestamp": null,
+      "text": "Okay. I think I understand that you have guided to the margins to be similar for SaaS. Is that correct?"
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "Yes. Yeah, we've modeled it so that the margin remains consistent."
+    },
+    {
+      "speaker": "Guy Hardwick",
+      "timestamp": null,
+      "text": "Okay. Just sorry, my follow-up, actually. In terms of the fixed-fee deployments, what percentage of the services revenue is that now, or what you expect it to be this year?"
+    },
+    {
+      "speaker": "Eric Clark",
+      "timestamp": null,
+      "text": "I don't have an answer for that. We haven't modeled that. That's something that we'll continue to do more and more fixed fee, because as we put more and more automation and AI into the way we deliver services, that's part of how we sell the value of what we're delivering. When you're using AI and automation, you don't want to sell services by the hour. You want to sell it by the outcome."
+    },
+    {
+      "speaker": "Guy Hardwick",
+      "timestamp": null,
+      "text": "Okay. Thank you."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": null,
+      "text": "The next question comes from the line of Parker Lane with Stifel. Please proceed."
+    }
+  ],
+  "totalTurns": 107
+}

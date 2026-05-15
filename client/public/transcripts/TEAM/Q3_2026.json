@@ -1,0 +1,360 @@
+{
+  "ticker": "TEAM",
+  "period": "Q3 2026",
+  "eventDate": "2026-04-30",
+  "preparedRemarks": [
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "Good afternoon. Thank you for joining Atlassian's earnings conference call for the third quarter of FY 2026. This conference call is being recorded and will be available for replay on the investor relations section of the Atlassian website following this call. I will now hand the call over to Martin Lam, Atlassian's Head of Investor Relations."
+    },
+    {
+      "speaker": "Martin Lam",
+      "timestamp": "",
+      "text": "Welcome to Atlassian's third quarter fiscal year 2026 earnings call. Thank you for joining us today. On the call with me today, we have Atlassian's CEO and Co-Founder, Mike Cannon-Brookes, and Chief Financial Officer, James Chuong. Earlier today, we published a shareholder letter and press release with our financial results and commentary for our third quarter of fiscal year 2026. The shareholder letter is available on the investor relations section of our website, where you will also find our other earnings-related materials, including our earnings press release and supplemental investor data sheet. As always, our shareholder letter contains management's insight and commentary for the quarter. During the call today, we'll have brief opening remarks and then focus our time on Q&A. This call will include forward-looking statements. Forward-looking statements involve known and unknown risks, uncertainties, and assumptions."
+    },
+    {
+      "speaker": "Martin Lam",
+      "timestamp": "",
+      "text": "If any such risks or uncertainties materialize or if any of the assumptions prove incorrect, our results could differ materially from the results expressed or implied by the forward-looking statements we make. You should not rely upon forward-looking statements as predictions of future events. Forward-looking statements represent our management's beliefs and assumptions only as of the date such statements are made, and we undertake no obligation to update or revise such statements should they change or cease to be current. Further information on these and other factors that could affect our business performance and financial results is included in filings we make with the Securities and Exchange Commission from time to time, including the section titled Risk Factors in our most recently filed annual and quarterly reports. During today's call, we will also discuss non-GAAP financial measures."
+    },
+    {
+      "speaker": "Martin Lam",
+      "timestamp": "",
+      "text": "These non-GAAP financial measures are in addition to, and are not a substitute for or superior to financial measures of financial performance prepared in accordance with GAAP. A reconciliation between GAAP and non-GAAP financial measures is available in our shareholder letter, earnings release, and investor data sheet on the investor relations section of our website. We'd like to allow as many of you to participate in Q&A as possible, so out of respect for others on the call, we'll take one question at a time. With that, I'll turn the call over to Mike for opening remarks."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "Thank you all for joining us today. As you've already read in our shareholder letter, we delivered some incredible Q3 results. Total revenue grew 32% year-over-year to $1.8 billion. Cloud revenue surpassed $1.1 billion and accelerated to 29% growth year-over-year. RPO grew again 13% year-over-year to $4 billion. These are largely thanks to our team's excellent execution and clear momentum across our key strategic priorities: enterprise, AI, and the system of work. This quarter, some of the world's largest enterprises, including Siemens Energy, Rheinmetall, and Wayfair, deepened and broadened their commitments to Atlassian. In AI, we continue to add millions of monthly active users to Rovo, and our AI Rovo credit usage is growing at more than 20% month-over-month."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "Customers using Rovo are also growing their ARR at roughly two times the rate of customers who are not using Rovo, contributing to our strong Cloud outperformance and expansion in the quarter. More and more enterprises are embracing our platform-wide vision, using Atlassian system of work to see the full picture of their organization. This is because the Teamwork Graph connects knowledge, work, people, and code, giving our customers one of the richest enterprise context graphs in the world. Context is a clear differentiator for us, and we're seeing this as our competitive momentum builds. This is our largest ever quarter for competitive displacements from a major ITSM provider. We're taking share from rivals as customers move away from legacy systems and choose Atlassian for a more modern, AI-native, and much better value service platform."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "As I've said before, I believe AI is one of the best things that has ever happened to Atlassian. In a world where humans will run teams of agents, context is the only anchor to avoid chaos, and we believe that companies who prioritize context will become truly AI native. With Atlassian, our customers aren't just choosing software, they're choosing the kind of company that they want to become. This is a time of significant change in our industry, and we're moving forward with strong conviction and discipline. We're focused on executing, delivering customer value, and driving durable, profitable growth. With that, I'll pass the call to the operator for Q&A."
+    }
+  ],
+  "qAndA": [
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "Your first question comes from Arjun Bhatia from William Blair. Please go ahead. Your first question comes from Keith Weiss from Morgan Stanley. Please go ahead."
+    },
+    {
+      "speaker": "Keith Weiss",
+      "timestamp": "",
+      "text": "Excellent. Thank you guys for taking the question, and congratulations on a really solid Q3 print. It's great to see all these investments and all this innovation really starting to come to fruition within the numbers, and I think that's important in getting investors more confident in the stock. I think another sort of important part, and I think, Mike, you do a good job of this, is helping people better understand how."
+    },
+    {
+      "speaker": "Keith Weiss",
+      "timestamp": "",
+      "text": "The existing software that Atlassian brings to the equation plus AI brings a better result. There was one line in the shareholder letter that I thought was really interesting. When you're talking about the Teamwork Graph and how it makes the AI investments not just smarter, and we've been talking a lot about context and how it makes the AI better, but you're also talking about cheaper and more valuable. One, I was hoping you could dig into that and how the Teamwork Graph and the broader system lowers the cost of these AI investments, particularly as we're hearing more and more pushback on these credit costs really starting to rise and the token costs starting to get really big."
+    },
+    {
+      "speaker": "Keith Weiss",
+      "timestamp": "",
+      "text": "Maybe as a follow-up, for James, again, in the shareholder letter, you'd mentioned data center outperformance driven by some pull forward of some deals from future quarters. Any kind of view you could give us into what that means for FY 2027 and what we should be expecting from data center in the year ahead? Thank you, guys."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "Hey, Keith. Sure. Thanks for the question. Not what I expected to start, but a great question. Very savvy, as I would expect from you. Look, the Teamwork Graph and the Atlassian platform is certainly delivering amazing results to customers. You can see that customers using Rovo are growing their ARR at twice the rate of non-Rovo customers. Their credit usage continues to grow strongly, with strong results of over 20% month-over-month. They're upgrading the Teamwork Collection to get more of those credits included in their in the base offering, but also using many more agents, right? That agent usage is, I think, what you're referring to."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "Whether that agent usage are Rovo agents or whether they're other platforms agents that are accessing Atlassian's context through the Teamwork Graph, that usage is increasing markedly. That's the compounding effect of intelligence for customers as models continue to get better. To really accelerate a business, the intelligence compounding is only one aspect. What you also need is the context. That is your knowledge, your work and projects and goals, understanding of your people, so your org chart, their skills and everything else, as well as knowledge of the code. We have a lot of huge announcements coming up next week at Team '26 around this area. What you're seeing in the Teamwork Graph is the world's best context graph across all aspects of the business."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "Whether that's a service team, a marketing team, a technology team, or a business team, bringing that context to bear in all of those AI surfaces is what's the most important. When we say it makes it better, faster, and cheaper, why is that? Well, we have a lot of statistics and proof points that not only do you get higher quality AI answers because of our search, the Teamwork Graph, everything put together in the knowledge that we have about your business, but you also get cheaper answers. Those are cheaper answers because you use far less tokens to get to an answer in the same amount of time, and fundamentally using less tokens reduces your cost of AI or allows you to do far more AI investment, whichever way you look at it. Customers are seeing that."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "You're seeing that in their usage, and it's then showing up in our, in our financial results. James, did you want to follow on with the second half?"
+    },
+    {
+      "speaker": "James Chuong",
+      "timestamp": "",
+      "text": "Yeah. Keith, thanks for the question. On the data center side, you know, the Q3 revenue beat, as we mentioned, was primarily driven by recognizing greater than expected upfront term license revenue within that quarter. You know, since our announcement of the data center end of life back in September, you know, we've had a couple quarters now to really better understand some of the signals that we're seeing from our customers in terms of their buying behaviors, especially with Q3 being the largest expiry base for us. Let me unpack that a little bit more for us here. First, I would say that the migration to the Cloud is on track and continues as expected. Really pleased with what we're seeing there."
+    },
+    {
+      "speaker": "James Chuong",
+      "timestamp": "",
+      "text": "We still expect that to contribute mid to high single digits on Cloud growth. Second is that the retention rates on our Data Center business remain incredibly robust, in fact, actually outperforming our expectations in the quarter. Third, for some of our largest customers, you know, with more complex migrations, they remain committed to transitioning to the Cloud, but it's gonna be a multi-year journey for them. They've got a lot of deep customizations, change management. You know, it's gonna take these customers time. Often, many of these have tens of thousands of users, some with over 100,000 users. This category of customers, we saw a pull forward of purchasing and expansion activity into Q3 from future periods."
+    },
+    {
+      "speaker": "James Chuong",
+      "timestamp": "",
+      "text": "We also had a pricing change in March that further catalyzed this dynamic. As a result, you know, that drove greater than expected upfront term license revenue recognized in the quarter. In fact, relative to our expectations for Q3, we recognized approximately $50 million more in upfront term license revenue. You know, that's some of the trends that we've been seeing since our announcement of end of life back in September, but more pronounced in Q3 given the size of the expiry base and the pricing catalyst that I mentioned. Maybe lastly, the cohort of DC customers that are actively planning and transitioning to the Cloud, you know, we're seeing these customers moderate their seat expansion versus historical trends we've seen."
+    },
+    {
+      "speaker": "James Chuong",
+      "timestamp": "",
+      "text": "Again, I'll mention that retention rates remain incredibly high, but now expecting a more muted level of Data Center expansion from these customers going forward as they prep to move to the Cloud. You know, we're still seeing really nice uplift when customers move from DC to Cloud. Net-net, you know, what we're seeing is that our largest strategic customers continue to deepen their commitment to Atlassian, whether that's on DC or Cloud. We're working hard to meet them where they are and help them accelerate that transition so they can unlock all the AI and agentic capabilities in the Cloud. That gives you a little bit of color there, Keith."
+    },
+    {
+      "speaker": "James Chuong",
+      "timestamp": "",
+      "text": "You know, maybe I'll just share that with these dynamics sort of playing out across the year on Data Center, with Q4 yet to play out, where revenue rec is being pulled into FY 2026 from FY 2027. You know, we recognize that there's lumpiness in that pull forward effect in Data Center and having the timing of that does impact the timing of reported revenue, RPO, and CRPO. Internally, of course, you know, we look at a variety of metrics to performance manage our business, including a really healthy ARR. Next week, you know, we're gonna be holding that investor forum at our Team '26 conference."
+    },
+    {
+      "speaker": "James Chuong",
+      "timestamp": "",
+      "text": "To help guide investors through the revenue recognition timing dynamics on the Data Center side, we'll look to enhance our disclosures and share historical subscription ARR, which will help normalize some of those timing effects and help everyone better understand the underlying strength of the overall business. All up, feel really good about our execution, the runway that we still have ahead of us. More to share next week at team event and the investor forum."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "Your next question comes from Arjun Bhatia from William Blair. Please go ahead."
+    },
+    {
+      "speaker": "Arjun Bhatia",
+      "timestamp": "",
+      "text": "Hey, guys. Sorry about that. Congrats on the strong quarter here. I was curious on just Rovo, how you're thinking about positioning that against some of the third-party agents. It seems like, you know, you're having a lot of success in your existing customer base. I'm curious, you know, are customers evaluating other agents against Rovo, or is this sort of an easy add-on given how integrated it is into the rest of the platform with Jira and Confluence and JSM and the rest of the suite?"
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "Thanks, Arjun. I can take that one. Look, there are a lot of places that customers can access Rovo, is maybe the simplest way to phrase it. Think of Rovo as the AI part of the Atlassian platform that shows up in all of our surfaces. Whether those surfaces are on the Atlassian platform inside of Jira or Confluence, in our chat app, on the mobile, on the desktop, or whether those surfaces are in other agent platforms, right? Be that from Google, Salesforce, or any of the foundation model vendors. Like, we wanna make sure that Atlassian's workflows, processes, the Teamwork Graphs show up wherever is most relevant for the customer."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "That has required us for a number of years to bush bash through a huge amount of R&D work, really hard R&D work, to make sure that our context graph in the Teamwork Graph is the best out there. It has the most amount of context about your organization. It's the most deeply connected. We do the inference upfront to make sure that you get those better, cheaper, and faster results that we talked about. Better quality answers at lower cost that run your agents faster is an amazing offering to customers, they're realizing that. Whether or not that happens on the Atlassian platform or off the Atlassian platform, what we wanna make sure is that the customers see value in the platform overall."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "There is no doubt that agents existing in native contexts in our automation frameworks, if you have a huge amount of business processes running through Jira or the Service Collection, the agents that are natively integrated have the largest access to that platform. And they, you know, they're right in the sidebar, they appear in the Jira UI. That's a huge advantage. At the same time, we've shipped a whole series of features that allow third-party agents from Gamma and Canva to Cursor and Claude Code. In each of our different types of teams, we wanna make sure that third-party agents also surface in Atlassian's contexts, whether that's on a Confluence whiteboard, whether that's in a Jira work item, but they all use the Teamwork Graph at the core. Customers are really seeing that."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "We certainly get evaluated against other platforms. I'll tell you that customer reaction is amazing. We've done a phenomenal amount of R&D to give you great quality answers. We see that in the increasing usage of our Rovo platform on and off Atlassian, both of which benefit us. You can see that in the customers increasing their seats and expansion rates as well as using our AI technology. All AI is not built equal. We build fantastic AI, and we get it into the customer's hands. That's what's most important."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "Your next question comes from Gregg Moskowitz from Mizuho. Please go ahead, Gregg."
+    },
+    {
+      "speaker": "Gregg Moskowitz",
+      "timestamp": "",
+      "text": "Thank you, James. Welcome to Atlassian. Mike, you may recall my high level of frustration one quarter ago when, you know, after I thought it was a pretty good quarter of acceleration, your shares proceeded to go materially lower, continued to go materially lower. I don't want to minimize that there's a lot more work to be done, but clearly this is an impressive result. My question relates to a comment in the shareholder letter that strong seat expansion in Jira was a key driver of the Cloud revenue acceleration this quarter. You know, given that there's so much fear about meaningful seat compression at Atlassian being on the horizon, can you unpack the drivers of the seat growth for us? Secondly, is this a dynamic that you think can be durable?"
+    },
+    {
+      "speaker": "James Chuong",
+      "timestamp": "",
+      "text": "Great. Thanks for the question on that. You know, on the Cloud side, again, saw strong performance re-accelerating to 29% year-over-year there. Maybe I'll start with the fact that, you know, DC migrations, again, to the Cloud were in line with our expectations and not the real sort of contributor to that $50 million B on the print. You know, it's progressing well, we still expect that to contribute that mid to single-high digits growth to Cloud, like we mentioned. The real two primary drivers that we talked about on the outperformance was really that cross-sell and seat expansion. On the cross-sell side, you know, we saw outperformance in our collections business across Service Collection and in particular Teamwork Collection, where you've got Jira and Confluence, Loom and Rovo."
+    },
+    {
+      "speaker": "James Chuong",
+      "timestamp": "",
+      "text": "Just keep in mind that right now, Teamwork Collection is really the best vehicle for our customers to buy and unlock AI and all the agent capabilities across the Atlassian platform, right? Customers are upgrading to TWC because of the increased AI credits. We're giving 10x more credits on Rovo versus the standalone subscription, and I'm sure Mike can touch a little bit more on some of the progress that we're seeing there. Importantly, the other driver here is that we're seeing that growth in TWC while also seeing continued seat expansion in our core Jira standalone offering, right? I think that really speaks to how, you know, in an AI-driven agented world, Jira and the Atlassian platform really remain core to enabling customers to manage their workflows and collaboration to fully unlock that value of AI."
+    },
+    {
+      "speaker": "James Chuong",
+      "timestamp": "",
+      "text": "Whether it's TWC or standalone Jira offerings, you know, we're launching a ton of new value, and that's really enabling our customers to deploy agents to do the work, to capture that agent activity alongside work history with full permissions and audit trails and admin governance. There's a lot of great traction here, as you can see in our Q3 prints."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "Gregg, thanks for that and calling it out. I hope we've been very consistent on our views in that world. We are not seeing any signal of seat compression from customers. If anything, we are seeing the opposite. We are seeing strong expansion numbers, strong cross-sell numbers between collections, strong usage of AI and strong commitment to the Atlassian platform. Many competitive wins, a huge amount of consolidation happening into the Teamwork Collection. We have a lot of green lights in a lot of different places. Summarily, you can see that, you know, our NRR maintained north of 120 and even ticked up again for I think a third or fourth quarter in a row. We have a lot of reasons why that is."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "Firstly, I would go to high R&D investment and just great quality software, right? That does matter. It always gets ignored in a lot of contexts. No, wrong choice of words. In a lot of quarters. We build amazing applications that deliver great value for our customers. Secondly, the context we have in the Teamwork Graph and the critical business processes continue with AI to blur the boundaries between teams and between roles. That means our platform and our offering between service teams on one side, that connect to finance and HR, marketing, and in through off teams to technology teams with business teams and leadership teams. The same context across all of those teams allows us to expand into those non-technical roles at a increasing rate, right?"
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "Which shows why we are getting that seat expansion in different collections, in different areas and just the continued strength in our business. Fundamentally, customers are opting for more and more workflows on the Atlassian platform."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "Your next question comes from Brent Thill from Jefferies. Please go ahead."
+    },
+    {
+      "speaker": "Brent Thill",
+      "timestamp": "",
+      "text": "Mike, you called out the largest competitive replacements. I think, I don't know if you've seen or just you were mentioning that. What are you seeing? What's driving this now where you're seeing that increasing rate?"
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "Thanks, Brent. Yes, we had a great quarter for competitive displacements, especially in the Service Collection. We continue to be incredibly strong in the mid-market area. As you can see from many years of investment in the enterprise pillars of our business, we are starting to grow really strongly in the enterprise and strategic segments across service management in particular. That's not just in ITSM, although in ITSM we are growing really strongly. It is in broader employee service management. We're seeing that we gave the statistic now 75% of the Fortune 500 use the Service Collection. 60% of Service Collection customers use us outside of IT, so in HR, in marketing and other areas. This is just a fantastic example and why we're getting those competitive displacements."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "It was our largest quarter ever for those. It's because, again, I would go to the quality of the software. The speed with which you can get up and running on the Service Collection continues to be a strength. The high level of user experience quality continues to be a strength. The comprehensiveness of our data and the Teamwork Graph and bringing that to bear in Service Collection fundamentally allows you to operate those services cheaper, quicker, better answers because we have access to a better knowledge graph across your organization. Our AI continues to win every which way. We're incredibly AI forward. It's one of the largest areas of usage of agents in automations and automated workflows because it allows those service teams to run more quickly."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "We're only just getting started in customer service, and had a great quarter in that area as well. Our asset management platform, again, assets moving into the platform as a whole, part of that overall Teamwork Graph. It's just an incredibly strong customer story. We really excited about how we keep taking share in that space. A $1 billion ARR is a great milestone. We thought it was worth celebrating. That's just a fantastic milestone for that business while continuing to grow incredibly fast."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "Your next question comes from Allan Verkhovski from BTIG. Please go ahead."
+    },
+    {
+      "speaker": "Allan Verkhovski",
+      "timestamp": "",
+      "text": "Hey there. Thanks for taking the question. Mike, it's great to see the AI momentum here. I'd be curious, like, if you could share what drove the decision to announce the data collection changes you're making, and what are you looking forward to from a product capability perspective on the other side of this? Thanks."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "Thanks, Allan. Look, Atlassian continues to be incredibly driven by its values and its long-term philosophy. I say that because, our data collection, the largest part of that is clarifying exactly how it is that we use customer data, what the data is in the different segments. I think we have an absolutely world-class policy there. We are as clear as any vendor out there about what the different categories of data are, where they are used, what the benefit is to the customer for that, and what the customer's option sets and other things are. Think of it as broadly a large clarification of what it is that happens at different points and the value that's delivered to the customer from those. The increasing usage of AI allows us to build ever more powerful features."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "We are seeing a lot of customers. If you look at the DX business, for example, one of the greatest advantages is being able to see how my engineering organization compares to others in my industry, compares to others of my size, et cetera, and this requires a lot of those changes. Similarly, the usage of different types of SaaS tools is how we build the Teamwork Graph. It's all about that open company, no bullshit, being very clear with customers what it is, what the advantages and trades are. We've had, I would say, a really positive customer relationship and customer response because we put trust and openness at the core of that relationship and explaining to them what they get from that."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "Those usage patterns of customers are incredibly important to building fantastic software, which is our highest level goal."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "Your next question comes from Raimo Lenschow from Barclays. Please go ahead."
+    },
+    {
+      "speaker": "Raimo Lenschow",
+      "timestamp": "",
+      "text": "Perfect. Thank you. In your letter, you talk a lot about momentum in ITSM. Can you talk a little bit about what you're seeing there, what's driving it, and you know, how scaled up are customers? Like, you know, how meaningful is this for you? Thank you."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "Sure, Raimo. We are seeing great momentum in the Service Collection. As I mentioned earlier, celebrating the milestone of passing $1 billion in ARR. We try in the shareholder letters to put a different focus each quarter. Last quarter, you saw us talking about the Teamwork Collection when we passed 1 million seats and 1,000 customers less than six months into that offering, showing the momentum in that area. That continues. This quarter, we've chosen to focus on the Service Collection because of the milestone that it passed, which is a great milestone. The strength we're seeing is across the regions. We had a great quarter in EMEA, in the business, but also in the Service Collection."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "A lot of large wins in that Europe, Middle East, and Asia region of increasing strategic customers and enterprise-level customers. We are seeing a big strength, as we've mentioned, in non-IT use cases as well in the Service Collection. That blurring of roles is really, really important to understand in the Atlassian platform and important to business. As you're having less, one tool for the IT team, one tool for the employees, one tool for the HR team, our ability to connect the teams in an organization is really powerful as your organization becomes increasingly service driven."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "Lastly, as I mentioned, we have a huge amount of AI features that are delivering real value, from AIOps in the IT area to be able to diagnose and fix problems more quickly, all the way through to how you can use Rovo as a broad platform, and our increasing adoption by customers of our MCP servers and our CLI command line interfaces. We'll talk a lot more about this next week, especially in the Service Collection, you're seeing that enabling customers to get access to the context graph that's built in their service offerings, which lets them just get, again, fantastic results, a better value proposition for the customer, and those service parts of the business execute more quickly and at a lower cost."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "Your next question comes from Alex Zukin from Wolfe Research. Please go ahead."
+    },
+    {
+      "speaker": "Arsenije Matovic",
+      "timestamp": "",
+      "text": "Hi, this is Arsenije on for Alex. Mike, what is working best with customers when adopting Service and Teamwork Collections that's kind of driving that stronger cross-sell growth contribution in Cloud? Brief follow-up, James. I think you mentioned it earlier, when we're thinking about next year and the DC revenue growth decel comment, do you think we should get more color on how DC ARR is trending or clarify whether we'll get any DC ARR figure exiting the year to better understand core growth when we kinda lap some of these tougher comparison periods next year? Thanks."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "Thanks, Arsenije. What is working best? Good question. It's all working really well. I think I've covered our Teamwork Graph as a whole and the data we have. The speed of adoption and user experience. Again, we have customers that have 500+ different service desks running around their organization, for example. The ability to get new service desks up and running with all of the data from your organization to create incredibly efficient offerings for your finance team, for your operations and workplace teams, for your HR teams, that is going really well. It's because of our investment in user experience overall. We continue to go really strongly in the HRSM space, so in service management around HR and other business functions, that continues to be a source of strength for the Service Collection."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "Our traditional connectivity between the dev team and the IT team, between your technology teams and your business teams, has always been a source of strength for historically for Jira Service Management. We've seen that continue to deepen and improve with the Service Collection because both of those two teams are getting more and more AI-driven. That AI-driven nature of things and our ability to connect different teams across the organization with a single context graph, with a single AI offering, and take that offering out to all of the other products that a customer uses, makes all of those service-driven parts of their business just quicker to operate and faster to run. I would say we're seeing strength across the board. Lastly, our newest addition to the Service Collection in Customer Service Management."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "Look, internally, we're having huge success there, right? Again, we gave the statistic that more than 70% AI resolution rates are being hit internally across hundreds of thousands of conversations in our internal adoption of customer service management. It lets us run our business more efficiently, and customers are seeing that too as the customer service offering continues to roll out with fantastic set of features."
+    },
+    {
+      "speaker": "James Chuong",
+      "timestamp": "",
+      "text": "Yeah, Arsenije, thanks for the question. You know, as it relates to FY 2027, right now it's too early to discuss any guide at this point. We'll of course, you know, provide that guidance out in August at our Q4 earnings. But as it relates to ARR, as I mentioned a little bit earlier, right? We're seeing that lumpiness in the revenue recognition in the year on the Data Center side. Next week we're gonna be able to share some of the historical subscription ARR across the overall business to help really smooth out those timing effects that we talked about. I think that'll give folks a better understanding of the underlying strength in the business."
+    },
+    {
+      "speaker": "James Chuong",
+      "timestamp": "",
+      "text": "Maybe just as a reminder too, you know, for this data center and the life announcement, right? We began to recognize greater upfront term license revenue, that results in greater upfront revenue recognition in the period. There's a corresponding drawdown in RPO and in particular CRPO as well. You know, it's worth, you know, sharing then that when we normalize for the impact of ASC 606 here, our RPO would've been north of 40% in the quarter in Q3, and our CRPO would've been north of 30% year-over-year in Q3. Much more in line with some of the recent trends that we're seeing, underscores the strength in the backlog that we're continuing to build."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "Your next question comes from Fatima Boolani from Citi. Please go ahead."
+    },
+    {
+      "speaker": "Fatima Boolani",
+      "timestamp": "",
+      "text": "Good afternoon. Thank you for taking my questions. Mike, I wanted to ask you about thoughts on diversifying some of your pricing strategies. Collections has been a huge step in the direction of consolidating adjacent capabilities into more intuitive selling motions? A lot of your peers in the broader enterprise software complex are sort of investigating or testing the path of usage-based pricing. I'm curious what you think about that approach, and particularly how pertinent it could be for the Service Collection, for instance. To the extent you're A/B testing any of this with certain products, I'd love the perspective. Then a quick one for James. There has been a tremendous amount of focus on driving efficiencies in the business and especially leveraging AI to help Atlassian become even more efficient."
+    },
+    {
+      "speaker": "Fatima Boolani",
+      "timestamp": "",
+      "text": "Was curious about what type of qualitative learnings and quantifiable yields you're seeing as you more assertively move down the path of deploying AI internally. Thank you."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "Hi, Fatima. I'll take the first one on pricing, and James can talk about efficiencies next. Although efficiency is incredibly important to us. As to our pricing broadly, our philosophy has always been to meet customers where they're at. Let me start there. Customers in general like the way we price our offerings, and we wish to continue to be customer-led and meeting them where they are. The largest amount of value we deliver today is through the seat-based pricing model. The collections have been a major transformation in how we do that, for sure. In that you are getting a broader amount of value that you can see there. We talk about that, you know, when people move to the Teamwork Collection, which we're seeing great momentum in."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "We talked about the cross-sell and the expansion earlier. The Teamwork Collection gives you an amazing amount of software value across Jira, Confluence, and Loom and all of the platform apps, the goals, the projects, et cetera. gives you access to Rovo, but it gives you an increased Rovo credit allowance. And we see that in the Teamwork Collection customers using more than twice as many Rovo credits per user, right? We want to make sure that we're building amazing features that use those Rovo credits, that the customers see value in using those credits. They also have more than twice as many active agents. The Teamwork Collection comes with a larger pool of credits, which customers are then using increasingly."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "That's, you know, Rovo driving customers to have twice the ARR growth rate of non-Rovo customers, which is all a good set of long-term lines, directions, and errors for us. We have a series of consumption or usage-based pricing meters now. I think we're over 10 or 12 meters from assets to customer service, index objects, extra Rovo credits. Forge has a series of different offerings for extensibility, Bitbucket pipeline. I would say that we continue to be customer-led in how we deal with that pricing. As long as customers continue to consume our AI offerings and continue to grow, which I believe they will, we have a great track record of doing that. Growing that token usage of 20% quarter on 20% month-over-month is an incredible achievement by our team."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "It shows the value of the offerings that we are delivering. Fundamentally, it's about selling the outcome to the customer, them understanding the value that they're getting from our software. You're seeing that in them broadly increasing the length of their commitment to the Atlassian platform and increasing their overall dollar-based commitment. You can see that in our strong RPO growth, as James pointed out. You know, normalizing for the ascend revenue recognition, north of 40%, that is customers voting for the long term for the Atlassian platform with our pricing models continuing to adapt to their needs underneath that. I feel we are really strongly placed for that. James, I'll leave it to you to talk about the second half of the question."
+    },
+    {
+      "speaker": "James Chuong",
+      "timestamp": "",
+      "text": "Yeah, Fatima, you know, as it relates to margin expansion, right? I think we're just in this unique opportunity right now where we're seeing a lot of demand signals, and we're gonna continue to reinvest, I think on the AI side, on enterprise sales side, where we see a lot of opportunity. At the same time, we're gonna do that while balancing a very disciplined fiscal approach. You saw that in the shareholder letter, where we elevated driving durable profitable growth as a strategic priority for the company alongside AI, enterprise, and system of work. Again, that margin expansion is gonna come twofold through those types of efficiencies, as well as continue to drive value for our customers on that top line."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "Fatima, if I might just add on that. Look, we're seeing an amazing result of investments in the business, right? James talked about durable, profitable growth. That's been a long-term Atlassian aim. We've run an incredibly capital-efficient business for our entire history. And I appreciate you calling out, we've had some great quarters about as we look to continue the durable, profitable growth story as one of our strategic priorities. At the same time, we've had a number of wins across the R&D investments that we've had in terms of engineering at scale."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "You can see that in our continued strength in our COGS numbers, in the cost of operating our platform, which is an incredible achievement because that platform is operating with larger customers that are also expanding at larger and larger scale than ever before, and we are running the platform at a cheaper and cheaper rate, without any reliability hiccups. That's a huge credit to our engineering team and the work that we've done across every level of the stack to continue to build that durable, profitable business. Every reason that we should do that in the future, and we're seeing that in the fantastic results that we have. Just wanted to add on this."
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "There's an R&D story, there's a finance story, and we feel really strong about that in terms of our durable, profitable future."
+    },
+    {
+      "speaker": "Operator",
+      "timestamp": "",
+      "text": "Thank you. That's all the questions we have time for today. I will now turn the call over to Mike for some closing remarks. Mike?"
+    },
+    {
+      "speaker": "Mike Cannon-Brookes",
+      "timestamp": "",
+      "text": "Thank you, all, everyone for joining us on the call today. Thanks to the Atlassian team for a fantastic quarter. As always, to all of you, we appreciate the thoughtful questions. I believe one of our longtime friends, Keith Weiss, is retiring after this call. Keith, thank you very much for all the questions over time, in person and virtually. We appreciate your thoughtful questions, especially today. To everyone else, hopefully, Keith, we hope you'll join us next week in Anaheim for Team '26. We have a series of incredibly exciting announcements, as well as an investor forum. Whether we see you online or in person in Anaheim, we'll see you next week. Otherwise, hope you have a kick-ass weekend."
+    }
+  ],
+  "totalTurns": 70
+}
